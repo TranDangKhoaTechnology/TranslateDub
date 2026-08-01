@@ -59,6 +59,7 @@ TranslateDub là một extension trình duyệt (Manifest V3) cho phép bạn **
 | **Floating Ball** | Quả bóng nổi để truy cập nhanh menu chức năng trên mọi trang. |
 | **Sidebar / Subtitle Editor** | Bảng điều khiển bên phải để chỉnh phụ đề, xem trạng thái, chỉnh sửa. |
 | **Nhận dạng giọng nói (ASR)** | Với các website hỗ trợ AI subtitle (ví dụ Bilibili), lấy phụ đề ASR tự động. |
+| **Nhận dạng tiếng nói bằng mic** | Video không có phụ đề → nhận dạng tiếng nói trực tiếp bằng Web Speech API (mic thu âm thanh từ loa), tạo phụ đề rồi dịch + lồng tiếng. |
 | **Điều khiển âm thanh** | Giảm/tắt âm lượng gốc khi lồng tiếng, audio ducking, trộn nhạc nền. |
 | **Hỗ trợ đa nền tảng** | Hoạt động trên hàng chục website video phổ biến (xem mục 3). |
 | **Playback Rate** | Đồng bộ tốc độ đọc theo tốc độ phát video. |
@@ -361,7 +362,7 @@ Extension yêu cầu các quyền sau trong `manifest.json`:
 - **Lồng tiếng không phải giọng AI tự nhiên nhất** — Google TTS fallback chỉ có 1 giọng mỗi ngôn ngữ (nên các giọng Azure bị lỗi sẽ nghe giống nhau).
 - **Giọng bị lọc theo giới tính** — để chọn giọng nữ (Hoài My), phải đổi giới tính sang Nữ trong cài đặt.
 - **Không hỗ trợ video live** trên một số nền tảng.
-- **Nhận dạng âm thanh (STT) chỉ qua ASR có sẵn** của website (Bilibili AI subtitle) — chưa có STT nội bộ cho video không có phụ đề.
+- **Nhận dạng tiếng nói bằng mic (STT)** dùng Web Speech API của Chrome — yêu cầu bật loa + cho phép mic, video phải phát qua loa để mic thu âm thanh. Chất lượng phụ thuộc loa/mic/phòng. Không hỗ trợ pipe audio trực tiếp từ video (giới hạn của Chrome Web Speech API).
 
 ---
 

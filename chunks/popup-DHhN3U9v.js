@@ -1986,9 +1986,7 @@ const Fa = {
                 C = _(() => u.value === pe ? _e : u.value === "free" ? Re : Ge),
                 T = _(() => u.value === pe ? Ne : Ye);
             function w() {
-                const r = u.value === pe,
-                    h = u.value === "azure" && !o.value;
-                return r || h ? (u.value = "free", U.value = c.t("free") || "Free", a("update:voiceType", u.value), !0) : !1
+                return !1
             }
             O(() => l.voiceType, r => {
                 if (r && r !== u.value) {
@@ -2131,12 +2129,7 @@ const Fa = {
                 })
             });
             async function R() {
-                try {
-                    await j.getPopupInfo()
-                } catch (r) {
-                    console.warn("memberFree 切换前会员校验失败，按非会员处理:", r)
-                }
-                return j.computed.isMember ? !0 : (M.value = !0, !1)
+                return !0
             }
             const X = () => {
                     var h, $;

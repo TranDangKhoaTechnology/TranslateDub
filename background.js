@@ -32609,10 +32609,12 @@ ${a.stack}` : t, fi)
         });
         ry(), Pf(), _f(), kf(), Uf(), zf(), Gf(), Vf(), jf(), $f(), Wf(), Jf(), ah(), ih(), uh(), sh(), ch(), gh(), fh(), yh(), ny(), $y(), nA(), rA(), sA(), cA(), gA(), pA(), JC(), aS(ee), rS(ee), ee.commands && ee.commands.onCommand.addListener(async (d, g) => {
             d === "swap-volume-settings" && await Pc.swapVolumeSettings(g.id)
-        }), ee.contextMenus && (ee.contextMenus.create({
-            id: "youtube-dubbing-start",
-            title: ep.t("contentMenusTitle"),
-            contexts: ["all"]
+        }), ee.contextMenus && (ee.contextMenus.removeAll(() => {
+            ee.contextMenus.create({
+                id: "youtube-dubbing-start",
+                title: ep.t("contentMenusTitle"),
+                contexts: ["all"]
+            });
         }), ee.contextMenus.onClicked.addListener(async function(d, g) {
             d.menuItemId === "youtube-dubbing-start" && await ee.tabs.sendMessage(g.id, Ii({
                 type: "runOnClick",

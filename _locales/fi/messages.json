@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Tilin saldo:"
+   },
+   "advancedSettings": {
+      "message": "Lisäasetukset"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "AI-tekstitykset eivät ole vielä saatavilla. Laajennus on aloittanut niiden tunnistamisen taustalla. Kuultuasi ensimmäisen dubatun lauseen voit sulkea sivun ja odottaa sähköposti-ilmoitusta; kun se on valmis, dubbaus-painike muuttuu vihreäksi ja käännöksen laatu paranee."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS on vain jäsenille. Päivitä avataksesi korkealaatuiset Azure-äänet."
+   },
+   "back": {
+      "message": "Takaisin"
+   },
+   "backToSettings": {
+      "message": "Takaisin asetuksiin"
+   },
+   "backToVideoLibrary": {
+      "message": "Takaisin videokirjastoon"
+   },
+   "backgroundAudio": {
+      "message": "Taustaääni"
+   },
+   "balanceRequiredText": {
+      "message": "Tilisi saldo ei riitä. Lataa saldoa käyttääksesi tätä ominaisuutta"
+   },
+   "balanceRequiredTitle": {
+      "message": "Saldo vaaditaan"
+   },
+   "balanceRunningLow": {
+      "message": "Saldosi on loppumassa. Huonon katselukokemuksen välttämiseksi suosittelemme lataamaan saldoa etukäteen."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Määritä pikanäppäimet selaimen laajennusasetuksista"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Ohitettu"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Poista kaikki käytöstä"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} sisäänrakennettua termiä"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Aihealue ei ole käytössä"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Vastaavia aihealueita ei löytynyt."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Hae aihealueita"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} aihealuetta"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Sisäänrakennetut aihealuekohtaiset sanastot"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Nykyiselle kohdekielelle ei ole sisäänrakennettua sanastoa. Voit silti lisätä omia termejä."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Ota kaikki käyttöön"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} / {total} käytössä"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Hallitse aihealueita"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "Ota kohdekielen sisäänrakennetun sanaston aihealueita käyttöön tai poista niitä käytöstä."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Hallitse sisäänrakennettuja aihealuekohtaisia sanastoja"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Sisäänrakennettu sääntö"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} sisäänrakennettua sääntöä"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Ota lähdetekstin korjausten sisäänrakennetut aihealueet käyttöön tai poista ne käytöstä."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Hallitse lähdetekstin korjausten sisäänrakennettuja aihealueita"
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "cancelButton": {
+      "message": "Peruuta"
+   },
+   "completing": {
+      "message": "Viimeistellään"
+   },
+   "confirmButton": {
+      "message": "Jatka ja tallenna"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Haluatko varmasti poistaa tämän puhujan?"
+   },
+   "contentMenusTitle": {
+      "message": "Aloita dubbaustoisto"
+   },
+   "corsNotSupported": {
+      "message": "Tämä verkkosivusto ei salli mediatiedostojen lataamista. Universaali dubbing ei ole tuettu."
+   },
+   "debugInfo": {
+      "message": "Virheenkorjaustiedot"
+   },
+   "delete": {
+      "message": "Poista"
+   },
+   "deleteSpeaker": {
+      "message": "Poista"
+   },
+   "description": {
+      "message": "Käännä ja dubbaa videoita yhdellä klikkauksella – ymmärrä vieraat kielet välittömästi"
+   },
+   "disableGlobally": {
+      "message": "Poista käytöstä globaalisti"
+   },
+   "disabledSitesActions": {
+      "message": "Toiminnot"
+   },
+   "disabledSitesAdd": {
+      "message": "Lisää"
+   },
+   "disabledSitesDelete": {
+      "message": "Poista"
+   },
+   "disabledSitesDescription": {
+      "message": "Kelluva painike ei näy näillä sivustoilla. Lisää tai poista sivustoja täällä."
+   },
+   "disabledSitesDomain": {
+      "message": "Verkkotunnus"
+   },
+   "disabledSitesEmpty": {
+      "message": "Ei käytöstä poistettuja sivustoja"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Syötä verkkotunnus, esim. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Estetyt sivut"
+   },
+   "disabledSitesTitle": {
+      "message": "Estetyt sivustot"
+   },
+   "doNotClosePage": {
+      "message": "Älä sulje tai päivitä tätä sivua latauksen aikana, muuten lataus keskeytyy."
+   },
+   "doNotShowAgainLink": {
+      "message": "Älä näytä uudelleen"
+   },
+   "downloading": {
+      "message": "Ladataan"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Tätä videota ei ole vielä litteroitu. Klikkaa CC-painiketta Dropbox-videon alareunassa litteroidaksesi tekstitykset. Litteroinnin valmistuttua klikkaa laajennuksen dubbaus-painiketta kääntääksesi ja dubbataksesi."
+   },
+   "dropdownNoOptions": {
+      "message": "Ei vaihtoehtoja saatavilla"
+   },
+   "dropdownPlaceholder": {
+      "message": "Valitse"
+   },
+   "dropdownSearch": {
+      "message": "Hae..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Tällä sivulla ei ole tällä hetkellä käytettävissä olevaa videota tai ääntä. Odota, että video latautuu, ja yritä uudelleen tai päivitä sivu."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Jälkiäänitykseen sopivaa videota ei löytynyt"
+   },
+   "dubbingSettings": {
+      "message": "Dubbausasetukset"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Avataan Edge-laajennuksen pikanäppäinasetusten sivu"
+   },
+   "edit": {
+      "message": "Muokkaa"
+   },
+   "editSpeaker": {
+      "message": "Muokkaa"
+   },
+   "emailNotificationDescription": {
+      "message": "Ilmoita minulle sähköpostitse, kun tekstityksen tunnistus on valmis."
+   },
+   "emailNotificationLabel": {
+      "message": "Sähköposti-ilmoitukset"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "Tallennus epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "enterSpeakerName": {
+      "message": "Anna puhujan nimi"
+   },
+   "enterVoice": {
+      "message": "Anna äänen nimi"
+   },
+   "error": {
+      "message": "Virhe"
+   },
+   "female": {
+      "message": "Nainen"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Avataan Firefox-lisäosien sivu, aseta pikanäppäimet kohdasta Laajennukset ja teemat"
+   },
+   "free": {
+      "message": "ilmainen"
+   },
+   "freeForVip": {
+      "message": "Ilmainen VIP:lle"
+   },
+   "freeOptionTipText": {
+      "message": "Jos et halua ladata saldoa, voit valita ilmaisvaihtoehdon, "
+   },
+   "freeUserDailyLimit": {
+      "message": "Ilmaiskäyttäjät voivat katsoa enintään 5 videota päivässä laajennuksen kautta. Päivitä jäsenyyteen avataksesi rajoittamaton katseluoikeus."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Tässä videossa ei ole valmiita tekstityksiä. Tilaa laajennuksen jäsenyys tekstitysten tunnistusta varten ja nauti käännös- ja dubbausominaisuuksista."
+   },
+   "gender": {
+      "message": "Sukupuoli"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Tälle kielelle ei ole vielä omia termejä."
+   },
+   "glossaryCreateButton": {
+      "message": "Lisää oma termi"
+   },
+   "glossaryDescription": {
+      "message": "Määritä lähdetermeille kiinteät käännökset (esim. Stratagem). Omat termisi ohittavat sisäänrakennetun sanaston."
+   },
+   "glossaryEditTitle": {
+      "message": "Muokkaa omaa termiä"
+   },
+   "glossaryEditorDescription": {
+      "message": "Vain omia sanastotermejä voi lisätä, muokata, ottaa käyttöön tai poistaa."
+   },
+   "glossarySearchEmpty": {
+      "message": "Vastaavia termejä ei löytynyt."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Hae lähdetermejä"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Lähdeterm"
+   },
+   "glossarySourceTerm": {
+      "message": "Lähdeterm"
+   },
+   "glossaryTableTitle": {
+      "message": "Nykyisen kielen termit"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Vaadittu käännös"
+   },
+   "glossaryTargetTerm": {
+      "message": "Käännös"
+   },
+   "glossaryTitle": {
+      "message": "Sanasto"
+   },
+   "hideUntilNextVisit": {
+      "message": "Piilota seuraavaan vierailuun asti"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Videosisällön salauksen purkaminen epäonnistui. Salausavain saattaa olla väärä tai videomuoto ei ole yhteensopiva."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Tämän videon salausavaimen hakeminen epäonnistui. Video saattaa olla suojattu tai avainpalvelin ei ole käytettävissä."
+   },
+   "insufficientBalance": {
+      "message": "Riittämättömän saldon vuoksi palvelu on alennettu Google Translateksi. Käyttääksesi AI-käännöstä, lataa saldoa."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Saldosi ei riitä. Lataa saldoa ennen AI-käännöksen ja Azure TTS:n käyttöä. Jos et halua ladata saldoa, voit vaihtaa takaisin Google Translateen ja ilmaisiin äänityyppeihin."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Lataa jäsenyys ja saldo ennen AI-käännöksen ja Azure TTS:n käyttöä. Jos et halua ladata, voit myös valita Google Translaten ja ilmaiset äänityypit."
+   },
+   "insufficientMembership": {
+      "message": "Jäsenyytesi on vanhentunut. Lataa jäsenyys ennen AI-käännöksen ja Azure TTS:n käyttöä. Jos et halua ladata, voit myös valita Google Translaten ja ilmaiset äänityypit."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Toinen selainlaajennus estää tekstityspyyntöjen sieppauksen. Poista ristiriitaiset laajennukset käytöstä, päivitä sivu ja yritä uudelleen."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "Laajennusristiriita havaittu"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Ota alkuperäinen ääni käyttöön"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "Universaali dubbaus ei ole tuettu iOS-laitteilla. Käytä työpöytäselainta."
+   },
+   "liveStreamNotSupported": {
+      "message": "Suoratoistoja ei tueta universaalissa dubbingissa."
+   },
+   "liveVideoNotSupported": {
+      "message": "Suoria lähetyksiä ei tällä hetkellä tueta dubbauksessa"
+   },
+   "loading": {
+      "message": "ladataan"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Lisää alaotsikko"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Tekstityksen lisääminen epäonnistui."
+   },
+   "localPlayerAddVideo": {
+      "message": "Lisää video"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Videon lisääminen epäonnistui."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Kaikki tekstityslinkit poistettu."
+   },
+   "localPlayerAllVideos": {
+      "message": "Kaikki videot"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Hae ja hallitse jokaista tuotua videota."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Nouseva; napsauta vaihtaaksesi laskevaan"
+   },
+   "localPlayerAssociate": {
+      "message": "Linkin alaotsikko"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Linkitä tekstitys ja käytä sitä äänen jälkiäänitykseen"
+   },
+   "localPlayerAssociated": {
+      "message": "Linkitetty"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Linkitetty tämän kansion ulkopuolelle"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "Tekstityslinkki poistettu."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "Tekstityslinkki tallennettu."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Tekstitys linkitetty ja asetettu äänen jälkiäänitykseen."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Takaisin kansioihin"
+   },
+   "localPlayerClose": {
+      "message": "Sulje"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Nykyinen hakemisto"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Videodubbaus"
+   },
+   "localPlayerDelete": {
+      "message": "Poista"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Videon poistaminen epäonnistui."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Poista {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "Tämä poistaa video- ja tekstityslinkit paikallisesta kirjastosta. Levyllä olevia alkuperäisiä tiedostoja ei poisteta."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Poistetaanko tämä video?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "Laskeva; napsauta vaihtaaksesi nousevaan"
+   },
+   "localPlayerDropHint": {
+      "message": "Pudota videoita tai .srt/.vtt/.ass tekstitystiedostoja tähän"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Vapauta hiiri tuodaksesi tiedostoja"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "Äänen jälkiäänitys aloitettu"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Paikallisen äänen jälkiäänityksen käynnistäminen epäonnistui."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "Paikallinen äänikopiointi aloitettu."
+   },
+   "localPlayerEntryButton": {
+      "message": "Paikallisvideo"
+   },
+   "localPlayerFilterAll": {
+      "message": "Kaikki"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Ilman linkitettyjä tekstityksiä"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Linkitetty tekstitys"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Paikalliset videon pikatoiminnot"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Pääsy kansioon käytettävissä"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "Kansion avaaminen tallentaa tiedostokahvat, jotta pääsy voidaan palauttaa päivityksen jälkeen."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Tämä selain ei voi avata kansioita. Käytä Lisää video/Lisää tekstitys tilapäiseen tuontiin."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} liittyvää tekstitystä"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Toistettu viimeksi {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Viimeksi skannattu {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Kansion toiminnot"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "Poistettu {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Hae kansioita, polkuja tai tiedostoja"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} videoita"
+   },
+   "localPlayerFolders": {
+      "message": "Kansiot"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Selaa tuotua mediaa kansioiden mukaan."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Tällä paikallisella videolla ei ole linkitettyä tekstitystä. Ilmaiset käyttäjät eivät voi vielä käyttää taustatekstityksen tunnistusta paikallisissa videoissa. Päivitä jäsenyys käyttääksesi tekoälyn tekstityksen tunnistusta tai lataa tekstitystiedosto manuaalisesti ennen äänen jälkiäänityksen aloittamista."
+   },
+   "localPlayerImportComplete": {
+      "message": "Tuotu {videoCount} videota ja {subtitleCount} tekstitystä."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Aloita avaamalla kansio, lisäämällä videoita tai pudottamalla tiedostoja."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Paikallinen videokirjasto"
+   },
+   "localPlayerLibraryView": {
+      "message": "Kirjastonäkymä"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Vastasi {visibleCount} / yhteensä {totalCount} kansiota"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Vastaa {visibleCount} / yhteensä {totalCount} videota"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Alkuperäinen tekstitys"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Paikallinen videokirjasto / Teksti puheeksi"
+   },
+   "localPlayerNever": {
+      "message": "Ei koskaan"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Säädä kansion hakua ja yritä uudelleen."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Ei vastaavia kansioita"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Ei hallittavia tekstityksiä"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Säädä hakua, suodatinta tai lajittelua ja yritä uudelleen."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Ei vastaavia videoita"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Uusia tiedostoja ei löytynyt."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Ei linkitettyjä tekstityksiä"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Ladataanko tämä video tekoälyn tekstityksen tunnistusta varten? Latausta käytetään vain tekstityksen tunnistamiseen, video poistetaan heti tunnistamisen jälkeen ja sinulle ilmoitetaan sähköpostitse."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Tällä videolla ei ole tekstitystä"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Avaa kansio tai lisää videoita, jotta voit hallita tekstityslinkkejä ja paikallista äänikopiointia täällä."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Ei vielä paikallisia videoita"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Ei linkitetty"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Nyt pelataan {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Avaa kansio"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Kansion avaaminen epäonnistui."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Avaa kansio"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Avaa sivupalkki"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Sivupalkin avaaminen epäonnistui."
+   },
+   "localPlayerPageTitle": {
+      "message": "Paikallisvideo · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Toista video"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Tekstitys asetettu äänen jälkiäänitykseen."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Tämä tekstitys on jo liitetty kohteeseen \"{fromVideo}\". Jatkaminen poistaa yhteyden ja liittää sen kohteeseen \"{toVideo}\"."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Sidotaanko tämä tekstitys uudelleen?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Tekstityksen tunnistaminen"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Poista kaikkien tekstitysten linkitys"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Vain tämän videon tekstityslinkit poistetaan. Tekstitystiedoston tietueita ei poisteta."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Poistetaanko kaikkien tekstitysten linkitys?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Poista tekstityksen linkitys"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Kansion poistaminen kirjastosta epäonnistui."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "Tämä poistaa vain tämän kansion kirjastotietueet. Levyllä olevia alkuperäisiä tiedostoja ei poisteta."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Poistetaanko tämä kansio kirjastosta?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Poista kirjastosta"
+   },
+   "localPlayerRescanAll": {
+      "message": "Tarkista kaikki uudelleen"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Paikallisen kirjaston uudelleenskannaus epäonnistui."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Tätä kansiota ei voi skannata uudelleen, koska tallennettujen kansioiden käyttö ei ole käytettävissä."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Tarkista tämä kansio uudelleen"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "URL-osoitteessa määritetty video ei ole nykyisessä paikallisessa videokirjastossa."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Saman kansion tekstitykset {sameCount} · Linkitetty {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Skannaus valmis: lisätty {addedVideoCount} videota, {addedSubtitleCount} tekstitystä, päivitetty {updatedCount} tiedostoa."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Hae videoita tai tiedostopolkuja"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Valitse tähän tekstitykseen linkitettävä video"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Käytä tätä tekstitystä äänen jälkiäänitykseen"
+   },
+   "localPlayerSortDuration": {
+      "message": "Videon kesto"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Äskettäin toistetut videot"
+   },
+   "localPlayerSortName": {
+      "message": "Tiedoston nimi"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Aloita jälkiäänitys"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} linkitetty tekstitys"
+   },
+   "localPlayerSubtitles": {
+      "message": "Tekstitykset"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Tämä selain ei tue termiä File System Access API. Voit lisätä tilapäisesti videoita ja tekstityksiä."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Väliaikainen tuontitila"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Peruuta"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Teksti puheeksi - Kohdekieli"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Vie MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "Tekstityksen sisältö ei voi olla tyhjä"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Tallennus epäonnistui"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Sukupuoli"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Teksti puheeksi MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Teksti puheeksi MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Tallennetaan..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Manuaalinen syöttö"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Manuaalinen syöttö - Teksti puheeksi"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Kohdekieli"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Teksti puheeksi: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Teksti puheeksi"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Tälle valinnalle ei ole saatavilla ääntä."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Teksti puheeksi"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "Teksti on liian pitkä. Lyhennä sitä ja yritä uudelleen."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Ääni"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Äänityyppi"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "Luotu pikkukuvat {count} videolle."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Pikkukuvan luonti epäonnistui: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Yhteensä {count} kansiota"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Yhteensä {count} videota"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Lataus peruutettu."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Käytetään äänen jälkiäänitykseen"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "Poistettu {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Tämän videotiedoston käyttöoikeutta ei voi palauttaa. Lisää video uudelleen."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "Paikallista videotiedostoa ei voi lukea. Lisää video uudelleen."
+   },
+   "localPlayerVideoList": {
+      "message": "Videoluettelo"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "Videosoitin ei ole vielä valmis."
+   },
+   "login": {
+      "message": "Kirjaudu"
+   },
+   "loginAndUsePlugin": {
+      "message": "Klikkaa ensin laajennuksen kuvaketta kirjautuaksesi sisään, käytä sitten laajennusta dubbaustoistoon."
+   },
+   "logout": {
+      "message": "Kirjaudu ulos"
+   },
+   "lowBalanceText": {
+      "message": "Tilisi saldo on alle 1 $. Suosittelemme lataamaan saldoa pian palvelun keskeytyksettömän käytön varmistamiseksi"
+   },
+   "lowBalanceTitle": {
+      "message": "Matalan saldon hälytys"
+   },
+   "male": {
+      "message": "Mies"
+   },
+   "man": {
+      "message": "Mies"
+   },
+   "mediaSourceNotDetected": {
+      "message": "Videon lähdettä ei voitu tunnistaa. Tämä verkkosivusto ei ehkä ole tuettu."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Käytössä ovat nyt laajennuksen taustalla toimivan AI:n tunnistamat tekstitykset. Jos käännös vaikuttaa epätarkalta, vaihda tekstitysten prioriteetiksi alustan tekstitykset perusasetuksissa."
+   },
+   "memberFree": {
+      "message": "Ilmainen jäsenille"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Tämä äänityyppi on vain jäsenille. Päivitä käyttääksesi sitä ilmaiseksi."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Käytät dubbaamiseen nyt ilmaista äänityyppiä. Azure-äänet kuulostavat luonnollisemmilta; jäsenet voivat nyt käyttää Azurea rajattomasti ilman lisäkrediitin lataamista."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "Päättyy"
+   },
+   "membershipIcon": {
+      "message": "Jäsenyyskuvake"
+   },
+   "membershipRequired": {
+      "message": "Päivitä jäsenyyteen ennen OpenAI-käännöksen käyttöä."
+   },
+   "membershipRequiredForAI": {
+      "message": "Lataa jäsenyys ennen AI-käännöksen käyttöä. Jos et halua ladata, voit myös valita Google Translaten."
+   },
+   "membershipRequiredTitle": {
+      "message": "Jäsenyys vaaditaan"
+   },
+   "metadataNotFound": {
+      "message": "Videon metatietoja ei löytynyt, päivitä sivu ja yritä uudelleen"
+   },
+   "multiVideoNotSupported": {
+      "message": "Tällä sivulla on useita videoita. Universaali dubbing tukee vain yhden videon sivuja HLS-virtoja käytettäessä."
+   },
+   "musicVideoNotSupported": {
+      "message": "Tämä on musiikkivideo. Käännöstä ja jälkiäänitystä ei tueta."
+   },
+   "name": {
+      "message": "TranslateDub – Käännä ja dubbaa"
+   },
+   "noAudioTrackFound": {
+      "message": "Ääniraitaa ei havaittu. Tämä video näyttää olevan pelkkä video ilman ääntä, eikä sitä voi käyttää dubbaustunnistukseen."
+   },
+   "noSpeakers": {
+      "message": "Ei puhujia"
+   },
+   "noSubtitlesFound": {
+      "message": "Tässä videossa ei ole tekstityksiä, käännös ja dubbaus ei ole mahdollista"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Tekstityksiä ei ole saatavilla. Odota, että laajennus tunnistaa tämän videon tekstitykset. Saat sähköposti-ilmoituksen rekisteröityyn osoitteeseesi, kun tunnistus on valmis."
+   },
+   "notSupported": {
+      "message": "Ei tuettu"
+   },
+   "openBasicSettingsLink": {
+      "message": "Avaa perusasetukset"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Perus"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Ääntäminen"
+   },
+   "optionsNavSitesShort": {
+      "message": "Sivut"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Tekstit"
+   },
+   "originalAudio": {
+      "message": "Alkuääni"
+   },
+   "panelSummaryCollapse": {
+      "message": "Tiivistä"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Tiivistä kaikki"
+   },
+   "panelSummaryCopy": {
+      "message": "Kopioi"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Kopioitu"
+   },
+   "panelSummaryDesc": {
+      "message": "Käytä edistyneitä tekoälymalleja ymmärtääksesi videosisällön nopeasti"
+   },
+   "panelSummaryError": {
+      "message": "Yhteenvedon luominen epäonnistui, yritä uudelleen"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "Nykyistä videota ei voida tunnistaa, päivitä sivu ja yritä uudelleen"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "Videoyhteenveto on vain jäsenille tarkoitettu ominaisuus, tilaa käyttääksesi"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Tälle videolle ei ole tekstityksiä saatavilla, yhteenvetoa ei voi luoda"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "Yhteenvetopalvelu on tilapäisesti poissa käytöstä, yritä myöhemmin uudelleen"
+   },
+   "panelSummaryExpand": {
+      "message": "Laajenna"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Laajenna kaikki"
+   },
+   "panelSummaryGenerate": {
+      "message": "Luo yhteenveto"
+   },
+   "panelSummaryGenerating": {
+      "message": "Luodaan..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Tälle videolle ei ole tekstityksiä saatavilla"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Luo uudelleen"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Luodaan uudelleen..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Kohokohdat"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Yhteenveto"
+   },
+   "panelSummaryShare": {
+      "message": "Jaa"
+   },
+   "panelSummaryTitle": {
+      "message": "Videon yhteenveto ja jäsennys"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Tekstitys"
+   },
+   "panelTabVideoSummary": {
+      "message": "Yhteenveto"
+   },
+   "pauseVideo": {
+      "message": "Keskeytä video"
+   },
+   "pay": {
+      "message": "maksa"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Napsauta videota avataksesi sen ja käytä sitten jälkiäänitysten ominaisuutta."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Kirjautuminen onnistui. Klikkaa laajennuksen kuvaketta valitaksesi käännöskielen ja äänivalinnat."
+   },
+   "preferenceActionFailed": {
+      "message": "Toiminto epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "preferenceActions": {
+      "message": "Toiminnot"
+   },
+   "preferenceAdd": {
+      "message": "Lisää"
+   },
+   "preferenceAllDomains": {
+      "message": "Kaikki aihealueet"
+   },
+   "preferenceAllStatuses": {
+      "message": "Kaikki"
+   },
+   "preferenceCancel": {
+      "message": "Peruuta"
+   },
+   "preferenceClearSearch": {
+      "message": "Tyhjennä"
+   },
+   "preferenceDelete": {
+      "message": "Poista"
+   },
+   "preferenceDisabled": {
+      "message": "Ei käytössä"
+   },
+   "preferenceDomain": {
+      "message": "Aihealue"
+   },
+   "preferenceEdit": {
+      "message": "Muokkaa"
+   },
+   "preferenceEnabled": {
+      "message": "Käytössä"
+   },
+   "preferenceLanguage": {
+      "message": "Kieli"
+   },
+   "preferenceLoadFailed": {
+      "message": "Lataaminen epäonnistui. Kirjaudu sisään ja yritä uudelleen."
+   },
+   "preferenceNextPage": {
+      "message": "Seuraava"
+   },
+   "preferencePageLabel": {
+      "message": "Sivu {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Edellinen"
+   },
+   "preferenceSave": {
+      "message": "Tallenna"
+   },
+   "preferenceSearch": {
+      "message": "Hae"
+   },
+   "preferenceSource": {
+      "message": "Lähde"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Sisäänrakennettu"
+   },
+   "preferenceSourceUser": {
+      "message": "Oma"
+   },
+   "preferenceStatus": {
+      "message": "Tila"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Pois"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Käytössä"
+   },
+   "preferencesDescription": {
+      "message": "Hallitse perusasetuksiasi täällä."
+   },
+   "preferencesSectionTitle": {
+      "message": "Perusasetukset"
+   },
+   "preferencesTitle": {
+      "message": "Perusasetukset"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Tässä videossa ei ole tekstityksiä ja videon kesto ylittää 3 tuntia, käännös ja dubbaus eivät ole mahdollisia. Valitse lyhyempi video tai video, jossa on tekstitykset."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Tässä videossa ei ole tekstityksiä ja se on yksityinen. Laajennus ei voi tunnistaa tämän videon tekstityksiä taustalla. Muuta video julkiseksi tai lisää tekstitykset manuaalisesti ja yritä uudelleen."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Poistetaanko tämä ääntämissääntö?"
+   },
+   "pronunciationEditRule": {
+      "message": "Muokkaa ääntämissääntöä"
+   },
+   "pronunciationEditorHint": {
+      "message": "Valitse korjattava jatkuva osa ja anna sen ääntäminen."
+   },
+   "pronunciationEmpty": {
+      "message": "Yksikään henkilökohtainen ääntämissääntö ei vastaa nykyisiä suodattimia."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Kirjoita ensin vastaava teksti"
+   },
+   "pronunciationFineSelection": {
+      "message": "Tarkka valinta"
+   },
+   "pronunciationLoading": {
+      "message": "Ladataan…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Esimerkiksi: hei"
+   },
+   "pronunciationMatchText": {
+      "message": "Vastaava teksti"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Yhdistä viereiset ääntämiset"
+   },
+   "pronunciationModifier": {
+      "message": "Sävy"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Neutraali sävy"
+   },
+   "pronunciationNewRule": {
+      "message": "Uusi sääntö"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Ääni {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "esiintyminen {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Anna jokaiselle osalle ääntäminen ja sävy. Halkaise tai yhdistä osia tarpeen mukaan."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Kirjoita pinyin-tavu"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "Pinyin tavu"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Älykäs valinta"
+   },
+   "pronunciationReading": {
+      "message": "Määritetty ääntäminen"
+   },
+   "pronunciationReselect": {
+      "message": "Valitse uudelleen"
+   },
+   "pronunciationSaving": {
+      "message": "Tallennetaan…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Hae vastaavaa tekstiä"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Valitse"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Valitse korjattava teksti"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Valinnan tarkkuus"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Valitse jatkuva teksti."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "Tallennettua sijaintia ei voi palauttaa. Valitse teksti uudelleen ennen tallentamista."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Valittu: {text}; esiintyminen {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "Korjattu osa voi sisältää enintään 128 merkkiä."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Aseta henkilökohtaiset ääntämiset käännetylle tekstille. Säännöt koskevat vain paikallista jälkiäänitystä."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Ääntäminen"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Ääntämisasetukset"
+   },
+   "pronunciationSplitAt": {
+      "message": "Jaa kohdasta"
+   },
+   "pronunciationStatus": {
+      "message": "Tila"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Kohdekieli"
+   },
+   "pronunciationTargetText": {
+      "message": "Korjattu osa"
+   },
+   "pronunciationUnitReading": {
+      "message": "Osakohtainen ääntäminen"
+   },
+   "pronunciationUnknownError": {
+      "message": "Toiminto epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "pronunciationWholeReading": {
+      "message": "Koko ääntäminen"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Anna täydellinen sävytetty ääntäminen. Jaa se valitaksesi sävyn jokaiselle osalle."
+   },
+   "rechargeLimit": {
+      "message": "Saldo+Jäsenyys"
+   },
+   "replacementCreateButton": {
+      "message": "Lisää oma korvaus"
+   },
+   "replacementDescription": {
+      "message": "Korjaa toistuvat tekstityksen tunnistusvirheet (esimerkiksi cloud code -> Claude Code) ennen AI-käännöstä."
+   },
+   "replacementEditTitle": {
+      "message": "Muokkaa omaa korvausta"
+   },
+   "replacementEditorDescription": {
+      "message": "Vain omat tekstikorvaukset tehdään ennen AI-käännöstä."
+   },
+   "replacementEmpty": {
+      "message": "Korjaussääntöjä ei ole vielä."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Virheellinen teksti, esim. cloud code"
+   },
+   "replacementFindText": {
+      "message": "Virheellinen teksti"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Korvaa tekstillä, esim. claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Korvaa tekstillä"
+   },
+   "replacementSearchEmpty": {
+      "message": "Vastaavia korvauksia ei löytynyt."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Hae korvauksia"
+   },
+   "replacementTitle": {
+      "message": "Lähdetekstin virheiden korjaukset"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Aseta pikanäppäimet kohdasta Safari > Asetukset > Laajennukset"
+   },
+   "sampleAesNotSupported": {
+      "message": "Tämä video käyttää SAMPLE-AES-salausta, jota ei tällä hetkellä tueta lataamiseen."
+   },
+   "save": {
+      "message": "Tallenna"
+   },
+   "saveFailedText": {
+      "message": "Asetusten tallennus epäonnistui, yritä uudelleen"
+   },
+   "saveFailedTitle": {
+      "message": "Tallennus epäonnistui"
+   },
+   "saveSuccessText": {
+      "message": "Asetukset tallennettu"
+   },
+   "saveSuccessTitle": {
+      "message": "Tallennus onnistui"
+   },
+   "save_settings": {
+      "message": "Tallenna asetukset"
+   },
+   "saving": {
+      "message": "Tallennetaan..."
+   },
+   "searchSourceLanguage": {
+      "message": "Hae lähdekieltä..."
+   },
+   "searchTargetLanguage": {
+      "message": "Hae kohdekieltä..."
+   },
+   "selectSourceLanguage": {
+      "message": "Valitse lähdekieli"
+   },
+   "selectSpeaker": {
+      "message": "Valitse"
+   },
+   "selectTargetLanguage": {
+      "message": "Valitse kohdekieli"
+   },
+   "sex": {
+      "message": "Sukupuoli:"
+   },
+   "shortcutSettings": {
+      "message": "Pikanäppäimet"
+   },
+   "showSubtitle": {
+      "message": "tekstitykset:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Poista käytöstä tältä sivustolta"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Poista käytöstä kaikkialla"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Piilota seuraavaan vierailuun asti"
+   },
+   "sidebarReenableHint": {
+      "message": "Voidaan ottaa uudelleen käyttöön kohdassa "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Asetukset"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Kun tämä on käytössä ja tekstityksen kieli vastaa kohdekieltä, dubbaus alkaa suoraan ilman käännöstä."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Ohita käännös samalle kielelle"
+   },
+   "sourceLanguage": {
+      "message": "Lähdekieli"
+   },
+   "source_languages": {
+      "message": "Lähdekieli:"
+   },
+   "speaker": {
+      "message": "Puhuja"
+   },
+   "speakerList": {
+      "message": "Puhujien luettelo"
+   },
+   "speakerName": {
+      "message": "Puhujan nimi"
+   },
+   "speakersTitle": {
+      "message": "Puhujat"
+   },
+   "startUpload": {
+      "message": "Aloita lataus"
+   },
+   "subscribe": {
+      "message": "Tilaa"
+   },
+   "subscriptionRecharge": {
+      "message": "Tilaa & lisää saldoa"
+   },
+   "subtitleDisplayMode": {
+      "message": "Tekstitystila"
+   },
+   "subtitleEditorExport": {
+      "message": "Vie"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Manuaalinen syöttö"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Omat tekstitykset"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Tekstityslähteitä ei ole saatavilla (manuaalinen syöttö käytettävissä)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "Tallennus epäonnistui. Yritä myöhemmin uudelleen."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Nykyistä videota ei voida tunnistaa. Tallennus epäonnistui."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Napsauta tätä vaihtaaksesi tekstitystä"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Tekstityksen lähde"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Virheellinen SRT-esto. Järjestys, aikaleima ja sisältö vaaditaan."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Jokaisen tekstityksen tulee sisältää vähintään yksi tekstirivi"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "Tekstityksen sisältö ei voi olla tyhjä"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "Päättymisajan on oltava suurempi kuin alkamisaika"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Virheellinen SRT-järjestysnumeromuoto"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "SRT-järjestysnumeroiden tulee alkaa 1:stä ja niitä on kasvatettava 1:llä"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Jotkut tekstitykset sisältävät kaiutintunnisteet. Kaikissa tekstityksissä on käytettävä [speaker]-etuliitettä."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Virheellinen ajan muoto. Tarkista ja korjaa se."
+   },
+   "subtitleModeBilingual": {
+      "message": "Kaksikieliset tekstitykset"
+   },
+   "subtitleModeOff": {
+      "message": "Tekstitykset pois"
+   },
+   "subtitleModeTranslated": {
+      "message": "Vain käännös"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Lisäosan AI-tunnistamat tekstitykset"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Käytä ensisijaisesti lisäosan AI-puheentunnistuksen luomia tekstityksiä paremman tarkkuuden saavuttamiseksi."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Valitse, mitä tekstityslähdettä käytetään ensisijaisesti käännöksessä."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Alustan sisäänrakennetut tekstitykset"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Käytä ensisijaisesti videoalustan tarjoamia alkuperäisiä tekstityksiä."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Tekstityksen käännösprioriteetti"
+   },
+   "subtitleSize": {
+      "message": "Koko"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Taustan väri"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Taustan peittävyys"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "Musta"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Sininen"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Syaani"
+   },
+   "subtitleStyleColorGray": {
+      "message": "Harmaa"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "Vihreä"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Vaaleanharmaa"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Magenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "Oranssi"
+   },
+   "subtitleStyleColorRed": {
+      "message": "Punainen"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Valkoinen"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "Keltainen"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Mukautettu fontti"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Esimerkiksi: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Mukautettu"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Ei mitään"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Ääriviiva"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Varjo"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Reunatyyli"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Kaksikielinen"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Tyylien muokkausnäkymä"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Vain käännös"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Käytä käännöksen tyyliä"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Mukautettu"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Oletus"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Fontti"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Ei mitään"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Fonttikoko"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Fontin paksuus"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Kaksikielinen asettelu"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Riviväli"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "Säädöt tallennetaan ja tulevat voimaan välittömästi."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Tekstityksen tyyliasetukset"
+   },
+   "subtitleStyleOrder": {
+      "message": "Tekstityksen järjestys"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Alkuperäinen ylhäällä"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Käännös ylhäällä"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Alkuperäistyyli"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Fonttikoon suhde"
+   },
+   "subtitleStylePosition": {
+      "message": "Sijainti"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Alhaalla"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Keskellä"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Ylhäällä"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "reaaliajassa"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Hän ajatteli, että tässä nuoressa miehessä oli paljon potentiaalia."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Esikatselu"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Palauta oletukset"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Tekstityksen tyyli"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Yhteinen tausta"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Vaakasuuntainen tasaus"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Keskitetty"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Vasen"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Oikea"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Fontin väri"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Käännöstyyli"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Käyttää nykyisiä asetuksia"
+   },
+   "subtitles": {
+      "message": "Tekstitykset"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Tämän videon tekstitykset ovat tällä hetkellä YouTuben nopeusrajoituksen alaisia. Yritä myöhemmin uudelleen."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Vaihda äänenvoimakkuusasetuksia alkuperäisen ja dubatun äänen välillä"
+   },
+   "switchModelWarning": {
+      "message": "Äänen tai käännösmallin vaihtaminen videon toiston aikana aiheuttaa lisämaksuja hukattujen resurssien vuoksi. Suosittelemme vaihtamista seuraavassa videossa. Jatkaaksesi silti, klikkaa Jatka ja tallenna."
+   },
+   "targetLanguage": {
+      "message": "Kohdekieli"
+   },
+   "target_languages": {
+      "message": "Kohdekieli:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Tätä videota käsitellään jo tekoälyn tekstitystunnistusta varten. Odota sähköposti-ilmoitusta."
+   },
+   "textToSpeech": {
+      "message": "Teksti puheeksi:"
+   },
+   "textToSpeechToggle": {
+      "message": "Kelluva pallo"
+   },
+   "toggleSubtitles": {
+      "message": "Vaihda tekstityksiä"
+   },
+   "tooExpensive": {
+      "message": "Liian kallis"
+   },
+   "translateEngineTipText": {
+      "message": "vaihda käännöspalveluksi Google"
+   },
+   "translateService": {
+      "message": "Käännös:"
+   },
+   "translatedAudio": {
+      "message": "Dubbiääni"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Lisää korvaus käännettyyn tekstiin"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Lisää korvaus käännettyyn tekstiin"
+   },
+   "translatedReplacementDescription": {
+      "message": "Korvaa valmiin käännöksen sanoja tai ilmauksia omilla säännöillä."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Muokkaa käännetyn tekstin korvausta"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Vain valmis käännös muuttuu; lähdeteksti ja käännösvälimuisti pysyvät ennallaan."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Käännetyn tekstin korvaussääntöjä ei vielä ole."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "Kun sääntö poistetaan käytöstä, se säilytetään, mutta sitä ei sovelleta käännettyyn tekstiin."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Sana tai ilmaus käännetyssä tekstissä"
+   },
+   "translatedReplacementFindText": {
+      "message": "Käännetty teksti"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Kohdekieli"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Tilalla näytettävä sana tai ilmaus"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Korvaa tällä"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Vastaavia käännetyn tekstin korvauksia ei löytynyt."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Hae käännetystä tekstistä"
+   },
+   "translatedReplacementTitle": {
+      "message": "Käännetyn tekstin korvaukset"
+   },
+   "translationDomainAuto": {
+      "message": "Autot"
+   },
+   "translationDomainChess": {
+      "message": "Shakki"
+   },
+   "translationDomainEcommerce": {
+      "message": "Verkkokauppa"
+   },
+   "translationDomainEducation": {
+      "message": "Koulutus"
+   },
+   "translationDomainFashion": {
+      "message": "Muoti"
+   },
+   "translationDomainFinance": {
+      "message": "Rahoitus"
+   },
+   "translationDomainFood": {
+      "message": "Ruoka ja ruoanlaitto"
+   },
+   "translationDomainGaming": {
+      "message": "Pelaaminen"
+   },
+   "translationDomainGardening": {
+      "message": "Puutarhanhoito"
+   },
+   "translationDomainGeneral": {
+      "message": "Yleinen"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Laki"
+   },
+   "translationDomainMedical": {
+      "message": "Lääketiede ja terveys"
+   },
+   "translationDomainMovies": {
+      "message": "Elokuvat ja TV"
+   },
+   "translationDomainMusic": {
+      "message": "Musiikki"
+   },
+   "translationDomainNews": {
+      "message": "Uutiset ja media"
+   },
+   "translationDomainPets": {
+      "message": "Lemmikit"
+   },
+   "translationDomainPhotography": {
+      "message": "Valokuvaus"
+   },
+   "translationDomainProgramming": {
+      "message": "Ohjelmointi"
+   },
+   "translationDomainSports": {
+      "message": "Urheilu"
+   },
+   "translationDomainTech": {
+      "message": "Teknologia"
+   },
+   "translationDomainTravel": {
+      "message": "Matkailu"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 ja krypto"
+   },
+   "translationEngine": {
+      "message": "Käännösmoottori"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI-käännös"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Kun asetus on käytössä, AI-käännös käyttää alla olevia asetuksia. Kun se poistetaan käytöstä, nykyiset asetuksesi säilyvät."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Käytä sanastoa ja tekstikorvauksia AI-käännöksessä"
+   },
+   "translationService": {
+      "message": "Käännöspalvelu"
+   },
+   "translationServiceTitle": {
+      "message": "Käännöspalvelu"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Tässä videossa ei ole tekstityksiä. Kokeilujäsenenä tuetaan vain alle 15 minuutin videoita tekstitysten tunnistuksessa. Premium-jäsenet voivat käyttää alle 3 tunnin videoita."
+   },
+   "trialMemberModelLimit": {
+      "message": "Kokeilujäsenet voivat käyttää vain Geminiä ja Google Translatea. Muiden mallien käyttö vaatii jäsenyyden tilaamisen."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Universaali dubbing vaatii pilvi-GPU-laskentatehoa (korkea kustannus), vain VIP:lle."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Universaali dubbaus ei tue tätä videota nykyisessä versiossa. Tuki on suunnitteilla seuraavaan versioon. Ota yhteyttä asiakaspalveluun lisätietoja varten."
+   },
+   "unknownError": {
+      "message": "Tapahtui tuntematon virhe. Yritä uudelleen."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Päivitä jäsenyyteen, niin laajennus tunnistaa AI-tekstitykset taustalla. Saatuasi sähköposti-ilmoituksen palaa katsomaan; dubbaus-painike muuttuu vihreäksi ja käännökset ovat tarkempia."
+   },
+   "uploadComplete": {
+      "message": "Lataus valmis"
+   },
+   "uploadFailed": {
+      "message": "Lataus epäonnistui"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Tekstityksiä ei löytynyt. Haluatko ladata videon AI-tekstitystunnistusta varten?"
+   },
+   "uploading": {
+      "message": "Ladataan"
+   },
+   "uploadingMedia": {
+      "message": "Ladataan mediaa..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Käyttäjätili"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Kun asetus on käytössä, muokatut tai paikallisesti ladatut tekstitykset jaksotetaan automaattisesti. Kun se ei ole käytössä, alkuperäinen jaksotus säilytetään."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Käyttäjän tekstitysten älykäs jaksotus"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Nykyisestä videosta tunnistettu aihealue: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Tämä video on DRM-suojattu eikä sitä voi käyttää dubbaukseen."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Tämä video on yli 3 tuntia pitkä. Universaali dubbing ei tällä hetkellä tue yli 3 tunnin mittaisia videoita."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Tämän ominaisuuden käyttö vaatii jäsenyyden ja riittävän saldon"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Jäsenyys ja saldo vaaditaan"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Jäsenenä voit käyttää seuraavia käännöspalveluita ilmaiseksi"
+   },
+   "vipRequiredText": {
+      "message": "Tämän ominaisuuden käyttö vaatii jäsenyyden"
+   },
+   "vipRequiredTitle": {
+      "message": "Jäsenyys vaaditaan"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Vaihda käännöspalveluksi jäsenille ilmaiset palvelut kuten gemini, deepseek, gpt-3.5-turbo tai claude-3-haiku"
+   },
+   "voice": {
+      "message": "Ääni"
+   },
+   "voiceSettingsMismatch": {
+      "message": "Äänen tyyppi ja äänen asetukset eivät täsmää. Siirry asetussivulle valitaksesi uudelleen ja tallentaaksesi äänen asetukset."
+   },
+   "voiceTypeTipText": {
+      "message": "vaihda äänityypiksi ilmaisversio"
+   },
+   "voices": {
+      "message": "Ääni:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Ääni ja tekstitykset"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Ääni ja tekstitykset"
+   },
+   "voicesType": {
+      "message": "Äänityyppi:"
+   },
+   "waitingForRecognition": {
+      "message": "Video ladattu onnistuneesti. Tekoäly-tekstityksen tunnistus on käynnissä. Saat sähköposti-ilmoituksen, kun se on valmis."
+   },
+   "woman": {
+      "message": "Nainen"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Selaimesi ei tue Zoom-tallennuksen latauksen tunnistusta. Käytä Chrome/Edge-selainta."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Zoom-tallennuksen lataus estettiin (403). Toista/päivitä sivu vahvistusta varten ja yritä uudelleen."
+   }
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TranslateDub Icon Preview</title>
+  <style>
+    body { font-family: system-ui, sans-serif; background: #f1f5f9; margin: 0; padding: 40px; color: #0f172a; }
+    h1 { font-size: 22px; margin-bottom: 8px; }
+    p { color: #475569; margin-bottom: 32px; }
+    .row { display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 48px; }
+    .col { display: flex; flex-direction: column; gap: 16px; }
+    .label { font-size: 13px; font-weight: 600; color: #334155; margin-bottom: 4px; }
+    .swatch { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+    .swatch img { display: block; }
+    .chip { font-size: 12px; color: #64748b; }
+    .tile-light { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 24px; display: flex; gap: 24px; align-items: center; }
+    .tile-dark { background: #0f172a; border-radius: 12px; padding: 24px; display: flex; gap: 24px; align-items: center; }
+  </style>
+</head>
+<body>
+  <h1>TranslateDub — Icon Preview</h1>
+  <p>New blue→purple gradient brand icon (speech bubble = translate, audio waves = dub). Rendered at all required sizes.</p>
+
+  <div class="col">
+    <div class="label">All sizes (128 / 96 / 48 / 32 / 16)</div>
+    <div class="tile-light">
+      <div class="swatch"><img src="128.png" width="128" height="128" alt="128"><span class="chip">128px</span></div>
+      <div class="swatch"><img src="96.png" width="96" height="96" alt="96"><span class="chip">96px</span></div>
+      <div class="swatch"><img src="48.png" width="48" height="48" alt="48"><span class="chip">48px</span></div>
+      <div class="swatch"><img src="32.png" width="32" height="32" alt="32"><span class="chip">32px</span></div>
+      <div class="swatch"><img src="16.png" width="16" height="16" alt="16"><span class="chip">16px</span></div>
+    </div>
+  </div>
+
+  <div class="col">
+    <div class="label">128px on light / dark</div>
+    <div class="tile-light"><img src="128.png" width="128" height="128" alt="light"></div>
+    <div class="tile-dark"><img src="128.png" width="128" height="128" alt="dark"></div>
+  </div>
+
+  <div class="col">
+    <div class="label">Vector source</div>
+    <div class="tile-light"><img src="translatedub-icon.svg" width="128" height="128" alt="svg"></div>
+    <div class="tile-dark"><img src="translatedub-icon.svg" width="128" height="128" alt="svg-dark"></div>
+  </div>
+</body>
+</html>

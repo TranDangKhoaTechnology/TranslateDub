@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Saldo del compte:"
+   },
+   "advancedSettings": {
+      "message": "Configuració avançada"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "Els subtítols IA encara no estan disponibles. El complement ha començat a reconèixer-los en segon pla. Després d'escoltar la primera frase doblada, pots tancar la pàgina i esperar la notificació per correu electrònic; quan estigui llest, el botó de doblatge es tornarà verd i la qualitat de la traducció serà millor."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS és només per a membres. Actualitza per desbloquejar veus Azure d'alta qualitat."
+   },
+   "back": {
+      "message": "Enrere"
+   },
+   "backToSettings": {
+      "message": "Tornar a configuració"
+   },
+   "backToVideoLibrary": {
+      "message": "Torna a la biblioteca de vídeos"
+   },
+   "backgroundAudio": {
+      "message": "So de fons"
+   },
+   "balanceRequiredText": {
+      "message": "El teu saldo del compte és insuficient. Si us plau, recarrega per utilitzar aquesta funció"
+   },
+   "balanceRequiredTitle": {
+      "message": "Es requereix saldo"
+   },
+   "balanceRunningLow": {
+      "message": "El teu saldo s'està esgotant. Per evitar una experiència de visualització pobra, es recomana recarregar per anticipat."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Si us plau, configura les dreceres a la configuració de l'extensió del navegador"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Exclòs"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Desactiva'ls tots"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} termes integrats"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Àmbit desactivat"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "No hi ha àmbits coincidents."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Cerca àmbits"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} àmbits"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Conjunts terminològics integrats per àmbit"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "No hi ha cap glossari integrat per a l'idioma de destinació actual. Tot i així, pots afegir termes personals."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Activa'ls tots"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} / {total} activats"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Gestiona els àmbits"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "Activa o desactiva els àmbits del glossari integrat per a l'idioma de destinació."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Gestiona els conjunts terminològics integrats"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Regla integrada"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} regles integrades"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Activa o desactiva els àmbits integrats de correcció del text original."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Gestiona els àmbits integrats de correcció del text original"
+   },
+   "cancel": {
+      "message": "Cancel·lar"
+   },
+   "cancelButton": {
+      "message": "Cancel·lar"
+   },
+   "completing": {
+      "message": "Completant"
+   },
+   "confirmButton": {
+      "message": "Continuar i desar"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Estàs segur que vols eliminar aquest parlant?"
+   },
+   "contentMenusTitle": {
+      "message": "Iniciar reproducció amb veu en off"
+   },
+   "corsNotSupported": {
+      "message": "Aquest lloc web no permet descarregar fitxers multimèdia. El doblatge universal no és compatible."
+   },
+   "debugInfo": {
+      "message": "Informació de depuració"
+   },
+   "delete": {
+      "message": "Eliminar"
+   },
+   "deleteSpeaker": {
+      "message": "Eliminar"
+   },
+   "description": {
+      "message": "Traducció i doblatge de vídeos amb un clic: entén idiomes estrangers a l'instant, accedeix al coneixement global"
+   },
+   "disableGlobally": {
+      "message": "Desactiva globalment"
+   },
+   "disabledSitesActions": {
+      "message": "Accions"
+   },
+   "disabledSitesAdd": {
+      "message": "Afegir"
+   },
+   "disabledSitesDelete": {
+      "message": "Eliminar"
+   },
+   "disabledSitesDescription": {
+      "message": "La bola flotant no apareixerà als llocs següents. Podeu afegir o eliminar llocs desactivats aquí."
+   },
+   "disabledSitesDomain": {
+      "message": "Domini"
+   },
+   "disabledSitesEmpty": {
+      "message": "Cap lloc desactivat"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Introduïu un domini, p. ex. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Llocs desactivats"
+   },
+   "disabledSitesTitle": {
+      "message": "Gestió de llocs desactivats"
+   },
+   "doNotClosePage": {
+      "message": "Si us plau, no tanqueu ni actualitzeu aquesta pàgina durant la càrrega, en cas contrari, la càrrega s'interromprà."
+   },
+   "doNotShowAgainLink": {
+      "message": "No ho tornis a mostrar"
+   },
+   "downloading": {
+      "message": "Baixant"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Aquest vídeo encara no s'ha transcrit. Si us plau, fes clic al botó CC a la part inferior del vídeo de Dropbox per transcriure els subtítols. Un cop completada la transcripció, fes clic al botó de doblatge del complement per traduir i doblar."
+   },
+   "dropdownNoOptions": {
+      "message": "No hi ha opcions disponibles"
+   },
+   "dropdownPlaceholder": {
+      "message": "Si us plau, selecciona"
+   },
+   "dropdownSearch": {
+      "message": "Cerca..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Ara mateix aquesta pàgina no té cap vídeo o àudio disponible. Espereu que el vídeo acabi de carregar i torneu-ho a provar, o bé actualitzeu la pàgina."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "No s'ha trobat cap vídeo per doblar"
+   },
+   "dubbingSettings": {
+      "message": "Configuració de doblatge"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Obrint la pàgina de configuració de dreceres de l'extensió d'Edge"
+   },
+   "edit": {
+      "message": "Editar"
+   },
+   "editSpeaker": {
+      "message": "Editar"
+   },
+   "emailNotificationDescription": {
+      "message": "Notifica'm per correu electrònic quan finalitzi el reconeixement de subtítols."
+   },
+   "emailNotificationLabel": {
+      "message": "Notificacions per correu electrònic"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "No s'ha pogut desar. Torna-ho a provar més tard."
+   },
+   "enterSpeakerName": {
+      "message": "Introdueix el nom del parlant"
+   },
+   "enterVoice": {
+      "message": "Introdueix el nom de la veu"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "female": {
+      "message": "Dona"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Obrint la pàgina de complements de Firefox, si us plau configura les dreceres a Extensions i Temes"
+   },
+   "free": {
+      "message": "gratuït"
+   },
+   "freeForVip": {
+      "message": "Gratuït per a VIP"
+   },
+   "freeOptionTipText": {
+      "message": "Si no vols recarregar, pots triar l'opció gratuïta, "
+   },
+   "freeUserDailyLimit": {
+      "message": "Els usuaris gratuïts poden veure fins a 5 vídeos al dia a través del complement. Actualitza a membresía per desbloquejar beneficis il·limitats de visualització."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Aquest vídeo no té subtítols integrats. Si us plau, subscriu-te a la membresía del complement per al reconeixement de subtítols i gaudeix de les funcions de traducció i doblatge."
+   },
+   "gender": {
+      "message": "Gènere"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Encara no hi ha termes personals per a aquest idioma."
+   },
+   "glossaryCreateButton": {
+      "message": "Afegeix un terme personal"
+   },
+   "glossaryDescription": {
+      "message": "Fixa traduccions concretes per als termes d'origen (p. ex., Stratagem). Els teus termes tenen prioritat sobre el glossari integrat."
+   },
+   "glossaryEditTitle": {
+      "message": "Edita el terme personal"
+   },
+   "glossaryEditorDescription": {
+      "message": "Només es poden afegir, editar, activar o eliminar els termes del glossari personal."
+   },
+   "glossarySearchEmpty": {
+      "message": "No hi ha termes coincidents."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Cerca termes d'origen"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Terme d'origen"
+   },
+   "glossarySourceTerm": {
+      "message": "Terme d'origen"
+   },
+   "glossaryTableTitle": {
+      "message": "Termes de l'idioma actual"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Traducció requerida"
+   },
+   "glossaryTargetTerm": {
+      "message": "Traducció"
+   },
+   "glossaryTitle": {
+      "message": "Glossari"
+   },
+   "hideUntilNextVisit": {
+      "message": "Amaga fins a la propera visita"
+   },
+   "hlsDecryptionFailed": {
+      "message": "No s'ha pogut desxifrar el contingut del vídeo. La clau de xifrat pot ser incorrecta o el format del vídeo no és compatible."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "No s'ha pogut obtenir la clau de desxifrat d'aquest vídeo. El vídeo pot estar protegit o el servidor de claus no està disponible."
+   },
+   "insufficientBalance": {
+      "message": "A causa d'un saldo insuficient, el servei s'ha degradat a Google Translate. Per utilitzar la traducció IA, si us plau recarrega el teu crèdit."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "El teu saldo és insuficient. Si us plau, recarrega el teu saldo abans d'utilitzar la traducció IA i Azure TTS. Si no vols recarregar, pots canviar a Google Translate i tipus de veu gratuïts."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Si us plau, recarrega la teva membresía i saldo abans d'utilitzar la traducció IA i Azure TTS. Si no vols recarregar, també pots triar Google Translate i tipus de veu gratuïts."
+   },
+   "insufficientMembership": {
+      "message": "La teva membresía ha caducat. Si us plau, recarrega la teva membresía abans d'utilitzar la traducció IA i Azure TTS. Si no vols recarregar, també pots triar Google Translate i tipus de veu gratuïts."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Una altra extensió del navegador està bloquejant la intercepció de sol·licituds de subtítols. Desactiva les extensions en conflicte, refresca la pàgina i torna-ho a provar."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "S'ha detectat un conflicte d'extensió"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Activar àudio original"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "El doblatge universal no és compatible amb dispositius iOS. Si us plau, utilitzeu un navegador d'escriptori."
+   },
+   "liveStreamNotSupported": {
+      "message": "Les emissions en directe no són compatibles amb el doblatge universal."
+   },
+   "liveVideoNotSupported": {
+      "message": "Els vídeos en directe no són compatibles actualment amb el doblatge"
+   },
+   "loading": {
+      "message": "carregant"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Afegeix un subtítol"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "No s'ha pogut afegir el subtítol."
+   },
+   "localPlayerAddVideo": {
+      "message": "Afegeix vídeo"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "No s'ha pogut afegir el vídeo."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "S'han eliminat tots els enllaços de subtítols."
+   },
+   "localPlayerAllVideos": {
+      "message": "Tots els vídeos"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Cerca i gestiona tots els vídeos importats."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Ascendent; feu clic per canviar a descendent"
+   },
+   "localPlayerAssociate": {
+      "message": "Enllaç subtítol"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Enllaceu el subtítol i utilitzeu-lo per al doblatge de veu"
+   },
+   "localPlayerAssociated": {
+      "message": "Enllaçat"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Enllaçat fora d'aquesta carpeta"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "S'ha eliminat l'enllaç dels subtítols."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "S'ha desat l'enllaç del subtítol."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Subtítols enllaçats i configurats per al doblatge de veu."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Torna a les carpetes"
+   },
+   "localPlayerClose": {
+      "message": "Tancar"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Directori actual"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Doblatge de vídeo"
+   },
+   "localPlayerDelete": {
+      "message": "Eliminar"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "No s'ha pogut suprimir el vídeo."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Suprimeix {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "Això elimina els enllaços de vídeo i subtítols de la biblioteca local. Els fitxers originals del disc no se suprimiran."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Vols suprimir aquest vídeo?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "Descendent; feu clic per canviar a ascendent"
+   },
+   "localPlayerDropHint": {
+      "message": "Deixa anar vídeos o fitxers de subtítols .srt/.vtt/.ass aquí"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Deixeu anar el ratolí per importar fitxers"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "S'ha iniciat el doblatge de veu"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "No s'ha pogut iniciar el doblatge de veu local."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "S'ha iniciat el doblatge de veu local."
+   },
+   "localPlayerEntryButton": {
+      "message": "Vídeo local"
+   },
+   "localPlayerFilterAll": {
+      "message": "Tot"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Sense subtítols enllaçats"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Amb subtítols enllaçats"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Accions ràpides de vídeo local"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Accés a la carpeta disponible"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "L'obertura d'una carpeta desa els identificadors de fitxers perquè l'accés es pugui restaurar després de l'actualització."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Aquest navegador no pot obrir carpetes. Utilitzeu Afegeix vídeo/Afegeix subtítols per a una importació temporal."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} subtítols associats"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Última reproducció {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Darrera exploració {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Accions de carpeta"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "S'ha eliminat {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Cerca carpetes, camins o fitxers"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} vídeos"
+   },
+   "localPlayerFolders": {
+      "message": "Carpetes"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Exploreu els mitjans importats per carpeta."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Aquest vídeo local no té cap subtítol enllaçat. Els usuaris gratuïts encara no poden utilitzar el reconeixement de subtítols en segon pla per als vídeos locals. Actualitzeu la subscripció per utilitzar el reconeixement de subtítols AI o pengeu un fitxer de subtítols manualment abans d'iniciar el doblatge de veu."
+   },
+   "localPlayerImportComplete": {
+      "message": "S'han importat {videoCount} vídeos i {subtitleCount} subtítols."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Obre una carpeta, afegeix vídeos o deixa anar fitxers per començar."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Videoteca local"
+   },
+   "localPlayerLibraryView": {
+      "message": "Visualització de la biblioteca"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "{visibleCount} coincidents / total {totalCount} carpetes"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "{visibleCount} coincidents/vídeos totals de {totalCount}"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Subtítols originals"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Videoteca local / Text a veu"
+   },
+   "localPlayerNever": {
+      "message": "Mai"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Ajusteu la cerca de carpetes i torneu-ho a provar."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "No hi ha carpetes coincidents"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Sense subtítols per gestionar"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Ajusteu la cerca, el filtre o l'ordenació i torneu-ho a provar."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "No hi ha vídeos coincidents"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "No s'han trobat fitxers nous."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "No hi ha subtítols enllaçats"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Vols penjar aquest vídeo per al reconeixement de subtítols AI? La càrrega només s'utilitza per reconèixer subtítols, el vídeo s'elimina immediatament després del reconeixement i se us notificarà per correu electrònic."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Aquest vídeo no té subtítols"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Obriu una carpeta o afegiu vídeos per gestionar els enllaços de subtítols i el doblatge de veu local aquí."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Encara no hi ha vídeos locals"
+   },
+   "localPlayerNotAssociated": {
+      "message": "No enllaçat"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Ara es reprodueix {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Obre la carpeta"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "No s'ha pogut obrir la carpeta."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Obre la carpeta"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Obre la barra lateral"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "No s'ha pogut obrir la barra lateral."
+   },
+   "localPlayerPageTitle": {
+      "message": "Vídeo local · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Reprodueix el vídeo"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Conjunt de subtítols per al doblatge de veu."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Aquest subtítol ja està associat amb \"{fromVideo}\". Si continues, s'eliminarà aquesta associació i l'associarà amb \"{toVideo}\"."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Voleu tornar a lligar aquest subtítol?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Reconeixement de subtítols"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Desenllaça tots els subtítols"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Només s'eliminaran els enllaços de subtítols d'aquest vídeo. Els registres dels fitxers de subtítols no se suprimiran."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Desenllaçar tots els subtítols?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Desenllaça el subtítol"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "No s'ha pogut eliminar la carpeta de la biblioteca."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "Això només elimina els registres de biblioteca d'aquesta carpeta. Els fitxers originals del disc no se suprimiran."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Voleu eliminar aquesta carpeta de la biblioteca?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Eliminar de la biblioteca"
+   },
+   "localPlayerRescanAll": {
+      "message": "Torneu a buscar-ho tot"
+   },
+   "localPlayerRescanFailed": {
+      "message": "No s'ha pogut tornar a escanejar la biblioteca local."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "No es pot tornar a escanejar aquesta carpeta perquè l'accés a la carpeta desada no està disponible."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Torna a escanejar aquesta carpeta"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "El vídeo especificat a l'URL no es troba a la biblioteca de vídeos local actual."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Subtítols de la mateixa carpeta {sameCount} · Enllaçats {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Escaneig completat: {addedVideoCount} vídeos afegits, {addedSubtitleCount} subtítols, fitxers {updatedCount} actualitzats."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Cerca vídeos o camins de fitxers"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Seleccioneu un vídeo per enllaçar a aquest subtítol"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Utilitzeu aquest subtítol per al doblatge de veu"
+   },
+   "localPlayerSortDuration": {
+      "message": "Durada del vídeo"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Vídeos reproduïts recentment"
+   },
+   "localPlayerSortName": {
+      "message": "Nom del fitxer"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Inicia el doblatge de veu"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} subtítols enllaçats"
+   },
+   "localPlayerSubtitles": {
+      "message": "Subtítols"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Aquest navegador no admet el File System Access API. Pots afegir vídeos i subtítols temporalment."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Mode d'importació temporal"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Cancel·lar"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Text a veu - Idioma de destí"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Exporta MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "El contingut dels subtítols no pot estar buit"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Error en desar"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Gènere"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Text a veu MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Text a veu MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Desant..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Entrada manual"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Entrada manual - Text a veu"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Idioma de destí"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Text a veu: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Text a veu"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "No hi ha cap veu disponible per a aquesta selecció."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Text a veu"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "El text és massa llarg. Escurceu-lo i torneu-ho a provar."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Veu"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Tipus de veu"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "S'han generat miniatures per als vídeos {count}."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "La generació de miniatures ha fallat: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "{count} carpetes totals"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Total de vídeos {count}"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Pujada cancel·lada."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "S'utilitza per al doblatge de veu"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "S'ha suprimit {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "No es pot restaurar l'accés a aquest fitxer de vídeo. Si us plau, torneu a afegir el vídeo."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "No es pot llegir el fitxer de vídeo local. Si us plau, torneu a afegir el vídeo."
+   },
+   "localPlayerVideoList": {
+      "message": "Llista de vídeos"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "El reproductor de vídeo encara no està preparat."
+   },
+   "login": {
+      "message": "Entra"
+   },
+   "loginAndUsePlugin": {
+      "message": "Si us plau, fes clic a la icona del complement per iniciar sessió primer i després utilitza el complement per a la reproducció amb veu en off."
+   },
+   "logout": {
+      "message": "Tancar sessió"
+   },
+   "lowBalanceText": {
+      "message": "El teu saldo del compte està per sota de $1. Et recomanem recarregar aviat per assegurar un servei ininterromput"
+   },
+   "lowBalanceTitle": {
+      "message": "Alerta de saldo baix"
+   },
+   "male": {
+      "message": "Home"
+   },
+   "man": {
+      "message": "Home"
+   },
+   "mediaSourceNotDetected": {
+      "message": "No s'ha pogut detectar la font del vídeo. És possible que aquest lloc web no sigui compatible."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Ara s’estan utilitzant subtítols reconeguts per la IA en segon pla de l’extensió. Si la traducció no sembla correcta, canvia la prioritat dels subtítols als subtítols de la plataforma a la configuració bàsica."
+   },
+   "memberFree": {
+      "message": "Gratuït per a membres"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Aquest tipus de veu és només per a membres. Actualitza per usar-lo gratuïtament."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Ara estàs doblant amb el tipus de veu gratuït. Les veus d’Azure sonen més naturals; els membres ara poden utilitzar Azure sense límits i sense recarregar crèdits addicionals."
+   },
+   "memberUser": {
+      "message": "Membre"
+   },
+   "membershipExpires": {
+      "message": "Venç el"
+   },
+   "membershipIcon": {
+      "message": "Icona de membresía"
+   },
+   "membershipRequired": {
+      "message": "Si us plau, actualitza a membresía abans d'utilitzar la traducció d'OpenAI."
+   },
+   "membershipRequiredForAI": {
+      "message": "Si us plau, recarrega la teva membresía abans d'utilitzar la traducció IA. Si no vols recarregar, també pots triar Google Translate."
+   },
+   "membershipRequiredTitle": {
+      "message": "Es requereix subscripció"
+   },
+   "metadataNotFound": {
+      "message": "No s'han trobat les metadades del vídeo, si us plau refresca i torna-ho a provar"
+   },
+   "multiVideoNotSupported": {
+      "message": "Aquesta pàgina té diversos vídeos. El doblatge universal només admet pàgines amb un únic vídeo quan s'utilitzen fluxos HLS."
+   },
+   "musicVideoNotSupported": {
+      "message": "Aquest és un vídeo musical. La traducció i el doblatge no són compatibles."
+   },
+   "name": {
+      "message": "TranslateDub – Tradueix i Dobla"
+   },
+   "noAudioTrackFound": {
+      "message": "No s'ha detectat cap pista d'àudio. Aquest vídeo sembla ser només vídeo sense àudio i no es pot utilitzar per al reconeixement de doblatge."
+   },
+   "noSpeakers": {
+      "message": "Cap parlant"
+   },
+   "noSubtitlesFound": {
+      "message": "Aquest vídeo no té subtítols i no admet traducció ni doblatge"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "No hi ha subtítols disponibles. Si us plau, espera que el complement reconegui els subtítols d'aquest vídeo. Rebràs una notificació per correu electrònic a la teva adreça registrada un cop es completi el reconeixement."
+   },
+   "notSupported": {
+      "message": "No compatible"
+   },
+   "openBasicSettingsLink": {
+      "message": "Obre la configuració bàsica"
+   },
+   "optionsNavAiShort": {
+      "message": "IA"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Bàsic"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Pronunciació"
+   },
+   "optionsNavSitesShort": {
+      "message": "Llocs"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Subtítols"
+   },
+   "originalAudio": {
+      "message": "Original"
+   },
+   "panelSummaryCollapse": {
+      "message": "Contraure"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Contraure tot"
+   },
+   "panelSummaryCopy": {
+      "message": "Copiar"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Copiat"
+   },
+   "panelSummaryDesc": {
+      "message": "Utilitza models d'IA avançats per comprendre ràpidament el contingut del vídeo"
+   },
+   "panelSummaryError": {
+      "message": "La generació del resum ha fallat, si us plau torneu-ho a intentar"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "No es pot identificar el vídeo actual, si us plau actualitzeu la pàgina i torneu-ho a intentar"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "El resum de vídeo és una funció exclusiva per a membres, si us plau subscriviu-vos per utilitzar-la"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "No hi ha subtítols disponibles per a aquest vídeo, no es pot generar el resum"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "El servei de resum no està disponible temporalment, si us plau torneu-ho a intentar més tard"
+   },
+   "panelSummaryExpand": {
+      "message": "Expandir"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Expandir tot"
+   },
+   "panelSummaryGenerate": {
+      "message": "Generar resum"
+   },
+   "panelSummaryGenerating": {
+      "message": "Generant..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "No hi ha subtítols disponibles per a aquest vídeo"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Regenerar"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Regenerant..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Punts destacats"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Resum"
+   },
+   "panelSummaryShare": {
+      "message": "Compartir"
+   },
+   "panelSummaryTitle": {
+      "message": "Resum i esquema del vídeo"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Subtítols"
+   },
+   "panelTabVideoSummary": {
+      "message": "Resum"
+   },
+   "pauseVideo": {
+      "message": "Pausar vídeo"
+   },
+   "pay": {
+      "message": "pagar"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Feu clic al vídeo per obrir-lo i després utilitzeu la funció de doblatge."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Inici de sessió correcte. Fes clic a la icona del complement per seleccionar l'idioma de traducció i la llista de veus."
+   },
+   "preferenceActionFailed": {
+      "message": "L'acció ha fallat. Torna-ho a provar més tard."
+   },
+   "preferenceActions": {
+      "message": "Accions"
+   },
+   "preferenceAdd": {
+      "message": "Afegeix"
+   },
+   "preferenceAllDomains": {
+      "message": "Tots els àmbits"
+   },
+   "preferenceAllStatuses": {
+      "message": "Tots"
+   },
+   "preferenceCancel": {
+      "message": "Cancel·la"
+   },
+   "preferenceClearSearch": {
+      "message": "Esborra"
+   },
+   "preferenceDelete": {
+      "message": "Elimina"
+   },
+   "preferenceDisabled": {
+      "message": "Inhabilitat"
+   },
+   "preferenceDomain": {
+      "message": "Àmbit"
+   },
+   "preferenceEdit": {
+      "message": "Edita"
+   },
+   "preferenceEnabled": {
+      "message": "Activat"
+   },
+   "preferenceLanguage": {
+      "message": "Idioma"
+   },
+   "preferenceLoadFailed": {
+      "message": "No s'ha pogut carregar. Inicia la sessió i torna-ho a provar."
+   },
+   "preferenceNextPage": {
+      "message": "Següent"
+   },
+   "preferencePageLabel": {
+      "message": "Pàgina {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Anterior"
+   },
+   "preferenceSave": {
+      "message": "Desa"
+   },
+   "preferenceSearch": {
+      "message": "Cerca"
+   },
+   "preferenceSource": {
+      "message": "Origen"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Integrat"
+   },
+   "preferenceSourceUser": {
+      "message": "Propi"
+   },
+   "preferenceStatus": {
+      "message": "Estat"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Desactivat"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Activat"
+   },
+   "preferencesDescription": {
+      "message": "Gestiona aquí les preferències bàsiques."
+   },
+   "preferencesSectionTitle": {
+      "message": "Configuració bàsica"
+   },
+   "preferencesTitle": {
+      "message": "Configuració bàsica"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Aquest vídeo no té subtítols i la durada del vídeo supera les 3 hores, la traducció i el doblatge no són compatibles. Si us plau, selecciona un vídeo més curt o un vídeo amb subtítols."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Aquest vídeo no té subtítols i és privat. El complement no pot reconèixer subtítols per a aquest vídeo en segon pla. Fes públic el vídeo o afegeix subtítols manualment i torna-ho a provar."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Vols suprimir aquesta regla de pronunciació?"
+   },
+   "pronunciationEditRule": {
+      "message": "Edita la regla de pronunciació"
+   },
+   "pronunciationEditorHint": {
+      "message": "Seleccioneu la part contínua per corregir i, a continuació, introduïu-ne la pronunciació."
+   },
+   "pronunciationEmpty": {
+      "message": "Cap regla de pronunciació personal coincideix amb els filtres actuals."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Introduïu primer el text coincident"
+   },
+   "pronunciationFineSelection": {
+      "message": "Selecció precisa"
+   },
+   "pronunciationLoading": {
+      "message": "S'està carregant…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Per exemple: hola"
+   },
+   "pronunciationMatchText": {
+      "message": "Text coincident"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Combina les pronunciacions adjacents"
+   },
+   "pronunciationModifier": {
+      "message": "To"
+   },
+   "pronunciationNeutralTone": {
+      "message": "To neutre"
+   },
+   "pronunciationNewRule": {
+      "message": "Nova regla"
+   },
+   "pronunciationNumberedTone": {
+      "message": "To {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "ocurrència {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Introduïu una pronunciació i un to per a cada part. Dividiu o fusioneu peces segons sigui necessari."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Introduïu una síl·laba pinyin"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "síl·laba pinyin"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Selecció intel·ligent"
+   },
+   "pronunciationReading": {
+      "message": "Pronunciació indicada"
+   },
+   "pronunciationReselect": {
+      "message": "Torna a seleccionar"
+   },
+   "pronunciationSaving": {
+      "message": "S'està desant…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Cerca text coincident"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Seleccioneu"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Seleccioneu el text per corregir"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Granularitat de la selecció"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Seleccioneu text continu."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "La ubicació desada no es pot restaurar. Torneu a seleccionar el text abans de desar-lo."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Seleccionat: {text}; ocurrència {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "La part corregida pot contenir com a màxim 128 caràcters."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Estableix pronunciacions personals per al text traduït. Les regles només s'apliquen al doblatge local."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Pronunciació"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Configuració de la pronunciació"
+   },
+   "pronunciationSplitAt": {
+      "message": "Divideix a"
+   },
+   "pronunciationStatus": {
+      "message": "Estat"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Idioma objectiu"
+   },
+   "pronunciationTargetText": {
+      "message": "Part corregida"
+   },
+   "pronunciationUnitReading": {
+      "message": "Pronunciació per part"
+   },
+   "pronunciationUnknownError": {
+      "message": "L'acció ha fallat. Si us plau, torna-ho a provar més tard."
+   },
+   "pronunciationWholeReading": {
+      "message": "Pronunciació sencera"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Introduïu la pronunciació entonada completa. Dividiu-lo per triar un to per a cada part."
+   },
+   "rechargeLimit": {
+      "message": "Crèdit+Membre"
+   },
+   "replacementCreateButton": {
+      "message": "Afegeix una substitució personal"
+   },
+   "replacementDescription": {
+      "message": "Corregeix errors recurrents de reconeixement dels subtítols (per exemple, cloud code -> Claude Code) abans de la traducció amb IA."
+   },
+   "replacementEditTitle": {
+      "message": "Edita la substitució personal"
+   },
+   "replacementEditorDescription": {
+      "message": "Només les substitucions de text personals s'apliquen abans de la traducció amb IA."
+   },
+   "replacementEmpty": {
+      "message": "Encara no hi ha regles de correcció."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Text incorrecte, p. ex. cloud code"
+   },
+   "replacementFindText": {
+      "message": "Text incorrecte"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Substitueix per, p. ex. claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Substitueix per"
+   },
+   "replacementSearchEmpty": {
+      "message": "No hi ha substitucions coincidents."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Cerca substitucions"
+   },
+   "replacementTitle": {
+      "message": "Correccions d’errors del text original"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Si us plau, configura les dreceres a Safari > Preferències > Extensions"
+   },
+   "sampleAesNotSupported": {
+      "message": "Aquest vídeo utilitza xifrat SAMPLE-AES que actualment no és compatible amb la descàrrega."
+   },
+   "save": {
+      "message": "Desar"
+   },
+   "saveFailedText": {
+      "message": "No s'ha pogut desar la configuració, si us plau torna-ho a provar"
+   },
+   "saveFailedTitle": {
+      "message": "Error en desar"
+   },
+   "saveSuccessText": {
+      "message": "Configuració desada correctament"
+   },
+   "saveSuccessTitle": {
+      "message": "Desat correctament"
+   },
+   "save_settings": {
+      "message": "Desar"
+   },
+   "saving": {
+      "message": "Desant..."
+   },
+   "searchSourceLanguage": {
+      "message": "Cerca idioma d'origen..."
+   },
+   "searchTargetLanguage": {
+      "message": "Cerca idioma de destí..."
+   },
+   "selectSourceLanguage": {
+      "message": "Selecciona l'idioma d'origen"
+   },
+   "selectSpeaker": {
+      "message": "Selecciona"
+   },
+   "selectTargetLanguage": {
+      "message": "Selecciona l'idioma de destí"
+   },
+   "sex": {
+      "message": "Gènere:"
+   },
+   "shortcutSettings": {
+      "message": "Configuració de dreceres"
+   },
+   "showSubtitle": {
+      "message": "subtítols:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Desactiva per a aquest lloc"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Desactiva globalment"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Amaga fins a la propera visita"
+   },
+   "sidebarReenableHint": {
+      "message": "Es pot reactivar a "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Configuració"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Si està activat i l'idioma dels subtítols coincideix amb l'idioma de destinació, el doblatge començarà directament sense traducció."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Omet la traducció si és el mateix idioma"
+   },
+   "sourceLanguage": {
+      "message": "Idioma d'origen"
+   },
+   "source_languages": {
+      "message": "Idioma d'origen:"
+   },
+   "speaker": {
+      "message": "Parlants"
+   },
+   "speakerList": {
+      "message": "Llista de parlants"
+   },
+   "speakerName": {
+      "message": "Nom del parlant"
+   },
+   "speakersTitle": {
+      "message": "Parlants"
+   },
+   "startUpload": {
+      "message": "Inicia la pujada"
+   },
+   "subscribe": {
+      "message": "Subscriu-te"
+   },
+   "subscriptionRecharge": {
+      "message": "Subscriu-te i recarrega"
+   },
+   "subtitleDisplayMode": {
+      "message": "Mode de subtítols"
+   },
+   "subtitleEditorExport": {
+      "message": "Exporta"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Entrada manual"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Els meus subtítols"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "No hi ha fonts de subtítols disponibles (entrada manual disponible)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "No s'ha pogut desar. Si us plau, torna-ho a provar més tard."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "No s'ha pogut identificar el vídeo actual. No s'ha pogut desar."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Feu clic aquí per canviar els subtítols"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Pista de subtítols"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Estructura de bloc SRT no vàlida: calen com a mínim un número de seqüència, una marca de temps i contingut."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Cada subtítol ha de contenir almenys una línia de text"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "El contingut dels subtítols no pot estar buit"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "L'hora de finalització ha de ser superior a l'hora d'inici"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Format del número de seqüència SRT no vàlid"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "Els números de seqüència SRT han de començar per 1 i augmentar en 1"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "S'han detectat etiquetes de parlant en alguns subtítols. Tots els subtítols han d'incloure el prefix [speaker]."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Format d'hora no vàlid. Si us plau, revisa-ho i corregeix-ho."
+   },
+   "subtitleModeBilingual": {
+      "message": "Subtítols bilingües"
+   },
+   "subtitleModeOff": {
+      "message": "Sense subtítols"
+   },
+   "subtitleModeTranslated": {
+      "message": "Només traducció"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Subtítols reconeguts per IA del connector"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Prioritza els subtítols generats pel reconeixement de veu IA del connector per a una major precisió."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Tria quina font de subtítols prioritzar per a la traducció."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Subtítols integrats de la plataforma"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Prioritza els subtítols originals proporcionats per la plataforma de vídeo."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Prioritat de traducció de subtítols"
+   },
+   "subtitleSize": {
+      "message": "Mida"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Color de fons"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Opacitat de fons"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "Negre"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Blau"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Cian"
+   },
+   "subtitleStyleColorGray": {
+      "message": "Gris"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "Verd"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Gris clar"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Magenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "Taronja"
+   },
+   "subtitleStyleColorRed": {
+      "message": "Vermell"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Blanc"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "Groc"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Tipus de lletra personalitzats"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Per exemple: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Personalitzat"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Cap"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Contorn"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Ombra"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Estil de vora"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Bilingüe"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Vista d'edició d'estil"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Només traducció"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Segueix l'estil de la traducció"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Personalitzat"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Per defecte"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Tipus de lletra"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Cap"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Mida del tipus de lletra"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Pes de la font"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Disposició bilingüe"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Espaiat entre línies"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "L'ajust es desarà i serà efectiu immediatament."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Configuració de l'estil dels subtítols"
+   },
+   "subtitleStyleOrder": {
+      "message": "Ordre dels subtítols"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Original a dalt"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Traducció a dalt"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Estil de l'original"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Proporció de mida"
+   },
+   "subtitleStylePosition": {
+      "message": "Posició"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Baix"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Centre"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Dalt"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "En temps real"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Creia que aquest jove tenia molt potencial."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Previsualització"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Restaura els valors predeterminats"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Estil de subtítols"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Fons compartit"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Alineació horitzontal"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Centre"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Esquerra"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Dreta"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Color de la lletra"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Estil de la traducció"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Utilitza la configuració actual"
+   },
+   "subtitles": {
+      "message": "Subtítols"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Els subtítols d'aquest vídeo estan actualment limitats per YouTube. Si us plau, torna-ho a provar més tard."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Commuta la configuració de volum entre àudio original i doblat"
+   },
+   "switchModelWarning": {
+      "message": "Canviar la veu o el model de traducció durant la reproducció del vídeo comportarà càrrecs addicionals a causa de recursos desaprofitats. Et recomanem canviar-lo al següent vídeo. Per continuar igualment, fes clic a Continuar i desar."
+   },
+   "targetLanguage": {
+      "message": "Idioma de destí"
+   },
+   "target_languages": {
+      "message": "Idioma de destí:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Aquest vídeo ja s'està processant per al reconeixement de subtítols amb IA. Si us plau, espereu la notificació per correu electrònic."
+   },
+   "textToSpeech": {
+      "message": "Text a veu:"
+   },
+   "textToSpeechToggle": {
+      "message": "Bola flotant"
+   },
+   "toggleSubtitles": {
+      "message": "Commuta els subtítols"
+   },
+   "tooExpensive": {
+      "message": "Massa car"
+   },
+   "translateEngineTipText": {
+      "message": "canvia el servei de traducció a Google"
+   },
+   "translateService": {
+      "message": "Traduir:"
+   },
+   "translatedAudio": {
+      "message": "Doblada"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Afegeix una substitució del text traduït"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Afegeix una substitució del text traduït"
+   },
+   "translatedReplacementDescription": {
+      "message": "Substitueix paraules o frases de la traducció acabada mitjançant regles personals."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Edita la substitució del text traduït"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Només es modifica la traducció acabada; el text original i la memòria cau de traduccions no canvien."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Encara no hi ha cap regla de substitució del text traduït."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "Si es desactiva, la regla es conserva però no s’aplica al text traduït."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Paraula o frase del text traduït"
+   },
+   "translatedReplacementFindText": {
+      "message": "Text traduït"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Llengua de destinació"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Paraula o frase que es mostrarà en lloc seu"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Substitueix per"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "No s’ha trobat cap substitució coincident."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Cerca al text traduït"
+   },
+   "translatedReplacementTitle": {
+      "message": "Substitucions del text traduït"
+   },
+   "translationDomainAuto": {
+      "message": "Automoció"
+   },
+   "translationDomainChess": {
+      "message": "Escacs"
+   },
+   "translationDomainEcommerce": {
+      "message": "Comerç electrònic"
+   },
+   "translationDomainEducation": {
+      "message": "Educació"
+   },
+   "translationDomainFashion": {
+      "message": "Moda"
+   },
+   "translationDomainFinance": {
+      "message": "Finances"
+   },
+   "translationDomainFood": {
+      "message": "Menjar i cuina"
+   },
+   "translationDomainGaming": {
+      "message": "Videojocs"
+   },
+   "translationDomainGardening": {
+      "message": "Jardineria"
+   },
+   "translationDomainGeneral": {
+      "message": "General"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Dret"
+   },
+   "translationDomainMedical": {
+      "message": "Medicina i salut"
+   },
+   "translationDomainMovies": {
+      "message": "Cinema i televisió"
+   },
+   "translationDomainMusic": {
+      "message": "Música"
+   },
+   "translationDomainNews": {
+      "message": "Notícies i mitjans"
+   },
+   "translationDomainPets": {
+      "message": "Mascotes"
+   },
+   "translationDomainPhotography": {
+      "message": "Fotografia"
+   },
+   "translationDomainProgramming": {
+      "message": "Programació"
+   },
+   "translationDomainSports": {
+      "message": "Esports"
+   },
+   "translationDomainTech": {
+      "message": "Tecnologia"
+   },
+   "translationDomainTravel": {
+      "message": "Viatges"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 i cripto"
+   },
+   "translationEngine": {
+      "message": "Motor de traducció"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "Traducció amb IA"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Quan està activat, la traducció amb IA utilitza la configuració següent. Quan està desactivat, la configuració existent es conserva."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Aplica el glossari i les substitucions de text a la traducció amb IA"
+   },
+   "translationService": {
+      "message": "Servei de traducció"
+   },
+   "translationServiceTitle": {
+      "message": "Servei de traducció"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Aquest vídeo no té subtítols. Com a membre de prova, només es poden reconèixer subtítols de vídeos de menys de 15 minuts. Els membres premium poden reconèixer vídeos de fins a 3 hores."
+   },
+   "trialMemberModelLimit": {
+      "message": "Els membres de prova només poden utilitzar Gemini i Google Translate. Per utilitzar altres models, si us plau subscriu-te a la nostra membresía."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "El doblatge universal requereix potència de càlcul GPU al núvol (cost elevat), només per a VIP."
+   },
+   "universalDubbingNotSupported": {
+      "message": "El doblatge universal no és compatible amb aquest vídeo en la versió actual. El suport està previst per a la pròxima versió. Si us plau, contacta amb el servei d'atenció al client per obtenir més informació."
+   },
+   "unknownError": {
+      "message": "S'ha produït un error desconegut. Si us plau, torna-ho a provar."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Actualitza a membresía i el complement reconeixerà els subtítols IA en segon pla. Després de rebre la notificació per correu electrònic, torna a veure'l; el botó de doblatge es tornarà verd i les traduccions seran més precises."
+   },
+   "uploadComplete": {
+      "message": "Pujada completada"
+   },
+   "uploadFailed": {
+      "message": "Error en pujar"
+   },
+   "uploadMediaForRecognition": {
+      "message": "No s'han trobat subtítols. Vols pujar el vídeo per al reconeixement de subtítols amb IA?"
+   },
+   "uploading": {
+      "message": "Pujant"
+   },
+   "uploadingMedia": {
+      "message": "Pujant multimèdia..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Compte d'usuari"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Quan està activada, segmenta automàticament els subtítols editats o pujats localment. Quan està desactivada, conserva la segmentació original."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Segmentació intel·ligent dels subtítols de l'usuari"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Àmbit detectat del vídeo actual: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Aquest vídeo està protegit per DRM i no es pot utilitzar per al doblatge."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Aquest vídeo supera les 3 hores de durada. El doblatge universal no és compatible actualment amb vídeos de més de 3 hores."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Necessites ser membre i tenir saldo suficient per utilitzar aquesta funció"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Es requereix membresía i saldo"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Com a membre, pots utilitzar els següents serveis de traducció gratuïtament"
+   },
+   "vipRequiredText": {
+      "message": "Necessites ser membre per utilitzar aquesta funció"
+   },
+   "vipRequiredTitle": {
+      "message": "Es requereix membresía"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Canvia el servei de traducció a serveis gratuïts per a membres com gemini, deepseek, gpt-3.5-turbo o claude-3-haiku"
+   },
+   "voice": {
+      "message": "Veu"
+   },
+   "voiceSettingsMismatch": {
+      "message": "El tipus de veu i la configuració de veu no coincideixen. Aneu a la pàgina de configuració per tornar a seleccionar i desar la configuració de veu."
+   },
+   "voiceTypeTipText": {
+      "message": "canvia el tipus de veu a la versió gratuïta"
+   },
+   "voices": {
+      "message": "Veu:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Veu i subtítols"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Veu i subtítols"
+   },
+   "voicesType": {
+      "message": "Tipus de veu:"
+   },
+   "waitingForRecognition": {
+      "message": "Vídeo pujat amb èxit. El reconeixement de subtítols amb IA està en curs. Rebràs una notificació per correu electrònic quan estigui llest."
+   },
+   "woman": {
+      "message": "Dona"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "El vostre navegador no admet el reconeixement de càrrega de gravacions de Zoom. Si us plau, utilitzeu Chrome/Edge."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "S'ha prohibit la descàrrega de la gravació de Zoom (403). Si us plau, reproduïu/actualitzeu la pàgina per passar la verificació i torneu a intentar-ho."
+   }
+}

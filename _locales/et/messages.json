@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Konto jääk:"
+   },
+   "advancedSettings": {
+      "message": "Täpsemad Seaded"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "AI subtiitrid pole veel saadaval. Pistikprogramm on alustanud nende tuvastamist taustal. Pärast esimese dubleeritud lause kuulmist võid lehe sulgeda ja oodata e-posti teavitust; kui see on valmis, muutub dubleerimise nupp roheliseks ja tõlke kvaliteet on parem."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS on ainult liikmetele. Uuendage, et avada kvaliteetsed Azure'i hääled."
+   },
+   "back": {
+      "message": "Tagasi"
+   },
+   "backToSettings": {
+      "message": "Tagasi seadetesse"
+   },
+   "backToVideoLibrary": {
+      "message": "Tagasi videoteeki"
+   },
+   "backgroundAudio": {
+      "message": "Taustheli"
+   },
+   "balanceRequiredText": {
+      "message": "Sinu konto jääk on ebapiisav. Palun täienda kontot selle funktsiooni kasutamiseks"
+   },
+   "balanceRequiredTitle": {
+      "message": "Nõutav Jääk"
+   },
+   "balanceRunningLow": {
+      "message": "Sinu jääk hakkab otsa saama. Halva vaatamiskogemuse vältimiseks on soovitatav eelnevalt täiendada."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Palun seadista kiirklahvid brauseri laienduse seadetes"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Välistatud"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Keela kõik"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} sisseehitatud terminit"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Valdkond on keelatud"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Sobivaid valdkondi ei leitud."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Otsi valdkondi"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} valdkonda"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Sisseehitatud valdkonnakomplektid"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Praeguse sihtkeele jaoks pole sisseehitatud sõnastikku. Isiklikke termineid saad siiski lisada."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Luba kõik"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "Lubatud {enabled} / {total}"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Halda valdkondi"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "Luba või keela sihtkeele sisseehitatud sõnastiku valdkonnad."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Halda sisseehitatud valdkonnakomplekte"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Sisseehitatud reegel"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} sisseehitatud reeglit"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Luba või keela lähteteksti vigade parandamise sisseehitatud valdkonnad."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Halda lähteteksti vigade parandamise sisseehitatud valdkondi"
+   },
+   "cancel": {
+      "message": "Loobu"
+   },
+   "cancelButton": {
+      "message": "Loobu"
+   },
+   "completing": {
+      "message": "Lõpetamine"
+   },
+   "confirmButton": {
+      "message": "Jätka ja Salvesta"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Kas oled kindel, et soovid selle kõneleja kustutada?"
+   },
+   "contentMenusTitle": {
+      "message": "Alusta Dubleerimist"
+   },
+   "corsNotSupported": {
+      "message": "See veebisait ei luba meediafailide allalaadimist. Universaalne dubleerimine ei ole toetatud."
+   },
+   "debugInfo": {
+      "message": "Silumisteave"
+   },
+   "delete": {
+      "message": "Kustuta"
+   },
+   "deleteSpeaker": {
+      "message": "Kustuta"
+   },
+   "description": {
+      "message": "Ühe klõpsuga video tõlkimine ja dubleerimine—mõista võõrkeeli koheselt, ligipääs maailma teadmistele"
+   },
+   "disableGlobally": {
+      "message": "Keela globaalselt"
+   },
+   "disabledSitesActions": {
+      "message": "Toimingud"
+   },
+   "disabledSitesAdd": {
+      "message": "Lisa"
+   },
+   "disabledSitesDelete": {
+      "message": "Kustuta"
+   },
+   "disabledSitesDescription": {
+      "message": "Hõljuv nuppu ei kuvata järgmistel saitidel. Saate siit keelatud saite lisada või eemaldada."
+   },
+   "disabledSitesDomain": {
+      "message": "Domeen"
+   },
+   "disabledSitesEmpty": {
+      "message": "Keelatud saite pole"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Sisestage domeen, nt youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Keelatud saidid"
+   },
+   "disabledSitesTitle": {
+      "message": "Keelatud saitide haldamine"
+   },
+   "doNotClosePage": {
+      "message": "Palun ärge sulgege ega värskendage seda lehte üleslaadimise ajal, vastasel juhul üleslaadimine katkeb."
+   },
+   "doNotShowAgainLink": {
+      "message": "Ära näita uuesti"
+   },
+   "downloading": {
+      "message": "Allalaadimine"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Seda videot pole veel transkribeeritud. Palun klõpsa Dropboxi video allosas CC-nupul, et transkribeerida subtiitrid. Pärast transkribeerimise lõpetamist klõpsa pistikprogrammi dubleerimise nupul, et tõlkida ja dubleerida."
+   },
+   "dropdownNoOptions": {
+      "message": "Valikuid pole saadaval"
+   },
+   "dropdownPlaceholder": {
+      "message": "Palun vali"
+   },
+   "dropdownSearch": {
+      "message": "Otsi..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Sellel lehel pole praegu kasutatavat videot ega heli. Oodake, kuni video laadimine lõpeb, ja proovige uuesti või värskendage lehte."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Dubleerimiseks sobivat videot ei leitud"
+   },
+   "dubbingSettings": {
+      "message": "Dubleerimise Seaded"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Avan Edge'i laienduse kiirklahvide seadete lehe"
+   },
+   "edit": {
+      "message": "Muuda"
+   },
+   "editSpeaker": {
+      "message": "Muuda"
+   },
+   "emailNotificationDescription": {
+      "message": "Teavita mind e-posti teel, kui subtiitrite tuvastus on lõpetatud."
+   },
+   "emailNotificationLabel": {
+      "message": "E-posti teavitused"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "Salvestamine ebaõnnestus. Proovi hiljem uuesti."
+   },
+   "enterSpeakerName": {
+      "message": "Sisesta kõneleja nimi"
+   },
+   "enterVoice": {
+      "message": "Sisesta hääle nimi"
+   },
+   "error": {
+      "message": "Viga"
+   },
+   "female": {
+      "message": "Naine"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Avan Firefoxi lisandmoodulite lehe, palun määra kiirklahvid jaotises Laiendused ja Teemad"
+   },
+   "free": {
+      "message": "tasuta"
+   },
+   "freeForVip": {
+      "message": "VIP Tasuta"
+   },
+   "freeOptionTipText": {
+      "message": "Kui sa ei soovi täiendada, saad valida tasuta valiku, "
+   },
+   "freeUserDailyLimit": {
+      "message": "Tasuta kasutajad saavad päevas vaadata kuni 5 videot pistikprogrammi kaudu. Uuenda liikmelisusele, et avada piiramatu vaatamisõigus."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Sellel videol pole sisseehitatud subtiitreid. Palun telli pistikprogrammi liikmelisus subtiitrite tuvastamiseks ja naudi tõlke- ja dubleerimisfunktsioone."
+   },
+   "gender": {
+      "message": "Sugu"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Selle keele jaoks pole veel isiklikke termineid."
+   },
+   "glossaryCreateButton": {
+      "message": "Lisa isiklik termin"
+   },
+   "glossaryDescription": {
+      "message": "Määra lähteterminitele kindlad tõlked (nt Stratagem). Sinu terminid on sisseehitatud sõnastikust ülimuslikud."
+   },
+   "glossaryEditTitle": {
+      "message": "Muuda isiklikku terminit"
+   },
+   "glossaryEditorDescription": {
+      "message": "Lisada, muuta, lubada või kustutada saab ainult isiklikke sõnastikutermineid."
+   },
+   "glossarySearchEmpty": {
+      "message": "Sobivaid termineid ei leitud."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Otsi lähtetermineid"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Lähtetermin"
+   },
+   "glossarySourceTerm": {
+      "message": "Lähtetermin"
+   },
+   "glossaryTableTitle": {
+      "message": "Praeguse keele terminid"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Nõutav tõlge"
+   },
+   "glossaryTargetTerm": {
+      "message": "Tõlge"
+   },
+   "glossaryTitle": {
+      "message": "Sõnastik"
+   },
+   "hideUntilNextVisit": {
+      "message": "Peida järgmise külastuseni"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Video sisu dekrüpteerimine ebaõnnestus. Krüpteerimisvõti võib olla vale või videoformaat pole ühilduv."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Selle video dekrüpteerimisvõtme toomine ebaõnnestus. Video võib olla kaitstud või võtmeserver pole saadaval."
+   },
+   "insufficientBalance": {
+      "message": "Ebapiisava jäägi tõttu on teenus alandatud Google Translate'ile. AI tõlke kasutamiseks palun täienda oma krediiti."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Sinu jääk on ebapiisav. Palun täienda oma jääki enne AI tõlke ja Azure TTS kasutamist. Kui sa ei soovi täiendada, saad lülituda tagasi Google Translate'ile ja tasuta häälte tüüpidele."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Palun uuenda liikmelisust ja täienda jääki enne AI tõlke ja Azure TTS kasutamist. Kui sa ei soovi, saad valida ka Google Translate'i ja tasuta häälte tüübid."
+   },
+   "insufficientMembership": {
+      "message": "Sinu liikmelisus on aegunud. Palun uuenda liikmelisust enne AI tõlke ja Azure TTS kasutamist. Kui sa ei soovi uuendada, saad valida ka Google Translate'i ja tasuta häälte tüübid."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Teine brauseri laiendus blokeerib subtiitrite päringute pealtkuulamist. Keela konfliktsed laiendused, värskenda lehte ja proovi uuesti."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "Tuvastatud laienduse konflikt"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Lülita sisse algne heli"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "Universaalne dubleerimine pole iOS-seadmetes toetatud. Palun kasutage lauaarvuti brauserit."
+   },
+   "liveStreamNotSupported": {
+      "message": "Otseülekandeid ei toetata universaalse dubleerimise jaoks."
+   },
+   "liveVideoNotSupported": {
+      "message": "Reaalajas videod ei ole praegu dubleerimiseks toetatud"
+   },
+   "loading": {
+      "message": "laadimine"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Lisa alapealkiri"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Subtiitrite lisamine ebaõnnestus."
+   },
+   "localPlayerAddVideo": {
+      "message": "Lisa video"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Video lisamine ebaõnnestus."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Kõik subtiitrite lingid on eemaldatud."
+   },
+   "localPlayerAllVideos": {
+      "message": "Kõik videod"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Otsige ja hallake kõiki imporditud videoid."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Kasvav; klõpsake kahanevale režiimile lülitumiseks"
+   },
+   "localPlayerAssociate": {
+      "message": "Lingi alapealkiri"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Linkige subtiitrid ja kasutage seda hääle dubleerimiseks"
+   },
+   "localPlayerAssociated": {
+      "message": "Seotud"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Lingitud väljaspool seda kausta"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "Subtiitrite link on eemaldatud."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "Subtiitrite link on salvestatud."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Subtiitrid on lingitud ja häälestatud dubleerimiseks."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Tagasi kaustadesse"
+   },
+   "localPlayerClose": {
+      "message": "Sule"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Praegune kataloog"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Videodublaaž"
+   },
+   "localPlayerDelete": {
+      "message": "Kustuta"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Video kustutamine ebaõnnestus."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Kustuta {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "See eemaldab kohalikust raamatukogust video ja subtiitrite lingid. Ketta originaalfaile ei kustutata."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Kas kustutada see video?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "kahanevalt; kasvavale režiimile lülitumiseks klõpsake nuppu"
+   },
+   "localPlayerDropHint": {
+      "message": "Pukseerige videod või .srt/.vtt/.ass subtiitrite failid siia"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Failide importimiseks vabastage hiir"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "Hääl dubleerimine algas"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Kohaliku hääle dubleerimise käivitamine ebaõnnestus."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "Algas kohalik hääle dubleerimine."
+   },
+   "localPlayerEntryButton": {
+      "message": "Kohalik video"
+   },
+   "localPlayerFilterAll": {
+      "message": "Kõik"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Ilma lingitud subtiitriteta"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Lingitud subtiitritega"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Kohalikud video kiirtoimingud"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Juurdepääs kaustale on saadaval"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "Kausta avamine salvestab failikäepidemed, nii et juurdepääsu saab pärast värskendamist taastada."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "See brauser ei saa kaustu avada. Kasutage ajutiseks importimiseks käsku Lisa video/Lisa subtiitrid."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} seotud subtiitreid"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Viimati mängitud {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Viimati skannitud {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Kaustatoimingud"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "Eemaldatud {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Otsige kaustu, teid või faile"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} videot"
+   },
+   "localPlayerFolders": {
+      "message": "Kaustad"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Sirvige imporditud meediat kaustade kaupa."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Sellel kohalikul videol ei ole lingitud subtiitreid. Tasuta kasutajad ei saa veel kohalike videote jaoks taustal subtiitrite tuvastamist kasutada. Täiendage liikmesust, et kasutada tehisintellekti subtiitrite tuvastamist, või laadige subtiitrite fail käsitsi üles enne hääle dubleerimise alustamist."
+   },
+   "localPlayerImportComplete": {
+      "message": "Imporditud {videoCount} videot ja {subtitleCount} subtiitreid."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Alustamiseks avage kaust, lisage videoid või pukseerige failid."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Kohalik videoteek"
+   },
+   "localPlayerLibraryView": {
+      "message": "Teegi vaade"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Sobitatud {visibleCount} / kokku {totalCount} kausta"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Sobivad {visibleCount} / kokku {totalCount} videot"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Originaalsubtiitrid"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Kohalik videoteek / Tekst kõneks"
+   },
+   "localPlayerNever": {
+      "message": "Mitte kunagi"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Reguleerige kaustaotsingut ja proovige uuesti."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Ühtegi kausta pole"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Subtiitreid pole hallata"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Reguleerige otsingut, filtrit või sortimist ja proovige uuesti."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Sobivaid videoid pole"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Uusi faile ei leitud."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Lingitud subtiitreid pole"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Kas soovite selle video tehisintellekti subtiitrite tuvastamiseks üles laadida? Üleslaadimist kasutatakse ainult subtiitrite tuvastamiseks, video kustutatakse kohe pärast tuvastamist ja teid teavitatakse meili teel."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Sellel videol pole subtiitreid"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Subtiitrite linkide ja kohaliku hääle dubleerimise haldamiseks avage kaust või lisage videoid."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Kohalikke videoid pole veel"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Pole lingitud"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Mängitakse praegu {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Ava kaust"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Kausta avamine ebaõnnestus."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Ava kaust"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Ava külgriba"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Külgriba avamine ebaõnnestus."
+   },
+   "localPlayerPageTitle": {
+      "message": "Kohalik video · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Esita videot"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Subtiitrid hääle dubleerimiseks."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "See alapealkiri on juba seotud \"{fromVideo}\". Jätkamisel eemaldatakse see seos ja seostatakse see failiga \"{toVideo}\"."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Kas siduda see alapealkiri uuesti?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Subtiitrite äratundmine"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Tühista kõigi subtiitrite link"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Ainult selle video subtiitrite lingid eemaldatakse. Subtiitrite failikirjeid ei kustutata."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Kas tühistada kõigi subtiitrite link?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Tühista subtiitrite link"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Kausta eemaldamine teegist ebaõnnestus."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "See eemaldab ainult selle kausta teegikirjed. Ketta originaalfaile ei kustutata."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Kas eemaldada see kaust teegist?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Eemalda teegist"
+   },
+   "localPlayerRescanAll": {
+      "message": "Kontrolli kõik uuesti"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Kohaliku teegi uuesti skannimine ebaõnnestus."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Seda kausta ei saa uuesti skannida, kuna juurdepääs salvestatud kaustadele pole saadaval."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Kontrollige seda kausta uuesti"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "URL-is määratud video ei ole praeguses kohalikus videoteegis."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Sama kausta subtiitrid {sameCount} · Lingitud {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Skannimine on lõpetatud: lisatud {addedVideoCount} videot, {addedSubtitleCount} subtiitreid, värskendatud {updatedCount} faili."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Otsige videoid või failiteid"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Valige selle alapealkirjaga linkimiseks video"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Kasutage seda subtiitrit hääle dubleerimiseks"
+   },
+   "localPlayerSortDuration": {
+      "message": "Video kestus"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Hiljuti esitatud videod"
+   },
+   "localPlayerSortName": {
+      "message": "Faili nimi"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Alustage hääle dubleerimist"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} lingitud subtiitrid"
+   },
+   "localPlayerSubtitles": {
+      "message": "Subtiitrid"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "See brauser ei toeta File System Access API. Saate ajutiselt lisada videoid ja subtiitreid."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Ajutise impordi režiim"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Loobu"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Tekst kõneks - Sihtkeel"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Ekspordi MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "Subtiitrite sisu ei tohi olla tühi"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Salvestamine Ebaõnnestus"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Sugu"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Tekst kõneks MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Tekst kõneks MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Salvestan..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Käsitsi sisend"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Käsitsi sisend - Tekst kõneks"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Sihtkeel"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Tekst kõneks: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Tekst kõneks"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Selle valiku jaoks pole häält saadaval."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Tekst kõneks"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "Tekst on liiga pikk. Lühendage seda ja proovige uuesti."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Hääl"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Häälte tüüp"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "Loodud pisipildid {count} video jaoks."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Pisipiltide genereerimine ebaõnnestus: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Kokku {count} kausta"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Kokku {count} videot"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Üleslaadimine tühistati."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Kasutatakse hääle dubleerimiseks"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "Kustutatud {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Juurdepääsu sellele videofailile ei saa taastada. Lisage video uuesti."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "Kohalikku videofaili ei saa lugeda. Lisage video uuesti."
+   },
+   "localPlayerVideoList": {
+      "message": "Videoloend"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "Videopleier pole veel valmis."
+   },
+   "login": {
+      "message": "Logi sisse"
+   },
+   "loginAndUsePlugin": {
+      "message": "Palun klõpsa esmalt pistikprogrammi ikoonil, et sisse logida, seejärel kasuta pistikprogrammi dubleerimiseks."
+   },
+   "logout": {
+      "message": "Logi välja"
+   },
+   "lowBalanceText": {
+      "message": "Sinu konto jääk on alla 1 dollari. Soovitame varsti täiendada, et tagada katkematu teenus"
+   },
+   "lowBalanceTitle": {
+      "message": "Madala Jäägi Hoiatus"
+   },
+   "male": {
+      "message": "Mees"
+   },
+   "man": {
+      "message": "Mees"
+   },
+   "mediaSourceNotDetected": {
+      "message": "Video allikat ei õnnestunud tuvastada. See veebisait ei pruugi olla toetatud."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Praegu kasutatakse laienduse taustal töötava AI tuvastatud subtiitreid. Kui tõlge tundub ebatäpne, muuda põhiseadetes subtiitrite eelistus platvormi subtiitriteks."
+   },
+   "memberFree": {
+      "message": "Liikmetele tasuta"
+   },
+   "memberFreeRequireMembership": {
+      "message": "See häälitüüp on ainult liikmetele. Uuendage, et seda tasuta kasutada."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Kasutad dubleerimiseks praegu tasuta hääletüüpi. Azure’i hääled kõlavad loomulikumalt; liikmed saavad nüüd Azure’i kasutada piiranguteta ja ilma lisakrediiti laadimata."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "Kehtiv kuni:"
+   },
+   "membershipIcon": {
+      "message": "Liikmelisuse Ikoon"
+   },
+   "membershipRequired": {
+      "message": "Palun osta liikmelisus enne OpenAI tõlke kasutamist."
+   },
+   "membershipRequiredForAI": {
+      "message": "Palun osta liikmelisus enne AI tõlke kasutamist. Kui sa ei soovi osta, saad valida ka Google Translate'i."
+   },
+   "membershipRequiredTitle": {
+      "message": "Liikmelisus nõutav"
+   },
+   "metadataNotFound": {
+      "message": "Video metaandmeid ei leitud, palun värskenda ja proovi uuesti"
+   },
+   "multiVideoNotSupported": {
+      "message": "Sellel lehel on mitu videot. Universaalne dubleerimine toetab HLS voogude kasutamisel ainult ühe videoga lehti."
+   },
+   "musicVideoNotSupported": {
+      "message": "See on muusikavideo. Tõlkimine ja dubleerimine ei ole toetatud."
+   },
+   "name": {
+      "message": "TranslateDub – Tõlgi & Dubleeri"
+   },
+   "noAudioTrackFound": {
+      "message": "Helirada ei tuvastatud. See video näib olevat ainult video ilma helita ja seda ei saa kasutada dubleerimise tuvastamiseks."
+   },
+   "noSpeakers": {
+      "message": "Kõnelejaid pole"
+   },
+   "noSubtitlesFound": {
+      "message": "Sellel videol pole subtiitreid ega toeta tõlkimist ja dubleerimist"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Subtiitreid pole saadaval. Palun oota, kuni pistikprogramm tuvastab selle video subtiitrid. Saad registreeritud e-posti aadressile teavituse, kui tuvastamine on lõpetatud."
+   },
+   "notSupported": {
+      "message": "Ei toetata"
+   },
+   "openBasicSettingsLink": {
+      "message": "Ava põhiseaded"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Põhi"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Hääldus"
+   },
+   "optionsNavSitesShort": {
+      "message": "Saidid"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Subtiitrid"
+   },
+   "originalAudio": {
+      "message": "Originaal"
+   },
+   "panelSummaryCollapse": {
+      "message": "Ahenda"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Ahenda kõik"
+   },
+   "panelSummaryCopy": {
+      "message": "Kopeeri"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Kopeeritud"
+   },
+   "panelSummaryDesc": {
+      "message": "Kasutage täiustatud tehisintellekti mudeleid video sisu kiireks mõistmiseks"
+   },
+   "panelSummaryError": {
+      "message": "Kokkuvõtte genereerimine ebaõnnestus, palun proovige uuesti"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "Praegust videot ei õnnestu tuvastada, palun värskendage lehte ja proovige uuesti"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "Video kokkuvõte on ainult liikmetele mõeldud funktsioon, kasutamiseks palun tellige"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Selle video jaoks pole subtiitreid saadaval, kokkuvõtet ei saa luua"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "Kokkuvõtte teenus on ajutiselt kättesaamatu, palun proovige hiljem uuesti"
+   },
+   "panelSummaryExpand": {
+      "message": "Laienda"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Laienda kõik"
+   },
+   "panelSummaryGenerate": {
+      "message": "Loo kokkuvõte"
+   },
+   "panelSummaryGenerating": {
+      "message": "Genereerimine..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Sellel videol pole subtiitreid saadaval"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Genereeri uuesti"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Uuesti genereerimine..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Olulisemad kohad"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Kokkuvõte"
+   },
+   "panelSummaryShare": {
+      "message": "Jaga"
+   },
+   "panelSummaryTitle": {
+      "message": "Video kokkuvõte ja ülevaade"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Subtiitrid"
+   },
+   "panelTabVideoSummary": {
+      "message": "Kokkuvõte"
+   },
+   "pauseVideo": {
+      "message": "Peata Video"
+   },
+   "pay": {
+      "message": "maksa"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Klõpsake videol selle avamiseks ja seejärel kasutage dubleerimisfunktsiooni."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Sisselogimine õnnestus. Klõpsa pistikprogrammi ikoonil, et valida tõlkekeel ja häälte loend."
+   },
+   "preferenceActionFailed": {
+      "message": "Toiming ebaõnnestus. Proovi hiljem uuesti."
+   },
+   "preferenceActions": {
+      "message": "Toimingud"
+   },
+   "preferenceAdd": {
+      "message": "Lisa"
+   },
+   "preferenceAllDomains": {
+      "message": "Kõik valdkonnad"
+   },
+   "preferenceAllStatuses": {
+      "message": "Kõik"
+   },
+   "preferenceCancel": {
+      "message": "Tühista"
+   },
+   "preferenceClearSearch": {
+      "message": "Tühjenda"
+   },
+   "preferenceDelete": {
+      "message": "Kustuta"
+   },
+   "preferenceDisabled": {
+      "message": "Keelatud"
+   },
+   "preferenceDomain": {
+      "message": "Valdkond"
+   },
+   "preferenceEdit": {
+      "message": "Muuda"
+   },
+   "preferenceEnabled": {
+      "message": "Lubatud"
+   },
+   "preferenceLanguage": {
+      "message": "Keel"
+   },
+   "preferenceLoadFailed": {
+      "message": "Laadimine ebaõnnestus. Logi sisse ja proovi uuesti."
+   },
+   "preferenceNextPage": {
+      "message": "Järgmine"
+   },
+   "preferencePageLabel": {
+      "message": "Leht {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Eelmine"
+   },
+   "preferenceSave": {
+      "message": "Salvesta"
+   },
+   "preferenceSearch": {
+      "message": "Otsi"
+   },
+   "preferenceSource": {
+      "message": "Allikas"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Sisseehitatud"
+   },
+   "preferenceSourceUser": {
+      "message": "Isiklik"
+   },
+   "preferenceStatus": {
+      "message": "Olek"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Keelatud"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Lubatud"
+   },
+   "preferencesDescription": {
+      "message": "Halda siin oma põhiseadeid."
+   },
+   "preferencesSectionTitle": {
+      "message": "Põhiseaded"
+   },
+   "preferencesTitle": {
+      "message": "Põhiseaded"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Sellel videol pole subtiitreid ja video kestus ületab 3 tundi, tõlkimine ja dubleerimine ei ole toetatud. Palun vali lühem video või video, millel on subtiitrid."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Sellel videol pole subtiitreid ja see on privaatne video. Laiendus ei saa selle video subtiitreid taustal tuvastada. Muutke video avalikuks või lisage subtiitrid käsitsi ja proovige uuesti."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Kas kustutada see hääldusreegel?"
+   },
+   "pronunciationEditRule": {
+      "message": "Muutke hääldusreeglit"
+   },
+   "pronunciationEditorHint": {
+      "message": "Valige parandatav pidev osa, seejärel sisestage selle hääldus."
+   },
+   "pronunciationEmpty": {
+      "message": "Ükski isiklik hääldusreegel ei vasta praegustele filtritele."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Esmalt sisestage sobiv tekst"
+   },
+   "pronunciationFineSelection": {
+      "message": "Täpne valik"
+   },
+   "pronunciationLoading": {
+      "message": "Laadimine…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Näiteks: tere"
+   },
+   "pronunciationMatchText": {
+      "message": "Sobiv tekst"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Ühendage külgnevad häälitsused"
+   },
+   "pronunciationModifier": {
+      "message": "Toon"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Neutraalne toon"
+   },
+   "pronunciationNewRule": {
+      "message": "Uus reegel"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Toon {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "esinemine {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Sisestage iga osa hääldus ja toon. Vajadusel lõigake või ühendage osad."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Sisestage pinyini silp"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "Pinyin silp"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Nutikas valik"
+   },
+   "pronunciationReading": {
+      "message": "Määratud hääldus"
+   },
+   "pronunciationReselect": {
+      "message": "Valige uuesti"
+   },
+   "pronunciationSaving": {
+      "message": "Salvestamine…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Otsige sobivat teksti"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Valige"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Valige parandatav tekst"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Valiku detailsus"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Valige pidev tekst."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "Salvestatud asukohta ei saa taastada. Valige tekst enne salvestamist uuesti."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Valitud: {text}; esinemine {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "Parandatud osa võib sisaldada kuni 128 tähemärki."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Määrake tõlgitud teksti jaoks isiklikud hääldused. Reeglid kehtivad ainult kohalikule dubleerimisele."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Hääldus"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Hääldusseaded"
+   },
+   "pronunciationSplitAt": {
+      "message": "Jaga kohas"
+   },
+   "pronunciationStatus": {
+      "message": "Olek"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Sihtkeel"
+   },
+   "pronunciationTargetText": {
+      "message": "Parandatud osa"
+   },
+   "pronunciationUnitReading": {
+      "message": "Osade kaupa hääldus"
+   },
+   "pronunciationUnknownError": {
+      "message": "Toiming ebaõnnestus. Proovige hiljem uuesti."
+   },
+   "pronunciationWholeReading": {
+      "message": "Terve hääldus"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Sisestage täielik toonitud hääldus. Tükeldage see, et valida iga osa jaoks toon."
+   },
+   "rechargeLimit": {
+      "message": "Krediit+Liige"
+   },
+   "replacementCreateButton": {
+      "message": "Lisa isiklik asendus"
+   },
+   "replacementDescription": {
+      "message": "Paranda korduvad subtiitrituvastuse vead (näiteks cloud code -> Claude Code) enne AI-tõlget."
+   },
+   "replacementEditTitle": {
+      "message": "Muuda isiklikku asendust"
+   },
+   "replacementEditorDescription": {
+      "message": "Enne AI-tõlget rakendatakse ainult isiklikke tekstiasendusi."
+   },
+   "replacementEmpty": {
+      "message": "Parandusreegleid veel pole."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Vale tekst, nt cloud code"
+   },
+   "replacementFindText": {
+      "message": "Vale tekst"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Asenda tekstiga, nt claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Asenda tekstiga"
+   },
+   "replacementSearchEmpty": {
+      "message": "Sobivaid asendusi ei leitud."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Otsi asendusi"
+   },
+   "replacementTitle": {
+      "message": "Lähteteksti vigade parandused"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Palun määra kiirklahvid Safari > Eelistused > Laiendused"
+   },
+   "sampleAesNotSupported": {
+      "message": "See video kasutab SAMPLE-AES krüpteerimist, mida hetkel allalaadimiseks ei toetata."
+   },
+   "save": {
+      "message": "Salvesta"
+   },
+   "saveFailedText": {
+      "message": "Seadete salvestamine ebaõnnestus, palun proovi uuesti"
+   },
+   "saveFailedTitle": {
+      "message": "Salvestamine Ebaõnnestus"
+   },
+   "saveSuccessText": {
+      "message": "Seaded edukalt salvestatud"
+   },
+   "saveSuccessTitle": {
+      "message": "Salvestamine Õnnestus"
+   },
+   "save_settings": {
+      "message": "Salvesta seaded"
+   },
+   "saving": {
+      "message": "Salvestan..."
+   },
+   "searchSourceLanguage": {
+      "message": "Otsi lähtekeelt..."
+   },
+   "searchTargetLanguage": {
+      "message": "Otsi sihtkeelt..."
+   },
+   "selectSourceLanguage": {
+      "message": "Vali lähtekeel"
+   },
+   "selectSpeaker": {
+      "message": "Vali"
+   },
+   "selectTargetLanguage": {
+      "message": "Vali sihtkeel"
+   },
+   "sex": {
+      "message": "Sugu:"
+   },
+   "shortcutSettings": {
+      "message": "Kiirklahvide seaded"
+   },
+   "showSubtitle": {
+      "message": "Subtiitrid:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Keela sellel saidil"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Keela globaalselt"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Peida kuni järgmise külastuseni"
+   },
+   "sidebarReenableHint": {
+      "message": "Saab uuesti lubada "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Seadetes"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Kui see on lubatud ja subtiitrite keel ühtib sihtkeelega, alustatakse dubleerimist otse ilma tõlketa."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Jäta tõlge vahele sama keele korral"
+   },
+   "sourceLanguage": {
+      "message": "Lähtekeel"
+   },
+   "source_languages": {
+      "message": "Lähtekeel:"
+   },
+   "speaker": {
+      "message": "Kõneleja"
+   },
+   "speakerList": {
+      "message": "Kõnelejate Loend"
+   },
+   "speakerName": {
+      "message": "Kõneleja Nimi"
+   },
+   "speakersTitle": {
+      "message": "Kõnelejad"
+   },
+   "startUpload": {
+      "message": "Alusta üleslaadimist"
+   },
+   "subscribe": {
+      "message": "Telli liikmelisus"
+   },
+   "subscriptionRecharge": {
+      "message": "Telli & täienda"
+   },
+   "subtitleDisplayMode": {
+      "message": "Subtiitrite režiim"
+   },
+   "subtitleEditorExport": {
+      "message": "Ekspordi"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Käsitsi sisend"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Minu subtiitrid"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Subtiitrite allikad pole saadaval (saadaval käsitsi sisestus)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "Salvestamine ebaõnnestus. Proovige hiljem uuesti."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Praegust videot ei õnnestu tuvastada. Salvestamine ebaõnnestus."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Subtiitrite vahetamiseks klõpsake siin"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Subtiitrite allikas"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Kehtetu SRT-plokk. Nõutav on järjestus, ajatempel ja sisu."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Iga alapealkiri peab sisaldama vähemalt ühte rida teksti"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "Subtiitrite sisu ei tohi olla tühi"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "Lõpuaeg peab olema algusajast pikem"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Sobimatu SRT järjenumbri vorming"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "SRT järjekorranumbrid peavad algama 1-st ja suurenema 1 võrra"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Mõned subtiitrid sisaldavad kõneleja silte. Kõik subtiitrid peavad kasutama eesliidet [speaker]."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Kehtetu kellaaja vorming. Palun vaadake üle ja parandage see."
+   },
+   "subtitleModeBilingual": {
+      "message": "Kakskeelsed subtiitrid"
+   },
+   "subtitleModeOff": {
+      "message": "Subtiitrid väljas"
+   },
+   "subtitleModeTranslated": {
+      "message": "Ainult tõlge"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Plugina AI tuvastatud subtiitrid"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Eelista plugina AI kõnetuvastuse loodud subtiitreid suurema täpsuse saavutamiseks."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Valige, millist subtiitrite allikat tõlkimisel eelistada."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Platvormi sisseehitatud subtiitrid"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Eelista videoplatvormi pakutavaid originaalsubtiitreid."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Subtiitrite tõlke prioriteet"
+   },
+   "subtitleSize": {
+      "message": "Suurus"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Taustavärv"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Tausta läbipaistmatus"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "Must"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Sinine"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Tsüaan"
+   },
+   "subtitleStyleColorGray": {
+      "message": "Hall"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "Roheline"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Helehall"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Magenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "Oranž"
+   },
+   "subtitleStyleColorRed": {
+      "message": "Punane"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Valge"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "Kollane"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Kohandatud font"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Näiteks: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Kohandatud"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Puudub"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Kontuur"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Vari"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Äärise tüüp"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Kakskeelne"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Stiili redigeerimisvaade"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Ainult tõlge"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Järgi tõlke stiili"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Kohandatud"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Vaikimisi"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Font"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Puudub"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Fondi suurus"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Fondi paksus"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Kakskeelne paigutus"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Reavahe"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "Kohandused salvestatakse ja jõustuvad kohe."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Subtiitrite stiili seaded"
+   },
+   "subtitleStyleOrder": {
+      "message": "Subtiitrite järjekord"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Originaal ülal"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Tõlge ülal"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Originaali stiil"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Fondisuuruse suhe"
+   },
+   "subtitleStylePosition": {
+      "message": "Asukoht"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Alumine"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Keskmine"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Ülemine"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "reaalajas"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Ta arvas, et sellel noormehel on palju potentsiaali."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Eelvaade"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Taasta vaikesätted"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Subtiitrite stiil"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Ühine taust"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Horisontaalne joondus"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Keskele"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Vasakule"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Paremale"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Fondi värv"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Tõlke stiil"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Kasutab praeguseid sätteid"
+   },
+   "subtitles": {
+      "message": "Subtiitrid"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Selle video subtiitrid on praegu YouTube'i poolt piiratud. Palun proovi hiljem uuesti."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Lülita helitugevuse seadeid algse ja dubleeritud heli vahel"
+   },
+   "switchModelWarning": {
+      "message": "Video esitamise ajal hääle või tõlkemudeli vahetamine toob kaasa lisatasusid raiskatud ressursside tõttu. Soovitame vahetada järgmises videos. Jätkamiseks klõpsa Jätka ja Salvesta."
+   },
+   "targetLanguage": {
+      "message": "Sihtkeel"
+   },
+   "target_languages": {
+      "message": "Sihtkeel:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Seda videot töödeldakse juba AI subtiitrite tuvastamiseks. Palun oodake e-posti teavitust."
+   },
+   "textToSpeech": {
+      "message": "Tekst kõneks:"
+   },
+   "textToSpeechToggle": {
+      "message": "Ujuvnupp"
+   },
+   "toggleSubtitles": {
+      "message": "Lülita subtiitreid"
+   },
+   "tooExpensive": {
+      "message": "Liiga kallis"
+   },
+   "translateEngineTipText": {
+      "message": "muuda tõlketeenus Google'iks"
+   },
+   "translateService": {
+      "message": "Tõlketeenus:"
+   },
+   "translatedAudio": {
+      "message": "Tõlkehääl"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Lisa tõlgitud teksti asendus"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Lisa tõlgitud teksti asendus"
+   },
+   "translatedReplacementDescription": {
+      "message": "Asenda valmis tõlkes sõnu või fraase isiklike reeglite abil."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Muuda tõlgitud teksti asendust"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Muudetakse ainult valmis tõlget; lähtetekst ja tõlke vahemälu jäävad muutmata."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Tõlgitud teksti asendusreegleid pole veel."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "Väljalülitamisel reegel säilitatakse, kuid seda ei rakendata tõlgitud tekstile."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Sõna või fraas tõlgitud tekstis"
+   },
+   "translatedReplacementFindText": {
+      "message": "Tõlgitud tekst"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Sihtkeel"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Selle asemel kuvatav sõna või fraas"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Asenda tekstiga"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Sobivaid tõlgitud teksti asendusi ei leitud."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Otsi tõlgitud tekstist"
+   },
+   "translatedReplacementTitle": {
+      "message": "Tõlgitud teksti asendused"
+   },
+   "translationDomainAuto": {
+      "message": "Autondus"
+   },
+   "translationDomainChess": {
+      "message": "Male"
+   },
+   "translationDomainEcommerce": {
+      "message": "E-kaubandus"
+   },
+   "translationDomainEducation": {
+      "message": "Haridus"
+   },
+   "translationDomainFashion": {
+      "message": "Mood"
+   },
+   "translationDomainFinance": {
+      "message": "Rahandus"
+   },
+   "translationDomainFood": {
+      "message": "Toit ja kokandus"
+   },
+   "translationDomainGaming": {
+      "message": "Mängud"
+   },
+   "translationDomainGardening": {
+      "message": "Aiandus"
+   },
+   "translationDomainGeneral": {
+      "message": "Üldine"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Õigus"
+   },
+   "translationDomainMedical": {
+      "message": "Meditsiin ja tervis"
+   },
+   "translationDomainMovies": {
+      "message": "Filmid ja TV"
+   },
+   "translationDomainMusic": {
+      "message": "Muusika"
+   },
+   "translationDomainNews": {
+      "message": "Uudised ja meedia"
+   },
+   "translationDomainPets": {
+      "message": "Lemmikloomad"
+   },
+   "translationDomainPhotography": {
+      "message": "Fotograafia"
+   },
+   "translationDomainProgramming": {
+      "message": "Programmeerimine"
+   },
+   "translationDomainSports": {
+      "message": "Sport"
+   },
+   "translationDomainTech": {
+      "message": "Tehnoloogia"
+   },
+   "translationDomainTravel": {
+      "message": "Reisimine"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 ja krüpto"
+   },
+   "translationEngine": {
+      "message": "Tõlkemootor"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI-tõlge"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Kui see on sisse lülitatud, kasutab AI-tõlge allolevaid seadeid. Väljalülitamisel jäävad olemasolevad seaded alles."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Kasuta AI-tõlkes sõnastikku ja tekstiasendusi"
+   },
+   "translationService": {
+      "message": "Tõlketeenus"
+   },
+   "translationServiceTitle": {
+      "message": "Tõlketeenus"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Sellel videol pole subtiitreid. Prooviliikmena toetatakse praegu ainult alla 15-minutiliste videote subtiitrite tuvastamist. Tasuliikmed toetavad kuni 3-tunniseid videoid."
+   },
+   "trialMemberModelLimit": {
+      "message": "Prooviliikmid saavad kasutada ainult Geminit ja Google Translate'i. Teiste mudelite kasutamiseks palun telli meie liikmelisus."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Universaalne dubleerimine nõuab pilve GPU arvutusvõimsust (kõrge kulu), ainult VIP-idele."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Universaalne dubleerimine ei ole selle video puhul praeguses versioonis toetatud. Tugi on planeeritud järgmises versioonis. Palun võta ühendust klienditeenindusega."
+   },
+   "unknownError": {
+      "message": "Tekkis tundmatu viga. Palun proovige uuesti."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Uuenda liikmelisusele ja pistikprogramm tuvastab AI subtiitrid taustal. Pärast e-posti teavituse saamist tule tagasi vaatama; dubleerimise nupp muutub roheliseks ja tõlked on täpsemad."
+   },
+   "uploadComplete": {
+      "message": "Üleslaadimine lõpetatud"
+   },
+   "uploadFailed": {
+      "message": "Üleslaadimine ebaõnnestus"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Subtiitreid ei leitud. Kas soovite video üles laadida AI subtiitrite tuvastamiseks?"
+   },
+   "uploading": {
+      "message": "Üleslaadimine"
+   },
+   "uploadingMedia": {
+      "message": "Meedia üleslaadimine..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Kasutajakonto"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Kui see on sisse lülitatud, liigendatakse muudetud või kohapeal üles laaditud subtiitrid automaatselt. Väljalülitamisel säilib algne liigendus."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Kasutaja subtiitrite nutikas liigendus"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Praeguse video tuvastatud valdkond: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "See video on DRM-iga kaitstud ja seda ei saa dubleerimiseks kasutada."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "See video ületab 3 tundi pikkust. Universaalne dubleerimine ei ole praegu toetatud videote puhul, mis on pikemad kui 3 tundi."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Selle funktsiooni kasutamiseks pead olema liige ja omama piisavat jääki"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Nõutav Liikmelisus ja Jääk"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Liikmena saad kasutada järgmisi tõlketeenuseid tasuta"
+   },
+   "vipRequiredText": {
+      "message": "Selle funktsiooni kasutamiseks pead olema liige"
+   },
+   "vipRequiredTitle": {
+      "message": "Nõutav Liikmelisus"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Muuda tõlketeenus liikmetele tasuta teenusteks nagu gemini, deepseek, gpt-3.5-turbo või claude-3-haiku"
+   },
+   "voice": {
+      "message": "Hääl"
+   },
+   "voiceSettingsMismatch": {
+      "message": "Hääle tüüp ja hääle seaded ei ühti. Minge seadete lehele, et valida uuesti ja salvestada hääle seaded."
+   },
+   "voiceTypeTipText": {
+      "message": "muuda häälte tüüp tasuta versiooniks"
+   },
+   "voices": {
+      "message": "Hääl:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Hääl ja Subtiitrid"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Hääl ja Subtiitrid"
+   },
+   "voicesType": {
+      "message": "Häälte tüüp:"
+   },
+   "waitingForRecognition": {
+      "message": "Video on edukalt üles laaditud. AI subtiitrite tuvastamine on käimas. Saate e-kirja teavituse, kui see on valmis."
+   },
+   "woman": {
+      "message": "Naine"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Teie brauser ei toeta Zoomi salvestuse üleslaadimise tuvastamist. Palun kasutage Chrome/Edge."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Zoomi salvestuse allalaadimine keelati (403). Palun esitage/värskendage lehte kinnitamiseks ja proovige uuesti."
+   }
+}

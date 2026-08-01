@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Accountsaldo:"
+   },
+   "advancedSettings": {
+      "message": "Geavanceerde instellingen"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "AI-ondertitels zijn nog niet beschikbaar. De plugin is begonnen met herkennen op de achtergrond. Nadat u de eerste nasynchronisatiezin hoort, kunt u de pagina sluiten en wachten op de e-mailmelding; wanneer deze klaar is, wordt de nasynchronisatieknop groen en is de vertaalkwaliteit beter."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS is alleen voor leden. Upgrade om hoogwaardige Azure-stemmen te ontgrendelen."
+   },
+   "back": {
+      "message": "Terug"
+   },
+   "backToSettings": {
+      "message": "Terug naar instellingen"
+   },
+   "backToVideoLibrary": {
+      "message": "Terug naar videobibliotheek"
+   },
+   "backgroundAudio": {
+      "message": "BGM"
+   },
+   "balanceRequiredText": {
+      "message": "Uw accountsaldo is ontoereikend. Laad op om deze functie te gebruiken"
+   },
+   "balanceRequiredTitle": {
+      "message": "Saldo vereist"
+   },
+   "balanceRunningLow": {
+      "message": "Uw saldo raakt op. Om een slechte kijkervaring te voorkomen, wordt aangeraden van tevoren op te laden."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Configureer sneltoetsen in browserextensie-instellingen"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Uitgesloten"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Alles uitschakelen"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} ingebouwde termen"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Domein uitgeschakeld"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Geen overeenkomende domeinen."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Domeinen zoeken"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} domeinen"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Ingebouwde domeinsets"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Er is geen ingebouwde woordenlijst beschikbaar voor de huidige doeltaal. U kunt nog steeds persoonlijke termen toevoegen."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Alles inschakelen"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} van {total} ingeschakeld"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Domeinen beheren"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "Schakel domeinen van de ingebouwde woordenlijst voor de doeltaal in of uit."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Ingebouwde domeinsets beheren"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Ingebouwde regel"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} ingebouwde regels"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Schakel ingebouwde domeinen voor correctie van de brontekst in of uit."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Ingebouwde domeinen voor correctie van de brontekst beheren"
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "cancelButton": {
+      "message": "Annuleren"
+   },
+   "completing": {
+      "message": "Voltooien"
+   },
+   "confirmButton": {
+      "message": "Doorgaan"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Weet u zeker dat u deze spreker wilt verwijderen?"
+   },
+   "contentMenusTitle": {
+      "message": "Voice-over afspelen starten"
+   },
+   "corsNotSupported": {
+      "message": "Deze website staat het downloaden van mediabestanden niet toe. Universele nasynchronisatie wordt niet ondersteund."
+   },
+   "debugInfo": {
+      "message": "Debug-info"
+   },
+   "delete": {
+      "message": "Verwijderen"
+   },
+   "deleteSpeaker": {
+      "message": "Verwijderen"
+   },
+   "description": {
+      "message": "Videovertalingen en nasynchronisatie—begrijp vreemde talen, krijg toegang tot wereldwijde kennis"
+   },
+   "disableGlobally": {
+      "message": "Wereldwijd uitschakelen"
+   },
+   "disabledSitesActions": {
+      "message": "Acties"
+   },
+   "disabledSitesAdd": {
+      "message": "Toevoegen"
+   },
+   "disabledSitesDelete": {
+      "message": "Verwijderen"
+   },
+   "disabledSitesDescription": {
+      "message": "De zwevende bal verschijnt niet op de volgende websites. U kunt hier uitgeschakelde websites toevoegen of verwijderen."
+   },
+   "disabledSitesDomain": {
+      "message": "Domein"
+   },
+   "disabledSitesEmpty": {
+      "message": "Geen uitgeschakelde websites"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Voer een domein in, bijv. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Uitgeschakelde websites"
+   },
+   "disabledSitesTitle": {
+      "message": "Uitgeschakelde websites beheren"
+   },
+   "doNotClosePage": {
+      "message": "Sluit of vernieuw deze pagina niet tijdens het uploaden, anders wordt de upload onderbroken."
+   },
+   "doNotShowAgainLink": {
+      "message": "Niet meer tonen"
+   },
+   "downloading": {
+      "message": "Downloaden"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Deze video is nog niet getranscribeerd. Klik op de CC-knop onderaan de Dropbox-video om de ondertitels te transcriberen. Nadat de transcriptie is voltooid, klikt u op de nasynchronisatieknop van de plugin om te vertalen en na te synchroniseren."
+   },
+   "dropdownNoOptions": {
+      "message": "Geen opties beschikbaar"
+   },
+   "dropdownPlaceholder": {
+      "message": "Kies"
+   },
+   "dropdownSearch": {
+      "message": "Zoeken..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Er is momenteel geen bruikbare video of audio beschikbaar op deze pagina. Wacht tot de video klaar is met laden en probeer het opnieuw, of vernieuw de pagina."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Geen video gevonden voor nasynchronisatie"
+   },
+   "dubbingSettings": {
+      "message": "Nasynchronisatie-instellingen"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Edge-extensie sneltoetsinstellingenpagina openen"
+   },
+   "edit": {
+      "message": "Bewerken"
+   },
+   "editSpeaker": {
+      "message": "Bewerken"
+   },
+   "emailNotificationDescription": {
+      "message": "Stuur mij een e-mail wanneer de ondertitelherkenning is voltooid."
+   },
+   "emailNotificationLabel": {
+      "message": "E-mailmeldingen"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "Opslaan mislukt. Probeer het later opnieuw."
+   },
+   "enterSpeakerName": {
+      "message": "Voer sprekernaam in"
+   },
+   "enterVoice": {
+      "message": "Voer stemnaam in"
+   },
+   "error": {
+      "message": "Fout"
+   },
+   "female": {
+      "message": "Vrouwelijk"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Firefox add-ons pagina openen, stel sneltoetsen in bij Extensies en Thema's"
+   },
+   "free": {
+      "message": "Gratis"
+   },
+   "freeForVip": {
+      "message": "VIP Gratis"
+   },
+   "freeOptionTipText": {
+      "message": "Als u niet wilt opladen, kunt u de gratis optie kiezen, "
+   },
+   "freeUserDailyLimit": {
+      "message": "Gratis gebruikers kunnen maximaal 5 video's per dag bekijken via de plugin. Upgrade naar lidmaatschap om onbeperkte kijkvoordelen te ontgrendelen."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Deze video heeft geen ingebouwde ondertitels. Abonneer u op het plugin-lidmaatschap voor ondertitelherkenning en geniet van vertalings- en nasynchronisatiefuncties."
+   },
+   "gender": {
+      "message": "Geslacht"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Er zijn nog geen persoonlijke termen voor deze taal."
+   },
+   "glossaryCreateButton": {
+      "message": "Persoonlijke term toevoegen"
+   },
+   "glossaryDescription": {
+      "message": "Leg vaste vertalingen voor brontermen vast (bijv. Stratagem). Uw termen hebben voorrang op de ingebouwde woordenlijst."
+   },
+   "glossaryEditTitle": {
+      "message": "Persoonlijke term bewerken"
+   },
+   "glossaryEditorDescription": {
+      "message": "Alleen termen in de persoonlijke woordenlijst kunnen worden toegevoegd, bewerkt, ingeschakeld of verwijderd."
+   },
+   "glossarySearchEmpty": {
+      "message": "Geen overeenkomende termen."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Brontermen zoeken"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Bronterm"
+   },
+   "glossarySourceTerm": {
+      "message": "Bronterm"
+   },
+   "glossaryTableTitle": {
+      "message": "Termen voor de huidige taal"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Verplichte vertaling"
+   },
+   "glossaryTargetTerm": {
+      "message": "Vertaling"
+   },
+   "glossaryTitle": {
+      "message": "Woordenlijst"
+   },
+   "hideUntilNextVisit": {
+      "message": "Verbergen tot het volgende bezoek"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Kan de video-inhoud niet ontsleutelen. De encryptiesleutel is mogelijk onjuist of het videoformaat is niet compatibel."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Kan de decryptiesleutel voor deze video niet ophalen. De video is mogelijk beveiligd of de sleutelserver is niet beschikbaar."
+   },
+   "insufficientBalance": {
+      "message": "Vanwege onvoldoende saldo is de service gedowngrade naar Google Translate. Om AI-vertaling te gebruiken, laadt u uw tegoed op."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Uw saldo is ontoereikend. Laad uw saldo op voordat u AI-vertaling en Azure TTS gebruikt. Als u niet wilt opladen, kunt u terugschakelen naar Google Translate en gratis stemtypen."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Laad uw lidmaatschap en saldo op voordat u AI-vertaling en Azure TTS gebruikt. Als u niet wilt opladen, kunt u ook Google Translate en gratis stemtypen kiezen."
+   },
+   "insufficientMembership": {
+      "message": "Uw lidmaatschap is verlopen. Laad uw lidmaatschap op voordat u AI-vertaling en Azure TTS gebruikt. Als u niet wilt opladen, kunt u ook Google Translate en gratis stemtypen kiezen."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Een andere browserextensie blokkeert ondertitelverzoekonderschepping. Schakel conflicterende extensies uit, ververs de pagina en probeer het opnieuw."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "Extensieconflict gedetecteerd"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Originele audio inschakelen"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "Universele nasynchronisatie wordt niet ondersteund op iOS-apparaten. Gebruik een desktopbrowser."
+   },
+   "liveStreamNotSupported": {
+      "message": "Livestreams worden niet ondersteund voor universele nasynchronisatie."
+   },
+   "liveVideoNotSupported": {
+      "message": "Livestreams worden momenteel niet ondersteund voor nasynchronisatie"
+   },
+   "loading": {
+      "message": "laden"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Ondertitel toevoegen"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Kan ondertiteling niet toevoegen."
+   },
+   "localPlayerAddVideo": {
+      "message": "Video toevoegen"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Kan video niet toevoegen."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Alle ondertitellinks verwijderd."
+   },
+   "localPlayerAllVideos": {
+      "message": "Alle video's"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Zoek en beheer elke geïmporteerde video."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Oplopend; klik om naar aflopend te gaan"
+   },
+   "localPlayerAssociate": {
+      "message": "Ondertitel linken"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Koppel ondertitels en gebruik deze voor voice dubbing"
+   },
+   "localPlayerAssociated": {
+      "message": "Gekoppeld"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Gelinkt buiten deze map"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "Ondertitellink verwijderd."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "Ondertitellink opgeslagen."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Ondertiteling gekoppeld en ingesteld voor spraaknasynchronisatie."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Terug naar mappen"
+   },
+   "localPlayerClose": {
+      "message": "Sluiten"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Huidige map"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Videodubbing"
+   },
+   "localPlayerDelete": {
+      "message": "Verwijderen"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Kan video niet verwijderen."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Verwijder {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "Hiermee worden de video- en ondertitellinks uit de lokale bibliotheek verwijderd. Originele bestanden op schijf worden niet verwijderd."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Deze video verwijderen?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "Aflopend; klik om naar oplopend te schakelen"
+   },
+   "localPlayerDropHint": {
+      "message": "Zet hier video's of .srt/.vtt/.ass ondertitelbestanden neer"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Laat de muis los om bestanden te importeren"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "Het nasynchroniseren van stemmen is gestart"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Kan lokale stemsynchronisatie niet starten."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "Lokale voice-dubben gestart."
+   },
+   "localPlayerEntryButton": {
+      "message": "Lokale video"
+   },
+   "localPlayerFilterAll": {
+      "message": "Allemaal"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Zonder gekoppelde ondertitels"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Met gekoppelde ondertitels"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Snelle acties voor lokale video"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Maptoegang beschikbaar"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "Bij het openen van een map worden bestandshandvatten opgeslagen, zodat de toegang na het vernieuwen kan worden hersteld."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Deze browser kan geen mappen openen. Gebruik Video toevoegen/Ondertiteling toevoegen voor een tijdelijke import."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} bijbehorende ondertitels"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Laatst gespeeld {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Laatst gescand {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Mapacties"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "Verwijderd {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Zoek in mappen, paden of bestanden"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} video's"
+   },
+   "localPlayerFolders": {
+      "message": "Mappen"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Blader door geïmporteerde media op map."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Deze lokale video heeft geen gekoppelde ondertiteling. Gratis gebruikers kunnen nog geen achtergrondondertitelherkenning gebruiken voor lokale video's. Upgrade het lidmaatschap om AI-ondertitelherkenning te gebruiken, of upload handmatig een ondertitelingsbestand voordat u begint met het nasynchroniseren van stemmen."
+   },
+   "localPlayerImportComplete": {
+      "message": "Geïmporteerde {videoCount} video's en {subtitleCount} ondertitels."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Open een map, voeg video's toe of zet bestanden neer om te starten."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Lokale videotheek"
+   },
+   "localPlayerLibraryView": {
+      "message": "Bibliotheekweergave"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Overeenkomende {visibleCount} / totaal {totalCount} mappen"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Komt overeen met {visibleCount} / totaal {totalCount} video's"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Originele ondertitels"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Lokale videotheek / Tekst naar spraak"
+   },
+   "localPlayerNever": {
+      "message": "Nooit"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Pas het zoeken naar mappen aan en probeer het opnieuw."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Geen overeenkomende mappen"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Geen ondertitels om te beheren"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Pas het zoeken, filteren of sorteren aan en probeer het opnieuw."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Geen overeenkomende video's"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Geen nieuwe bestanden gevonden."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Geen gekoppelde ondertitels"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Deze video uploaden voor AI-ondertitelherkenning? De upload wordt alleen gebruikt om ondertitels te herkennen, de video wordt na herkenning direct verwijderd en je wordt per e-mail op de hoogte gebracht."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Deze video heeft geen ondertitels"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Open hier een map of voeg video's toe om ondertitelingslinks en lokale gesproken nasynchronisatie te beheren."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Nog geen lokale video's"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Niet gekoppeld"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Speelt nu {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Map openen"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Kan de map niet openen."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Map openen"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Zijbalk openen"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Kan zijbalk niet openen."
+   },
+   "localPlayerPageTitle": {
+      "message": "Lokale video · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Video afspelen"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Ondertiteling ingesteld voor stemdubben."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Deze ondertitel is al gekoppeld aan \"{fromVideo}\". Als u doorgaat, wordt de koppeling verwijderd en gekoppeld aan '{toVideo}'."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Deze ondertitel opnieuw binden?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Ondertiteling herkennen"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Ontkoppel alle ondertitels"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Alleen ondertitellinks voor deze video worden verwijderd. Ondertitelbestandsrecords worden niet verwijderd."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Alle ondertitels ontkoppelen?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Ondertiteling ontkoppelen"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Kan de map niet uit de bibliotheek verwijderen."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "Hiermee worden alleen bibliotheekrecords voor deze map verwijderd. Originele bestanden op schijf worden niet verwijderd."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Deze map uit de bibliotheek verwijderen?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Verwijderen uit bibliotheek"
+   },
+   "localPlayerRescanAll": {
+      "message": "Alles opnieuw scannen"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Kan de lokale bibliotheek niet opnieuw scannen."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Kan deze map niet opnieuw scannen omdat toegang tot opgeslagen mappen niet beschikbaar is."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Scan deze map opnieuw"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "De video die in de URL is opgegeven, bevindt zich niet in de huidige lokale videobibliotheek."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Ondertitels in dezelfde map {sameCount} · Gekoppeld {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Scan voltooid: {addedVideoCount} video's toegevoegd, {addedSubtitleCount} ondertitels, bijgewerkte {updatedCount} bestanden."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Zoek naar video's of bestandspaden"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Selecteer een video om aan deze ondertitel te koppelen"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Gebruik deze ondertiteling voor spraaknasynchronisatie"
+   },
+   "localPlayerSortDuration": {
+      "message": "Videoduur"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Recent afgespeelde video's"
+   },
+   "localPlayerSortName": {
+      "message": "Bestandsnaam"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Start spraaknasynchronisatie"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} gekoppelde ondertitels"
+   },
+   "localPlayerSubtitles": {
+      "message": "Ondertitels"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Deze browser ondersteunt de File System Access API niet. Je kunt tijdelijk video's en ondertitels toevoegen."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Tijdelijke importmodus"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Annuleren"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Tekst naar spraak - Doeltaal"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Exporteren MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "Ondertitelinhoud mag niet leeg zijn"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Opslaan mislukt"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Geslacht"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Tekst naar spraak MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Tekst naar spraak MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Opslaan..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Handmatige invoer"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Handmatige invoer - Tekst naar spraak"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Doeltaal"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Tekst naar spraak: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Tekst naar spraak"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Er is geen stem beschikbaar voor deze selectie."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Tekst naar spraak"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "De tekst is te lang. Kort deze in en probeer het opnieuw."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Stem"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Stemtype"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "Gegenereerde thumbnails voor {count} video's."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Het genereren van miniaturen is mislukt: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Totaal {count} mappen"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Totaal {count} video's"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Upload geannuleerd."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Wordt gebruikt voor spraaknasynchronisatie"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "{fileName} verwijderd"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Kan de toegang tot dit videobestand niet herstellen. Voeg de video opnieuw toe."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "Kan het lokale videobestand niet lezen. Voeg de video opnieuw toe."
+   },
+   "localPlayerVideoList": {
+      "message": "Videolijst"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "De videospeler is nog niet klaar."
+   },
+   "login": {
+      "message": "Inloggen"
+   },
+   "loginAndUsePlugin": {
+      "message": "Klik eerst op het plugin-pictogram om in te loggen, en gebruik dan de plugin voor voice-over afspelen."
+   },
+   "logout": {
+      "message": "Afmelden"
+   },
+   "lowBalanceText": {
+      "message": "Uw accountsaldo is lager dan $1. We raden aan binnenkort op te laden om ononderbroken service te garanderen"
+   },
+   "lowBalanceTitle": {
+      "message": "Waarschuwing laag saldo"
+   },
+   "male": {
+      "message": "Mannelijk"
+   },
+   "man": {
+      "message": "Man"
+   },
+   "mediaSourceNotDetected": {
+      "message": "Kan videobron niet detecteren. Deze website wordt mogelijk niet ondersteund."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Momenteel worden ondertitels gebruikt die door de AI van de extensie op de achtergrond zijn herkend. Als de vertaling niet klopt, wijzig dan in de basisinstellingen de ondertitelprioriteit naar platformondertitels."
+   },
+   "memberFree": {
+      "message": "Gratis voor leden"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Dit stemtype is alleen voor leden. Upgrade om het gratis te gebruiken."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "U dubt momenteel met het gratis stemtype. Azure-stemmen klinken natuurlijker; leden kunnen Azure nu onbeperkt gebruiken zonder extra tegoed op te waarderen."
+   },
+   "memberUser": {
+      "message": "Lid"
+   },
+   "membershipExpires": {
+      "message": "Geldig tot"
+   },
+   "membershipIcon": {
+      "message": "Lidmaatschapspictogram"
+   },
+   "membershipRequired": {
+      "message": "Upgrade naar een lidmaatschap voordat u OpenAI-vertaling gebruikt."
+   },
+   "membershipRequiredForAI": {
+      "message": "Laad uw lidmaatschap op voordat u AI-vertaling gebruikt. Als u niet wilt opladen, kunt u ook Google Translate kiezen."
+   },
+   "membershipRequiredTitle": {
+      "message": "Lidmaatschap vereist"
+   },
+   "metadataNotFound": {
+      "message": "Video-metadata niet gevonden, ververs de pagina en probeer opnieuw"
+   },
+   "multiVideoNotSupported": {
+      "message": "Deze pagina bevat meerdere video's. Universele nasynchronisatie ondersteunt alleen pagina's met één video bij het gebruik van HLS-streams."
+   },
+   "musicVideoNotSupported": {
+      "message": "Dit is een muziekvideo. Vertaling en nasynchronisatie worden niet ondersteund."
+   },
+   "name": {
+      "message": "TranslateDub – Vertalen & Nasynchroniseren"
+   },
+   "noAudioTrackFound": {
+      "message": "Geen audiospoor gedetecteerd. Deze video lijkt alleen video te zijn zonder audio en kan niet worden gebruikt voor nasynchronisatieherkenning."
+   },
+   "noSpeakers": {
+      "message": "Geen sprekers"
+   },
+   "noSubtitlesFound": {
+      "message": "Deze video heeft geen ondertitels en ondersteunt geen vertaling en nasynchronisatie"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Geen ondertitels beschikbaar. Wacht tot de plugin ondertitels herkent voor deze video. U ontvangt een e-mailmelding op uw geregistreerde e-mailadres zodra de herkenning is voltooid."
+   },
+   "notSupported": {
+      "message": "Niet ondersteund"
+   },
+   "openBasicSettingsLink": {
+      "message": "Basisinstellingen openen"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Basis"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Uitspraak"
+   },
+   "optionsNavSitesShort": {
+      "message": "Sites"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Ondertitels"
+   },
+   "originalAudio": {
+      "message": "Orig."
+   },
+   "panelSummaryCollapse": {
+      "message": "Invouwen"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Alles invouwen"
+   },
+   "panelSummaryCopy": {
+      "message": "Kopiëren"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Gekopieerd"
+   },
+   "panelSummaryDesc": {
+      "message": "Gebruik geavanceerde AI-modellen om video-inhoud snel te begrijpen"
+   },
+   "panelSummaryError": {
+      "message": "Samenvatting genereren mislukt, probeer het opnieuw"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "Kan de huidige video niet identificeren, vernieuw de pagina en probeer het opnieuw"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "Videosamenvatting is een exclusieve ledenfunctie, abonneer om het te gebruiken"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Geen ondertiteling beschikbaar voor deze video, kan geen samenvatting genereren"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "De samenvattingsdienst is tijdelijk niet beschikbaar, probeer het later opnieuw"
+   },
+   "panelSummaryExpand": {
+      "message": "Uitvouwen"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Alles uitvouwen"
+   },
+   "panelSummaryGenerate": {
+      "message": "Samenvatting maken"
+   },
+   "panelSummaryGenerating": {
+      "message": "Genereren..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Geen ondertitels beschikbaar voor deze video"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Opnieuw genereren"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Opnieuw genereren..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Hoogtepunten"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Samenvatting"
+   },
+   "panelSummaryShare": {
+      "message": "Delen"
+   },
+   "panelSummaryTitle": {
+      "message": "Samenvatting en overzicht van de video"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Ondertitels"
+   },
+   "panelTabVideoSummary": {
+      "message": "Overzicht"
+   },
+   "pauseVideo": {
+      "message": "Video pauzeren"
+   },
+   "pay": {
+      "message": "Betalen"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Klik op de video om deze te openen en gebruik vervolgens de nasynchronisatiefunctie."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Aanmelden geslaagd. Klik op het plugin-icoon om de vertaaltaal en stemmenlijst te selecteren."
+   },
+   "preferenceActionFailed": {
+      "message": "Actie mislukt. Probeer het later opnieuw."
+   },
+   "preferenceActions": {
+      "message": "Acties"
+   },
+   "preferenceAdd": {
+      "message": "Toevoegen"
+   },
+   "preferenceAllDomains": {
+      "message": "Alle domeinen"
+   },
+   "preferenceAllStatuses": {
+      "message": "Allemaal"
+   },
+   "preferenceCancel": {
+      "message": "Annuleer"
+   },
+   "preferenceClearSearch": {
+      "message": "Wissen"
+   },
+   "preferenceDelete": {
+      "message": "Verwijderen"
+   },
+   "preferenceDisabled": {
+      "message": "Uitgeschakeld"
+   },
+   "preferenceDomain": {
+      "message": "Domein"
+   },
+   "preferenceEdit": {
+      "message": "Bewerken"
+   },
+   "preferenceEnabled": {
+      "message": "Ingeschakeld"
+   },
+   "preferenceLanguage": {
+      "message": "Taal"
+   },
+   "preferenceLoadFailed": {
+      "message": "Laden mislukt. Meld u aan en probeer het opnieuw."
+   },
+   "preferenceNextPage": {
+      "message": "Volgende"
+   },
+   "preferencePageLabel": {
+      "message": "Pagina {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Vorige"
+   },
+   "preferenceSave": {
+      "message": "Opslaan"
+   },
+   "preferenceSearch": {
+      "message": "Zoeken"
+   },
+   "preferenceSource": {
+      "message": "Bron"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Ingebouwd"
+   },
+   "preferenceSourceUser": {
+      "message": "Persoonlijk"
+   },
+   "preferenceStatus": {
+      "message": "Toestand"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Uit"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Ingeschakeld"
+   },
+   "preferencesDescription": {
+      "message": "Beheer hier je basisvoorkeuren."
+   },
+   "preferencesSectionTitle": {
+      "message": "Basisinstellingen"
+   },
+   "preferencesTitle": {
+      "message": "Basisinstellingen"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Deze video heeft geen ondertitels en de videoduur overschrijdt 3 uur, vertaling en nasynchronisatie worden niet ondersteund. Selecteer een kortere video of een video met ondertitels."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Deze video heeft geen ondertitels en is privé. De plugin kan de ondertitels voor deze video niet op de achtergrond herkennen. Maak de video openbaar of voeg handmatig ondertitels toe en probeer het opnieuw."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Deze uitspraakregel verwijderen?"
+   },
+   "pronunciationEditRule": {
+      "message": "Uitspraakregel bewerken"
+   },
+   "pronunciationEditorHint": {
+      "message": "Selecteer het doorlopende gedeelte dat u wilt corrigeren en voer vervolgens de uitspraak in."
+   },
+   "pronunciationEmpty": {
+      "message": "Er zijn geen persoonlijke uitspraakregels die overeenkomen met de huidige filters."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Voer eerst de overeenkomende tekst in"
+   },
+   "pronunciationFineSelection": {
+      "message": "Nauwkeurige selectie"
+   },
+   "pronunciationLoading": {
+      "message": "Laden…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Bijvoorbeeld: hallo"
+   },
+   "pronunciationMatchText": {
+      "message": "Bijpassende tekst"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Voeg aangrenzende uitspraken samen"
+   },
+   "pronunciationModifier": {
+      "message": "Toon"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Neutrale toon"
+   },
+   "pronunciationNewRule": {
+      "message": "Nieuwe regel"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Toon {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "gebeurtenis {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Voer voor elk onderdeel een uitspraak en toon in. Splits of voeg onderdelen samen als dat nodig is."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Voer een Pinyin-lettergreep in"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "Pinyin-lettergreep"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Slimme selectie"
+   },
+   "pronunciationReading": {
+      "message": "Opgegeven uitspraak"
+   },
+   "pronunciationReselect": {
+      "message": "Selecteer opnieuw"
+   },
+   "pronunciationSaving": {
+      "message": "Opslaan…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Zoek overeenkomende tekst"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Selecteer"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Selecteer tekst om te corrigeren"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Granulariteit van de selectie"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Selecteer doorlopende tekst."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "De opgeslagen locatie kan niet worden hersteld. Selecteer de tekst opnieuw voordat u deze opslaat."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Geselecteerd: {text}; gebeurtenis {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "Het gecorrigeerde gedeelte mag maximaal 128 tekens bevatten."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Stel persoonlijke uitspraken in voor vertaalde tekst. Regels zijn alleen van toepassing op lokale nasynchronisatie."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Uitspraak"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Uitspraak instellingen"
+   },
+   "pronunciationSplitAt": {
+      "message": "Splitsen bij"
+   },
+   "pronunciationStatus": {
+      "message": "Toestand"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Doeltaal"
+   },
+   "pronunciationTargetText": {
+      "message": "Gecorrigeerd deel"
+   },
+   "pronunciationUnitReading": {
+      "message": "Uitspraak per deel"
+   },
+   "pronunciationUnknownError": {
+      "message": "Actie mislukt. Probeer het later opnieuw."
+   },
+   "pronunciationWholeReading": {
+      "message": "Hele uitspraak"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Voer de volledige gestemde uitspraak in. Splits het om voor elk onderdeel een toon te kiezen."
+   },
+   "rechargeLimit": {
+      "message": "Tegoed+Lid"
+   },
+   "replacementCreateButton": {
+      "message": "Persoonlijke vervanging toevoegen"
+   },
+   "replacementDescription": {
+      "message": "Corrigeer terugkerende fouten in ondertitelherkenning (bijvoorbeeld cloud code -> Claude Code) vóór de AI-vertaling."
+   },
+   "replacementEditTitle": {
+      "message": "Persoonlijke vervanging bewerken"
+   },
+   "replacementEditorDescription": {
+      "message": "Vóór de AI-vertaling worden alleen persoonlijke tekstvervangingen toegepast."
+   },
+   "replacementEmpty": {
+      "message": "Er zijn nog geen correctieregels."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Onjuiste tekst, bijv. cloud code"
+   },
+   "replacementFindText": {
+      "message": "Onjuiste tekst"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Vervangen door, bijv. claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Vervangen door"
+   },
+   "replacementSearchEmpty": {
+      "message": "Geen overeenkomende vervangingen."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Vervangingen zoeken"
+   },
+   "replacementTitle": {
+      "message": "Foutcorrecties in de brontekst"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Stel sneltoetsen in via Safari > Voorkeuren > Extensies"
+   },
+   "sampleAesNotSupported": {
+      "message": "Deze video gebruikt SAMPLE-AES-encryptie die momenteel niet wordt ondersteund voor downloaden."
+   },
+   "save": {
+      "message": "Opslaan"
+   },
+   "saveFailedText": {
+      "message": "Instellingen opslaan mislukt, probeer het opnieuw"
+   },
+   "saveFailedTitle": {
+      "message": "Opslaan mislukt"
+   },
+   "saveSuccessText": {
+      "message": "Instellingen succesvol opgeslagen"
+   },
+   "saveSuccessTitle": {
+      "message": "Opslaan geslaagd"
+   },
+   "save_settings": {
+      "message": "Instellingen opslaan"
+   },
+   "saving": {
+      "message": "Opslaan..."
+   },
+   "searchSourceLanguage": {
+      "message": "Zoek brontaal..."
+   },
+   "searchTargetLanguage": {
+      "message": "Zoek doeltaal..."
+   },
+   "selectSourceLanguage": {
+      "message": "Kies brontaal"
+   },
+   "selectSpeaker": {
+      "message": "Kies"
+   },
+   "selectTargetLanguage": {
+      "message": "Kies doeltaal"
+   },
+   "sex": {
+      "message": "Geslacht:"
+   },
+   "shortcutSettings": {
+      "message": "Sneltoetsen"
+   },
+   "showSubtitle": {
+      "message": "Ondertitels:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Uitschakelen voor deze site"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Globaal uitschakelen"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Verbergen tot volgend bezoek"
+   },
+   "sidebarReenableHint": {
+      "message": "Kan opnieuw worden ingeschakeld in "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Instellingen"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Als dit is ingeschakeld en de ondertiteltaal gelijk is aan de doeltaal, start de nasynchronisatie direct zonder vertaling."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Vertaling overslaan bij dezelfde taal"
+   },
+   "sourceLanguage": {
+      "message": "Brontaal"
+   },
+   "source_languages": {
+      "message": "Brontaal:"
+   },
+   "speaker": {
+      "message": "Spreker"
+   },
+   "speakerList": {
+      "message": "Sprekerlijst"
+   },
+   "speakerName": {
+      "message": "Sprekernaam"
+   },
+   "speakersTitle": {
+      "message": "Sprekers"
+   },
+   "startUpload": {
+      "message": "Upload starten"
+   },
+   "subscribe": {
+      "message": "Word lid"
+   },
+   "subscriptionRecharge": {
+      "message": "Lid & Opladen"
+   },
+   "subtitleDisplayMode": {
+      "message": "Ondertitelmodus"
+   },
+   "subtitleEditorExport": {
+      "message": "Exporteren"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Handmatige invoer"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Mijn ondertitels"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Geen ondertitelbronnen beschikbaar (handmatige invoer beschikbaar)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "Opslaan mislukt. Probeer het later opnieuw."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Kan de huidige video niet identificeren. Opslaan mislukt."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Klik hier om van ondertitel te wisselen"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Ondertitelingsbron"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Ongeldig SRT-blok. Volgorde, tijdstempel en inhoud zijn vereist."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Elke ondertitel moet minimaal één regel tekst bevatten"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "Ondertitelinhoud mag niet leeg zijn"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "De eindtijd moet groter zijn dan de begintijd"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Ongeldig SRT-volgnummerformaat"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "SRT-volgnummers moeten beginnen bij 1 en oplopen met 1"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Sommige ondertitels bevatten luidsprekertags. Alle ondertitels moeten het voorvoegsel [speaker] gebruiken."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Ongeldige tijdnotatie. Controleer en corrigeer het."
+   },
+   "subtitleModeBilingual": {
+      "message": "Tweetalige ondertitels"
+   },
+   "subtitleModeOff": {
+      "message": "Ondertitels uit"
+   },
+   "subtitleModeTranslated": {
+      "message": "Alleen vertaling"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Plugin AI-herkende ondertitels"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Geef prioriteit aan ondertitels gegenereerd door de AI-spraakherkenning van de plugin voor hogere nauwkeurigheid."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Kies welke ondertitelbron prioriteit krijgt voor vertaling."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Ingebouwde platformondertitels"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Geef prioriteit aan de originele ondertitels van het videoplatform."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Prioriteit ondertitelvertaling"
+   },
+   "subtitleSize": {
+      "message": "Grootte"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Achtergrondkleur"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Achtergronddekking"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "Zwart"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Blauw"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Cyaan"
+   },
+   "subtitleStyleColorGray": {
+      "message": "Grijs"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "Groen"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Lichtgrijs"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Magenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "Oranje"
+   },
+   "subtitleStyleColorRed": {
+      "message": "Rood"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Wit"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "Geel"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Aangepast lettertype"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Bijvoorbeeld: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Aangepast"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Geen"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Contour"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Schaduw"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Randstijl"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Tweetalig"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Stijleditorweergave"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Alleen vertaling"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Stijl van vertaalde tekst volgen"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Aangepast"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Standaard"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Lettertype"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Geen"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Lettergrootte"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Letterdikte"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Tweetalige lay-out"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Regelafstand"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "De aanpassingen worden opgeslagen en zijn onmiddellijk van kracht."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Instellingen voor ondertitelstijl"
+   },
+   "subtitleStyleOrder": {
+      "message": "Ondertitelvolgorde"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Origineel bovenaan"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Vertaling bovenaan"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Originele stijl"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Lettergrootteverhouding"
+   },
+   "subtitleStylePosition": {
+      "message": "Positie"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Onder"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Midden"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Boven"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "realtime"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Hij dacht dat deze jongeman veel potentieel had."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Voorbeeld"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Standaard herstellen"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Ondertitelstijl"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Gedeelde achtergrond"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Horizontale uitlijning"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Midden"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Links"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Rechts"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Tekstkleur"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Stijl van vertaalde tekst"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Gebruikt huidige instellingen"
+   },
+   "subtitles": {
+      "message": "Ondertitels"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Ondertitels voor deze video worden momenteel beperkt door YouTube. Probeer het later opnieuw."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Schakel volume-instellingen tussen origineel en nasynchronisatie-audio"
+   },
+   "switchModelWarning": {
+      "message": "Het wisselen van het stem- of vertaalmodel tijdens het afspelen van video's leidt tot extra kosten vanwege verspilde bronnen. We raden aan om in de volgende video te wisselen. Om toch door te gaan, klikt u op Doorgaan en opslaan."
+   },
+   "targetLanguage": {
+      "message": "Doeltaal"
+   },
+   "target_languages": {
+      "message": "Doeltaal:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Deze video wordt al verwerkt voor AI-ondertitelherkenning. Wacht alstublieft op de e-mailmelding."
+   },
+   "textToSpeech": {
+      "message": "Tekst naar spraak:"
+   },
+   "textToSpeechToggle": {
+      "message": "Zweefknop"
+   },
+   "toggleSubtitles": {
+      "message": "Ondertitels schakelen"
+   },
+   "tooExpensive": {
+      "message": "Te duur"
+   },
+   "translateEngineTipText": {
+      "message": "wijzig de vertaalservice naar Google"
+   },
+   "translateService": {
+      "message": "Vertalen:"
+   },
+   "translatedAudio": {
+      "message": "Vertaald"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Vervanging in de vertaling toevoegen"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Vervanging in de vertaling toevoegen"
+   },
+   "translatedReplacementDescription": {
+      "message": "Vervang woorden of woordgroepen in de voltooide vertaling met persoonlijke regels."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Vervanging in de vertaling bewerken"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Alleen de voltooide vertaling wordt gewijzigd; de brontekst en vertaalcache blijven ongewijzigd."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Er zijn nog geen regels voor vervangingen in de vertaalde tekst."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "Wanneer de regel is uitgeschakeld, blijft deze bewaard maar wordt deze niet op de vertaalde tekst toegepast."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Woord of woordgroep in de vertaalde tekst"
+   },
+   "translatedReplacementFindText": {
+      "message": "Vertaalde tekst"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Doeltaal"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Woord of woordgroep die in plaats daarvan wordt weergegeven"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Vervangen door"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Geen overeenkomende vervangingen in de vertaalde tekst."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Zoeken in vertaalde tekst"
+   },
+   "translatedReplacementTitle": {
+      "message": "Vervangingen in de vertaalde tekst"
+   },
+   "translationDomainAuto": {
+      "message": "Automotive"
+   },
+   "translationDomainChess": {
+      "message": "Schaken"
+   },
+   "translationDomainEcommerce": {
+      "message": "E-commerce"
+   },
+   "translationDomainEducation": {
+      "message": "Onderwijs"
+   },
+   "translationDomainFashion": {
+      "message": "Mode"
+   },
+   "translationDomainFinance": {
+      "message": "Financiën"
+   },
+   "translationDomainFood": {
+      "message": "Eten en koken"
+   },
+   "translationDomainGaming": {
+      "message": "Gaming"
+   },
+   "translationDomainGardening": {
+      "message": "Tuinieren"
+   },
+   "translationDomainGeneral": {
+      "message": "Algemeen"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Recht"
+   },
+   "translationDomainMedical": {
+      "message": "Medisch en gezondheid"
+   },
+   "translationDomainMovies": {
+      "message": "Films en tv"
+   },
+   "translationDomainMusic": {
+      "message": "Muziek"
+   },
+   "translationDomainNews": {
+      "message": "Nieuws en media"
+   },
+   "translationDomainPets": {
+      "message": "Huisdieren"
+   },
+   "translationDomainPhotography": {
+      "message": "Fotografie"
+   },
+   "translationDomainProgramming": {
+      "message": "Programmeren"
+   },
+   "translationDomainSports": {
+      "message": "Sport"
+   },
+   "translationDomainTech": {
+      "message": "Technologie"
+   },
+   "translationDomainTravel": {
+      "message": "Reizen"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 en crypto"
+   },
+   "translationEngine": {
+      "message": "Vertaalengine"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI-vertaling"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Als dit is ingeschakeld, gebruikt de AI-vertaling de onderstaande instellingen. Als dit is uitgeschakeld, blijven uw bestaande instellingen behouden."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Woordenlijst en tekstvervangingen toepassen in AI-vertaling"
+   },
+   "translationService": {
+      "message": "Vertaalservice"
+   },
+   "translationServiceTitle": {
+      "message": "Vertaalservice"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Deze video heeft geen ondertitels. Als proeflidmaat worden momenteel alleen video's onder 15 minuten ondersteund voor ondertitelherkenning. Premium-lidmaten ondersteunen video's tot 3 uur."
+   },
+   "trialMemberModelLimit": {
+      "message": "Proeflidmaten kunnen alleen Gemini en Google Translate gebruiken. Om andere modellen te gebruiken, abonneert u zich op ons lidmaatschap."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Universele nasynchronisatie vereist cloud GPU-rekenkracht (hoge kosten), alleen voor VIP."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Universele nasynchronisatie wordt niet ondersteund voor deze video in de huidige versie. Ondersteuning is gepland voor de volgende versie. Neem contact op met klantenservice voor details."
+   },
+   "unknownError": {
+      "message": "Er is een onbekende fout opgetreden. Probeer het opnieuw."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Upgrade naar lidmaatschap en de plugin herkent AI-ondertitels op de achtergrond. Nadat u de e-mailmelding heeft ontvangen, kom dan terug om te kijken; de nasynchronisatieknop wordt groen en vertalingen zijn nauwkeuriger."
+   },
+   "uploadComplete": {
+      "message": "Upload voltooid"
+   },
+   "uploadFailed": {
+      "message": "Upload mislukt"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Geen ondertitels gevonden. Wilt u de video uploaden voor AI-ondertitelherkenning?"
+   },
+   "uploading": {
+      "message": "Uploaden"
+   },
+   "uploadingMedia": {
+      "message": "Media uploaden..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Gebruikersaccount"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Wanneer ingeschakeld worden bewerkte of lokaal geüploade ondertitels automatisch gesegmenteerd. Wanneer uitgeschakeld blijft de oorspronkelijke indeling behouden."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Slimme segmentatie van gebruikersondertitels"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Herkend domein van de huidige video: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Deze video is beveiligd met DRM en kan niet worden gebruikt voor nasynchronisatie."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Deze video is langer dan 3 uur. Universele nasynchronisatie wordt momenteel niet ondersteund voor video's langer dan 3 uur."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "U moet lid zijn en voldoende saldo hebben om deze functie te gebruiken"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Lidmaatschap en saldo vereist"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Als lid kunt u de volgende vertaalservices gratis gebruiken"
+   },
+   "vipRequiredText": {
+      "message": "U moet lid zijn om deze functie te gebruiken"
+   },
+   "vipRequiredTitle": {
+      "message": "Lidmaatschap vereist"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Wijzig vertaalservice naar lid-gratis services zoals gemini, deepseek, gpt-3.5-turbo of claude-3-haiku"
+   },
+   "voice": {
+      "message": "Stem"
+   },
+   "voiceSettingsMismatch": {
+      "message": "Stemtype en steminstellingen komen niet overeen. Ga naar de instellingenpagina om de steminstellingen opnieuw te selecteren en op te slaan."
+   },
+   "voiceTypeTipText": {
+      "message": "wijzig het stemtype naar de gratis versie"
+   },
+   "voices": {
+      "message": "Stem:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Stem & Ondertitels"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Stem & Ondertitels"
+   },
+   "voicesType": {
+      "message": "Stemtype:"
+   },
+   "waitingForRecognition": {
+      "message": "Video succesvol geüpload. AI-ondertitelherkenning is bezig. U ontvangt een e-mailmelding wanneer het klaar is."
+   },
+   "woman": {
+      "message": "Vrouw"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Uw browser ondersteunt Zoom-opname uploadherkenning niet. Gebruik Chrome/Edge."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Zoom-opname download werd verboden (403). Speel/ververs de pagina voor verificatie en probeer het opnieuw."
+   }
+}

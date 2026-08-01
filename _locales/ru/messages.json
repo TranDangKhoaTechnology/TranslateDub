@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Баланс счета:"
+   },
+   "advancedSettings": {
+      "message": "Расширенные настройки"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "Для этого видео пока нет AI-субтитров. Распознавание запущено в фоновом режиме. Услышав первую озвученную фразу, вы можете закрыть страницу и ждать уведомление по электронной почте; когда всё будет готово, кнопка озвучки станет зелёной, а качество перевода улучшится."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS доступен только участникам. Обновите подписку, чтобы разблокировать высококачественные голоса Azure."
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "backToSettings": {
+      "message": "Вернуться к настройкам"
+   },
+   "backToVideoLibrary": {
+      "message": "Вернуться к видеотеке"
+   },
+   "backgroundAudio": {
+      "message": "Фон"
+   },
+   "balanceRequiredText": {
+      "message": "Недостаточно средств, пополните для функции"
+   },
+   "balanceRequiredTitle": {
+      "message": "Требуется лимит"
+   },
+   "balanceRunningLow": {
+      "message": "Лимит заканчивается, пополните для лучшего опыта."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Настройте сочетания клавиш в настройках расширения"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Исключено"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Отключить все"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "Встроенных терминов: {count}"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Область отключена"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Подходящие области не найдены."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Поиск областей"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "Областей: {count}"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Встроенные тематические наборы"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Для текущего языка перевода нет встроенного глоссария. Вы по-прежнему можете добавлять личные термины."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Включить все"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "Включено: {enabled} / {total}"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Управление областями"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "Включайте или отключайте области встроенного глоссария для языка перевода."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Управление встроенными тематическими наборами"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Встроенное правило"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} встроенных правил"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Включайте или отключайте встроенные области исправления исходного текста."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Управление встроенными областями исправления исходного текста"
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "cancelButton": {
+      "message": "Отмена"
+   },
+   "completing": {
+      "message": "Завершение"
+   },
+   "confirmButton": {
+      "message": "Продолжить и сохранить"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Вы уверены, что хотите удалить этого говорящего?"
+   },
+   "contentMenusTitle": {
+      "message": "Начать воспроизведение озвучки"
+   },
+   "corsNotSupported": {
+      "message": "Этот сайт не позволяет скачивать медиафайлы. Универсальный дубляж не поддерживается."
+   },
+   "debugInfo": {
+      "message": "Отладочная информация"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "deleteSpeaker": {
+      "message": "Удалить"
+   },
+   "description": {
+      "message": "Перевод и озвучка видео в один клик: мгновенное понимание языков, доступ к мировым знаниям"
+   },
+   "disableGlobally": {
+      "message": "Отключить глобально"
+   },
+   "disabledSitesActions": {
+      "message": "Действия"
+   },
+   "disabledSitesAdd": {
+      "message": "Добавить"
+   },
+   "disabledSitesDelete": {
+      "message": "Удалить"
+   },
+   "disabledSitesDescription": {
+      "message": "На следующих сайтах плавающий шар не будет отображаться. Вы можете добавлять или удалять отключённые сайты здесь."
+   },
+   "disabledSitesDomain": {
+      "message": "Домен"
+   },
+   "disabledSitesEmpty": {
+      "message": "Нет отключённых сайтов"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Введите домен, напр. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Отключённые сайты"
+   },
+   "disabledSitesTitle": {
+      "message": "Управление отключёнными сайтами"
+   },
+   "doNotClosePage": {
+      "message": "Пожалуйста, не закрывайте и не обновляйте эту страницу во время загрузки, иначе загрузка будет прервана."
+   },
+   "doNotShowAgainLink": {
+      "message": "Больше не показывать"
+   },
+   "downloading": {
+      "message": "Скачивание"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Это видео ещё не было транскрибировано. Нажмите кнопку CC под видео Dropbox, чтобы создать субтитры. После завершения транскрибации нажмите кнопку озвучивания расширения, чтобы выполнить перевод и озвучку."
+   },
+   "dropdownNoOptions": {
+      "message": "Нет доступных опций"
+   },
+   "dropdownPlaceholder": {
+      "message": "Выберите"
+   },
+   "dropdownSearch": {
+      "message": "Поиск..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "На этой странице сейчас нет доступного видео или аудио. Дождитесь загрузки видео и попробуйте снова либо обновите страницу."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Видео для дубляжа не найдено"
+   },
+   "dubbingSettings": {
+      "message": "Настройки дубляжа"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Открываю страницу настроек сочетаний клавиш Edge"
+   },
+   "edit": {
+      "message": "Редактировать"
+   },
+   "editSpeaker": {
+      "message": "Редактировать говорящего"
+   },
+   "emailNotificationDescription": {
+      "message": "Сообщать мне по email, когда распознавание субтитров завершится."
+   },
+   "emailNotificationLabel": {
+      "message": "Уведомления по email"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "Не удалось сохранить. Попробуйте позже."
+   },
+   "enterSpeakerName": {
+      "message": "Введите имя говорящего"
+   },
+   "enterVoice": {
+      "message": "Введите название голоса"
+   },
+   "error": {
+      "message": "Ошибка"
+   },
+   "female": {
+      "message": "Женский"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Открываю Firefox, настройте в Расширениях"
+   },
+   "free": {
+      "message": "Бесплатно"
+   },
+   "freeForVip": {
+      "message": "Free для подписчиков"
+   },
+   "freeOptionTipText": {
+      "message": "Не пополнять? Выберите бесплатное,"
+   },
+   "freeUserDailyLimit": {
+      "message": "Бесплатные пользователи могут смотреть до 5 видео в день через плагин. Обновитесь до членства, чтобы разблокировать преимущества неограниченного просмотра."
+   },
+   "freeUserNoSubtitles": {
+      "message": "У этого видео нет встроенных субтитров. Пожалуйста, подпишитесь на членство в плагине для распознавания субтитров и наслаждайтесь функциями перевода и озвучки."
+   },
+   "gender": {
+      "message": "Пол"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Для этого языка пока нет личных терминов."
+   },
+   "glossaryCreateButton": {
+      "message": "Добавить личный термин"
+   },
+   "glossaryDescription": {
+      "message": "Задайте фиксированные переводы для исходных терминов (например, Stratagem). Ваши термины имеют приоритет над встроенным глоссарием."
+   },
+   "glossaryEditTitle": {
+      "message": "Изменить личный термин"
+   },
+   "glossaryEditorDescription": {
+      "message": "Добавлять, изменять, включать и удалять можно только личные термины."
+   },
+   "glossarySearchEmpty": {
+      "message": "Подходящие термины не найдены."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Поиск исходных терминов"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Исходный термин"
+   },
+   "glossarySourceTerm": {
+      "message": "Исходный термин"
+   },
+   "glossaryTableTitle": {
+      "message": "Термины для текущего языка"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Обязательный перевод"
+   },
+   "glossaryTargetTerm": {
+      "message": "Перевод"
+   },
+   "glossaryTitle": {
+      "message": "Глоссарий"
+   },
+   "hideUntilNextVisit": {
+      "message": "Скрыть до следующего посещения"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Не удалось расшифровать содержимое видео. Ключ шифрования может быть неверным или формат видео несовместим."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Не удалось получить ключ дешифрования для этого видео. Видео может быть защищено или сервер ключей недоступен."
+   },
+   "insufficientBalance": {
+      "message": "Недостаточно средств, переключено на Google. Пополните."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Лимит мал, пополните для AI и Azure TTS или используйте Google и бесплатный."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Пополните членство и баланс перед использованием ИИ-перевода и Azure TTS. Если не хотите пополнять, можете выбрать Google Translate и бесплатные типы голоса."
+   },
+   "insufficientMembership": {
+      "message": "Ваше членство истекло. Пополните членство перед использованием ИИ-перевода и Azure TTS. Если не хотите пополнять, можете выбрать Google Translate и бесплатные типы голоса."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Другое расширение браузера блокирует перехват запросов субтитров. Отключите конфликтующие расширения, обновите страницу и попробуйте снова."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "Обнаружен конфликт расширений"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Включить оригинал:"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "Универсальный дубляж не поддерживается на устройствах iOS. Пожалуйста, используйте настольный браузер."
+   },
+   "liveStreamNotSupported": {
+      "message": "Прямые трансляции не поддерживаются для универсального дубляжа."
+   },
+   "liveVideoNotSupported": {
+      "message": "Прямой эфир не поддерживает озвучку"
+   },
+   "loading": {
+      "message": "Загрузка"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Добавить субтитры"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Не удалось добавить субтитры."
+   },
+   "localPlayerAddVideo": {
+      "message": "Добавить видео"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Не удалось добавить видео."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Все ссылки на субтитры удалены."
+   },
+   "localPlayerAllVideos": {
+      "message": "Все видео"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Ищите и управляйте каждым импортированным видео."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "По возрастанию; нажмите, чтобы переключиться на нисходящий режим"
+   },
+   "localPlayerAssociate": {
+      "message": "Ссылка на подзаголовок"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Свяжите субтитры и используйте их для озвучивания."
+   },
+   "localPlayerAssociated": {
+      "message": "Связано"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Ссылка за пределами этой папки"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "Ссылка на субтитры удалена."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "Ссылка на субтитры сохранена."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Субтитры связаны и настроены для озвучивания."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Назад к папкам"
+   },
+   "localPlayerClose": {
+      "message": "Закрыть"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Текущий каталог"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Дубляж видео"
+   },
+   "localPlayerDelete": {
+      "message": "Удалить"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Не удалось удалить видео."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Удалить {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "При этом ссылки на видео и субтитры удаляются из локальной библиотеки. Исходные файлы на диске не будут удалены."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Удалить это видео?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "По убыванию; нажмите, чтобы переключиться на возрастание"
+   },
+   "localPlayerDropHint": {
+      "message": "Перетащите сюда видео или файлы субтитров .srt/.vtt/.ass."
+   },
+   "localPlayerDropOverlay": {
+      "message": "Отпустите кнопку мыши, чтобы импортировать файлы."
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "Началась голосовая перезапись."
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Не удалось запустить локальное голосовое дублирование."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "Началось локальное голосовое дублирование."
+   },
+   "localPlayerEntryButton": {
+      "message": "Локальное видео"
+   },
+   "localPlayerFilterAll": {
+      "message": "Все"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Без связанных субтитров"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Со связанными субтитрами"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Быстрые действия для локального видео"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Доступ к папке доступен"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "При открытии папки сохраняются дескрипторы файлов, поэтому доступ можно восстановить после обновления."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Этот браузер не может открывать папки. Используйте «Добавить видео/Добавить субтитры» для временного импорта."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} связанные субтитры"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Последний раз играл {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Последнее сканирование {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Действия с папкой"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "Удален {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Поиск папок, путей или файлов"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} видео"
+   },
+   "localPlayerFolders": {
+      "message": "Папки"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Просматривайте импортированные медиафайлы по папкам."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Это локальное видео не имеет связанных субтитров. Пользователи бесплатной версии пока не могут использовать распознавание фоновых субтитров для локальных видео. Обновите членство, чтобы использовать распознавание субтитров AI, или загрузите файл субтитров вручную перед началом голосового дублирования."
+   },
+   "localPlayerImportComplete": {
+      "message": "Импортированы видео {videoCount} и субтитры {subtitleCount}."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Откройте папку, добавьте видео или перетащите файлы, чтобы начать."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Локальная видеотека"
+   },
+   "localPlayerLibraryView": {
+      "message": "Просмотр библиотеки"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Сопоставлено {visibleCount} / всего {totalCount} папок"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Совпало {visibleCount} / всего {totalCount} видео"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Оригинальные субтитры"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Локальная видеотека / Озвучка текста"
+   },
+   "localPlayerNever": {
+      "message": "Никогда"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Настройте поиск папок и повторите попытку."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Нет подходящих папок"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Нет субтитров для управления"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Настройте поиск, фильтр или сортировку и повторите попытку."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Нет подходящих видео"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Новых файлов не найдено."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Нет связанных субтитров"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Загрузить это видео для распознавания субтитров ИИ? Загрузка используется только для распознавания субтитров, видео удаляется сразу после распознавания, и вы будете уведомлены об этом по электронной почте."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "У этого видео нет субтитров."
+   },
+   "localPlayerNoVideosText": {
+      "message": "Откройте папку или добавьте видео, чтобы управлять ссылками на субтитры и локальным голосовым дублированием."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Локальных видео пока нет"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Не связано"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Сейчас играет {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Открыть папку"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Не удалось открыть папку."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Открыть папку"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Открыть боковую панель"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Не удалось открыть боковую панель."
+   },
+   "localPlayerPageTitle": {
+      "message": "Локальное видео · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Воспроизвести видео"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Набор субтитров для голосового дублирования."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Этот субтитр уже связан с «{fromVideo}». Продолжение приведет к удалению этой ассоциации и ее связыванию с «{toVideo}»."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Перепривязать этот субтитр?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Распознавание субтитров"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Отсоединить все субтитры"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Будут удалены только ссылки на субтитры для этого видео. Записи файла субтитров не будут удалены."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Отменить связь со всеми субтитрами?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Отсоединить субтитры"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Не удалось удалить папку из библиотеки."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "При этом удаляются только записи библиотеки для этой папки. Исходные файлы на диске не будут удалены."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Удалить эту папку из библиотеки?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Удалить из библиотеки"
+   },
+   "localPlayerRescanAll": {
+      "message": "Пересканировать все"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Не удалось повторно просканировать локальную библиотеку."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Невозможно повторно просканировать эту папку, поскольку доступ к сохраненной папке недоступен."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Пересканировать эту папку"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "Видео, указанное в URL-адресе, отсутствует в текущей локальной видеотеке."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Субтитры в одной папке {sameCount} · Связанные {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Сканирование завершено: добавлено {addedVideoCount} видео, {addedSubtitleCount} субтитров, обновлено {updatedCount} файлов."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Поиск видео или путей к файлам"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Выберите видео для ссылки на этот субтитр."
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Используйте этот субтитр для озвучивания."
+   },
+   "localPlayerSortDuration": {
+      "message": "Продолжительность видео"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Недавно воспроизведенные видео"
+   },
+   "localPlayerSortName": {
+      "message": "Имя файла"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Начало голосового дубляжа"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} связанные субтитры"
+   },
+   "localPlayerSubtitles": {
+      "message": "Субтитры"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Этот браузер не поддерживает File System Access API. Вы можете временно добавлять видео и субтитры."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Режим временного импорта"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Отмена"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Озвучка текста - Целевой язык"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Экспорт MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "Содержание субтитров не может быть пустым."
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Ошибка сохранения"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Пол"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Озвучка текста MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Озвучка текста MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Сохранение..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Ручной ввод"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Ручной ввод - Озвучка текста"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Целевой язык"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Озвучка текста: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Озвучка текста"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Для этого выбора нет доступного голоса."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Озвучка текста"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "Текст слишком длинный. Сократите его и попробуйте снова."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Голос"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Тип голоса"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "Созданы миниатюры для видео {count}."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Не удалось создать миниатюру: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Всего папок {count}"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Всего {count} видео"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Загрузка отменена."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Используется для голосового дубляжа."
+   },
+   "localPlayerVideoDeleted": {
+      "message": "Удален {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Невозможно восстановить доступ к этому видеофайлу. Пожалуйста, добавьте видео еще раз."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "Невозможно прочитать локальный видеофайл. Пожалуйста, добавьте видео еще раз."
+   },
+   "localPlayerVideoList": {
+      "message": "Список видео"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "Видеоплеер еще не готов."
+   },
+   "login": {
+      "message": "Вход"
+   },
+   "loginAndUsePlugin": {
+      "message": "Кликните иконку для входа, затем используйте озвучку."
+   },
+   "logout": {
+      "message": "Выйти"
+   },
+   "lowBalanceText": {
+      "message": "Баланс <1$, пополните для стабильной работы"
+   },
+   "lowBalanceTitle": {
+      "message": "Мало средств"
+   },
+   "male": {
+      "message": "Мужской"
+   },
+   "man": {
+      "message": "Муж."
+   },
+   "mediaSourceNotDetected": {
+      "message": "Не удалось определить источник видео. Этот сайт может не поддерживаться."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Сейчас используются субтитры, распознанные фоновым AI расширения. Если перевод кажется неточным, измените приоритет субтитров на субтитры платформы в основных настройках."
+   },
+   "memberFree": {
+      "message": "Бесплатно для участников"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Этот тип голоса доступен только участникам. Обновите подписку, чтобы использовать его бесплатно."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Сейчас для дубляжа используется бесплатный тип голоса. Голоса Azure звучат естественнее; участники теперь могут использовать Azure без ограничений и без дополнительного пополнения кредитов."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "До"
+   },
+   "membershipIcon": {
+      "message": "Иконка подписки"
+   },
+   "membershipRequired": {
+      "message": "Подпишитесь для OpenAI перевода."
+   },
+   "membershipRequiredForAI": {
+      "message": "Пополните членство перед использованием ИИ-перевода. Если не хотите пополнять, можете выбрать Google Translate."
+   },
+   "membershipRequiredTitle": {
+      "message": "Требуется подписка"
+   },
+   "metadataNotFound": {
+      "message": "Метаданные видео не найдены, пожалуйста, обновите страницу и попробуйте снова"
+   },
+   "multiVideoNotSupported": {
+      "message": "На этой странице несколько видео. Универсальный дубляж поддерживает только страницы с одним видео при использовании HLS-потоков."
+   },
+   "musicVideoNotSupported": {
+      "message": "Это музыкальное видео. Перевод и дубляж не поддерживаются."
+   },
+   "name": {
+      "message": "TranslateDub – Перевод и озвучка субтитров ИИ | Translate & Dub"
+   },
+   "noAudioTrackFound": {
+      "message": "Аудиодорожка не обнаружена. Это видео, похоже, содержит только видео без звука и не может использоваться для распознавания дубляжа."
+   },
+   "noSpeakers": {
+      "message": "Нет говорящих"
+   },
+   "noSubtitlesFound": {
+      "message": "У этого видео нет субтитров и не поддерживается перевод и озвучка"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Субтитры недоступны. Пожалуйста, подождите, пока плагин распознает субтитры для этого видео. Вы получите уведомление по электронной почте на ваш зарегистрированный адрес после завершения распознавания."
+   },
+   "notSupported": {
+      "message": "Не поддерживается"
+   },
+   "openBasicSettingsLink": {
+      "message": "Открыть основные настройки"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "База"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Произношение"
+   },
+   "optionsNavSitesShort": {
+      "message": "Сайты"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Субтитры"
+   },
+   "originalAudio": {
+      "message": "Оригинал"
+   },
+   "panelSummaryCollapse": {
+      "message": "Свернуть"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Свернуть все"
+   },
+   "panelSummaryCopy": {
+      "message": "Копировать"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Скопировано"
+   },
+   "panelSummaryDesc": {
+      "message": "Используйте передовые модели ИИ для быстрого понимания видеоконтента"
+   },
+   "panelSummaryError": {
+      "message": "Не удалось сгенерировать краткое содержание, попробуйте ещё раз"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "Не удалось определить текущее видео, обновите страницу и попробуйте снова"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "Сводка видео доступна только для участников подписки, оформите подписку для использования"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Для этого видео нет доступных субтитров, невозможно создать сводку"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "Сервис создания сводок временно недоступен, попробуйте позже"
+   },
+   "panelSummaryExpand": {
+      "message": "Развернуть"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Развернуть все"
+   },
+   "panelSummaryGenerate": {
+      "message": "Создать краткое содержание"
+   },
+   "panelSummaryGenerating": {
+      "message": "Генерация..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Для этого видео нет доступных субтитров"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Сгенерировать заново"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Повторная генерация..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Основные моменты"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Краткое содержание"
+   },
+   "panelSummaryShare": {
+      "message": "Поделиться"
+   },
+   "panelSummaryTitle": {
+      "message": "Краткое содержание и план видео"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Субтитры"
+   },
+   "panelTabVideoSummary": {
+      "message": "Резюме"
+   },
+   "pauseVideo": {
+      "message": "Приостановить видео"
+   },
+   "pay": {
+      "message": "Оплатить"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Нажмите на видео, чтобы открыть его, затем используйте функцию дубляжа."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Вход успешен, кликните иконку для выбора языка и голоса."
+   },
+   "preferenceActionFailed": {
+      "message": "Не удалось выполнить действие. Повторите попытку позже."
+   },
+   "preferenceActions": {
+      "message": "Действия"
+   },
+   "preferenceAdd": {
+      "message": "Добавить"
+   },
+   "preferenceAllDomains": {
+      "message": "Все области"
+   },
+   "preferenceAllStatuses": {
+      "message": "Все"
+   },
+   "preferenceCancel": {
+      "message": "Отмена"
+   },
+   "preferenceClearSearch": {
+      "message": "Очистить"
+   },
+   "preferenceDelete": {
+      "message": "Удалить"
+   },
+   "preferenceDisabled": {
+      "message": "Отключено"
+   },
+   "preferenceDomain": {
+      "message": "Область"
+   },
+   "preferenceEdit": {
+      "message": "Изменить"
+   },
+   "preferenceEnabled": {
+      "message": "Включено"
+   },
+   "preferenceLanguage": {
+      "message": "Язык"
+   },
+   "preferenceLoadFailed": {
+      "message": "Не удалось загрузить данные. Войдите в систему и повторите попытку."
+   },
+   "preferenceNextPage": {
+      "message": "Далее"
+   },
+   "preferencePageLabel": {
+      "message": "Страница {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Назад"
+   },
+   "preferenceSave": {
+      "message": "Сохранить"
+   },
+   "preferenceSearch": {
+      "message": "Поиск"
+   },
+   "preferenceSource": {
+      "message": "Источник"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Встроенный"
+   },
+   "preferenceSourceUser": {
+      "message": "Личный"
+   },
+   "preferenceStatus": {
+      "message": "Статус"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Отключено"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Включено"
+   },
+   "preferencesDescription": {
+      "message": "Здесь можно управлять основными настройками."
+   },
+   "preferencesSectionTitle": {
+      "message": "Основные настройки"
+   },
+   "preferencesTitle": {
+      "message": "Основные настройки"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "У этого видео нет субтитров, а продолжительность видео превышает 3 часа, перевод и озвучка не поддерживаются. Пожалуйста, выберите более короткое видео или видео с субтитрами."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "У этого видео нет субтитров, и оно является приватным. Плагин не может распознать для него субтитры в фоновом режиме. Сделайте видео публичным или добавьте субтитры вручную и попробуйте снова."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Удалить это правило произношения?"
+   },
+   "pronunciationEditRule": {
+      "message": "Изменить правило произношения"
+   },
+   "pronunciationEditorHint": {
+      "message": "Выберите непрерывную часть, которую нужно исправить, затем введите ее произношение."
+   },
+   "pronunciationEmpty": {
+      "message": "Никакие персональные правила произношения не соответствуют текущим фильтрам."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Сначала введите соответствующий текст"
+   },
+   "pronunciationFineSelection": {
+      "message": "Точный выбор"
+   },
+   "pronunciationLoading": {
+      "message": "Загрузка…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Например: привет"
+   },
+   "pronunciationMatchText": {
+      "message": "Соответствующий текст"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Объединить соседние произношения"
+   },
+   "pronunciationModifier": {
+      "message": "Тон"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Нейтральный тон"
+   },
+   "pronunciationNewRule": {
+      "message": "Новое правило"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Тон {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "возникновение {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Введите произношение и тон для каждой части. Разделите или объедините части по мере необходимости."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Введите слог пиньинь"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "Слог пиньинь"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Умный выбор"
+   },
+   "pronunciationReading": {
+      "message": "Указанное произношение"
+   },
+   "pronunciationReselect": {
+      "message": "Выберите еще раз"
+   },
+   "pronunciationSaving": {
+      "message": "Сохранение…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Поиск соответствующего текста"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Выбрать"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Выберите текст для исправления"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Детализация выбора"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Выберите непрерывный текст."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "Сохраненное местоположение невозможно восстановить. Перед сохранением выделите текст еще раз."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Выбрано: {text}; возникновение {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "Исправленная часть может содержать не более 128 символов."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Установите личное произношение для переведенного текста. Правила распространяются только на местный дубляж."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Произношение"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Настройки произношения"
+   },
+   "pronunciationSplitAt": {
+      "message": "Разделить на"
+   },
+   "pronunciationStatus": {
+      "message": "Статус"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Целевой язык"
+   },
+   "pronunciationTargetText": {
+      "message": "Исправленная часть"
+   },
+   "pronunciationUnitReading": {
+      "message": "Почастное произношение"
+   },
+   "pronunciationUnknownError": {
+      "message": "Действие не удалось. Пожалуйста, повторите попытку позже."
+   },
+   "pronunciationWholeReading": {
+      "message": "Полное произношение"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Введите полное тонированное произношение. Разделите его, чтобы выбрать тон для каждой части."
+   },
+   "rechargeLimit": {
+      "message": "Лимит + подписка"
+   },
+   "replacementCreateButton": {
+      "message": "Добавить личную замену"
+   },
+   "replacementDescription": {
+      "message": "Исправляйте повторяющиеся ошибки распознавания субтитров (например, cloud code -> Claude Code) перед AI-переводом."
+   },
+   "replacementEditTitle": {
+      "message": "Изменить личную замену"
+   },
+   "replacementEditorDescription": {
+      "message": "Перед AI-переводом применяются только личные замены текста."
+   },
+   "replacementEmpty": {
+      "message": "Правил исправления пока нет."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Ошибочный текст, например cloud code"
+   },
+   "replacementFindText": {
+      "message": "Ошибочный текст"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Заменить на, например claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Заменить на"
+   },
+   "replacementSearchEmpty": {
+      "message": "Подходящие замены не найдены."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Поиск замен"
+   },
+   "replacementTitle": {
+      "message": "Исправления ошибок в исходном тексте"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Настройте в Safari: Меню > Настройки > Расширения"
+   },
+   "sampleAesNotSupported": {
+      "message": "Это видео использует шифрование SAMPLE-AES, которое в настоящее время не поддерживается для загрузки."
+   },
+   "save": {
+      "message": "Сохранить"
+   },
+   "saveFailedText": {
+      "message": "Не удалось сохранить, повторите"
+   },
+   "saveFailedTitle": {
+      "message": "Ошибка сохранения"
+   },
+   "saveSuccessText": {
+      "message": "Настройки сохранены"
+   },
+   "saveSuccessTitle": {
+      "message": "Успешно сохранено"
+   },
+   "save_settings": {
+      "message": "Сохранить"
+   },
+   "saving": {
+      "message": "Сохранение..."
+   },
+   "searchSourceLanguage": {
+      "message": "Поиск исходного языка..."
+   },
+   "searchTargetLanguage": {
+      "message": "Поиск целевого языка..."
+   },
+   "selectSourceLanguage": {
+      "message": "Выберите исходный язык"
+   },
+   "selectSpeaker": {
+      "message": "Выбрать"
+   },
+   "selectTargetLanguage": {
+      "message": "Выберите целевой язык"
+   },
+   "sex": {
+      "message": "Пол:"
+   },
+   "shortcutSettings": {
+      "message": "Настройки сочетаний клавиш"
+   },
+   "showSubtitle": {
+      "message": "Показать субтитры:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Отключить для этого сайта"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Отключить глобально"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Скрыть до следующего посещения"
+   },
+   "sidebarReenableHint": {
+      "message": "Можно повторно включить в "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Настройках"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Если включено и язык субтитров совпадает с целевым языком, озвучка запускается сразу без перевода."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Пропускать перевод для одного и того же языка"
+   },
+   "sourceLanguage": {
+      "message": "Исходный язык"
+   },
+   "source_languages": {
+      "message": "Исходный язык:"
+   },
+   "speaker": {
+      "message": "Говорящий"
+   },
+   "speakerList": {
+      "message": "Список говорящих"
+   },
+   "speakerName": {
+      "message": "Имя говорящего"
+   },
+   "speakersTitle": {
+      "message": "Говорящие"
+   },
+   "startUpload": {
+      "message": "Начать загрузку"
+   },
+   "subscribe": {
+      "message": "Подписка"
+   },
+   "subscriptionRecharge": {
+      "message": "Подписка и пополнение"
+   },
+   "subtitleDisplayMode": {
+      "message": "Режим субтитров"
+   },
+   "subtitleEditorExport": {
+      "message": "Экспорт"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Ручной ввод"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Мои субтитры"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Нет доступных источников субтитров (доступен ручной ввод)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "Сохранить не удалось. Пожалуйста, повторите попытку позже."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Не удалось идентифицировать текущее видео. Сохранить не удалось."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Нажмите здесь, чтобы переключить субтитры"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Источник субтитров"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Неверный блок SRT. Укажите последовательность, временную метку и содержание."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Каждый субтитр должен содержать хотя бы одну строку текста."
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "Содержание субтитров не может быть пустым."
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "Время окончания должно быть больше времени начала."
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Неверный формат порядкового номера SRT."
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "Порядковые номера SRT должны начинаться с 1 и увеличиваться на 1."
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Некоторые субтитры содержат теги говорящего. Все субтитры должны использовать префикс [speaker]."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Неверный формат времени. Пожалуйста, просмотрите и исправьте это."
+   },
+   "subtitleModeBilingual": {
+      "message": "Двуязычные субтитры"
+   },
+   "subtitleModeOff": {
+      "message": "Субтитры выключены"
+   },
+   "subtitleModeTranslated": {
+      "message": "Только перевод"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Субтитры, распознанные ИИ плагина"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Приоритетно использовать субтитры, сгенерированные ИИ-распознаванием речи плагина, для более высокой точности."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Выберите, какой источник субтитров использовать приоритетно для перевода."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Встроенные субтитры платформы"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Приоритетно использовать оригинальные субтитры, предоставленные видеоплатформой."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Приоритет перевода субтитров"
+   },
+   "subtitleSize": {
+      "message": "Размер"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Цвет фона"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Непрозрачность фона"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "Чёрный"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Синий"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Голубой"
+   },
+   "subtitleStyleColorGray": {
+      "message": "Серый"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "Зелёный"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Светло-серый"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Пурпурный"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "Оранжевый"
+   },
+   "subtitleStyleColorRed": {
+      "message": "Красный"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Белый"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "Жёлтый"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Пользовательский шрифт"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Например: PingFang SC, Arial."
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Настроить"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Нет"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Контур"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Тень"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Стиль обводки"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Двуязычные"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Режим редактирования стиля"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Только перевод"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Как у перевода"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Пользовательский"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "По умолчанию"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Шрифт"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Нет"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Размер шрифта"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Насыщенность шрифта"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Двуязычная вёрстка"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Межстрочный интервал"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "Изменения будут сохранены и вступят в силу немедленно."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Настройки стиля субтитров"
+   },
+   "subtitleStyleOrder": {
+      "message": "Порядок субтитров"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Оригинал сверху"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Перевод сверху"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Стиль оригинала"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Относительный размер шрифта"
+   },
+   "subtitleStylePosition": {
+      "message": "Позиция"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Снизу"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "По центру"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Сверху"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "В реальном времени"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Он считал, что у этого молодого человека большой потенциал."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Предварительный просмотр"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Восстановить по умолчанию"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Стиль субтитров"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Общий фон"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Горизонтальное выравнивание"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "По центру"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "По левому краю"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "По правому краю"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Цвет шрифта"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Стиль перевода"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Используются текущие настройки"
+   },
+   "subtitles": {
+      "message": "Субтитры"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Субтитры для этого видео в настоящее время ограничены YouTube. Пожалуйста, попробуйте позже."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Переключить настройки громкости между оригинальным и дублированным аудио"
+   },
+   "switchModelWarning": {
+      "message": "Смена голоса/модели увеличит расходы, лучше позже. Продолжить?"
+   },
+   "targetLanguage": {
+      "message": "Целевой язык"
+   },
+   "target_languages": {
+      "message": "Целевой язык:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Это видео уже обрабатывается для распознавания субтитров ИИ. Пожалуйста, дождитесь уведомления по электронной почте."
+   },
+   "textToSpeech": {
+      "message": "Озвучка текста:"
+   },
+   "textToSpeechToggle": {
+      "message": "Плавающий шар"
+   },
+   "toggleSubtitles": {
+      "message": "Вкл/выкл субтитры"
+   },
+   "tooExpensive": {
+      "message": "Дорого"
+   },
+   "translateEngineTipText": {
+      "message": "переключите на Google"
+   },
+   "translateService": {
+      "message": "Служба перевода:"
+   },
+   "translatedAudio": {
+      "message": "Перевод"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Добавить замену в переводе"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Добавить замену в переводе"
+   },
+   "translatedReplacementDescription": {
+      "message": "Заменяйте слова или фразы в готовом переводе с помощью личных правил."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Изменить замену в переводе"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Изменяется только готовый перевод; исходный текст и кеш переводов остаются без изменений."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Правил замены в переведённом тексте пока нет."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "При отключении правило сохраняется, но не применяется к переведённому тексту."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Слово или фраза в переведённом тексте"
+   },
+   "translatedReplacementFindText": {
+      "message": "Переведённый текст"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Язык перевода"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Слово или фраза, которые будут показаны вместо них"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Заменить на"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Подходящие замены в переведённом тексте не найдены."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Поиск в переведённом тексте"
+   },
+   "translatedReplacementTitle": {
+      "message": "Замены в переведённом тексте"
+   },
+   "translationDomainAuto": {
+      "message": "Автомобили"
+   },
+   "translationDomainChess": {
+      "message": "Шахматы"
+   },
+   "translationDomainEcommerce": {
+      "message": "Электронная коммерция"
+   },
+   "translationDomainEducation": {
+      "message": "Образование"
+   },
+   "translationDomainFashion": {
+      "message": "Мода"
+   },
+   "translationDomainFinance": {
+      "message": "Финансы"
+   },
+   "translationDomainFood": {
+      "message": "Еда и кулинария"
+   },
+   "translationDomainGaming": {
+      "message": "Игры"
+   },
+   "translationDomainGardening": {
+      "message": "Садоводство"
+   },
+   "translationDomainGeneral": {
+      "message": "Общее"
+   },
+   "translationDomainGolf": {
+      "message": "Гольф"
+   },
+   "translationDomainLaw": {
+      "message": "Право"
+   },
+   "translationDomainMedical": {
+      "message": "Медицина и здоровье"
+   },
+   "translationDomainMovies": {
+      "message": "Фильмы и ТВ"
+   },
+   "translationDomainMusic": {
+      "message": "Музыка"
+   },
+   "translationDomainNews": {
+      "message": "Новости и медиа"
+   },
+   "translationDomainPets": {
+      "message": "Домашние питомцы"
+   },
+   "translationDomainPhotography": {
+      "message": "Фотография"
+   },
+   "translationDomainProgramming": {
+      "message": "Программирование"
+   },
+   "translationDomainSports": {
+      "message": "Спорт"
+   },
+   "translationDomainTech": {
+      "message": "Технологии"
+   },
+   "translationDomainTravel": {
+      "message": "Путешествия"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 и крипто"
+   },
+   "translationEngine": {
+      "message": "Движок перевода"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI-перевод"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Если включено, AI-перевод использует настройки ниже. Если выключено, существующие настройки сохраняются."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Применять глоссарий и замены текста при AI-переводе"
+   },
+   "translationService": {
+      "message": "Служба перевода"
+   },
+   "translationServiceTitle": {
+      "message": "Служба перевода"
+   },
+   "trialMemberDurationLimit": {
+      "message": "У этого видео нет субтитров. Поскольку вы пробный участник, в настоящее время поддерживаются только видео продолжительностью менее 15 минут для распознавания субтитров. Премиум-участники поддерживают видео продолжительностью менее 3 часов."
+   },
+   "trialMemberModelLimit": {
+      "message": "Пробные пользователи могут использовать только Gemini и Google Переводчик. Чтобы использовать другие модели, оформите подписку."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Универсальный дубляж требует облачных GPU-вычислений (высокая стоимость), только для VIP."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Универсальная озвучка не поддерживается для этого видео в текущей версии. Поддержка планируется в следующей версии. Пожалуйста, обратитесь в службу поддержки для получения подробной информации."
+   },
+   "unknownError": {
+      "message": "Произошла неизвестная ошибка. Пожалуйста, попробуйте ещё раз."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Перейдите на членство — плагин будет распознавать AI‑субтитры в фоновом режиме. Получив письмо-уведомление, вернитесь к просмотру; кнопка озвучки станет зелёной, а переводы — точнее."
+   },
+   "uploadComplete": {
+      "message": "Загрузка завершена"
+   },
+   "uploadFailed": {
+      "message": "Ошибка загрузки"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Субтитры не найдены. Хотите загрузить видео для распознавания субтитров с помощью ИИ?"
+   },
+   "uploading": {
+      "message": "Загрузка"
+   },
+   "uploadingMedia": {
+      "message": "Загрузка медиа..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Учетная запись пользователя"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Если включено, отредактированные или локально загруженные субтитры автоматически сегментируются. Если выключено, сохраняется исходное деление."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Умная сегментация пользовательских субтитров"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Распознанная область текущего видео: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Это видео защищено DRM и не может быть использовано для дубляжа."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Это видео превышает 3 часа. Универсальный дубляж в настоящее время не поддерживается для видео длиннее 3 часов."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Подпишитесь и пополните лимит для этой функции"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Нужна подписка и лимит"
+   },
+   "vipFreeOptionTipText": {
+      "message": "С подпиской бесплатные переводы"
+   },
+   "vipRequiredText": {
+      "message": "Подпишитесь для этой функции"
+   },
+   "vipRequiredTitle": {
+      "message": "Требуется подписка"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Смените на gemini, deepseek или gpt-3.5 бесплатно с подпиской"
+   },
+   "voice": {
+      "message": "Голос"
+   },
+   "voiceSettingsMismatch": {
+      "message": "Тип голоса и настройки голоса не совпадают. Перейдите на страницу настроек, чтобы повторно выбрать и сохранить настройки голоса."
+   },
+   "voiceTypeTipText": {
+      "message": "переключите голос на бесплатный"
+   },
+   "voices": {
+      "message": "Голос:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Голос и субтитры"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Голос и субтитры"
+   },
+   "voicesType": {
+      "message": "Тип голоса:"
+   },
+   "waitingForRecognition": {
+      "message": "Видео успешно загружено. Идёт распознавание субтитров с помощью ИИ. Вы получите уведомление по электронной почте, когда всё будет готово."
+   },
+   "woman": {
+      "message": "Жен."
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Ваш браузер не поддерживает распознавание загрузки записей Zoom. Пожалуйста, используйте Chrome/Edge."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Загрузка записи Zoom запрещена (403). Пожалуйста, воспроизведите/обновите страницу для прохождения проверки, затем повторите попытку."
+   }
+}

@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Saldo Akun:"
+   },
+   "advancedSettings": {
+      "message": "Pengaturan Lanjutan"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "Subtitle AI belum ada. Plugin mengenali di latar belakang. Setelah mendengar dubbing pertama, tutup halaman dan tunggu email. Tombol akan hijau saat siap."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS hanya untuk anggota. Tingkatkan untuk membuka suara Azure berkualitas tinggi."
+   },
+   "back": {
+      "message": "Kembali"
+   },
+   "backToSettings": {
+      "message": "Kembali ke pengaturan"
+   },
+   "backToVideoLibrary": {
+      "message": "Kembali ke pustaka video"
+   },
+   "backgroundAudio": {
+      "message": "BGM"
+   },
+   "balanceRequiredText": {
+      "message": "Saldo akun Anda tidak mencukupi. Silakan isi ulang untuk menggunakan fitur ini"
+   },
+   "balanceRequiredTitle": {
+      "message": "Saldo Diperlukan"
+   },
+   "balanceRunningLow": {
+      "message": "Saldo Anda hampir habis. Untuk menghindari pengalaman menonton yang buruk, disarankan untuk mengisi ulang sebelumnya."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Konfig pintasan di pengaturan ekstensi"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Dikecualikan"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Nonaktifkan Semua"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} istilah bawaan"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Bidang dinonaktifkan"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Tidak ada bidang yang cocok."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Cari bidang"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} bidang"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Kumpulan Bidang Bawaan"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Glosarium bawaan tidak tersedia untuk bahasa target saat ini. Anda tetap dapat menambahkan istilah pribadi."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Aktifkan Semua"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} / {total} diaktifkan"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Kelola Bidang"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "Aktifkan atau nonaktifkan bidang glosarium bawaan untuk bahasa target."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Kelola Kumpulan Bidang Bawaan"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Aturan bawaan"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} aturan bawaan"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Aktifkan atau nonaktifkan bidang bawaan untuk koreksi teks sumber."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Kelola bidang bawaan untuk koreksi teks sumber"
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "cancelButton": {
+      "message": "Batal"
+   },
+   "completing": {
+      "message": "Menyelesaikan"
+   },
+   "confirmButton": {
+      "message": "Lanjutkan dan Simpan"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Yakin hapus pembicara ini?"
+   },
+   "contentMenusTitle": {
+      "message": "Mulai Pemutaran Sulih Suara"
+   },
+   "corsNotSupported": {
+      "message": "Situs web ini tidak mengizinkan pengunduhan file media. Dubbing universal tidak didukung."
+   },
+   "debugInfo": {
+      "message": "Info Debug"
+   },
+   "delete": {
+      "message": "Hapus"
+   },
+   "deleteSpeaker": {
+      "message": "Hapus"
+   },
+   "description": {
+      "message": "Terjemahkan video sekali klik—pahami bahasa asing dengan cepat, akses pengetahuan global"
+   },
+   "disableGlobally": {
+      "message": "Nonaktifkan secara global"
+   },
+   "disabledSitesActions": {
+      "message": "Tindakan"
+   },
+   "disabledSitesAdd": {
+      "message": "Tambah"
+   },
+   "disabledSitesDelete": {
+      "message": "Hapus"
+   },
+   "disabledSitesDescription": {
+      "message": "Bola mengambang tidak akan muncul di situs berikut. Anda dapat menambah atau menghapus situs yang dinonaktifkan di sini."
+   },
+   "disabledSitesDomain": {
+      "message": "Domain"
+   },
+   "disabledSitesEmpty": {
+      "message": "Tidak ada situs yang dinonaktifkan"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Masukkan domain, mis. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Situs yang dinonaktifkan"
+   },
+   "disabledSitesTitle": {
+      "message": "Kelola situs yang dinonaktifkan"
+   },
+   "doNotClosePage": {
+      "message": "Harap jangan tutup atau segarkan halaman ini selama pengunggahan, jika tidak pengunggahan akan terputus."
+   },
+   "doNotShowAgainLink": {
+      "message": "Jangan tampilkan lagi"
+   },
+   "downloading": {
+      "message": "Mengunduh"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Video belum ditranskrip. Klik tombol CC di bawah video Dropbox. Setelah selesai, klik tombol dubbing plugin."
+   },
+   "dropdownNoOptions": {
+      "message": "Tidak ada opsi tersedia"
+   },
+   "dropdownPlaceholder": {
+      "message": "Pilih"
+   },
+   "dropdownSearch": {
+      "message": "Cari..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Saat ini tidak ada video atau audio yang dapat digunakan di halaman ini. Tunggu hingga video selesai dimuat lalu coba lagi, atau muat ulang halaman."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Tidak ada video yang dapat didubbing"
+   },
+   "dubbingSettings": {
+      "message": "Pengaturan Sulih Suara"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Membuka halaman pengaturan pintasan ekstensi Edge"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "editSpeaker": {
+      "message": "Edit"
+   },
+   "emailNotificationDescription": {
+      "message": "Beri tahu saya lewat email saat pengenalan subtitle selesai."
+   },
+   "emailNotificationLabel": {
+      "message": "Notifikasi email"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "Gagal menyimpan. Silakan coba lagi nanti."
+   },
+   "enterSpeakerName": {
+      "message": "Masukkan nama pembicara"
+   },
+   "enterVoice": {
+      "message": "Masukkan nama suara"
+   },
+   "error": {
+      "message": "Kesalahan"
+   },
+   "female": {
+      "message": "Wanita"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Membuka add-ons Firefox. Atur pintasan di Ekstensi dan Tema"
+   },
+   "free": {
+      "message": "Gratis"
+   },
+   "freeForVip": {
+      "message": "Gratis VIP"
+   },
+   "freeOptionTipText": {
+      "message": "Jika Anda tidak ingin mengisi ulang, Anda dapat memilih opsi gratis, "
+   },
+   "freeUserDailyLimit": {
+      "message": "Pengguna gratis dapat menonton hingga 5 video per hari melalui plugin. Upgrade ke keanggotaan untuk membuka manfaat menonton tanpa batas."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Video tanpa subtitle. Berlangganan untuk pengenalan subtitle dan fitur dubbing."
+   },
+   "gender": {
+      "message": "Jenis Kelamin"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Belum ada istilah pribadi untuk bahasa ini."
+   },
+   "glossaryCreateButton": {
+      "message": "Tambah Istilah Pribadi"
+   },
+   "glossaryDescription": {
+      "message": "Tetapkan terjemahan baku untuk istilah sumber (misalnya Stratagem). Istilah Anda mengesampingkan glosarium bawaan."
+   },
+   "glossaryEditTitle": {
+      "message": "Edit Istilah Pribadi"
+   },
+   "glossaryEditorDescription": {
+      "message": "Hanya istilah glosarium pribadi yang dapat ditambahkan, diedit, diaktifkan, atau dihapus."
+   },
+   "glossarySearchEmpty": {
+      "message": "Tidak ada istilah yang cocok."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Cari istilah sumber"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Istilah sumber"
+   },
+   "glossarySourceTerm": {
+      "message": "Istilah sumber"
+   },
+   "glossaryTableTitle": {
+      "message": "Istilah untuk Bahasa Saat Ini"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Terjemahan wajib"
+   },
+   "glossaryTargetTerm": {
+      "message": "Terjemahan"
+   },
+   "glossaryTitle": {
+      "message": "Glosarium"
+   },
+   "hideUntilNextVisit": {
+      "message": "Sembunyikan hingga kunjungan berikutnya"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Gagal mendekripsi konten video. Kunci enkripsi mungkin salah atau format video tidak kompatibel."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Gagal mengambil kunci dekripsi untuk video ini. Video mungkin dilindungi atau server kunci tidak tersedia."
+   },
+   "insufficientBalance": {
+      "message": "Karena saldo tidak mencukupi, layanan telah diturunkan ke Google Translate. Untuk menggunakan terjemahan AI, silakan isi ulang kredit Anda."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Saldo tidak cukup. Isi ulang untuk AI dan Azure TTS, atau gunakan Google Translate dan suara gratis."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Silakan isi ulang keanggotaan dan saldo Anda sebelum menggunakan terjemahan AI dan Azure TTS. Jika Anda tidak ingin mengisi ulang, Anda juga dapat memilih Google Translate dan jenis suara gratis."
+   },
+   "insufficientMembership": {
+      "message": "Keanggotaan Anda telah berakhir. Silakan isi ulang keanggotaan Anda sebelum menggunakan terjemahan AI dan Azure TTS. Jika Anda tidak ingin mengisi ulang, Anda juga dapat memilih Google Translate dan jenis suara gratis."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Ekstensi browser lain memblokir intersepsi permintaan subtitle. Nonaktifkan ekstensi yang berkonflik, muat ulang halaman, lalu coba lagi."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "Konflik ekstensi terdeteksi"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Aktifkan audio asli"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "Dubbing universal tidak didukung di perangkat iOS. Silakan gunakan browser desktop."
+   },
+   "liveStreamNotSupported": {
+      "message": "Siaran langsung tidak didukung untuk dubbing universal."
+   },
+   "liveVideoNotSupported": {
+      "message": "Video langsung belum didukung"
+   },
+   "loading": {
+      "message": "memuat"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Tambahkan subjudul"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Gagal menambahkan subtitle."
+   },
+   "localPlayerAddVideo": {
+      "message": "Tambahkan video"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Gagal menambahkan video."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Semua tautan subtitle dihapus."
+   },
+   "localPlayerAllVideos": {
+      "message": "Semua video"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Cari dan kelola setiap video yang diimpor."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Naik; klik untuk beralih ke menurun"
+   },
+   "localPlayerAssociate": {
+      "message": "Tautan subjudul"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Tautkan subtitle dan gunakan untuk dubbing suara"
+   },
+   "localPlayerAssociated": {
+      "message": "Tertaut"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Tertaut di luar folder ini"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "Tautan subtitle dihapus."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "Tautan subtitle disimpan."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Subtitle ditautkan dan disetel untuk sulih suara suara."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Kembali ke folder"
+   },
+   "localPlayerClose": {
+      "message": "Tutup"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Direktori saat ini"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Dubbing video"
+   },
+   "localPlayerDelete": {
+      "message": "Hapus"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Gagal menghapus video."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Hapus {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "Ini menghapus tautan video dan subtitle dari perpustakaan lokal. File asli di disk tidak akan dihapus."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Hapus video ini?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "Menurun; klik untuk beralih ke menaik"
+   },
+   "localPlayerDropHint": {
+      "message": "Letakkan video atau file subtitle .srt/.vtt/.ass di sini"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Lepaskan mouse untuk mengimpor file"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "Sulih suara dimulai"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Gagal memulai sulih suara lokal."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "Sulih suara lokal dimulai."
+   },
+   "localPlayerEntryButton": {
+      "message": "Video lokal"
+   },
+   "localPlayerFilterAll": {
+      "message": "Semua"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Tanpa subtitle tertaut"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Dengan subtitle tertaut"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Tindakan cepat video lokal"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Akses folder tersedia"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "Membuka folder akan menyimpan pegangan file sehingga akses dapat dipulihkan setelah penyegaran."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Browser ini tidak dapat membuka folder. Gunakan Tambahkan video/Tambahkan subtitle untuk impor sementara."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} subtitel terkait"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Terakhir diputar {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Terakhir dipindai {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Tindakan folder"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "Dihapus {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Cari folder, jalur, atau file"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} video"
+   },
+   "localPlayerFolders": {
+      "message": "Folder"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Jelajahi media yang diimpor berdasarkan folder."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Video lokal ini tidak memiliki subtitle tertaut. Pengguna gratis belum bisa menggunakan pengenalan subtitle latar belakang untuk video lokal. Tingkatkan keanggotaan untuk menggunakan pengenalan subtitle AI, atau unggah file subtitle secara manual sebelum memulai sulih suara suara."
+   },
+   "localPlayerImportComplete": {
+      "message": "Video {videoCount} dan subtitle {subtitleCount} yang diimpor."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Buka folder, tambahkan video, atau letakkan file untuk memulai."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Perpustakaan video lokal"
+   },
+   "localPlayerLibraryView": {
+      "message": "Tampilan perpustakaan"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Cocok {visibleCount} / total {totalCount} folder"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Cocok {visibleCount} / total {totalCount} video"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Subtitle asli"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Perpustakaan video lokal / Teks ke Suara"
+   },
+   "localPlayerNever": {
+      "message": "Tidak pernah"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Sesuaikan pencarian folder dan coba lagi."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Tidak ada folder yang cocok"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Tidak ada subtitle yang perlu dikelola"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Sesuaikan pencarian, filter, atau pengurutan dan coba lagi."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Tidak ada video yang cocok"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Tidak ada file baru yang ditemukan."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Tidak ada subtitle yang ditautkan"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Unggah video ini untuk pengenalan subtitle AI? Unggahan hanya digunakan untuk mengenali subtitle, video segera dihapus setelah dikenali, dan Anda akan diberitahu melalui email."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Video ini tidak memiliki subtitle"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Buka folder atau tambahkan video untuk mengelola tautan subtitle dan sulih suara lokal di sini."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Belum ada video lokal"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Tidak terhubung"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Sekarang memainkan {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Buka map"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Gagal membuka folder."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Buka folder"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Buka bilah sisi"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Gagal membuka bilah sisi."
+   },
+   "localPlayerPageTitle": {
+      "message": "Video lokal · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Putar video"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Subtitle disetel untuk sulih suara suara."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Subjudul ini sudah dikaitkan dengan \"{fromVideo}\". Melanjutkan akan menghapus pengaitan tersebut dan mengaitkannya dengan \"{toVideo}\"."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Rebind subtitle ini?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Mengenali subtitle"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Putuskan tautan semua subtitle"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Hanya tautan subtitle untuk video ini yang akan dihapus. Catatan file subtitle tidak akan dihapus."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Putuskan tautan semua subtitle?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Putuskan tautan subjudul"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Gagal menghapus folder dari perpustakaan."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "Ini hanya menghapus catatan perpustakaan untuk folder ini. File asli di disk tidak akan dihapus."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Hapus folder ini dari perpustakaan?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Hapus dari perpustakaan"
+   },
+   "localPlayerRescanAll": {
+      "message": "Pindai ulang semua"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Gagal memindai ulang perpustakaan lokal."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Tidak dapat memindai ulang folder ini karena akses folder tersimpan tidak tersedia."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Pindai ulang folder ini"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "Video yang ditentukan dalam URL tidak ada di perpustakaan video lokal saat ini."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Subjudul folder yang sama {sameCount} · Tertaut {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Pemindaian selesai: menambahkan {addedVideoCount} video, {addedSubtitleCount} subtitle, memperbarui file {updatedCount}."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Cari video atau jalur file"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Pilih video untuk ditautkan ke subtitle ini"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Gunakan subtitle ini untuk dubbing suara"
+   },
+   "localPlayerSortDuration": {
+      "message": "Durasi video"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Video yang baru diputar"
+   },
+   "localPlayerSortName": {
+      "message": "Nama berkas"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Mulai sulih suara"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} subtitle tertaut"
+   },
+   "localPlayerSubtitles": {
+      "message": "Terjemahan"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Peramban ini tidak mendukung File System Access API. Anda dapat menambahkan video dan subtitle untuk sementara."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Mode impor sementara"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Batal"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Teks ke Suara - Bahasa Target"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Ekspor subtitle MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "Konten subjudul wajib diisi"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Simpan Gagal"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Jenis Kelamin"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Teks ke Suara MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Teks ke Suara MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Menyimpan..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Masukan Manual"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Masukan Manual - Teks ke Suara"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Bahasa Target"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Teks ke Suara: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Teks ke Suara"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Tidak ada suara yang tersedia untuk pilihan ini."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Teks ke Suara"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "Teks terlalu panjang. Persingkat, lalu coba lagi."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Suara"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Jenis Suara"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "Thumbnail yang dihasilkan untuk video {count}."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Pembuatan thumbnail gagal: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Total {count} folder"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Total {count} video"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Pengunggahan dibatalkan."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Digunakan untuk sulih suara suara"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "Dihapus {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Tidak dapat memulihkan akses ke file video ini. Silakan tambahkan videonya lagi."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "Tidak dapat membaca file video lokal. Silakan tambahkan videonya lagi."
+   },
+   "localPlayerVideoList": {
+      "message": "Daftar video"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "Pemutar video belum siap."
+   },
+   "login": {
+      "message": "Login"
+   },
+   "loginAndUsePlugin": {
+      "message": "Silakan klik ikon plugin untuk login terlebih dahulu, lalu gunakan plugin untuk pemutaran sulih suara."
+   },
+   "logout": {
+      "message": "Keluar akun"
+   },
+   "lowBalanceText": {
+      "message": "Saldo di bawah $1. Isi ulang segera agar layanan tetap berjalan"
+   },
+   "lowBalanceTitle": {
+      "message": "Peringatan Saldo Rendah"
+   },
+   "male": {
+      "message": "Pria"
+   },
+   "man": {
+      "message": "Pria"
+   },
+   "mediaSourceNotDetected": {
+      "message": "Tidak dapat mendeteksi sumber video. Situs web ini mungkin tidak didukung."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Saat ini subtitle yang digunakan dikenali oleh AI latar belakang ekstensi. Jika terjemahan terasa kurang tepat, ubah prioritas subtitle ke subtitle platform di Pengaturan Dasar."
+   },
+   "memberFree": {
+      "message": "Gratis untuk Anggota"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Tipe suara ini hanya untuk anggota. Tingkatkan untuk menggunakannya secara gratis."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Anda sedang melakukan dubbing dengan jenis suara gratis. Suara Azure terdengar lebih alami; anggota kini dapat menggunakan Azure tanpa batas dan tanpa isi ulang kredit tambahan."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "Hingga"
+   },
+   "membershipIcon": {
+      "message": "Ikon Keanggotaan"
+   },
+   "membershipRequired": {
+      "message": "Silakan upgrade ke keanggotaan sebelum menggunakan terjemahan OpenAI."
+   },
+   "membershipRequiredForAI": {
+      "message": "Silakan isi ulang keanggotaan Anda sebelum menggunakan terjemahan AI. Jika Anda tidak ingin mengisi ulang, Anda juga dapat memilih Google Translate."
+   },
+   "membershipRequiredTitle": {
+      "message": "Keanggotaan diperlukan"
+   },
+   "metadataNotFound": {
+      "message": "Metadata tidak ditemukan. Refresh dan coba lagi"
+   },
+   "multiVideoNotSupported": {
+      "message": "Halaman ini memiliki beberapa video. Dubbing universal hanya mendukung halaman dengan satu video saat menggunakan stream HLS."
+   },
+   "musicVideoNotSupported": {
+      "message": "Ini adalah video musik. Terjemahan dan dubbing tidak didukung."
+   },
+   "name": {
+      "message": "TranslateDub – Terjemahan & Sulih Suara"
+   },
+   "noAudioTrackFound": {
+      "message": "Tidak ada trek audio yang terdeteksi. Video ini tampaknya hanya video tanpa audio dan tidak dapat digunakan untuk pengenalan dubbing."
+   },
+   "noSpeakers": {
+      "message": "Tidak ada pembicara"
+   },
+   "noSubtitlesFound": {
+      "message": "Video tanpa subtitle, tidak mendukung terjemahan dan dubbing"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Tidak ada subtitle yang tersedia. Silakan tunggu plugin mengenali subtitle untuk video ini. Anda akan menerima pemberitahuan email di alamat email terdaftar setelah pengenalan selesai."
+   },
+   "notSupported": {
+      "message": "Tidak didukung"
+   },
+   "openBasicSettingsLink": {
+      "message": "Buka Pengaturan Dasar"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Dasar"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Pengucapan"
+   },
+   "optionsNavSitesShort": {
+      "message": "Situs"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Subtitle"
+   },
+   "originalAudio": {
+      "message": "Asli"
+   },
+   "panelSummaryCollapse": {
+      "message": "Ciutkan"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Ciutkan semua"
+   },
+   "panelSummaryCopy": {
+      "message": "Salin"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Tersalin"
+   },
+   "panelSummaryDesc": {
+      "message": "Gunakan model AI canggih untuk memahami konten video dengan cepat"
+   },
+   "panelSummaryError": {
+      "message": "Pembuatan ringkasan gagal, silakan coba lagi"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "Tidak dapat mengenali video saat ini, silakan muat ulang halaman dan coba lagi"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "Ringkasan video adalah fitur khusus anggota, silakan berlangganan untuk menggunakan"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Tidak ada subtitle yang tersedia untuk video ini, tidak dapat membuat ringkasan"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "Layanan ringkasan sementara tidak tersedia, silakan coba lagi nanti"
+   },
+   "panelSummaryExpand": {
+      "message": "Perluas"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Perluas semua"
+   },
+   "panelSummaryGenerate": {
+      "message": "Buat ringkasan"
+   },
+   "panelSummaryGenerating": {
+      "message": "Membuat..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Tidak ada subtitle yang tersedia untuk video ini"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Buat ulang"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Membuat ulang..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Sorotan"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Ringkasan"
+   },
+   "panelSummaryShare": {
+      "message": "Bagikan"
+   },
+   "panelSummaryTitle": {
+      "message": "Ringkasan & garis besar video"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Subtitle"
+   },
+   "panelTabVideoSummary": {
+      "message": "Ringkasan"
+   },
+   "pauseVideo": {
+      "message": "Jeda Video"
+   },
+   "pay": {
+      "message": "bayar"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Silakan klik video untuk membukanya, lalu gunakan fitur dubbing."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Login berhasil. Klik ikon plugin untuk pilih bahasa dan suara."
+   },
+   "preferenceActionFailed": {
+      "message": "Tindakan gagal. Silakan coba lagi nanti."
+   },
+   "preferenceActions": {
+      "message": "Tindakan"
+   },
+   "preferenceAdd": {
+      "message": "Tambah"
+   },
+   "preferenceAllDomains": {
+      "message": "Semua Bidang"
+   },
+   "preferenceAllStatuses": {
+      "message": "Semua"
+   },
+   "preferenceCancel": {
+      "message": "Batalkan"
+   },
+   "preferenceClearSearch": {
+      "message": "Bersihkan"
+   },
+   "preferenceDelete": {
+      "message": "Hapus"
+   },
+   "preferenceDisabled": {
+      "message": "Dinonaktifkan"
+   },
+   "preferenceDomain": {
+      "message": "Bidang"
+   },
+   "preferenceEdit": {
+      "message": "Ubah"
+   },
+   "preferenceEnabled": {
+      "message": "Diaktifkan"
+   },
+   "preferenceLanguage": {
+      "message": "Bahasa"
+   },
+   "preferenceLoadFailed": {
+      "message": "Gagal memuat. Silakan masuk lalu coba lagi."
+   },
+   "preferenceNextPage": {
+      "message": "Berikutnya"
+   },
+   "preferencePageLabel": {
+      "message": "Halaman {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Sebelumnya"
+   },
+   "preferenceSave": {
+      "message": "Simpan"
+   },
+   "preferenceSearch": {
+      "message": "Cari"
+   },
+   "preferenceSource": {
+      "message": "Sumber"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Bawaan"
+   },
+   "preferenceSourceUser": {
+      "message": "Pribadi"
+   },
+   "preferenceStatus": {
+      "message": "Kondisi"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Nonaktif"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Diaktifkan"
+   },
+   "preferencesDescription": {
+      "message": "Kelola preferensi dasar Anda di sini."
+   },
+   "preferencesSectionTitle": {
+      "message": "Pengaturan dasar"
+   },
+   "preferencesTitle": {
+      "message": "Pengaturan dasar"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Video tanpa subtitle dan durasi >3 jam tidak didukung. Pilih video lebih pendek atau dengan subtitle."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Video ini tidak memiliki subtitle dan merupakan video privat. Plugin tidak dapat mengenali subtitle untuk video ini di latar belakang. Ubah video menjadi publik, atau tambahkan subtitle secara manual lalu coba lagi."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Hapus aturan pengucapan ini?"
+   },
+   "pronunciationEditRule": {
+      "message": "Edit aturan pengucapan"
+   },
+   "pronunciationEditorHint": {
+      "message": "Pilih bagian berkelanjutan yang akan dikoreksi, lalu masukkan pengucapannya."
+   },
+   "pronunciationEmpty": {
+      "message": "Tidak ada aturan pengucapan pribadi yang cocok dengan filter saat ini."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Masukkan teks yang cocok terlebih dahulu"
+   },
+   "pronunciationFineSelection": {
+      "message": "Seleksi yang tepat"
+   },
+   "pronunciationLoading": {
+      "message": "Memuat…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Misalnya: halo"
+   },
+   "pronunciationMatchText": {
+      "message": "Teks yang cocok"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Gabungkan pengucapan yang berdekatan"
+   },
+   "pronunciationModifier": {
+      "message": "Nada"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Nada netral"
+   },
+   "pronunciationNewRule": {
+      "message": "Aturan baru"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Nada {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "kejadian {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Masukkan pengucapan dan nada untuk setiap bagian. Pisahkan atau gabungkan bagian sesuai kebutuhan."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Masukkan suku kata Pinyin"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "suku kata Pinyin"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Pilihan cerdas"
+   },
+   "pronunciationReading": {
+      "message": "Pengucapan pilihan"
+   },
+   "pronunciationReselect": {
+      "message": "Pilih lagi"
+   },
+   "pronunciationSaving": {
+      "message": "Menyimpan…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Cari teks yang cocok"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Pilih"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Pilih teks yang akan dikoreksi"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Perincian seleksi"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Pilih teks berkelanjutan."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "Lokasi yang disimpan tidak dapat dipulihkan. Pilih teks lagi sebelum disimpan."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Dipilih: {text}; kejadian {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "Bagian yang dikoreksi dapat memuat paling banyak 128 karakter."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Atur pengucapan pribadi untuk teks terjemahan. Aturan hanya berlaku untuk sulih suara lokal."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Pengucapan"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Pengaturan pengucapan"
+   },
+   "pronunciationSplitAt": {
+      "message": "Berpisah di"
+   },
+   "pronunciationStatus": {
+      "message": "Keadaan"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Bahasa sasaran"
+   },
+   "pronunciationTargetText": {
+      "message": "Bagian yang diperbaiki"
+   },
+   "pronunciationUnitReading": {
+      "message": "Pengucapan per bagian"
+   },
+   "pronunciationUnknownError": {
+      "message": "Tindakan gagal. Silakan coba lagi nanti."
+   },
+   "pronunciationWholeReading": {
+      "message": "Pengucapan keseluruhan"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Masukkan pengucapan nada lengkap. Pisahkan untuk memilih nada untuk setiap bagian."
+   },
+   "rechargeLimit": {
+      "message": "Kredit+VIP"
+   },
+   "replacementCreateButton": {
+      "message": "Tambah Penggantian Pribadi"
+   },
+   "replacementDescription": {
+      "message": "Perbaiki kesalahan pengenalan subtitel yang berulang (misalnya cloud code -> Claude Code) sebelum terjemahan AI."
+   },
+   "replacementEditTitle": {
+      "message": "Edit Penggantian Pribadi"
+   },
+   "replacementEditorDescription": {
+      "message": "Hanya penggantian teks pribadi yang diterapkan sebelum terjemahan AI."
+   },
+   "replacementEmpty": {
+      "message": "Belum ada aturan koreksi."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Teks salah, misalnya cloud code"
+   },
+   "replacementFindText": {
+      "message": "Teks salah"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Ganti dengan, misalnya claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Ganti dengan"
+   },
+   "replacementSearchEmpty": {
+      "message": "Tidak ada penggantian yang cocok."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Cari penggantian"
+   },
+   "replacementTitle": {
+      "message": "Koreksi kesalahan teks sumber"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Silakan atur pintasan di Safari > Preferensi > Ekstensi"
+   },
+   "sampleAesNotSupported": {
+      "message": "Video ini menggunakan enkripsi SAMPLE-AES yang saat ini tidak didukung untuk diunduh."
+   },
+   "save": {
+      "message": "Simpan"
+   },
+   "saveFailedText": {
+      "message": "Gagal menyimpan pengaturan, silakan coba lagi"
+   },
+   "saveFailedTitle": {
+      "message": "Simpan Gagal"
+   },
+   "saveSuccessText": {
+      "message": "Pengaturan berhasil disimpan"
+   },
+   "saveSuccessTitle": {
+      "message": "Simpan Berhasil"
+   },
+   "save_settings": {
+      "message": "Simpan"
+   },
+   "saving": {
+      "message": "Menyimpan..."
+   },
+   "searchSourceLanguage": {
+      "message": "Cari bahasa sumber..."
+   },
+   "searchTargetLanguage": {
+      "message": "Cari bahasa target..."
+   },
+   "selectSourceLanguage": {
+      "message": "Pilih bahasa sumber"
+   },
+   "selectSpeaker": {
+      "message": "Pilih"
+   },
+   "selectTargetLanguage": {
+      "message": "Pilih bahasa target"
+   },
+   "sex": {
+      "message": "Jenis Kelamin:"
+   },
+   "shortcutSettings": {
+      "message": "Pintasan"
+   },
+   "showSubtitle": {
+      "message": "subtitle:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Nonaktifkan untuk situs ini"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Nonaktifkan secara global"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Sembunyikan hingga kunjungan berikutnya"
+   },
+   "sidebarReenableHint": {
+      "message": "Dapat diaktifkan kembali di "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Pengaturan"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Saat diaktifkan, jika bahasa subtitle sama dengan bahasa target, sulih suara langsung dimulai tanpa terjemahan."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Lewati terjemahan untuk bahasa yang sama"
+   },
+   "sourceLanguage": {
+      "message": "Bahasa Sumber"
+   },
+   "source_languages": {
+      "message": "Bahasa Sumber:"
+   },
+   "speaker": {
+      "message": "Pembicara"
+   },
+   "speakerList": {
+      "message": "Daftar Pembicara"
+   },
+   "speakerName": {
+      "message": "Nama Pembicara"
+   },
+   "speakersTitle": {
+      "message": "Pembicara"
+   },
+   "startUpload": {
+      "message": "Mulai unggah"
+   },
+   "subscribe": {
+      "message": "Langganan"
+   },
+   "subscriptionRecharge": {
+      "message": "Langganan & Isi Ulang"
+   },
+   "subtitleDisplayMode": {
+      "message": "Mode tampilan subtitel"
+   },
+   "subtitleEditorExport": {
+      "message": "Ekspor subtitle"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Masukan Manual"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Subtitle Saya"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Tidak ada sumber subtitle yang tersedia (input manual tersedia)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "Gagal menyimpan. Silakan coba lagi nanti."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Tidak dapat mengidentifikasi video saat ini. Gagal menyimpan."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Klik di sini untuk mengganti subtitle"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Sumber Subjudul"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Blok SRT tidak valid. Urutan, stempel waktu, dan konten wajib diisi."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Setiap subjudul harus berisi setidaknya satu baris teks"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "Konten subjudul wajib diisi"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "Waktu berakhir harus lebih besar dari waktu mulai"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Format nomor urut SRT tidak valid"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "Nomor urut SRT harus dimulai dari 1 dan bertambah 1"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Beberapa subtitle menyertakan tag speaker. Semua subtitle harus menggunakan awalan [speaker]."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Format waktu tidak valid. Mohon ditinjau dan diperbaiki."
+   },
+   "subtitleModeBilingual": {
+      "message": "Subtitel dwibahasa"
+   },
+   "subtitleModeOff": {
+      "message": "Subtitel nonaktif"
+   },
+   "subtitleModeTranslated": {
+      "message": "Hanya terjemahan"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Subtitle yang Dikenali AI Plugin"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Prioritaskan subtitle yang dihasilkan oleh pengenalan suara AI plugin untuk akurasi lebih tinggi."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Pilih sumber subtitle mana yang diprioritaskan untuk terjemahan."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Subtitle Bawaan Platform"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Prioritaskan subtitle asli yang disediakan oleh platform video."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Prioritas Terjemahan Subtitle"
+   },
+   "subtitleSize": {
+      "message": "Ukuran"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "warna latar belakang"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Opasitas latar belakang"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "hitam"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Biru"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Sian"
+   },
+   "subtitleStyleColorGray": {
+      "message": "abu-abu"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "hijau"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Abu-abu muda"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Magenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "warna oranye"
+   },
+   "subtitleStyleColorRed": {
+      "message": "merah"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Putih"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "kuning"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Font khusus"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Misalnya: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Sesuaikan"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Tidak ada"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Garis tepi"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Bayangan"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Gaya Tepi"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Dua bahasa"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Tampilan editor gaya"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Hanya terjemahan"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Ikuti gaya terjemahan"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Kustom"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Bawaan"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Jenis Huruf"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Tidak ada"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "ukuran font"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Berat font"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Tata letak dua bahasa"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Jarak baris"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "Penyesuaian akan disimpan dan segera diterapkan."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Pengaturan gaya subtitle"
+   },
+   "subtitleStyleOrder": {
+      "message": "Urutan subtitle"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Asli di atas"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Terjemahan di atas"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Gaya asli"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Rasio ukuran font"
+   },
+   "subtitleStylePosition": {
+      "message": "Posisi"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Bawah"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Tengah"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Atas"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "waktu nyata"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Menurutnya, pemuda ini memiliki potensi besar."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Pratinjau"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Pulihkan default"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "gaya subtitle"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Latar belakang bersama"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Perataan horizontal"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Tengah"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Kiri"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Kanan"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Warna huruf"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Gaya terjemahan"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Menggunakan pengaturan saat ini"
+   },
+   "subtitles": {
+      "message": "Subtitel"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Subtitle untuk video ini saat ini dibatasi oleh YouTube. Silakan coba lagi nanti."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Alihkan pengaturan volume antara audio asli dan sulih suara"
+   },
+   "switchModelWarning": {
+      "message": "Mengganti suara/model saat memutar video akan dikenakan biaya tambahan. Disarankan ganti di video berikutnya. Untuk lanjut, klik Lanjutkan dan Simpan."
+   },
+   "targetLanguage": {
+      "message": "Bahasa Target"
+   },
+   "target_languages": {
+      "message": "Bahasa Target:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Video ini sudah dalam proses pengenalan subtitle AI. Silakan tunggu notifikasi email."
+   },
+   "textToSpeech": {
+      "message": "Teks ke Suara:"
+   },
+   "textToSpeechToggle": {
+      "message": "Bola"
+   },
+   "toggleSubtitles": {
+      "message": "Alihkan subtitel"
+   },
+   "tooExpensive": {
+      "message": "Mahal"
+   },
+   "translateEngineTipText": {
+      "message": "ubah layanan terjemahan ke Google"
+   },
+   "translateService": {
+      "message": "Terjemahan:"
+   },
+   "translatedAudio": {
+      "message": "Dubbing"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Tambahkan penggantian teks terjemahan"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Tambahkan penggantian teks terjemahan"
+   },
+   "translatedReplacementDescription": {
+      "message": "Ganti kata atau frasa dalam hasil terjemahan menggunakan aturan pribadi."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Edit penggantian teks terjemahan"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Hanya hasil terjemahan yang diubah; teks sumber dan cache terjemahan tetap sama."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Belum ada aturan penggantian teks terjemahan."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "Jika dinonaktifkan, aturan tetap disimpan tetapi tidak diterapkan pada teks terjemahan."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Kata atau frasa dalam teks terjemahan"
+   },
+   "translatedReplacementFindText": {
+      "message": "Teks terjemahan"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Bahasa tujuan"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Kata atau frasa yang akan ditampilkan sebagai gantinya"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Ganti dengan"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Tidak ada penggantian teks terjemahan yang cocok."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Cari teks terjemahan"
+   },
+   "translatedReplacementTitle": {
+      "message": "Penggantian pada teks terjemahan"
+   },
+   "translationDomainAuto": {
+      "message": "Otomotif"
+   },
+   "translationDomainChess": {
+      "message": "Catur"
+   },
+   "translationDomainEcommerce": {
+      "message": "E-commerce"
+   },
+   "translationDomainEducation": {
+      "message": "Pendidikan"
+   },
+   "translationDomainFashion": {
+      "message": "Mode"
+   },
+   "translationDomainFinance": {
+      "message": "Keuangan"
+   },
+   "translationDomainFood": {
+      "message": "Makanan dan memasak"
+   },
+   "translationDomainGaming": {
+      "message": "Gaming"
+   },
+   "translationDomainGardening": {
+      "message": "Berkebun"
+   },
+   "translationDomainGeneral": {
+      "message": "Umum"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Hukum"
+   },
+   "translationDomainMedical": {
+      "message": "Medis dan kesehatan"
+   },
+   "translationDomainMovies": {
+      "message": "Film dan TV"
+   },
+   "translationDomainMusic": {
+      "message": "Musik"
+   },
+   "translationDomainNews": {
+      "message": "Berita dan media"
+   },
+   "translationDomainPets": {
+      "message": "Hewan peliharaan"
+   },
+   "translationDomainPhotography": {
+      "message": "Fotografi"
+   },
+   "translationDomainProgramming": {
+      "message": "Pemrograman"
+   },
+   "translationDomainSports": {
+      "message": "Olahraga"
+   },
+   "translationDomainTech": {
+      "message": "Teknologi"
+   },
+   "translationDomainTravel": {
+      "message": "Perjalanan"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 dan kripto"
+   },
+   "translationEngine": {
+      "message": "Mesin Terjemahan"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "Terjemahan AI"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Saat diaktifkan, terjemahan AI menggunakan pengaturan di bawah. Saat dinonaktifkan, pengaturan yang ada tetap disimpan."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Terapkan glosarium dan penggantian teks dalam terjemahan AI"
+   },
+   "translationService": {
+      "message": "Layanan Terjemahan"
+   },
+   "translationServiceTitle": {
+      "message": "Layanan Terjemahan"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Video tanpa subtitle. Anggota percobaan: video <15 menit. Premium: <3 jam."
+   },
+   "trialMemberModelLimit": {
+      "message": "Anggota percobaan hanya dapat menggunakan Gemini dan Google Translate. Untuk menggunakan model lain, silakan berlangganan keanggotaan kami."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Dubbing universal memerlukan daya komputasi GPU cloud (biaya tinggi), hanya untuk VIP."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Dubbing universal belum didukung di versi ini. Akan didukung di versi berikutnya. Hubungi CS untuk info."
+   },
+   "unknownError": {
+      "message": "Terjadi kesalahan yang tidak diketahui. Silakan coba lagi."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Upgrade ke membership untuk pengenalan AI subtitle otomatis. Setelah email, tombol akan hijau dan terjemahan lebih akurat."
+   },
+   "uploadComplete": {
+      "message": "Unggahan selesai"
+   },
+   "uploadFailed": {
+      "message": "Unggahan gagal"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Tidak ditemukan subtitle. Apakah Anda ingin mengunggah video untuk pengenalan subtitle AI?"
+   },
+   "uploading": {
+      "message": "Mengunggah"
+   },
+   "uploadingMedia": {
+      "message": "Mengunggah media..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Akun pengguna"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Jika diaktifkan, subtitle yang diedit atau diunggah secara lokal akan disegmentasi otomatis. Jika dinonaktifkan, pembagian aslinya tetap dipertahankan."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Segmentasi pintar subtitle pengguna"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Bidang yang terdeteksi pada video saat ini: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Video ini dilindungi oleh DRM dan tidak dapat digunakan untuk dubbing."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Video ini melebihi 3 jam. Dubbing universal saat ini tidak didukung untuk video yang lebih dari 3 jam."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Anda perlu menjadi anggota dan memiliki saldo yang cukup untuk menggunakan fitur ini"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Keanggotaan dan Saldo Diperlukan"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Sebagai anggota, Anda dapat menggunakan layanan terjemahan berikut secara gratis"
+   },
+   "vipRequiredText": {
+      "message": "Anda perlu menjadi anggota untuk menggunakan fitur ini"
+   },
+   "vipRequiredTitle": {
+      "message": "Keanggotaan Diperlukan"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Ubah layanan terjemahan ke layanan gratis anggota seperti gemini, deepseek, gpt-3.5-turbo, atau claude-3-haiku"
+   },
+   "voice": {
+      "message": "Suara"
+   },
+   "voiceSettingsMismatch": {
+      "message": "Tipe suara dan pengaturan suara tidak cocok. Silakan buka halaman pengaturan untuk memilih ulang dan menyimpan pengaturan suara."
+   },
+   "voiceTypeTipText": {
+      "message": "ubah jenis suara ke versi gratis"
+   },
+   "voices": {
+      "message": "Suara:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Suara & Subtitel"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Suara & Subtitel"
+   },
+   "voicesType": {
+      "message": "Jenis Suara:"
+   },
+   "waitingForRecognition": {
+      "message": "Video berhasil diunggah. Pengenalan subtitle AI sedang berlangsung. Anda akan menerima notifikasi email ketika sudah siap."
+   },
+   "woman": {
+      "message": "Wanita"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Browser Anda tidak mendukung pengenalan unggahan rekaman Zoom. Silakan gunakan Chrome/Edge."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Unduhan rekaman Zoom dilarang (403). Silakan putar/segarkan halaman untuk melewati verifikasi, lalu coba unggah lagi."
+   }
+}

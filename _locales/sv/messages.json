@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Kontosaldo:"
+   },
+   "advancedSettings": {
+      "message": "Avancerade inställningar"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "AI-undertexter är ännu inte tillgängliga. Pluginet har börjat identifiera dem i bakgrunden. Efter att du hört den första dubbade meningen kan du stänga sidan och vänta på e-postmeddelandet; när det är klart blir dubbningsknappen grön och översättningskvaliteten blir bättre."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS är endast för medlemmar. Uppgradera för att låsa upp Azure-röster av hög kvalitet."
+   },
+   "back": {
+      "message": "Tillbaka"
+   },
+   "backToSettings": {
+      "message": "Tillbaka till inställningar"
+   },
+   "backToVideoLibrary": {
+      "message": "Tillbaka till videobiblioteket"
+   },
+   "backgroundAudio": {
+      "message": "BGM"
+   },
+   "balanceRequiredText": {
+      "message": "Ditt kontosaldo är otillräckligt. Vänligen ladda för att använda denna funktion"
+   },
+   "balanceRequiredTitle": {
+      "message": "Saldo krävs"
+   },
+   "balanceRunningLow": {
+      "message": "Ditt saldo håller på att ta slut. För att undvika dålig tittarupplevelse rekommenderas det att ladda i förväg."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Vänligen konfigurera genvägar i webbläsartilläggets inställningar"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Undantagen"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Inaktivera alla"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} inbyggda termer"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Domänen är inaktiverad"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Inga matchande domäner."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Sök domäner"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} domäner"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Inbyggda domänuppsättningar"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Det finns ingen inbyggd ordlista för det aktuella målspråket. Du kan fortfarande lägga till egna termer."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Aktivera alla"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} / {total} aktiverade"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Hantera domäner"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "Aktivera eller inaktivera domäner i den inbyggda ordlistan för målspråket."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Hantera inbyggda domänuppsättningar"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Inbyggd regel"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} inbyggda regler"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Aktivera eller inaktivera inbyggda områden för rättning av källtext."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Hantera inbyggda områden för rättning av källtext"
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "cancelButton": {
+      "message": "Avbryt"
+   },
+   "completing": {
+      "message": "Slutför"
+   },
+   "confirmButton": {
+      "message": "Fortsätt och spara"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Är du säker på att du vill ta bort denna talare?"
+   },
+   "contentMenusTitle": {
+      "message": "Starta röstuppspelning"
+   },
+   "corsNotSupported": {
+      "message": "Denna webbplats tillåter inte nedladdning av mediefiler. Universell dubbning stöds inte."
+   },
+   "debugInfo": {
+      "message": "Felsökningsinfo"
+   },
+   "delete": {
+      "message": "Ta bort"
+   },
+   "deleteSpeaker": {
+      "message": "Ta bort"
+   },
+   "description": {
+      "message": "Översätt och dubba videor med ett klick—förstå främmande språk direkt, få tillgång till global kunskap"
+   },
+   "disableGlobally": {
+      "message": "Inaktivera globalt"
+   },
+   "disabledSitesActions": {
+      "message": "Åtgärder"
+   },
+   "disabledSitesAdd": {
+      "message": "Lägg till"
+   },
+   "disabledSitesDelete": {
+      "message": "Ta bort"
+   },
+   "disabledSitesDescription": {
+      "message": "Den flytande bollen visas inte på följande webbplatser. Du kan lägga till eller ta bort inaktiverade webbplatser här."
+   },
+   "disabledSitesDomain": {
+      "message": "Domän"
+   },
+   "disabledSitesEmpty": {
+      "message": "Inga inaktiverade webbplatser"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Ange domän, t.ex. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Inaktiverade webbplatser"
+   },
+   "disabledSitesTitle": {
+      "message": "Hantera inaktiverade webbplatser"
+   },
+   "doNotClosePage": {
+      "message": "Stäng eller uppdatera inte denna sida under uppladdning, annars avbryts uppladdningen."
+   },
+   "doNotShowAgainLink": {
+      "message": "Visa inte igen"
+   },
+   "downloading": {
+      "message": "Laddar ner"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Denna video har ännu inte transkriberats. Vänligen klicka på CC-knappen längst ner i Dropbox-videon för att transkribera undertexterna. När transkriberingen är klar, klicka på pluginets dubbningsknapp för att översätta och dubba."
+   },
+   "dropdownNoOptions": {
+      "message": "Inga alternativ tillgängliga"
+   },
+   "dropdownPlaceholder": {
+      "message": "Vänligen välj"
+   },
+   "dropdownSearch": {
+      "message": "Sök..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Det finns för närvarande ingen användbar video eller ljud på den här sidan. Vänta tills videon har laddats klart och försök igen, eller uppdatera sidan."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Ingen video tillgänglig för dubbning"
+   },
+   "dubbingSettings": {
+      "message": "Dubbningsinställningar"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Öppnar Edge-tilläggets genvägsinställningssida"
+   },
+   "edit": {
+      "message": "Redigera"
+   },
+   "editSpeaker": {
+      "message": "Redigera"
+   },
+   "emailNotificationDescription": {
+      "message": "Meddela mig via e-post när undertextigenkänningen är klar."
+   },
+   "emailNotificationLabel": {
+      "message": "E-postaviseringar"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "Det gick inte att spara. Försök igen senare."
+   },
+   "enterSpeakerName": {
+      "message": "Ange talarnamn"
+   },
+   "enterVoice": {
+      "message": "Ange röstnamn"
+   },
+   "error": {
+      "message": "Fel"
+   },
+   "female": {
+      "message": "Kvinna"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Öppnar Firefox tilläggssida, vänligen ställ in genvägar i Tillägg och Teman"
+   },
+   "free": {
+      "message": "gratis"
+   },
+   "freeForVip": {
+      "message": "Gratis för VIP"
+   },
+   "freeOptionTipText": {
+      "message": "Om du inte vill ladda kan du välja gratisalternativet, "
+   },
+   "freeUserDailyLimit": {
+      "message": "Gratisanvändare kan titta på upp till 5 videor per dag via pluginet. Uppgradera till medlemskap för att låsa upp obegränsad visning."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Denna video har inga inbyggda undertexter. Vänligen prenumerera på plugin-medlemskap för undertextidentifiering och njut av översättnings- och dubbningsfunktioner."
+   },
+   "gender": {
+      "message": "Kön"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Det finns inga egna termer för det här språket ännu."
+   },
+   "glossaryCreateButton": {
+      "message": "Lägg till egen term"
+   },
+   "glossaryDescription": {
+      "message": "Ange fasta översättningar för källtermer (till exempel Stratagem). Dina termer har företräde framför den inbyggda ordlistan."
+   },
+   "glossaryEditTitle": {
+      "message": "Redigera egen term"
+   },
+   "glossaryEditorDescription": {
+      "message": "Endast egna ordlistetermer kan läggas till, redigeras, aktiveras eller tas bort."
+   },
+   "glossarySearchEmpty": {
+      "message": "Inga matchande termer."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Sök efter källtermer"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Källterm"
+   },
+   "glossarySourceTerm": {
+      "message": "Källterm"
+   },
+   "glossaryTableTitle": {
+      "message": "Termer för aktuellt språk"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Obligatorisk översättning"
+   },
+   "glossaryTargetTerm": {
+      "message": "Översättning"
+   },
+   "glossaryTitle": {
+      "message": "Ordlista"
+   },
+   "hideUntilNextVisit": {
+      "message": "Dölj till nästa besök"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Kunde inte dekryptera videoinnehållet. Krypteringsnyckeln kan vara felaktig eller videoformatet är inte kompatibelt."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Kunde inte hämta dekrypteringsnyckeln för denna video. Videon kan vara skyddad eller nyckelservern är inte tillgänglig."
+   },
+   "insufficientBalance": {
+      "message": "På grund av otillräckligt saldo har tjänsten nedgraderats till Google Translate. För att använda AI-översättning, vänligen ladda ditt konto."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Ditt saldo är otillräckligt. Vänligen ladda ditt saldo innan du använder AI-översättning och Azure TTS. Om du inte vill ladda kan du byta tillbaka till Google Translate och gratis rösttyper."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Vänligen ladda ditt medlemskap och saldo innan du använder AI-översättning och Azure TTS. Om du inte vill ladda kan du också välja Google Translate och gratis rösttyper."
+   },
+   "insufficientMembership": {
+      "message": "Ditt medlemskap har gått ut. Vänligen ladda ditt medlemskap innan du använder AI-översättning och Azure TTS. Om du inte vill ladda kan du också välja Google Translate och gratis rösttyper."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Ett annat webbläsartillägg blockerar undertextförfrågningsavlyssning. Inaktivera motstridiga tillägg, uppdatera sidan och försök igen."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "Tilläggskonflikt upptäckt"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Aktivera originalljud"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "Universell dubbing stöds inte på iOS-enheter. Använd en webbläsare på datorn."
+   },
+   "liveStreamNotSupported": {
+      "message": "Livestreamar stöds inte för universell dubbning."
+   },
+   "liveVideoNotSupported": {
+      "message": "Livevideor stöds för närvarande inte för dubbning"
+   },
+   "loading": {
+      "message": "laddar"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Lägg till undertext"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Det gick inte att lägga till undertext."
+   },
+   "localPlayerAddVideo": {
+      "message": "Lägg till video"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Det gick inte att lägga till video."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Alla undertextlänkar har tagits bort."
+   },
+   "localPlayerAllVideos": {
+      "message": "Alla videor"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Sök och hantera varje importerad video."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Stigande; klicka för att växla till fallande"
+   },
+   "localPlayerAssociate": {
+      "message": "Länk undertext"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Länka undertext och använd den för röstdubbning"
+   },
+   "localPlayerAssociated": {
+      "message": "Länkad"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Länkad utanför denna mapp"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "Undertextlänken har tagits bort."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "Undertextlänken sparad."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Textning länkad och inställd för röstdubbning."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Tillbaka till mappar"
+   },
+   "localPlayerClose": {
+      "message": "Stäng"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Aktuell katalog"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Videodubbning"
+   },
+   "localPlayerDelete": {
+      "message": "Ta bort"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Det gick inte att radera video."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Ta bort {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "Detta tar bort video- och undertextlänkarna från det lokala biblioteket. Originalfilerna på disken kommer inte att raderas."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Ta bort den här videon?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "Fallande; klicka för att växla till stigande"
+   },
+   "localPlayerDropHint": {
+      "message": "Släpp videor eller .srt/.vtt/.ass undertextfiler här"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Släpp musen för att importera filer"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "Röstdubbning startade"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Det gick inte att starta lokal röstdubbning."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "Lokal röstdubbning startade."
+   },
+   "localPlayerEntryButton": {
+      "message": "Lokal video"
+   },
+   "localPlayerFilterAll": {
+      "message": "Alla"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Utan länkade undertexter"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Med länkade undertexter"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Snabba åtgärder för lokal video"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Mappåtkomst tillgänglig"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "Genom att öppna en mapp sparas filhanteringen så att åtkomsten kan återställas efter uppdatering."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Den här webbläsaren kan inte öppna mappar. Använd Lägg till video/Lägg till undertext för en tillfällig import."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} associerade undertexter"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Senast spelad {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Senast skannade {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Mappåtgärder"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "Borttagen {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Sök i mappar, sökvägar eller filer"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} videor"
+   },
+   "localPlayerFolders": {
+      "message": "Mappar"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Bläddra i importerade media efter mapp."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Den här lokala videon har ingen länkad undertext. Gratis användare kan inte använda bakgrundsundertextigenkänning för lokala videor ännu. Uppgradera medlemskapet för att använda AI-undertextigenkänning, eller ladda upp en undertextfil manuellt innan du startar röstdubbning."
+   },
+   "localPlayerImportComplete": {
+      "message": "Importerade {videoCount} videor och {subtitleCount} undertexter."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Öppna en mapp, lägg till videor eller släpp filer för att starta."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Lokalt videobibliotek"
+   },
+   "localPlayerLibraryView": {
+      "message": "Biblioteksvy"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Matchade {visibleCount} / totalt {totalCount} mappar"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Matchade {visibleCount} / totalt {totalCount} videor"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Originalundertexter"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Lokalt videobibliotek / Text till tal"
+   },
+   "localPlayerNever": {
+      "message": "Aldrig"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Justera mappsökningen och försök igen."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Inga matchande mappar"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Inga undertexter att hantera"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Justera sökningen, filtret eller sorteringen och försök igen."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Inga matchande videor"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Inga nya filer hittades."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Inga länkade undertexter"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Ladda upp den här videon för AI-undertextigenkänning? Uppladdningen används endast för att känna igen undertexter, videon raderas omedelbart efter igenkänning och du kommer att meddelas via e-post."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Den här videon har inga undertexter"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Öppna en mapp eller lägg till videor för att hantera undertextlänkar och lokal röstdubbning här."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Inga lokala videor än"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Ej länkad"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Spelar nu {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Öppna mappen"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Det gick inte att öppna mappen."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Öppna mapp"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Öppna sidofältet"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Det gick inte att öppna sidofältet."
+   },
+   "localPlayerPageTitle": {
+      "message": "Lokal video · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Spela upp video"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Textningsuppsättning för röstdubbning."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Denna undertitel är redan associerad med \"{fromVideo}\". Om du fortsätter tar du bort den kopplingen och associerar den med \"{toVideo}\"."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Återbinda denna undertext?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Känner igen undertexter"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Ta bort länken till alla undertexter"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Endast undertextlänkar för denna video kommer att tas bort. Undertextfiler kommer inte att raderas."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Ta bort länken till alla undertexter?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Ta bort länken till undertexten"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Det gick inte att ta bort mappen från biblioteket."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "Detta tar endast bort biblioteksposter för denna mapp. Originalfilerna på disken kommer inte att raderas."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Ta bort den här mappen från biblioteket?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Ta bort från biblioteket"
+   },
+   "localPlayerRescanAll": {
+      "message": "Sök igenom alla igen"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Det gick inte att skanna om det lokala biblioteket."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Det går inte att skanna om den här mappen eftersom åtkomst till sparad mapp inte är tillgänglig."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Skanna om den här mappen"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "Videon som anges i URL:en finns inte i det aktuella lokala videobiblioteket."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Undertexter i samma mapp {sameCount} · Länkad {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Genomsökningen slutförd: lagt till {addedVideoCount} videor, {addedSubtitleCount} undertexter, uppdaterade {updatedCount} filer."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Sök efter videor eller filsökvägar"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Välj en video att länka till denna undertext"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Använd denna undertext för röstdubbning"
+   },
+   "localPlayerSortDuration": {
+      "message": "Videons varaktighet"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Nyligen uppspelade videor"
+   },
+   "localPlayerSortName": {
+      "message": "Filnamn"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Starta röstdubbning"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} länkade undertexter"
+   },
+   "localPlayerSubtitles": {
+      "message": "Undertexter"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Den här webbläsaren stöder inte File System Access API. Du kan tillfälligt lägga till videor och undertexter."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Tillfälligt importläge"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Avbryt"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Text till tal - Målspråk"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Exportera MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "Textningsinnehållet får inte vara tomt"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Misslyckades"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Kön"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Text till tal MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Text till tal MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Sparar..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Manuell ingång"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Manuell ingång - Text till tal"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Målspråk"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Text till tal: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Text till tal"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Ingen röst är tillgänglig för det här valet."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Text till tal"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "Texten är för lång. Korta ned den och försök igen."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Röst"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Rösttyp"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "Genererade miniatyrer för {count}-videor."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Generering av miniatyrbilder misslyckades: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Totalt {count} mappar"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Totalt {count} videor"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Uppladdningen avbröts."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Används för röstdubbning"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "Raderade {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Kan inte återställa åtkomst till denna videofil. Lägg till videon igen."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "Kan inte läsa den lokala videofilen. Lägg till videon igen."
+   },
+   "localPlayerVideoList": {
+      "message": "Videolista"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "Videospelaren är inte klar ännu."
+   },
+   "login": {
+      "message": "Logga in"
+   },
+   "loginAndUsePlugin": {
+      "message": "Vänligen klicka på plugin-ikonen för att logga in först, använd sedan pluginet för röstuppspelning."
+   },
+   "logout": {
+      "message": "Logga ut"
+   },
+   "lowBalanceText": {
+      "message": "Ditt kontosaldo är under 1 dollar. Vi rekommenderar att ladda snart för att säkerställa oavbruten service"
+   },
+   "lowBalanceTitle": {
+      "message": "Lågt saldo"
+   },
+   "male": {
+      "message": "Man"
+   },
+   "man": {
+      "message": "Man"
+   },
+   "mediaSourceNotDetected": {
+      "message": "Kan inte upptäcka videokällan. Denna webbplats kanske inte stöds."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Just nu används undertexter som känns igen av tilläggets bakgrunds-AI. Om översättningen verkar felaktig kan du ändra undertextprioriteten till plattformens undertexter i grundinställningarna."
+   },
+   "memberFree": {
+      "message": "Gratis för medlemmar"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Denna rösttyp är endast för medlemmar. Uppgradera för att använda den gratis."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Du dubbar just nu med den kostnadsfria rösttypen. Azure-röster låter mer naturliga; medlemmar kan nu använda Azure utan begränsningar och utan extra kreditpåfyllning."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "Giltig till"
+   },
+   "membershipIcon": {
+      "message": "Medlemsikon"
+   },
+   "membershipRequired": {
+      "message": "Vänligen uppgradera till medlemskap innan du använder OpenAI-översättning."
+   },
+   "membershipRequiredForAI": {
+      "message": "Vänligen ladda ditt medlemskap innan du använder AI-översättning. Om du inte vill ladda kan du också välja Google Translate."
+   },
+   "membershipRequiredTitle": {
+      "message": "Medlemskap krävs"
+   },
+   "metadataNotFound": {
+      "message": "Videometadata hittades inte, vänligen uppdatera och försök igen"
+   },
+   "multiVideoNotSupported": {
+      "message": "Denna sida har flera videor. Universell dubbning stöder endast sidor med en enda video vid användning av HLS-strömmar."
+   },
+   "musicVideoNotSupported": {
+      "message": "Det här är en musikvideo. Översättning och dubbning stöds inte."
+   },
+   "name": {
+      "message": "TranslateDub – Översätt & Dubbning"
+   },
+   "noAudioTrackFound": {
+      "message": "Inget ljudspår hittades. Denna video verkar vara endast video utan ljud och kan inte användas för dubbningsigenkänning."
+   },
+   "noSpeakers": {
+      "message": "Inga talare"
+   },
+   "noSubtitlesFound": {
+      "message": "Denna video har inga undertexter och stöder inte översättning och dubbning"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Inga undertexter tillgängliga. Vänligen vänta på att pluginet identifierar undertexter för denna video. Du får ett e-postmeddelande till din registrerade e-postadress när identifieringen är klar."
+   },
+   "notSupported": {
+      "message": "Stöds inte"
+   },
+   "openBasicSettingsLink": {
+      "message": "Öppna grundinställningar"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Bas"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Uttal"
+   },
+   "optionsNavSitesShort": {
+      "message": "Sajter"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Undertexter"
+   },
+   "originalAudio": {
+      "message": "Original"
+   },
+   "panelSummaryCollapse": {
+      "message": "Fäll ihop"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Fäll ihop alla"
+   },
+   "panelSummaryCopy": {
+      "message": "Kopiera"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Kopierat"
+   },
+   "panelSummaryDesc": {
+      "message": "Använd avancerade AI-modeller för att snabbt förstå videoinnehåll"
+   },
+   "panelSummaryError": {
+      "message": "Sammanfattningen kunde inte genereras, försök igen"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "Kan inte identifiera den aktuella videon, vänligen uppdatera sidan och försök igen"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "Videosammanfattning är en exklusiv medlemsfunktion, vänligen prenumerera för att använda"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Inga undertexter tillgängliga för denna video, kan inte generera sammanfattning"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "Sammanfattningstjänsten är tillfälligt otillgänglig, vänligen försök igen senare"
+   },
+   "panelSummaryExpand": {
+      "message": "Expandera"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Expandera alla"
+   },
+   "panelSummaryGenerate": {
+      "message": "Skapa sammanfattning"
+   },
+   "panelSummaryGenerating": {
+      "message": "Genererar..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Inga undertexter tillgängliga för denna video"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Generera om"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Genererar om..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Höjdpunkter"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Sammanfattning"
+   },
+   "panelSummaryShare": {
+      "message": "Dela"
+   },
+   "panelSummaryTitle": {
+      "message": "Sammanfattning och disposition"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Undertexter"
+   },
+   "panelTabVideoSummary": {
+      "message": "Översikt"
+   },
+   "pauseVideo": {
+      "message": "Pausa video"
+   },
+   "pay": {
+      "message": "betala"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Klicka på videon för att öppna den och använd sedan dubbningsfunktionen."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Inloggning lyckades. Klicka på plugin-ikonen för att välja översättningsspråk och röstlista."
+   },
+   "preferenceActionFailed": {
+      "message": "Åtgärden misslyckades. Försök igen senare."
+   },
+   "preferenceActions": {
+      "message": "Åtgärder"
+   },
+   "preferenceAdd": {
+      "message": "Lägg till"
+   },
+   "preferenceAllDomains": {
+      "message": "Alla domäner"
+   },
+   "preferenceAllStatuses": {
+      "message": "Alla"
+   },
+   "preferenceCancel": {
+      "message": "Avbryt"
+   },
+   "preferenceClearSearch": {
+      "message": "Rensa"
+   },
+   "preferenceDelete": {
+      "message": "Ta bort"
+   },
+   "preferenceDisabled": {
+      "message": "Inaktiverad"
+   },
+   "preferenceDomain": {
+      "message": "Domän"
+   },
+   "preferenceEdit": {
+      "message": "Redigera"
+   },
+   "preferenceEnabled": {
+      "message": "Aktiverad"
+   },
+   "preferenceLanguage": {
+      "message": "Språk"
+   },
+   "preferenceLoadFailed": {
+      "message": "Det gick inte att läsa in. Logga in och försök igen."
+   },
+   "preferenceNextPage": {
+      "message": "Nästa"
+   },
+   "preferencePageLabel": {
+      "message": "Sida {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Föregående"
+   },
+   "preferenceSave": {
+      "message": "Spara"
+   },
+   "preferenceSearch": {
+      "message": "Sök"
+   },
+   "preferenceSource": {
+      "message": "Källa"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Inbyggd"
+   },
+   "preferenceSourceUser": {
+      "message": "Egen"
+   },
+   "preferenceStatus": {
+      "message": "Tillstånd"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Av"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Aktiverad"
+   },
+   "preferencesDescription": {
+      "message": "Hantera dina grundläggande inställningar här."
+   },
+   "preferencesSectionTitle": {
+      "message": "Grundinställningar"
+   },
+   "preferencesTitle": {
+      "message": "Grundinställningar"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Denna video har inga undertexter och videolängden överstiger 3 timmar, översättning och dubbning stöds inte. Vänligen välj en kortare video eller en video med undertexter."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Den här videon har inga undertexter och är privat. Pluginet kan inte känna igen undertexterna för videon i bakgrunden. Gör videon offentlig eller lägg till undertexter manuellt och försök igen."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Vill du ta bort den här uttalsregeln?"
+   },
+   "pronunciationEditRule": {
+      "message": "Redigera uttalsregeln"
+   },
+   "pronunciationEditorHint": {
+      "message": "Välj den kontinuerliga delen som ska korrigeras och skriv sedan in dess uttal."
+   },
+   "pronunciationEmpty": {
+      "message": "Inga personliga uttalsregler matchar de aktuella filtren."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Ange matchande text först"
+   },
+   "pronunciationFineSelection": {
+      "message": "Exakt urval"
+   },
+   "pronunciationLoading": {
+      "message": "Laddar..."
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Till exempel: hej"
+   },
+   "pronunciationMatchText": {
+      "message": "Matchande text"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Slå samman intilliggande uttal"
+   },
+   "pronunciationModifier": {
+      "message": "Tonläge"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Neutral ton"
+   },
+   "pronunciationNewRule": {
+      "message": "Ny regel"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Ton {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "förekomst {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Ange ett uttal och ton för varje del. Dela eller slå samman delar efter behov."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Ange en pinyinstavelse"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "Pinyin stavelse"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Smart val"
+   },
+   "pronunciationReading": {
+      "message": "Specificerat uttal"
+   },
+   "pronunciationReselect": {
+      "message": "Välj igen"
+   },
+   "pronunciationSaving": {
+      "message": "Sparar..."
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Sök matchande text"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Välj"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Välj text att korrigera"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Urvalsgranularitet"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Välj kontinuerlig text."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "Den sparade platsen kan inte återställas. Markera texten igen innan du sparar."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Valt: {text}; förekomst {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "Den korrigerade delen kan innehålla högst 128 tecken."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Ställ in personliga uttal för översatt text. Reglerna gäller endast för lokal dubbning."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Uttal"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Uttalsinställningar"
+   },
+   "pronunciationSplitAt": {
+      "message": "Dela vid"
+   },
+   "pronunciationStatus": {
+      "message": "Tillstånd"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Målspråk"
+   },
+   "pronunciationTargetText": {
+      "message": "Rättad del"
+   },
+   "pronunciationUnitReading": {
+      "message": "Uttal per del"
+   },
+   "pronunciationUnknownError": {
+      "message": "Åtgärden misslyckades. Försök igen senare."
+   },
+   "pronunciationWholeReading": {
+      "message": "Helt uttal"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Ange det fullständiga tonade uttalet. Dela den för att välja en ton för varje del."
+   },
+   "rechargeLimit": {
+      "message": "Saldo+Medlem"
+   },
+   "replacementCreateButton": {
+      "message": "Lägg till egen ersättning"
+   },
+   "replacementDescription": {
+      "message": "Rätta återkommande fel i undertextigenkänningen (till exempel cloud code -> Claude Code) före AI-översättningen."
+   },
+   "replacementEditTitle": {
+      "message": "Redigera egen ersättning"
+   },
+   "replacementEditorDescription": {
+      "message": "Endast egna textersättningar används före AI-översättningen."
+   },
+   "replacementEmpty": {
+      "message": "Det finns inga korrigeringsregler ännu."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Felaktig text, till exempel cloud code"
+   },
+   "replacementFindText": {
+      "message": "Felaktig text"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Ersätt med, till exempel claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Ersätt med"
+   },
+   "replacementSearchEmpty": {
+      "message": "Inga matchande ersättningar."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Sök efter ersättningar"
+   },
+   "replacementTitle": {
+      "message": "Rättelser av fel i källtexten"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Vänligen ställ in genvägar i Safari > Inställningar > Tillägg"
+   },
+   "sampleAesNotSupported": {
+      "message": "Denna video använder SAMPLE-AES-kryptering som för närvarande inte stöds för nedladdning."
+   },
+   "save": {
+      "message": "Spara"
+   },
+   "saveFailedText": {
+      "message": "Det gick inte att spara inställningar, försök igen"
+   },
+   "saveFailedTitle": {
+      "message": "Misslyckades"
+   },
+   "saveSuccessText": {
+      "message": "Inställningar sparade"
+   },
+   "saveSuccessTitle": {
+      "message": "Sparat"
+   },
+   "save_settings": {
+      "message": "Spara inställningar"
+   },
+   "saving": {
+      "message": "Sparar..."
+   },
+   "searchSourceLanguage": {
+      "message": "Sök källspråk..."
+   },
+   "searchTargetLanguage": {
+      "message": "Sök målspråk..."
+   },
+   "selectSourceLanguage": {
+      "message": "Välj källspråk"
+   },
+   "selectSpeaker": {
+      "message": "Välj"
+   },
+   "selectTargetLanguage": {
+      "message": "Välj målspråk"
+   },
+   "sex": {
+      "message": "Kön:"
+   },
+   "shortcutSettings": {
+      "message": "Genvägar"
+   },
+   "showSubtitle": {
+      "message": "undertexter:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Inaktivera för denna webbplats"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Inaktivera globalt"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Dölj tills nästa besök"
+   },
+   "sidebarReenableHint": {
+      "message": "Kan återaktiveras i "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Inställningar"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "När detta är aktiverat och undertextspråket matchar målspråket startar dubbningen direkt utan översättning."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Hoppa över översättning för samma språk"
+   },
+   "sourceLanguage": {
+      "message": "Källspråk"
+   },
+   "source_languages": {
+      "message": "Källspråk:"
+   },
+   "speaker": {
+      "message": "Talare"
+   },
+   "speakerList": {
+      "message": "Talarlista"
+   },
+   "speakerName": {
+      "message": "Talarnamn"
+   },
+   "speakersTitle": {
+      "message": "Talare"
+   },
+   "startUpload": {
+      "message": "Starta uppladdning"
+   },
+   "subscribe": {
+      "message": "Bli medlem"
+   },
+   "subscriptionRecharge": {
+      "message": "Prenumerera & Fyll på"
+   },
+   "subtitleDisplayMode": {
+      "message": "Undertextläge"
+   },
+   "subtitleEditorExport": {
+      "message": "Exportera"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Manuell ingång"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Mina undertexter"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Inga undertextkällor tillgängliga (manuell inmatning tillgänglig)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "Det gick inte att spara. Försök igen senare."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Det gick inte att identifiera den aktuella videon. Det gick inte att spara."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Klicka här för att byta undertext"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Undertextkälla"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Ogiltigt SRT-block. Sekvens, tidsstämpel och innehåll krävs."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Varje underrubrik måste innehålla minst en textrad"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "Textningsinnehållet får inte vara tomt"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "Sluttiden måste vara längre än starttiden"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Ogiltigt SRT-sekvensnummerformat"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "SRT-sekvensnummer måste börja med 1 och öka med 1"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Vissa undertexter innehåller högtalartaggar. Alla undertexter måste använda prefixet [speaker]."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Ogiltigt tidsformat. Vänligen granska och korrigera det."
+   },
+   "subtitleModeBilingual": {
+      "message": "Tvåspråkiga undertexter"
+   },
+   "subtitleModeOff": {
+      "message": "Undertexter av"
+   },
+   "subtitleModeTranslated": {
+      "message": "Endast översättning"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Tilläggets AI-igenkända undertexter"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Prioritera undertexter genererade av tilläggets AI-taligenkänning för högre noggrannhet."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Välj vilken undertextkälla som ska prioriteras för översättning."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Plattformens inbyggda undertexter"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Prioritera de ursprungliga undertexterna som tillhandahålls av videoplattformen."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Prioritet för undertextöversättning"
+   },
+   "subtitleSize": {
+      "message": "Storlek"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Bakgrundsfärg"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Bakgrundens opacitet"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "Svart"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Blå"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Cyan"
+   },
+   "subtitleStyleColorGray": {
+      "message": "Grå"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "Grön"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Ljusgrå"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Magenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "Orange"
+   },
+   "subtitleStyleColorRed": {
+      "message": "Röd"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Vit"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "Gul"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Anpassat teckensnitt"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Till exempel: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Anpassat"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Ingen"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Kontur"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Skugga"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Kantstil"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Tvåspråkig"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Stilredigeringsvy"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Endast översättning"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Följ översättningsstilen"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Anpassat"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Standard"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Typsnitt"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Inget"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Teckenstorlek"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Teckensnittsvikt"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Tvåspråkig layout"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Radavstånd"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "Ändringarna sparas och träder i kraft omedelbart."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Inställningar för undertextstil"
+   },
+   "subtitleStyleOrder": {
+      "message": "Undertextordning"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Original överst"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Översättning överst"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Originalstil"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Teckenstorleksförhållande"
+   },
+   "subtitleStylePosition": {
+      "message": "Position"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Nederst"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Mitten"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Överst"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "Realtid"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Han tyckte att den unge mannen hade stor potential."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Förhandsvisning"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Återställ standard"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Undertextstil"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Delad bakgrund"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Horisontell justering"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Centrerat"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Vänster"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Höger"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Teckensnittsfärg"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Översättningsstil"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Använder aktuella inställningar"
+   },
+   "subtitles": {
+      "message": "Undertexter"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Undertexter för denna video är för närvarande hastighetsbegränsade av YouTube. Vänligen försök igen senare."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Växla volyminställningar mellan original och dubbat ljud"
+   },
+   "switchModelWarning": {
+      "message": "Att byta röst- eller översättningsmodell under videouppspelning medför extra avgifter på grund av slösade resurser. Vi rekommenderar att byta i nästa video. För att fortsätta ändå, klicka på Fortsätt och spara."
+   },
+   "targetLanguage": {
+      "message": "Målspråk"
+   },
+   "target_languages": {
+      "message": "Målspråk:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Denna video bearbetas redan för AI-undertextidentifiering. Vänta på e-postmeddelandet."
+   },
+   "textToSpeech": {
+      "message": "Text till tal:"
+   },
+   "textToSpeechToggle": {
+      "message": "Svävande boll"
+   },
+   "toggleSubtitles": {
+      "message": "Växla undertexter"
+   },
+   "tooExpensive": {
+      "message": "För dyrt"
+   },
+   "translateEngineTipText": {
+      "message": "ändra översättningstjänsten till Google"
+   },
+   "translateService": {
+      "message": "Översätt:"
+   },
+   "translatedAudio": {
+      "message": "Översatt"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Lägg till ersättning i översättningen"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Lägg till ersättning i översättningen"
+   },
+   "translatedReplacementDescription": {
+      "message": "Ersätt ord eller fraser i den färdiga översättningen med personliga regler."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Redigera ersättning i översättningen"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Endast den färdiga översättningen ändras; källtexten och översättningscachen förblir oförändrade."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Det finns ännu inga regler för ersättning i den översatta texten."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "När regeln inaktiveras sparas den, men tillämpas inte på den översatta texten."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Ord eller fras i den översatta texten"
+   },
+   "translatedReplacementFindText": {
+      "message": "Översatt text"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Målspråk"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Ord eller fras som ska visas i stället"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Ersätt med"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Inga matchande ersättningar i den översatta texten."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Sök i översatt text"
+   },
+   "translatedReplacementTitle": {
+      "message": "Ersättningar i den översatta texten"
+   },
+   "translationDomainAuto": {
+      "message": "Fordon"
+   },
+   "translationDomainChess": {
+      "message": "Schack"
+   },
+   "translationDomainEcommerce": {
+      "message": "E-handel"
+   },
+   "translationDomainEducation": {
+      "message": "Utbildning"
+   },
+   "translationDomainFashion": {
+      "message": "Mode"
+   },
+   "translationDomainFinance": {
+      "message": "Finans"
+   },
+   "translationDomainFood": {
+      "message": "Mat och matlagning"
+   },
+   "translationDomainGaming": {
+      "message": "Gaming"
+   },
+   "translationDomainGardening": {
+      "message": "Trädgård"
+   },
+   "translationDomainGeneral": {
+      "message": "Allmänt"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Juridik"
+   },
+   "translationDomainMedical": {
+      "message": "Medicin och hälsa"
+   },
+   "translationDomainMovies": {
+      "message": "Film och TV"
+   },
+   "translationDomainMusic": {
+      "message": "Musik"
+   },
+   "translationDomainNews": {
+      "message": "Nyheter och media"
+   },
+   "translationDomainPets": {
+      "message": "Husdjur"
+   },
+   "translationDomainPhotography": {
+      "message": "Fotografi"
+   },
+   "translationDomainProgramming": {
+      "message": "Programmering"
+   },
+   "translationDomainSports": {
+      "message": "Sport"
+   },
+   "translationDomainTech": {
+      "message": "Teknik"
+   },
+   "translationDomainTravel": {
+      "message": "Resor"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 och krypto"
+   },
+   "translationEngine": {
+      "message": "Översättningsmotor"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI-översättning"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "När funktionen är aktiverad använder AI-översättningen inställningarna nedan. När den är avstängd sparas dina befintliga inställningar."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Använd ordlista och textersättningar i AI-översättning"
+   },
+   "translationService": {
+      "message": "Översättningstjänst"
+   },
+   "translationServiceTitle": {
+      "message": "Översättningstjänst"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Denna video har inga undertexter. Som provmedlem stöds för närvarande endast videor under 15 minuter för undertextidentifiering. Premiummedlemmar stöder videor under 3 timmar."
+   },
+   "trialMemberModelLimit": {
+      "message": "Provmedlemmar kan endast använda Gemini och Google Translate. För att använda andra modeller, vänligen prenumerera på vårt medlemskap."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Universell dubbning kräver molnbaserad GPU-beräkningskraft (hög kostnad), endast för VIP."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Universal dubbning stöds inte för denna video i nuvarande version. Stöd planeras för nästa version. Vänligen kontakta kundservice för detaljer."
+   },
+   "unknownError": {
+      "message": "Ett okänt fel uppstod. Försök igen."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Uppgradera till medlemskap så identifierar pluginet AI-undertexter i bakgrunden. Efter att du fått e-postmeddelandet, kom tillbaka för att titta; då blir dubbningsknappen grön och översättningarna mer exakta."
+   },
+   "uploadComplete": {
+      "message": "Uppladdning klar"
+   },
+   "uploadFailed": {
+      "message": "Uppladdning misslyckades"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Inga undertexter hittades. Vill du ladda upp videon för AI-undertextigenkänning?"
+   },
+   "uploading": {
+      "message": "Laddar upp"
+   },
+   "uploadingMedia": {
+      "message": "Laddar upp media..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Användarkonto"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "När den är aktiverad segmenteras redigerade eller lokalt uppladdade undertexter automatiskt. När den är inaktiverad behålls den ursprungliga indelningen."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Smart segmentering av användarundertexter"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Identifierat ämnesområde för den aktuella videon: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Denna video är skyddad av DRM och kan inte användas för dubbning."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Denna video överstiger 3 timmar. Universell dubbning stöds för närvarande inte för videor längre än 3 timmar."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Du måste vara medlem och ha tillräckligt saldo för att använda denna funktion"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Medlemskap och saldo krävs"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Som medlem kan du använda följande översättningstjänster gratis"
+   },
+   "vipRequiredText": {
+      "message": "Du måste vara medlem för att använda denna funktion"
+   },
+   "vipRequiredTitle": {
+      "message": "Medlemskap krävs"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Ändra översättningstjänst till medlemsgratis tjänster som gemini, deepseek, gpt-3.5-turbo eller claude-3-haiku"
+   },
+   "voice": {
+      "message": "Röst"
+   },
+   "voiceSettingsMismatch": {
+      "message": "Rösttyp och röstinställningar stämmer inte överens. Gå till inställningssidan för att välja om och spara röstinställningarna."
+   },
+   "voiceTypeTipText": {
+      "message": "ändra rösttypen till gratisversionen"
+   },
+   "voices": {
+      "message": "Röst:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Röst & Undertexter"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Röst & Undertexter"
+   },
+   "voicesType": {
+      "message": "Rösttyp:"
+   },
+   "waitingForRecognition": {
+      "message": "Video uppladdad. AI-undertextigenkänning pågår. Du får ett e-postmeddelande när det är klart."
+   },
+   "woman": {
+      "message": "Kvinna"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Din webbläsare stöder inte Zoom-inspelning uppladdningsigenkänning. Använd Chrome/Edge."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Zoom-inspelning nedladdning förbjöds (403). Vänligen spela/uppdatera sidan för verifiering och försök sedan igen."
+   }
+}

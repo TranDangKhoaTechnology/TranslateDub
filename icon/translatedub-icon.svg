@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="55%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="bubble" x1="176" y1="144" x2="336" y2="336" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#E2E8F0"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="286" y1="208" x2="366" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#1E3A8A" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- Rounded background with gradient -->
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#bg)"/>
+
+  <!-- Soft inner glow highlight (top-left) -->
+  <ellipse cx="190" cy="150" rx="220" ry="170" fill="#FFFFFF" opacity="0.10"/>
+
+  <!-- Speech bubble (translation) -->
+  <g filter="url(#shadow)">
+    <path d="M128 148
+             C128 118.4 151.6 96 180.5 96
+             H305.5
+             C334.4 96 358 118.4 358 148
+             V246
+             C358 275.6 334.4 298 305.5 298
+             H262.8
+             L220.5 336
+             V298
+             H180.5
+             C151.6 298 128 275.6 128 246
+             Z"
+          fill="url(#bubble)"/>
+  </g>
+
+  <!-- Audio waves (dubbing) -->
+  <g fill="url(#wave)">
+    <rect x="282" y="166" width="18" height="62" rx="9"/>
+    <rect x="310" y="146" width="18" height="102" rx="9"/>
+    <rect x="338" y="126" width="18" height="142" rx="9"/>
+  </g>
+
+  <!-- Dots in bubble (speech) -->
+  <g fill="#2563EB">
+    <circle cx="184" cy="178" r="10"/>
+    <circle cx="216" cy="178" r="10"/>
+    <circle cx="248" cy="178" r="10"/>
+  </g>
+
+  <!-- Tail dot highlight on bubble -->
+  <circle cx="238" cy="212" r="6" fill="#2563EB" opacity="0.35"/>
+</svg>

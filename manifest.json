@@ -1,0 +1,80 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "TranslateDub"
+   },
+   "background": {
+      "service_worker": "background-entry.js"
+   },
+   "commands": {
+      "swap-volume-settings": {
+         "description": "__MSG_swapVolumeSettingsCommand__",
+         "suggested_key": {
+            "default": "Alt+S",
+            "mac": "Alt+S"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "timedtext-guard.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.youtube-nocookie.com/*" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   }, {
+      "all_frames": true,
+      "css": [ "content-scripts/content.css" ],
+      "exclude_globs": [ "*://*.translate.goog/*", "*://*.translate.google.*/*", "*://*.translate.googleusercontent.com/*", "*://translate.goog/*", "*://translate.google.*/*", "*://translate.googleusercontent.com/*" ],
+      "exclude_matches": [ "*://*.chatgpt.com/*", "*://*.google.com/*", "*://*.linux.do/*", "*://*.translate.goog/*", "*://*/*.avif", "*://*/*.bmp", "*://*/*.gif", "*://*/*.ico", "*://*/*.jpeg", "*://*/*.jpg", "*://*/*.png", "*://*/*.svg", "*://*/*.tif", "*://*/*.tiff", "*://*/*.webp", "*://*/*.xml", "*://*/*.yaml", "*://*/*.yml", "*://chatgpt.com/*", "*://discord.com/*", "*://java2ai.com/docs/*", "*://linux.do/*", "*://repository.modelio.org/*", "*://translate.goog/*", "*://translate.google.com/*", "*://translate.googleusercontent.com/*" ],
+      "js": [ "runtime-i18n-data.js", "runtime-i18n.js", "offline-core.js", "content-scripts/content.js" ],
+      "matches": [ "*://*/*" ]
+   }, {
+      "css": [ "content-scripts/googleDriveButton.css" ],
+      "js": [ "runtime-i18n-data.js", "runtime-i18n.js", "offline-core.js", "content-scripts/googleDriveButton.js" ],
+      "matches": [ "*://drive.google.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "exclude_globs": [ "*://*.translate.goog/*", "*://*.translate.google.*/*", "*://*.translate.googleusercontent.com/*", "*://translate.goog/*", "*://translate.google.*/*", "*://translate.googleusercontent.com/*" ],
+      "exclude_matches": [ "*://*.chatgpt.com/*", "*://*.google.com/*", "*://*.linux.do/*", "*://*.translate.goog/*", "*://*/*.avif", "*://*/*.bmp", "*://*/*.gif", "*://*/*.ico", "*://*/*.jpeg", "*://*/*.jpg", "*://*/*.png", "*://*/*.svg", "*://*/*.tif", "*://*/*.tiff", "*://*/*.webp", "*://*/*.xml", "*://*/*.yaml", "*://*/*.yml", "*://chatgpt.com/*", "*://discord.com/*", "*://java2ai.com/docs/*", "*://linux.do/*", "*://repository.modelio.org/*", "*://translate.goog/*", "*://translate.google.com/*", "*://translate.googleusercontent.com/*" ],
+      "js": [ "runtime-i18n-data.js", "runtime-i18n.js", "offline-core.js", "content-scripts/metadata.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "exclude_globs": [ "*://*.translate.goog/*", "*://*.translate.google.*/*", "*://*.translate.googleusercontent.com/*", "*://translate.goog/*", "*://translate.google.*/*", "*://translate.googleusercontent.com/*" ],
+      "exclude_matches": [ "*://*.chatgpt.com/*", "*://*.linux.do/*", "*://*.translate.goog/*", "*://*/*.avif", "*://*/*.bmp", "*://*/*.gif", "*://*/*.ico", "*://*/*.jpeg", "*://*/*.jpg", "*://*/*.png", "*://*/*.svg", "*://*/*.tif", "*://*/*.tiff", "*://*/*.webp", "*://*/*.xml", "*://*/*.yaml", "*://*/*.yml", "*://chatgpt.com/*", "*://discord.com/*", "*://java2ai.com/docs/*", "*://linux.do/*", "*://repository.modelio.org/*", "*://translate.goog/*", "*://translate.google.com/*", "*://translate.googleusercontent.com/*" ],
+      "js": [ "runtime-i18n-data.js", "runtime-i18n.js", "offline-core.js", "content-scripts/sidebar.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon/128.png",
+      "16": "icon/16.png",
+      "32": "icon/32.png",
+      "48": "icon/48.png",
+      "96": "icon/96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsk5cZ10brxpHVORM6GPohHuJCxLzX3ssxeXhvrXTHItEm0H5cKYkbetFX8RhicJLezh8QUzkYXFYrBq/iUgK9+PNtWvOugwn65Gci9D3vuxeHNCNwP09fd8mcVZPrcxxb2TtmmW9ZcRkMQf7FGm0tSZzwW15CmUehLlBEQ0E58aTRbNhRdVrlIeYNoaK05vawh0VCSkL2n3enHAMSTvrfgSS7zo4r8D1zOcGpjfzmkIk4PiLksOExZ+MmTgxzrHbhmkNGB8WS/jy2EsXStrXilBDIWdy7VeyvdQGUEUbkZboWvxC/nXgeMvXuKTV/zep2XYQqSqVbeGJa4E+UTRESwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__", 
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "storage", "contextMenus", "activeTab", "webRequest", "webNavigation", "declarativeNetRequest" ],
+   "version": "4.2.5",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "images/*" ]
+   }, {
+      "matches": [ "*://*/*" ],
+      "resources": [ "injectScript.js" ]
+   }, {
+      "matches": [ "*://*/*" ],
+      "resources": [ "iosInjectScript.js" ]
+   }, {
+      "matches": [ "*://*/*" ],
+      "resources": [ "content-scripts/sidebar.css" ]
+   } ]
+}

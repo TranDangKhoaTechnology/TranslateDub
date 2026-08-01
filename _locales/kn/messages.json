@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "ಖಾತೆ ಶೇಷ"
+   },
+   "advancedSettings": {
+      "message": "ಸುಧಾರಿತ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "AI ಉಪಶೀರ್ಷಿಕೆಗಳು ಇನ್ನೂ ಲಭ್ಯವಿಲ್ಲ. ಪ್ಲಗ್‌ಇನ್ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಅವುಗಳನ್ನು ಗುರುತಿಸಲು ಪ್ರಾರಂಭಿಸಿದೆ. ನೀವು ಮೊದಲ ಡಬ್ಬಿಂಗ್ ವಾಕ್ಯವನ್ನು ಕೇಳಿದ ನಂತರ, ನೀವು ಪುಟವನ್ನು ಮುಚ್ಚಬಹುದು ಮತ್ತು ಇಮೇಲ್ ಅಧಿಸೂಚನೆಗಾಗಿ ಕಾಯಬಹುದು; ಅದು ಸಿದ್ಧವಾದಾಗ, ಡಬ್ಬಿಂಗ್ ಬಟನ್ ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ ಮತ್ತು ಭಾಷಾಂತರ ಗುಣಮಟ್ಟ ಉತ್ತಮವಾಗಿರುತ್ತದೆ."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS ಸದಸ್ಯರಿಗೆ ಮಾತ್ರ. ಉನ್ನತ ಗುಣಮಟ್ಟದ Azure ಧ್ವನಿಗಳನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+   },
+   "back": {
+      "message": "ಹಿಂತಿರುಗಿ"
+   },
+   "backToSettings": {
+      "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹಿಂತಿರುಗಿ"
+   },
+   "backToVideoLibrary": {
+      "message": "ವೀಡಿಯೊ ಲೈಬ್ರರಿಗೆ ಹಿಂತಿರುಗಿ"
+   },
+   "backgroundAudio": {
+      "message": "ಹಿನ್ನೆಲೆ ಶಬ್ದ"
+   },
+   "balanceRequiredText": {
+      "message": "ನಿಮ್ಮ ಖಾತೆ ಬ್ಯಾಲೆನ್ಸ್ ಸಾಕಾಗುವುದಿಲ್ಲ. ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಲು ದಯವಿಟ್ಟು ರೀಚಾರ್ಜ್ ಮಾಡಿ"
+   },
+   "balanceRequiredTitle": {
+      "message": "ಬ್ಯಾಲೆನ್ಸ್ ಅಗತ್ಯವಿದೆ"
+   },
+   "balanceRunningLow": {
+      "message": "ನಿಮ್ಮ ಬ್ಯಾಲೆನ್ಸ್ ಖಾಲಿಯಾಗುತ್ತಿದೆ. ಕಳಪೆ ವೀಕ್ಷಣೆ ಅನುಭವವನ್ನು ತಪ್ಪಿಸಲು, ಮುಂಚಿತವಾಗಿ ರೀಚಾರ್ಜ್ ಮಾಡಲು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "ದಯವಿಟ್ಟು ಬ್ರೌಸರ್ ವಿಸ್ತರಣೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "ಹೊರತುಪಡಿಸಲಾಗಿದೆ"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "ಎಲ್ಲವನ್ನೂ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} ಅಂತರ್ನಿರ್ಮಿತ ಪದಗಳು"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "ಕ್ಷೇತ್ರ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "ಹೊಂದಿಕೆಯಾಗುವ ಕ್ಷೇತ್ರಗಳಿಲ್ಲ."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "ಕ್ಷೇತ್ರಗಳನ್ನು ಹುಡುಕಿ"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} ಕ್ಷೇತ್ರಗಳು"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "ಅಂತರ್ನಿರ್ಮಿತ ಕ್ಷೇತ್ರ ಸಂಗ್ರಹಗಳು"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "ಪ್ರಸ್ತುತ ಗುರಿ ಭಾಷೆಗೆ ಅಂತರ್ನಿರ್ಮಿತ ಪದಕೋಶ ಲಭ್ಯವಿಲ್ಲ. ಆದರೂ ನೀವು ವೈಯಕ್ತಿಕ ಪದಗಳನ್ನು ಸೇರಿಸಬಹುದು."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "ಎಲ್ಲವನ್ನೂ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} / {total} ಸಕ್ರಿಯ"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "ಕ್ಷೇತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "ಗುರಿ ಭಾಷೆಯ ಅಂತರ್ನಿರ್ಮಿತ ಪದಕೋಶ ಕ್ಷೇತ್ರಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ ಅಥವಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "ಅಂತರ್ನಿರ್ಮಿತ ಕ್ಷೇತ್ರ ಸಂಗ್ರಹಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "ಅಂತರ್ನಿರ್ಮಿತ ನಿಯಮ"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} ಅಂತರ್ನಿರ್ಮಿತ ನಿಯಮಗಳು"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "ಮೂಲ ಪಠ್ಯ ತಿದ್ದುಪಡಿಯ ಅಂತರ್ನಿರ್ಮಿತ ಕ್ಷೇತ್ರಗಳನ್ನು ಸಕ್ರಿಯ ಅಥವಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "ಮೂಲ ಪಠ್ಯ ತಿದ್ದುಪಡಿಯ ಅಂತರ್ನಿರ್ಮಿತ ಕ್ಷೇತ್ರಗಳನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "cancel": {
+      "message": "ರದ್ದು"
+   },
+   "cancelButton": {
+      "message": "ರದ್ದು"
+   },
+   "completing": {
+      "message": "ಪೂರ್ಣಗೊಳ್ಳುತ್ತಿದೆ"
+   },
+   "confirmButton": {
+      "message": "ಮುಂದುವರಿಸಿ ಮತ್ತು ಉಳಿಸಿ"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "ಈ ಸ್ಪೀಕರ್ ಅನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+   },
+   "contentMenusTitle": {
+      "message": "ವಾಯ್ಸ್‌ಓವರ್ ಪ್ಲೇಬ್ಯಾಕ್ ಪ್ರಾರಂಭಿಸಿ"
+   },
+   "corsNotSupported": {
+      "message": "ಈ ವೆಬ್‌ಸೈಟ್ ಮಾಧ್ಯಮ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಅನುಮತಿಸುವುದಿಲ್ಲ. ಯುನಿವರ್ಸಲ್ ಡಬ್ಬಿಂಗ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ."
+   },
+   "debugInfo": {
+      "message": "ಡೀಬಗ್ ಮಾಹಿತಿ"
+   },
+   "delete": {
+      "message": "ಅಳಿಸಿ"
+   },
+   "deleteSpeaker": {
+      "message": "ಅಳಿಸಿ"
+   },
+   "description": {
+      "message": "ವೀಡಿಯೊ ಅನುವಾದ ಮತ್ತು ಡಬ್ಬಿಂಗ್—ವಿದೇಶಿ ಭಾಷೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ, ಜಾಗತಿಕ ಜ್ಞಾನವನ್ನು ಪ್ರವೇಶಿಸಿ"
+   },
+   "disableGlobally": {
+      "message": "ಜಾಗತಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "disabledSitesActions": {
+      "message": "ಕ್ರಿಯೆಗಳು"
+   },
+   "disabledSitesAdd": {
+      "message": "ಸೇರಿಸಿ"
+   },
+   "disabledSitesDelete": {
+      "message": "ಅಳಿಸಿ"
+   },
+   "disabledSitesDescription": {
+      "message": "ಕೆಳಗಿನ ಸೈಟ್‌ಗಳಲ್ಲಿ ಫ್ಲೋಟಿಂಗ್ ಬಾಲ್ ಕಾಣಿಸುವುದಿಲ್ಲ. ನೀವು ಇಲ್ಲಿ ನಿಷ್ಕ್ರಿಯ ಸೈಟ್‌ಗಳನ್ನು ಸೇರಿಸಬಹುದು ಅಥವಾ ತೆಗೆದುಹಾಕಬಹುದು."
+   },
+   "disabledSitesDomain": {
+      "message": "ಡೊಮೇನ್"
+   },
+   "disabledSitesEmpty": {
+      "message": "ನಿಷ್ಕ್ರಿಯ ಸೈಟ್‌ಗಳಿಲ್ಲ"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "ಡೊಮೇನ್ ನಮೂದಿಸಿ, ಉದಾ. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "ನಿಷ್ಕ್ರಿಯ ಸೈಟ್‌ಗಳು"
+   },
+   "disabledSitesTitle": {
+      "message": "ನಿಷ್ಕ್ರಿಯ ಸೈಟ್ ನಿರ್ವಹಣೆ"
+   },
+   "doNotClosePage": {
+      "message": "ಅಪ್‌ಲೋಡ್ ಸಮಯದಲ್ಲಿ ಈ ಪುಟವನ್ನು ಮುಚ್ಚಬೇಡಿ ಅಥವಾ ರಿಫ್ರೆಶ್ ಮಾಡಬೇಡಿ, ಇಲ್ಲದಿದ್ದರೆ ಅಪ್‌ಲೋಡ್ ಅಡ್ಡಿಯಾಗುತ್ತದೆ."
+   },
+   "doNotShowAgainLink": {
+      "message": "ಮತ್ತೆ ತೋರಿಸಬೇಡಿ"
+   },
+   "downloading": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "ಈ ವೀಡಿಯೊವನ್ನು ಇನ್ನೂ ಲಿಪ್ಯಂತರ ಮಾಡಲಾಗಿಲ್ಲ. ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಲಿಪ್ಯಂತರ ಮಾಡಲು ದಯವಿಟ್ಟು Dropbox ವೀಡಿಯೊದ ಕೆಳಭಾಗದಲ್ಲಿರುವ CC ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ. ಲಿಪ್ಯಂತರ ಪೂರ್ಣಗೊಂಡ ನಂತರ, ಭಾಷಾಂತರಿಸಲು ಮತ್ತು ಡಬ್ ಮಾಡಲು ಪ್ಲಗ್‌ಇನ್‌ನ ಡಬ್ಬಿಂಗ್ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ."
+   },
+   "dropdownNoOptions": {
+      "message": "ಯಾವುದೇ ಆಯ್ಕೆಗಳು ಲಭ್ಯವಿಲ್ಲ"
+   },
+   "dropdownPlaceholder": {
+      "message": "ದಯವಿಟ್ಟು ಆಯ್ಕೆ"
+   },
+   "dropdownSearch": {
+      "message": "ಹುಡುಕಿ..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "ಈ ಪುಟದಲ್ಲಿ ಈಗ ಬಳಸಬಹುದಾದ ವೀಡಿಯೊ ಅಥವಾ ಆಡಿಯೊ ಇಲ್ಲ. ವೀಡಿಯೊ ಲೋಡ್ ಆಗುವವರೆಗೆ ಕಾಯಿರಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ, ಅಥವಾ ಪುಟವನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "ಡಬ್ಬಿಂಗ್‌ಗೆ ಬಳಸಬಹುದಾದ ವೀಡಿಯೊ ಕಂಡುಬಂದಿಲ್ಲ"
+   },
+   "dubbingSettings": {
+      "message": "ಡಬ್ಬಿಂಗ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Edge ವಿಸ್ತರಣೆ ಶಾರ್ಟ್‌ಕಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಪುಟವನ್ನು ತೆರೆಯಲಾಗುತ್ತಿದೆ"
+   },
+   "edit": {
+      "message": "ಸಂಪಾದಿಸಿ"
+   },
+   "editSpeaker": {
+      "message": "ಸಂಪಾದಿಸಿ"
+   },
+   "emailNotificationDescription": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಗುರುತಿಸುವಿಕೆ ಪೂರ್ಣವಾದಾಗ ನನಗೆ ಇಮೇಲ್ ಮೂಲಕ ತಿಳಿಸಿ."
+   },
+   "emailNotificationLabel": {
+      "message": "ಇಮೇಲ್ ಸೂಚನೆಗಳು"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "ಉಳಿಸುವುದು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "enterSpeakerName": {
+      "message": "ಸ್ಪೀಕರ್ ಹೆಸರು ನಮೂದಿಸಿ"
+   },
+   "enterVoice": {
+      "message": "ಧ್ವನಿ ಹೆಸರು ನಮೂದಿಸಿ"
+   },
+   "error": {
+      "message": "ದೋಷ"
+   },
+   "female": {
+      "message": "ಸ್ತ್ರೀ"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Firefox ಆಡ್-ಆನ್‌ಗಳ ಪುಟವನ್ನು ತೆರೆಯಲಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ವಿಸ್ತರಣೆಗಳು ಮತ್ತು ಥೀಮ್‌ಗಳಲ್ಲಿ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಹೊಂದಿಸಿ"
+   },
+   "free": {
+      "message": "ಉಚಿತ"
+   },
+   "freeForVip": {
+      "message": "VIP ಉಚಿತ"
+   },
+   "freeOptionTipText": {
+      "message": "ನೀವು ರೀಚಾರ್ಜ್ ಮಾಡಲು ಬಯಸದಿದ್ದರೆ, ನೀವು ಉಚಿತ ಆಯ್ಕೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು, "
+   },
+   "freeUserDailyLimit": {
+      "message": "ಉಚಿತ ಬಳಕೆದಾರರು ಪ್ಲಗ್‌ಇನ್ ಮೂಲಕ ದಿನಕ್ಕೆ 5 ವೀಡಿಯೊಗಳನ್ನು ವೀಕ್ಷಿಸಬಹುದು. ಅನಿಯಮಿತ ವೀಕ್ಷಣೆ ಪ್ರಯೋಜನಗಳನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಸದಸ್ಯತ್ವಕ್ಕೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+   },
+   "freeUserNoSubtitles": {
+      "message": "ಈ ವೀಡಿಯೊದಲ್ಲಿ ಅಂತರ್ನಿರ್ಮಿತ ಉಪಶೀರ್ಷಿಕೆಗಳಿಲ್ಲ. ಉಪಶೀರ್ಷಿಕೆ ಗುರುತಿಸುವಿಕೆಗಾಗಿ ಪ್ಲಗ್‌ಇನ್ ಸದಸ್ಯತ್ವಕ್ಕೆ ಚಂದಾದಾರರಾಗಿ ಮತ್ತು ಭಾಷಾಂತರ ಮತ್ತು ಡಬ್ಬಿಂಗ್ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಆನಂದಿಸಿ."
+   },
+   "gender": {
+      "message": "ಲಿಂಗ"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "ಈ ಭಾಷೆಗೆ ಇನ್ನೂ ವೈಯಕ್ತಿಕ ಪದಗಳಿಲ್ಲ."
+   },
+   "glossaryCreateButton": {
+      "message": "ವೈಯಕ್ತಿಕ ಪದವನ್ನು ಸೇರಿಸಿ"
+   },
+   "glossaryDescription": {
+      "message": "ಮೂಲ ಪದಗಳಿಗೆ ನಿಶ್ಚಿತ ಅನುವಾದಗಳನ್ನು ನಿಗದಿಪಡಿಸಿ (ಉದಾ. Stratagem). ನಿಮ್ಮ ಪದಗಳು ಅಂತರ್ನಿರ್ಮಿತ ಪದಕೋಶಕ್ಕಿಂತ ಆದ್ಯತೆ ಪಡೆಯುತ್ತವೆ."
+   },
+   "glossaryEditTitle": {
+      "message": "ವೈಯಕ್ತಿಕ ಪದವನ್ನು ಸಂಪಾದಿಸಿ"
+   },
+   "glossaryEditorDescription": {
+      "message": "ವೈಯಕ್ತಿಕ ಪದಕೋಶದ ಪದಗಳನ್ನು ಮಾತ್ರ ಸೇರಿಸಬಹುದು, ಸಂಪಾದಿಸಬಹುದು, ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು ಅಥವಾ ಅಳಿಸಬಹುದು."
+   },
+   "glossarySearchEmpty": {
+      "message": "ಹೊಂದಿಕೆಯಾಗುವ ಪದಗಳಿಲ್ಲ."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "ಮೂಲ ಪದಗಳನ್ನು ಹುಡುಕಿ"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "ಮೂಲ ಪದ"
+   },
+   "glossarySourceTerm": {
+      "message": "ಮೂಲ ಪದ"
+   },
+   "glossaryTableTitle": {
+      "message": "ಪ್ರಸ್ತುತ ಭಾಷೆಯ ಪದಗಳು"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "ಅಗತ್ಯ ಅನುವಾದ"
+   },
+   "glossaryTargetTerm": {
+      "message": "ಅನುವಾದ"
+   },
+   "glossaryTitle": {
+      "message": "ಪದಕೋಶ"
+   },
+   "hideUntilNextVisit": {
+      "message": "ಮುಂದಿನ ಭೇಟಿಯವರೆಗೆ ಮರೆಮಾಡಿ"
+   },
+   "hlsDecryptionFailed": {
+      "message": "ವೀಡಿಯೊ ವಿಷಯವನ್ನು ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಕೀ ತಪ್ಪಾಗಿರಬಹುದು ಅಥವಾ ವೀಡಿಯೊ ಫಾರ್ಮ್ಯಾಟ್ ಹೊಂದಿಕೊಳ್ಳುವುದಿಲ್ಲ."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "ಈ ವೀಡಿಯೊಗಾಗಿ ಡೀಕ್ರಿಪ್ಶನ್ ಕೀ ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ. ವೀಡಿಯೊ ರಕ್ಷಿತವಾಗಿರಬಹುದು ಅಥವಾ ಕೀ ಸರ್ವರ್ ಲಭ್ಯವಿಲ್ಲ."
+   },
+   "insufficientBalance": {
+      "message": "ಸಾಕಷ್ಟು ಬ್ಯಾಲೆನ್ಸ್ ಇಲ್ಲದ ಕಾರಣ, ಸೇವೆಯನ್ನು Google Translate ಗೆ ಡೌನ್‌ಗ್ರೇಡ್ ಮಾಡಲಾಗಿದೆ. AI ಭಾಷಾಂತರವನ್ನು ಬಳಸಲು, ದಯವಿಟ್ಟು ನಿಮ್ಮ ಕ್ರೆಡಿಟ್ ರೀಚಾರ್ಜ್ ಮಾಡಿ."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "ನಿಮ್ಮ ಬ್ಯಾಲೆನ್ಸ್ ಸಾಕಾಗುವುದಿಲ್ಲ. AI ಭಾಷಾಂತರ ಮತ್ತು Azure TTS ಬಳಸುವ ಮೊದಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಬ್ಯಾಲೆನ್ಸ್ ರೀಚಾರ್ಜ್ ಮಾಡಿ. ನೀವು ರೀಚಾರ್ಜ್ ಮಾಡಲು ಬಯಸದಿದ್ದರೆ, ನೀವು Google Translate ಮತ್ತು ಉಚಿತ ಧ್ವನಿ ಪ್ರಕಾರಗಳಿಗೆ ಹಿಂತಿರುಗಬಹುದು."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "AI ಭಾಷಾಂತರ ಮತ್ತು Azure TTS ಬಳಸುವ ಮೊದಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸದಸ್ಯತ್ವ ಮತ್ತು ಬ್ಯಾಲೆನ್ಸ್ ರೀಚಾರ್ಜ್ ಮಾಡಿ. ನೀವು ರೀಚಾರ್ಜ್ ಮಾಡಲು ಬಯಸದಿದ್ದರೆ, ನೀವು Google Translate ಮತ್ತು ಉಚಿತ ಧ್ವನಿ ಪ್ರಕಾರಗಳನ್ನು ಸಹ ಆಯ್ಕೆ ಮಾಡಬಹುದು."
+   },
+   "insufficientMembership": {
+      "message": "ನಿಮ್ಮ ಸದಸ್ಯತ್ವ ಮುಕ್ತಾಯಗೊಂಡಿದೆ. AI ಭಾಷಾಂತರ ಮತ್ತು Azure TTS ಬಳಸುವ ಮೊದಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸದಸ್ಯತ್ವವನ್ನು ರೀಚಾರ್ಜ್ ಮಾಡಿ. ನೀವು ರೀಚಾರ್ಜ್ ಮಾಡಲು ಬಯಸದಿದ್ದರೆ, ನೀವು Google Translate ಮತ್ತು ಉಚಿತ ಧ್ವನಿ ಪ್ರಕಾರಗಳನ್ನು ಸಹ ಆಯ್ಕೆ ಮಾಡಬಹುದು."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "ಇನ್ನೊಂದು ಬ್ರೌಸರ್ ವಿಸ್ತರಣೆ ಉಪಶೀರ್ಷಿಕೆ ವಿನಂತಿ ಪ್ರತಿಬಂಧವನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿದೆ. ಸಂಘರ್ಷದ ವಿಸ್ತರಣೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ, ಪುಟವನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ, ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "ವಿಸ್ತರಣೆ ಸಂಘರ್ಷ ಪತ್ತೆಯಾಗಿದೆ"
+   },
+   "iosOpenOriginVolume": {
+      "message": "ಮೂಲ ಆಡಿಯೋವನ್ನು ಆನ್ ಮಾಡಿ"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "iOS ಸಾಧನಗಳಲ್ಲಿ ಯೂನಿವರ್ಸಲ್ ಡಬ್ಬಿಂಗ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ. ದಯವಿಟ್ಟು ಡೆಸ್ಕ್‌ಟಾಪ್ ಬ್ರೌಸರ್ ಬಳಸಿ."
+   },
+   "liveStreamNotSupported": {
+      "message": "ಲೈವ್ ಸ್ಟ್ರೀಮ್‌ಗಳು ಯುನಿವರ್ಸಲ್ ಡಬ್ಬಿಂಗ್‌ಗೆ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ."
+   },
+   "liveVideoNotSupported": {
+      "message": "ಲೈವ್ ವೀಡಿಯೊಗಳು ಪ್ರಸ್ತುತ ಡಬ್ಬಿಂಗ್‌ಗೆ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"
+   },
+   "loading": {
+      "message": "ಲೋಡ್ ಆಗುತ್ತಿದೆ"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಸೇರಿಸಿ"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಸೇರಿಸಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "localPlayerAddVideo": {
+      "message": "ವೀಡಿಯೊ ಸೇರಿಸಿ"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "ವೀಡಿಯೊ ಸೇರಿಸಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "ಎಲ್ಲಾ ಉಪಶೀರ್ಷಿಕೆ ಲಿಂಕ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
+   },
+   "localPlayerAllVideos": {
+      "message": "ಎಲ್ಲಾ ವೀಡಿಯೊಗಳು"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "ಪ್ರತಿ ಆಮದು ಮಾಡಿದ ವೀಡಿಯೊವನ್ನು ಹುಡುಕಿ ಮತ್ತು ನಿರ್ವಹಿಸಿ."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "ಆರೋಹಣ; ಅವರೋಹಣಕ್ಕೆ ಬದಲಾಯಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "localPlayerAssociate": {
+      "message": "ಲಿಂಕ್ ಉಪಶೀರ್ಷಿಕೆ"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಯನ್ನು ಲಿಂಕ್ ಮಾಡಿ ಮತ್ತು ಅದನ್ನು ಧ್ವನಿ ಡಬ್ಬಿಂಗ್‌ಗಾಗಿ ಬಳಸಿ"
+   },
+   "localPlayerAssociated": {
+      "message": "ಲಿಂಕ್ ಮಾಡಲಾಗಿದೆ"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "ಈ ಫೋಲ್ಡರ್ ಹೊರಗೆ ಲಿಂಕ್ ಮಾಡಲಾಗಿದೆ"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಲಿಂಕ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಲಿಂಕ್ ಉಳಿಸಲಾಗಿದೆ."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಲಿಂಕ್ ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಧ್ವನಿ ಡಬ್ಬಿಂಗ್‌ಗಾಗಿ ಹೊಂದಿಸಲಾಗಿದೆ."
+   },
+   "localPlayerBackToFolders": {
+      "message": "ಫೋಲ್ಡರ್‌ಗಳಿಗೆ ಹಿಂತಿರುಗಿ"
+   },
+   "localPlayerClose": {
+      "message": "ಮುಚ್ಚಿ"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "ಪ್ರಸ್ತುತ ಡೈರೆಕ್ಟರಿ"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "ವೀಡಿಯೊ ಡಬ್ಬಿಂಗ್"
+   },
+   "localPlayerDelete": {
+      "message": "ಅಳಿಸಿ"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "ವೀಡಿಯೊ ಅಳಿಸಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "{fileName} ಅಳಿಸಿ"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "ಇದು ಸ್ಥಳೀಯ ಲೈಬ್ರರಿಯಿಂದ ವೀಡಿಯೊ ಮತ್ತು ಉಪಶೀರ್ಷಿಕೆ ಲಿಂಕ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ. ಡಿಸ್ಕ್‌ನಲ್ಲಿರುವ ಮೂಲ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "ಈ ವೀಡಿಯೊವನ್ನು ಅಳಿಸುವುದೇ?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "ಅವರೋಹಣ; ಆರೋಹಣಕ್ಕೆ ಬದಲಾಯಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "localPlayerDropHint": {
+      "message": "ವೀಡಿಯೊಗಳು ಅಥವಾ .srt/.vtt/.ass ಉಪಶೀರ್ಷಿಕೆ ಫೈಲ್‌ಗಳನ್ನು ಇಲ್ಲಿ ಬಿಡಿ"
+   },
+   "localPlayerDropOverlay": {
+      "message": "ಫೈಲ್‌ಗಳನ್ನು ಆಮದು ಮಾಡಲು ಮೌಸ್ ಅನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿ"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "ಧ್ವನಿ ಡಬ್ಬಿಂಗ್ ಪ್ರಾರಂಭವಾಯಿತು"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "ಸ್ಥಳೀಯ ಧ್ವನಿ ಡಬ್ಬಿಂಗ್ ಪ್ರಾರಂಭಿಸಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "ಸ್ಥಳೀಯ ಧ್ವನಿ ಡಬ್ಬಿಂಗ್ ಪ್ರಾರಂಭವಾಯಿತು."
+   },
+   "localPlayerEntryButton": {
+      "message": "ಸ್ಥಳೀಯ ವೀಡಿಯೊ"
+   },
+   "localPlayerFilterAll": {
+      "message": "ಎಲ್ಲಾ"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "ಲಿಂಕ್ ಮಾಡಲಾದ ಉಪಶೀರ್ಷಿಕೆಗಳಿಲ್ಲದೆ"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "ಲಿಂಕ್ ಮಾಡಿದ ಉಪಶೀರ್ಷಿಕೆಗಳೊಂದಿಗೆ"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "ಸ್ಥಳೀಯ ವೀಡಿಯೊ ತ್ವರಿತ ಕ್ರಿಯೆಗಳು"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "ಫೋಲ್ಡರ್ ಪ್ರವೇಶ ಲಭ್ಯವಿದೆ"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "ಫೋಲ್ಡರ್ ತೆರೆಯುವುದರಿಂದ ಫೈಲ್ ಹ್ಯಾಂಡಲ್‌ಗಳನ್ನು ಉಳಿಸುತ್ತದೆ ಆದ್ದರಿಂದ ರಿಫ್ರೆಶ್ ಮಾಡಿದ ನಂತರ ಪ್ರವೇಶವನ್ನು ಮರುಸ್ಥಾಪಿಸಬಹುದು."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "ಈ ಬ್ರೌಸರ್ ಫೋಲ್ಡರ್‌ಗಳನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ತಾತ್ಕಾಲಿಕ ಆಮದುಗಾಗಿ ವೀಡಿಯೊ ಸೇರಿಸಿ/ಉಪಶೀರ್ಷಿಕೆಯನ್ನು ಸೇರಿಸಿ ಬಳಸಿ."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} ಸಂಬಂಧಿಸಿದ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "ಕೊನೆಯದಾಗಿ ಪ್ಲೇ ಮಾಡಿದ್ದು {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "ಕೊನೆಯದಾಗಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗಿದೆ {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "ಫೋಲ್ಡರ್ ಕ್ರಿಯೆಗಳು"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "ತೆಗೆದುಹಾಕಲಾಗಿದೆ {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "ಫೋಲ್ಡರ್‌ಗಳು, ಮಾರ್ಗಗಳು ಅಥವಾ ಫೈಲ್‌ಗಳನ್ನು ಹುಡುಕಿ"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} ವೀಡಿಯೊಗಳು"
+   },
+   "localPlayerFolders": {
+      "message": "ಫೋಲ್ಡರ್‌ಗಳು"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "ಫೋಲ್ಡರ್ ಮೂಲಕ ಆಮದು ಮಾಡಿದ ಮಾಧ್ಯಮವನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "ಈ ಸ್ಥಳೀಯ ವೀಡಿಯೊ ಲಿಂಕ್ ಮಾಡಲಾದ ಉಪಶೀರ್ಷಿಕೆಯನ್ನು ಹೊಂದಿಲ್ಲ. ಉಚಿತ ಬಳಕೆದಾರರು ಇನ್ನೂ ಸ್ಥಳೀಯ ವೀಡಿಯೊಗಳಿಗಾಗಿ ಹಿನ್ನೆಲೆ ಉಪಶೀರ್ಷಿಕೆ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಬಳಸಲಾಗುವುದಿಲ್ಲ. AI ಉಪಶೀರ್ಷಿಕೆ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಬಳಸಲು ಸದಸ್ಯತ್ವವನ್ನು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ ಅಥವಾ ಧ್ವನಿ ಡಬ್ಬಿಂಗ್ ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು ಉಪಶೀರ್ಷಿಕೆ ಫೈಲ್ ಅನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ."
+   },
+   "localPlayerImportComplete": {
+      "message": "{videoCount} ವೀಡಿಯೊಗಳು ಮತ್ತು {subtitleCount} ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿದೆ."
+   },
+   "localPlayerInitialStatus": {
+      "message": "ಫೋಲ್ಡರ್ ತೆರೆಯಿರಿ, ವೀಡಿಯೊಗಳನ್ನು ಸೇರಿಸಿ ಅಥವಾ ಪ್ರಾರಂಭಿಸಲು ಫೈಲ್‌ಗಳನ್ನು ಬಿಡಿ."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "ಸ್ಥಳೀಯ ವೀಡಿಯೊ ಲೈಬ್ರರಿ"
+   },
+   "localPlayerLibraryView": {
+      "message": "ಲೈಬ್ರರಿ ವೀಕ್ಷಣೆ"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "ಹೊಂದಾಣಿಕೆಯ {visibleCount} / ಒಟ್ಟು {totalCount} ಫೋಲ್ಡರ್‌ಗಳು"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "ಹೊಂದಾಣಿಕೆ {visibleCount} / ಒಟ್ಟು {totalCount} ವೀಡಿಯೊಗಳು"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "ಮೂಲ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "ಸ್ಥಳೀಯ ವೀಡಿಯೊ ಲೈಬ್ರರಿ / ಪಠ್ಯದಿಂದ ಭಾಷಣ"
+   },
+   "localPlayerNever": {
+      "message": "ಎಂದಿಗೂ"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "ಫೋಲ್ಡರ್ ಹುಡುಕಾಟವನ್ನು ಹೊಂದಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ಫೋಲ್ಡರ್‌ಗಳಿಲ್ಲ"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "ನಿರ್ವಹಿಸಲು ಯಾವುದೇ ಉಪಶೀರ್ಷಿಕೆಗಳಿಲ್ಲ"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "ಹುಡುಕಾಟ, ಫಿಲ್ಟರ್ ಅಥವಾ ವಿಂಗಡಿಸುವಿಕೆಯನ್ನು ಹೊಂದಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "ಯಾವುದೇ ಹೊಂದಾಣಿಕೆಯ ವೀಡಿಯೊಗಳಿಲ್ಲ"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "ಯಾವುದೇ ಹೊಸ ಫೈಲ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "ಯಾವುದೇ ಲಿಂಕ್ ಮಾಡಲಾದ ಉಪಶೀರ್ಷಿಕೆಗಳಿಲ್ಲ"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "AI ಉಪಶೀರ್ಷಿಕೆ ಗುರುತಿಸುವಿಕೆಗಾಗಿ ಈ ವೀಡಿಯೊವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡುವುದೇ? ಅಪ್‌ಲೋಡ್ ಅನ್ನು ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಗುರುತಿಸಲು ಮಾತ್ರ ಬಳಸಲಾಗುತ್ತದೆ, ಗುರುತಿಸಿದ ತಕ್ಷಣ ವೀಡಿಯೊವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ನಿಮಗೆ ಇಮೇಲ್ ಮೂಲಕ ಸೂಚಿಸಲಾಗುತ್ತದೆ."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "ಈ ವೀಡಿಯೊ ಯಾವುದೇ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಹೊಂದಿಲ್ಲ"
+   },
+   "localPlayerNoVideosText": {
+      "message": "ಇಲ್ಲಿ ಉಪಶೀರ್ಷಿಕೆ ಲಿಂಕ್‌ಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಧ್ವನಿ ಡಬ್ಬಿಂಗ್ ಅನ್ನು ನಿರ್ವಹಿಸಲು ಫೋಲ್ಡರ್ ತೆರೆಯಿರಿ ಅಥವಾ ವೀಡಿಯೊಗಳನ್ನು ಸೇರಿಸಿ."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "ಇನ್ನೂ ಯಾವುದೇ ಸ್ಥಳೀಯ ವೀಡಿಯೊಗಳಿಲ್ಲ"
+   },
+   "localPlayerNotAssociated": {
+      "message": "ಲಿಂಕ್ ಮಾಡಲಾಗಿಲ್ಲ"
+   },
+   "localPlayerNowPlaying": {
+      "message": "ಈಗ {fileName} ಪ್ಲೇ ಆಗುತ್ತಿದೆ"
+   },
+   "localPlayerOpenFolder": {
+      "message": "ಫೋಲ್ಡರ್ ತೆರೆಯಿರಿ"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "ಫೋಲ್ಡರ್ ತೆರೆಯಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "ಫೋಲ್ಡರ್ ತೆರೆಯಿರಿ"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "ಸೈಡ್‌ಬಾರ್ ತೆರೆಯಿರಿ"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "ಸೈಡ್‌ಬಾರ್ ತೆರೆಯಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "localPlayerPageTitle": {
+      "message": "ಸ್ಥಳೀಯ ವೀಡಿಯೊ · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಿ"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "ಧ್ವನಿ ಡಬ್ಬಿಂಗ್‌ಗಾಗಿ ಉಪಶೀರ್ಷಿಕೆ ಹೊಂದಿಸಲಾಗಿದೆ."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "ಈ ಉಪಶೀರ್ಷಿಕೆ ಈಗಾಗಲೇ \"{fromVideo}\" ನೊಂದಿಗೆ ಸಂಯೋಜಿತವಾಗಿದೆ. ಮುಂದುವರಿಸುವುದರಿಂದ ಆ ಸಂಬಂಧವನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ ಮತ್ತು ಅದನ್ನು \"{toVideo}\" ನೊಂದಿಗೆ ಸಂಯೋಜಿಸುತ್ತದೆ."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "ಈ ಉಪಶೀರ್ಷಿಕೆಯನ್ನು ರೀಬೈಂಡ್ ಮಾಡುವುದೇ?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಗುರುತಿಸುವುದು"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "ಎಲ್ಲಾ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಅನ್‌ಲಿಂಕ್ ಮಾಡಿ"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "ಈ ವೀಡಿಯೊಗಾಗಿ ಉಪಶೀರ್ಷಿಕೆ ಲಿಂಕ್‌ಗಳನ್ನು ಮಾತ್ರ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ. ಉಪಶೀರ್ಷಿಕೆ ಫೈಲ್ ದಾಖಲೆಗಳನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "ಎಲ್ಲಾ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಅನ್‌ಲಿಂಕ್ ಮಾಡುವುದೇ?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಯನ್ನು ಅನ್‌ಲಿಂಕ್ ಮಾಡಿ"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "ಲೈಬ್ರರಿಯಿಂದ ಫೋಲ್ಡರ್ ಅನ್ನು ತೆಗೆದುಹಾಕಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "ಇದು ಈ ಫೋಲ್ಡರ್‌ಗಾಗಿ ಲೈಬ್ರರಿ ದಾಖಲೆಗಳನ್ನು ಮಾತ್ರ ತೆಗೆದುಹಾಕುತ್ತದೆ. ಡಿಸ್ಕ್‌ನಲ್ಲಿರುವ ಮೂಲ ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "ಈ ಫೋಲ್ಡರ್ ಅನ್ನು ಲೈಬ್ರರಿಯಿಂದ ತೆಗೆದುಹಾಕುವುದೇ?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "ಲೈಬ್ರರಿಯಿಂದ ತೆಗೆದುಹಾಕಿ"
+   },
+   "localPlayerRescanAll": {
+      "message": "ಎಲ್ಲವನ್ನು ಮರುಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
+   },
+   "localPlayerRescanFailed": {
+      "message": "ಸ್ಥಳೀಯ ಲೈಬ್ರರಿಯನ್ನು ಮರುಸ್ಕ್ಯಾನ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "ಈ ಫೋಲ್ಡರ್ ಅನ್ನು ಮರುಸ್ಕ್ಯಾನ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ಉಳಿಸಿದ ಫೋಲ್ಡರ್ ಪ್ರವೇಶ ಲಭ್ಯವಿಲ್ಲ."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "ಈ ಫೋಲ್ಡರ್ ಅನ್ನು ಮರುಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "URL ನಲ್ಲಿ ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ವೀಡಿಯೊ ಪ್ರಸ್ತುತ ಸ್ಥಳೀಯ ವೀಡಿಯೊ ಲೈಬ್ರರಿಯಲ್ಲಿಲ್ಲ."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "ಅದೇ ಫೋಲ್ಡರ್ ಉಪಶೀರ್ಷಿಕೆಗಳು {sameCount} · ಲಿಂಕ್ ಮಾಡಲಾಗಿದೆ {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "ಸ್ಕ್ಯಾನ್ ಪೂರ್ಣಗೊಂಡಿದೆ: {addedVideoCount} ವೀಡಿಯೊಗಳು, {addedSubtitleCount} ಉಪಶೀರ್ಷಿಕೆಗಳು, ನವೀಕರಿಸಿದ {updatedCount} ಫೈಲ್‌ಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "ವೀಡಿಯೊಗಳು ಅಥವಾ ಫೈಲ್ ಮಾರ್ಗಗಳನ್ನು ಹುಡುಕಿ"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "ಈ ಉಪಶೀರ್ಷಿಕೆಗೆ ಲಿಂಕ್ ಮಾಡಲು ವೀಡಿಯೊವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "ಧ್ವನಿ ಡಬ್ಬಿಂಗ್‌ಗಾಗಿ ಈ ಉಪಶೀರ್ಷಿಕೆಯನ್ನು ಬಳಸಿ"
+   },
+   "localPlayerSortDuration": {
+      "message": "ವೀಡಿಯೊ ಅವಧಿ"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "ಇತ್ತೀಚೆಗೆ ಪ್ಲೇ ಮಾಡಿದ ವೀಡಿಯೊಗಳು"
+   },
+   "localPlayerSortName": {
+      "message": "ಫೈಲ್ ಹೆಸರು"
+   },
+   "localPlayerStartDubbing": {
+      "message": "ಧ್ವನಿ ಡಬ್ಬಿಂಗ್ ಪ್ರಾರಂಭಿಸಿ"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} ಲಿಂಕ್ ಮಾಡಿದ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "localPlayerSubtitles": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "ಈ ಬ್ರೌಸರ್ File System Access API ಅನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ನೀವು ತಾತ್ಕಾಲಿಕವಾಗಿ ವೀಡಿಯೊಗಳು ಮತ್ತು ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಸೇರಿಸಬಹುದು."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "ತಾತ್ಕಾಲಿಕ ಆಮದು ಮೋಡ್"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "ರದ್ದು"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ - ಗುರಿ ಭಾಷೆ"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "ರಫ್ತು MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ವಿಷಯ ಖಾಲಿ ಇರುವಂತಿಲ್ಲ"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "ಉಳಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "ಲಿಂಗ"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "ಉಳಿಸಲಾಗುತ್ತಿದೆ..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "ಹಸ್ತಚಾಲಿತ ಇನ್ಪುಟ್"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "ಹಸ್ತಚಾಲಿತ ಇನ್ಪುಟ್ - ಪಠ್ಯದಿಂದ ಭಾಷಣ"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "ಗುರಿ ಭಾಷೆ"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "ಈ ಆಯ್ಕೆಗೆ ಯಾವುದೇ ಧ್ವನಿ ಲಭ್ಯವಿಲ್ಲ."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "ಪಠ್ಯ ತುಂಬಾ ಉದ್ದವಾಗಿದೆ. ಅದನ್ನು ಚಿಕ್ಕದಾಗಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "ಧ್ವನಿ"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "ಧ್ವನಿ ಪ್ರಕಾರ"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "{count} ವೀಡಿಯೊಗಳಿಗಾಗಿ ಥಂಬ್‌ನೇಲ್‌ಗಳನ್ನು ರಚಿಸಲಾಗಿದೆ."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "ಥಂಬ್‌ನೇಲ್ ಉತ್ಪಾದನೆ ವಿಫಲವಾಗಿದೆ: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "ಒಟ್ಟು {count} ಫೋಲ್ಡರ್‌ಗಳು"
+   },
+   "localPlayerTotalVideos": {
+      "message": "ಒಟ್ಟು {count} ವೀಡಿಯೊಗಳು"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "ಅಪ್‌ಲೋಡ್ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "ಧ್ವನಿ ಡಬ್ಬಿಂಗ್‌ಗಾಗಿ ಬಳಸಲಾಗುತ್ತದೆ"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "ಅಳಿಸಲಾಗಿದೆ {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "ಈ ವೀಡಿಯೊ ಫೈಲ್‌ಗೆ ಪ್ರವೇಶವನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ವೀಡಿಯೊವನ್ನು ಮತ್ತೊಮ್ಮೆ ಸೇರಿಸಿ."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "ಸ್ಥಳೀಯ ವೀಡಿಯೊ ಫೈಲ್ ಅನ್ನು ಓದಲಾಗುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ವೀಡಿಯೊವನ್ನು ಮತ್ತೊಮ್ಮೆ ಸೇರಿಸಿ."
+   },
+   "localPlayerVideoList": {
+      "message": "ವೀಡಿಯೊ ಪಟ್ಟಿ"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "ವೀಡಿಯೊ ಪ್ಲೇಯರ್ ಇನ್ನೂ ಸಿದ್ಧವಾಗಿಲ್ಲ."
+   },
+   "login": {
+      "message": "ಲಾಗಿನ್"
+   },
+   "loginAndUsePlugin": {
+      "message": "ದಯವಿಟ್ಟು ಮೊದಲು ಲಾಗಿನ್ ಮಾಡಲು ಪ್ಲಗ್‌ಇನ್ ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ ವಾಯ್ಸ್‌ಓವರ್ ಪ್ಲೇಬ್ಯಾಕ್‌ಗಾಗಿ ಪ್ಲಗ್‌ಇನ್ ಬಳಸಿ."
+   },
+   "logout": {
+      "message": "ಲಾಗ್ ಔಟ್"
+   },
+   "lowBalanceText": {
+      "message": "ನಿಮ್ಮ ಖಾತೆ ಬ್ಯಾಲೆನ್ಸ್ $1 ಕ್ಕಿಂತ ಕಡಿಮೆಯಾಗಿದೆ. ನಿರಂತರ ಸೇವೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಶೀಘ್ರದಲ್ಲೇ ರೀಚಾರ್ಜ್ ಮಾಡಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ"
+   },
+   "lowBalanceTitle": {
+      "message": "ಕಡಿಮೆ ಬ್ಯಾಲೆನ್ಸ್ ಎಚ್ಚರಿಕೆ"
+   },
+   "male": {
+      "message": "ಪುರುಷ"
+   },
+   "man": {
+      "message": "ಪುರುಷ"
+   },
+   "mediaSourceNotDetected": {
+      "message": "ವೀಡಿಯೊ ಮೂಲವನ್ನು ಪತ್ತೆಹಚ್ಚಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಈ ವೆಬ್‌ಸೈಟ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲದಿರಬಹುದು."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "ಈಗ ವಿಸ್ತರಣೆಯ ಹಿನ್ನಲೆ AI ಗುರುತಿಸಿದ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ. ಅನುವಾದ ಸರಿಯಾಗಿ ಕಾಣಿಸದಿದ್ದರೆ, ಮೂಲ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಉಪಶೀರ್ಷಿಕೆ ಆದ್ಯತೆಯನ್ನು ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಉಪಶೀರ್ಷಿಕೆಗಳಿಗೆ ಬದಲಾಯಿಸಿ."
+   },
+   "memberFree": {
+      "message": "ಸದಸ್ಯರಿಗೆ ಉಚಿತ"
+   },
+   "memberFreeRequireMembership": {
+      "message": "ಈ ಧ್ವನಿ ಪ್ರಕಾರ ಸದಸ್ಯರಿಗೆ ಮಾತ್ರ. ಉಚಿತವಾಗಿ ಬಳಸಲು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "ನೀವು ಈಗ ಉಚಿತ ಧ್ವನಿ ಪ್ರಕಾರದಿಂದ ಡಬ್ಬಿಂಗ್ ಮಾಡುತ್ತಿದ್ದೀರಿ. Azure ಧ್ವನಿಗಳು ಹೆಚ್ಚು ಸಹಜವಾಗಿ ಕೇಳಿಸುತ್ತವೆ; ಸದಸ್ಯರು ಈಗ ಯಾವುದೇ ಮಿತಿ ಇಲ್ಲದೆ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಕ್ರೆಡಿಟ್ ರೀಚಾರ್ಜ್ ಇಲ್ಲದೆ Azure ಬಳಸಬಹುದು."
+   },
+   "memberUser": {
+      "message": "ಸದಸ್ಯ"
+   },
+   "membershipExpires": {
+      "message": "ವರೆಗೆ"
+   },
+   "membershipIcon": {
+      "message": "ಸದಸ್ಯತ್ವ ಐಕಾನ್"
+   },
+   "membershipRequired": {
+      "message": "OpenAI ಭಾಷಾಂತರವನ್ನು ಬಳಸುವ ಮೊದಲು ದಯವಿಟ್ಟು ಸದಸ್ಯತ್ವಕ್ಕೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+   },
+   "membershipRequiredForAI": {
+      "message": "AI ಭಾಷಾಂತರವನ್ನು ಬಳಸುವ ಮೊದಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ಸದಸ್ಯತ್ವವನ್ನು ರೀಚಾರ್ಜ್ ಮಾಡಿ. ನೀವು ರೀಚಾರ್ಜ್ ಮಾಡಲು ಬಯಸದಿದ್ದರೆ, ನೀವು Google Translate ಅನ್ನು ಸಹ ಆಯ್ಕೆ ಮಾಡಬಹುದು."
+   },
+   "membershipRequiredTitle": {
+      "message": "ಸದಸ್ಯತ್ವ ಅಗತ್ಯವಿದೆ"
+   },
+   "metadataNotFound": {
+      "message": "ವೀಡಿಯೊ ಮೆಟಾಡೇಟಾ ಸಿಗಲಿಲ್ಲ, ದಯವಿಟ್ಟು ರಿಫ್ರೆಶ್ ಮಾಡಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "multiVideoNotSupported": {
+      "message": "ಈ ಪುಟದಲ್ಲಿ ಹಲವು ವೀಡಿಯೊಗಳಿವೆ. HLS ಸ್ಟ್ರೀಮ್‌ಗಳನ್ನು ಬಳಸುವಾಗ ಯುನಿವರ್ಸಲ್ ಡಬ್ಬಿಂಗ್ ಒಂದೇ ವೀಡಿಯೊ ಇರುವ ಪುಟಗಳನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸುತ್ತದೆ."
+   },
+   "musicVideoNotSupported": {
+      "message": "ಇದು ಸಂಗೀತ ವೀಡಿಯೊ ಆಗಿದೆ. ಅನುವಾದ ಮತ್ತು ಡಬ್ಬಿಂಗ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ."
+   },
+   "name": {
+      "message": "TranslateDub – ಭಾಷಾಂತರ ಮತ್ತು ಧ್ವನಿಮುದ್ರಣ | Translate & Dub"
+   },
+   "noAudioTrackFound": {
+      "message": "ಯಾವುದೇ ಆಡಿಯೋ ಟ್ರ್ಯಾಕ್ ಪತ್ತೆಯಾಗಿಲ್ಲ. ಈ ವೀಡಿಯೊ ಆಡಿಯೋ ಇಲ್ಲದೆ ವೀಡಿಯೊ-ಮಾತ್ರ ಎಂದು ತೋರುತ್ತದೆ ಮತ್ತು ಡಬ್ಬಿಂಗ್ ಗುರುತಿಸುವಿಕೆಗೆ ಬಳಸಲಾಗುವುದಿಲ್ಲ."
+   },
+   "noSpeakers": {
+      "message": "ಸ್ಪೀಕರ್‌ಗಳಿಲ್ಲ"
+   },
+   "noSubtitlesFound": {
+      "message": "ಈ ವೀಡಿಯೊದಲ್ಲಿ ಉಪಶೀರ್ಷಿಕೆಗಳಿಲ್ಲ ಮತ್ತು ಭಾಷಾಂತರ ಮತ್ತು ಡಬ್ಬಿಂಗ್ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಗಳು ಲಭ್ಯವಿಲ್ಲ. ಈ ವೀಡಿಯೊಗೆ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಗುರುತಿಸಲು ಪ್ಲಗ್‌ಇನ್ ಕಾಯಿರಿ. ಗುರುತಿಸುವಿಕೆ ಪೂರ್ಣಗೊಂಡ ನಂತರ ನಿಮ್ಮ ನೋಂದಾಯಿತ ಇಮೇಲ್ ವಿಳಾಸಕ್ಕೆ ಇಮೇಲ್ ಅಧಿಸೂಚನೆ ಸ್ವೀಕರಿಸುವಿರಿ."
+   },
+   "notSupported": {
+      "message": "ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"
+   },
+   "openBasicSettingsLink": {
+      "message": "ಮೂಲ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "ಮೂಲ"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "ಉಚ್ಚಾರಣೆ"
+   },
+   "optionsNavSitesShort": {
+      "message": "ಸೈಟ್‌ಗಳು"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ"
+   },
+   "originalAudio": {
+      "message": "ಮೂಲ"
+   },
+   "panelSummaryCollapse": {
+      "message": "ಕುಗ್ಗಿಸಿ"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "ಎಲ್ಲವನ್ನೂ ಕುಗ್ಗಿಸಿ"
+   },
+   "panelSummaryCopy": {
+      "message": "ನಕಲಿಸಿ"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "ನಕಲಿಸಲಾಗಿದೆ"
+   },
+   "panelSummaryDesc": {
+      "message": "ಮುಂದುವರಿದ AI ಮಾಡೆಲ್‌ಗಳನ್ನು ಬಳಸಿ ವೀಡಿಯೊ ವಿಷಯವನ್ನು ತ್ವರಿತವಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ"
+   },
+   "panelSummaryError": {
+      "message": "ಸಾರಾಂಶ ರಚನೆ ವಿಫಲವಾಗಿದೆ, ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "ಪ್ರಸ್ತುತ ವೀಡಿಯೊವನ್ನು ಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ, ಪುಟವನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "ವೀಡಿಯೊ ಸಾರಾಂಶವು ಸದಸ್ಯರಿಗೆ ಮಾತ್ರ ಲಭ್ಯವಿರುವ ವೈಶಿಷ್ಟ್ಯ, ಬಳಸಲು ಚಂದಾದಾರರಾಗಿ"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "ಈ ವೀಡಿಯೊಗೆ ಉಪಶೀರ್ಷಿಕೆಗಳು ಲಭ್ಯವಿಲ್ಲ, ಸಾರಾಂಶವನ್ನು ರಚಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "ಸಾರಾಂಶ ಸೇವೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ಲಭ್ಯವಿಲ್ಲ, ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "panelSummaryExpand": {
+      "message": "ವಿಸ್ತರಿಸಿ"
+   },
+   "panelSummaryExpandAll": {
+      "message": "ಎಲ್ಲವನ್ನೂ ವಿಸ್ತರಿಸಿ"
+   },
+   "panelSummaryGenerate": {
+      "message": "ಸಾರಾಂಶ ರಚಿಸಿ"
+   },
+   "panelSummaryGenerating": {
+      "message": "ರಚಿಸಲಾಗುತ್ತಿದೆ..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "ಈ ವೀಡಿಯೊಗೆ ಉಪಶೀರ್ಷಿಕೆಗಳು ಲಭ್ಯವಿಲ್ಲ"
+   },
+   "panelSummaryReGenerate": {
+      "message": "ಮರು ರಚಿಸಿ"
+   },
+   "panelSummaryReGenerating": {
+      "message": "ಮರು ರಚಿಸಲಾಗುತ್ತಿದೆ..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "ಮುಖ್ಯಾಂಶಗಳು"
+   },
+   "panelSummarySectionSummary": {
+      "message": "ಸಾರಾಂಶ"
+   },
+   "panelSummaryShare": {
+      "message": "ಹಂಚಿಕೊಳ್ಳಿ"
+   },
+   "panelSummaryTitle": {
+      "message": "ವೀಡಿಯೊ ಸಾರಾಂಶ ಮತ್ತು ರೂಪರೇಖೆ"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ"
+   },
+   "panelTabVideoSummary": {
+      "message": "ಸಾರಾಂಶ"
+   },
+   "pauseVideo": {
+      "message": "ವೀಡಿಯೊ ವಿರಾಮಗೊಳಿಸಿ"
+   },
+   "pay": {
+      "message": "ಪಾವತಿಸಿ"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "ದಯವಿಟ್ಟು ವೀಡಿಯೊವನ್ನು ತೆರೆಯಲು ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ ಡಬ್ಬಿಂಗ್ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಿ."
+   },
+   "postLoginTranslationSettings": {
+      "message": "ಲಾಗಿನ್ ಯಶಸ್ವಿಯಾಗಿದೆ. ಭಾಷಾಂತರ ಭಾಷೆ ಮತ್ತು ಧ್ವನಿ ಪಟ್ಟಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಪ್ಲಗ್‌ಇನ್ ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ."
+   },
+   "preferenceActionFailed": {
+      "message": "ಕ್ರಿಯೆ ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "preferenceActions": {
+      "message": "ಕ್ರಿಯೆಗಳು"
+   },
+   "preferenceAdd": {
+      "message": "ಸೇರಿಸಿ"
+   },
+   "preferenceAllDomains": {
+      "message": "ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳು"
+   },
+   "preferenceAllStatuses": {
+      "message": "ಎಲ್ಲಾ"
+   },
+   "preferenceCancel": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "preferenceClearSearch": {
+      "message": "ಅಳಿಸಿ"
+   },
+   "preferenceDelete": {
+      "message": "ಅಳಿಸಿ"
+   },
+   "preferenceDisabled": {
+      "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "preferenceDomain": {
+      "message": "ಕ್ಷೇತ್ರ"
+   },
+   "preferenceEdit": {
+      "message": "ಸಂಪಾದಿಸಿ"
+   },
+   "preferenceEnabled": {
+      "message": "ಸಕ್ರಿಯ"
+   },
+   "preferenceLanguage": {
+      "message": "ಭಾಷೆ"
+   },
+   "preferenceLoadFailed": {
+      "message": "ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ಸೈನ್ ಇನ್ ಮಾಡಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "preferenceNextPage": {
+      "message": "ಮುಂದಿನದು"
+   },
+   "preferencePageLabel": {
+      "message": "ಪುಟ {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "ಹಿಂದಿನದು"
+   },
+   "preferenceSave": {
+      "message": "ಉಳಿಸಿ"
+   },
+   "preferenceSearch": {
+      "message": "ಹುಡುಕಿ"
+   },
+   "preferenceSource": {
+      "message": "ಮೂಲ"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "ಅಂತರ್ನಿರ್ಮಿತ"
+   },
+   "preferenceSourceUser": {
+      "message": "ವೈಯಕ್ತಿಕ"
+   },
+   "preferenceStatus": {
+      "message": "ಸ್ಥಿತಿ"
+   },
+   "preferenceStatusDisabled": {
+      "message": "ನಿಷ್ಕ್ರಿಯ"
+   },
+   "preferenceStatusEnabled": {
+      "message": "ಸಕ್ರಿಯ"
+   },
+   "preferencesDescription": {
+      "message": "ನಿಮ್ಮ ಮೂಲಭೂತ ಆದ್ಯತೆಗಳನ್ನು ಇಲ್ಲಿ ನಿರ್ವಹಿಸಿ."
+   },
+   "preferencesSectionTitle": {
+      "message": "ಮೂಲಭೂತ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "preferencesTitle": {
+      "message": "ಮೂಲಭೂತ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "ಈ ವೀಡಿಯೊದಲ್ಲಿ ಉಪಶೀರ್ಷಿಕೆಗಳಿಲ್ಲ ಮತ್ತು ವೀಡಿಯೊ ಅವಧಿ 3 ಗಂಟೆಗಳನ್ನು ಮೀರಿದೆ, ಭಾಷಾಂತರ ಮತ್ತು ಡಬ್ಬಿಂಗ್ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು ಚಿಕ್ಕ ವೀಡಿಯೊ ಅಥವಾ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಹೊಂದಿರುವ ವೀಡಿಯೊವನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "ಈ ವೀಡಿಯೊಗೆ ಉಪಶೀರ್ಷಿಕೆಗಳಿಲ್ಲ ಮತ್ತು ಇದು ಖಾಸಗಿ ವೀಡಿಯೊ. ಈ ವೀಡಿಯೊಗೆ ಪ್ಲಗ್‌ಇನ್ ಹಿನ್ನೆಲೆಯಲ್ಲಿಯೇ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಗುರುತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ವೀಡಿಯೊವನ್ನು ಸಾರ್ವಜನಿಕವಾಗಿಸಿ, ಅಥವಾ ಕೈಯಾರೆ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "ಈ ಉಚ್ಚಾರಣೆ ನಿಯಮವನ್ನು ಅಳಿಸುವುದೇ?"
+   },
+   "pronunciationEditRule": {
+      "message": "ಉಚ್ಚಾರಣೆ ನಿಯಮವನ್ನು ಸಂಪಾದಿಸಿ"
+   },
+   "pronunciationEditorHint": {
+      "message": "ಸರಿಪಡಿಸಲು ನಿರಂತರ ಭಾಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ, ನಂತರ ಅದರ ಉಚ್ಚಾರಣೆಯನ್ನು ನಮೂದಿಸಿ."
+   },
+   "pronunciationEmpty": {
+      "message": "ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಉಚ್ಚಾರಣೆ ನಿಯಮಗಳು ಪ್ರಸ್ತುತ ಫಿಲ್ಟರ್‌ಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "ಮೊದಲು ಹೊಂದಾಣಿಕೆಯ ಪಠ್ಯವನ್ನು ನಮೂದಿಸಿ"
+   },
+   "pronunciationFineSelection": {
+      "message": "ನಿಖರವಾದ ಆಯ್ಕೆ"
+   },
+   "pronunciationLoading": {
+      "message": "ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "ಉದಾಹರಣೆಗೆ: ಹಲೋ"
+   },
+   "pronunciationMatchText": {
+      "message": "ಹೊಂದಾಣಿಕೆಯ ಪಠ್ಯ"
+   },
+   "pronunciationMergeUnits": {
+      "message": "ಪಕ್ಕದ ಉಚ್ಚಾರಣೆಗಳನ್ನು ವಿಲೀನಗೊಳಿಸಿ"
+   },
+   "pronunciationModifier": {
+      "message": "ಟೋನ್"
+   },
+   "pronunciationNeutralTone": {
+      "message": "ತಟಸ್ಥ ಟೋನ್"
+   },
+   "pronunciationNewRule": {
+      "message": "ಹೊಸ ನಿಯಮ"
+   },
+   "pronunciationNumberedTone": {
+      "message": "ಟೋನ್ {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "ಸಂಭವ {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "ಪ್ರತಿ ಭಾಗಕ್ಕೂ ಉಚ್ಚಾರಣೆ ಮತ್ತು ಸ್ವರವನ್ನು ನಮೂದಿಸಿ. ಅಗತ್ಯವಿರುವಂತೆ ಭಾಗಗಳನ್ನು ವಿಭಜಿಸಿ ಅಥವಾ ವಿಲೀನಗೊಳಿಸಿ."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "ಪಿನ್ಯಿನ್ ಉಚ್ಚಾರಾಂಶವನ್ನು ನಮೂದಿಸಿ"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "ಪಿನ್ಯಿನ್ ಉಚ್ಚಾರಾಂಶ"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "ಸ್ಮಾರ್ಟ್ ಆಯ್ಕೆ"
+   },
+   "pronunciationReading": {
+      "message": "ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಉಚ್ಚಾರಣೆ"
+   },
+   "pronunciationReselect": {
+      "message": "ಮತ್ತೆ ಆಯ್ಕೆ ಮಾಡಿ"
+   },
+   "pronunciationSaving": {
+      "message": "ಉಳಿಸಲಾಗುತ್ತಿದೆ..."
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "ಹೊಂದಾಣಿಕೆಯ ಪಠ್ಯವನ್ನು ಹುಡುಕಿ"
+   },
+   "pronunciationSelectModifier": {
+      "message": "ಆಯ್ಕೆ ಮಾಡಿ"
+   },
+   "pronunciationSelectTarget": {
+      "message": "ಸರಿಪಡಿಸಲು ಪಠ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "ಆಯ್ಕೆ ಗ್ರ್ಯಾನ್ಯುಲಾರಿಟಿ"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "ನಿರಂತರ ಪಠ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "ಉಳಿಸಿದ ಸ್ಥಳವನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಉಳಿಸುವ ಮೊದಲು ಪಠ್ಯವನ್ನು ಮತ್ತೊಮ್ಮೆ ಆಯ್ಕೆಮಾಡಿ."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ: {text}; ಸಂಭವ {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "ಸರಿಪಡಿಸಿದ ಭಾಗವು ಹೆಚ್ಚೆಂದರೆ 128 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರಬಹುದು."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "ಅನುವಾದಿತ ಪಠ್ಯಕ್ಕಾಗಿ ವೈಯಕ್ತಿಕ ಉಚ್ಚಾರಣೆಗಳನ್ನು ಹೊಂದಿಸಿ. ಸ್ಥಳೀಯ ಡಬ್ಬಿಂಗ್‌ಗೆ ಮಾತ್ರ ನಿಯಮಗಳು ಅನ್ವಯಿಸುತ್ತವೆ."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "ಉಚ್ಚಾರಣೆ"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "ಉಚ್ಚಾರಣೆ ಸೆಟ್ಟಿಂಗ್ಗಳು"
+   },
+   "pronunciationSplitAt": {
+      "message": "ನಲ್ಲಿ ವಿಭಜಿಸಿ"
+   },
+   "pronunciationStatus": {
+      "message": "ಸ್ಥಿತಿ"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "ಗುರಿ ಭಾಷೆ"
+   },
+   "pronunciationTargetText": {
+      "message": "ಸರಿಪಡಿಸಿದ ಭಾಗ"
+   },
+   "pronunciationUnitReading": {
+      "message": "ಪ್ರತಿ ಭಾಗದ ಉಚ್ಚಾರಣೆ"
+   },
+   "pronunciationUnknownError": {
+      "message": "ಕ್ರಿಯೆ ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "pronunciationWholeReading": {
+      "message": "ಸಂಪೂರ್ಣ ಉಚ್ಚಾರಣೆ"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "ಸಂಪೂರ್ಣ ಸ್ವರದ ಉಚ್ಚಾರಣೆಯನ್ನು ನಮೂದಿಸಿ. ಪ್ರತಿ ಭಾಗಕ್ಕೂ ಟೋನ್ ಆಯ್ಕೆ ಮಾಡಲು ಅದನ್ನು ವಿಭಜಿಸಿ."
+   },
+   "rechargeLimit": {
+      "message": "ಕ್ರೆಡಿಟ್+ಸದಸ್ಯ"
+   },
+   "replacementCreateButton": {
+      "message": "ವೈಯಕ್ತಿಕ ಬದಲಾವಣೆಯನ್ನು ಸೇರಿಸಿ"
+   },
+   "replacementDescription": {
+      "message": "AI ಅನುವಾದಕ್ಕೂ ಮೊದಲು ಮರುಕಳಿಸುವ ಉಪಶೀರ್ಷಿಕೆ ಗುರುತಿಸುವಿಕೆ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಿ (ಉದಾ. cloud code -> Claude Code)."
+   },
+   "replacementEditTitle": {
+      "message": "ವೈಯಕ್ತಿಕ ಬದಲಾವಣೆಯನ್ನು ಸಂಪಾದಿಸಿ"
+   },
+   "replacementEditorDescription": {
+      "message": "AI ಅನುವಾದಕ್ಕೂ ಮೊದಲು ವೈಯಕ್ತಿಕ ಪಠ್ಯ ಬದಲಾವಣೆಗಳನ್ನು ಮಾತ್ರ ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ."
+   },
+   "replacementEmpty": {
+      "message": "ಇನ್ನೂ ಯಾವುದೇ ತಿದ್ದುಪಡಿ ನಿಯಮಗಳಿಲ್ಲ."
+   },
+   "replacementFindPlaceholder": {
+      "message": "ತಪ್ಪಾದ ಪಠ್ಯ, ಉದಾ. cloud code"
+   },
+   "replacementFindText": {
+      "message": "ತಪ್ಪಾದ ಪಠ್ಯ"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "ಇದರಿಂದ ಬದಲಿಸಿ, ಉದಾ. claude code"
+   },
+   "replacementReplaceText": {
+      "message": "ಇದರಿಂದ ಬದಲಿಸಿ"
+   },
+   "replacementSearchEmpty": {
+      "message": "ಹೊಂದಿಕೆಯಾಗುವ ಬದಲಾವಣೆಗಳಿಲ್ಲ."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "ಬದಲಾವಣೆಗಳನ್ನು ಹುಡುಕಿ"
+   },
+   "replacementTitle": {
+      "message": "ಮೂಲ ಪಠ್ಯದ ದೋಷ ತಿದ್ದುಪಡಿಗಳು"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "ದಯವಿಟ್ಟು Safari > ಪ್ರಾಶಸ್ತ್ಯಗಳು > ವಿಸ್ತರಣೆಗಳಲ್ಲಿ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಹೊಂದಿಸಿ"
+   },
+   "sampleAesNotSupported": {
+      "message": "ಈ ವೀಡಿಯೊ SAMPLE-AES ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಬಳಸುತ್ತದೆ, ಇದು ಪ್ರಸ್ತುತ ಡೌನ್‌ಲೋಡ್‌ಗೆ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ."
+   },
+   "save": {
+      "message": "ಉಳಿಸಿ"
+   },
+   "saveFailedText": {
+      "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ, ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "saveFailedTitle": {
+      "message": "ಉಳಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ"
+   },
+   "saveSuccessText": {
+      "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "saveSuccessTitle": {
+      "message": "ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ"
+   },
+   "save_settings": {
+      "message": "ಉಳಿಸಿ"
+   },
+   "saving": {
+      "message": "ಉಳಿಸಲಾಗುತ್ತಿದೆ..."
+   },
+   "searchSourceLanguage": {
+      "message": "ಮೂಲ ಭಾಷೆ ಹುಡುಕಿ..."
+   },
+   "searchTargetLanguage": {
+      "message": "ಗುರಿ ಭಾಷೆ ಹುಡುಕಿ..."
+   },
+   "selectSourceLanguage": {
+      "message": "ಮೂಲ ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ"
+   },
+   "selectSpeaker": {
+      "message": "ಆಯ್ಕೆ"
+   },
+   "selectTargetLanguage": {
+      "message": "ಗುರಿ ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ"
+   },
+   "sex": {
+      "message": "ಲಿಂಗ:"
+   },
+   "shortcutSettings": {
+      "message": "ಹಾಟ್‌ಕೀ ಸೆಟ್ಟಿಂಗ್"
+   },
+   "showSubtitle": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ:"
+   },
+   "sidebarDisableForSite": {
+      "message": "ಈ ಸೈಟ್‌ಗೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "sidebarDisableGlobally": {
+      "message": "ಜಾಗತಿಕವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "ಮುಂದಿನ ಭೇಟಿಯವರೆಗೆ ಮರೆಮಾಡಿ"
+   },
+   "sidebarReenableHint": {
+      "message": " "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": "ನಲ್ಲಿ ಮರು-ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು"
+   },
+   "sidebarSettings": {
+      "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "ಇದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಉಪಶೀರ್ಷಿಕೆ ಭಾಷೆ ಮತ್ತು ಗುರಿ ಭಾಷೆ ಒಂದೇ ಆಗಿದ್ದರೆ ಅನುವಾದವಿಲ್ಲದೆ ನೇರವಾಗಿ ಡಬ್ಬಿಂಗ್ ಆರಂಭವಾಗುತ್ತದೆ."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "ಒಂದೇ ಭಾಷೆಯಾಗಿದ್ದರೆ ಅನುವಾದವನ್ನು ಬಿಡಿ"
+   },
+   "sourceLanguage": {
+      "message": "ಮೂಲ ಭಾಷೆ"
+   },
+   "source_languages": {
+      "message": "ಮೂಲ ಭಾಷೆ:"
+   },
+   "speaker": {
+      "message": "ಸ್ಪೀಕರ್"
+   },
+   "speakerList": {
+      "message": "ಸ್ಪೀಕರ್ ಪಟ್ಟಿ"
+   },
+   "speakerName": {
+      "message": "ಸ್ಪೀಕರ್ ಹೆಸರು"
+   },
+   "speakersTitle": {
+      "message": "ವಕ್ತರು"
+   },
+   "startUpload": {
+      "message": "ಅಪ್‌ಲೋಡ್ ಪ್ರಾರಂಭಿಸಿ"
+   },
+   "subscribe": {
+      "message": "ಸದಸ್ಯರಾಗಿ"
+   },
+   "subscriptionRecharge": {
+      "message": "ಚಂದಾ & ರೀಚಾರ್ಜ್"
+   },
+   "subtitleDisplayMode": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಪ್ರದರ್ಶನ ಮೋಡ್"
+   },
+   "subtitleEditorExport": {
+      "message": "ರಫ್ತು"
+   },
+   "subtitleEditorManualInput": {
+      "message": "ಹಸ್ತಚಾಲಿತ ಇನ್ಪುಟ್"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "ನನ್ನ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "ಯಾವುದೇ ಉಪಶೀರ್ಷಿಕೆ ಮೂಲಗಳು ಲಭ್ಯವಿಲ್ಲ (ಹಸ್ತಚಾಲಿತ ಇನ್‌ಪುಟ್ ಲಭ್ಯವಿದೆ)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "ಪ್ರಸ್ತುತ ವೀಡಿಯೊವನ್ನು ಗುರುತಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ಉಳಿಸಲು ವಿಫಲವಾಗಿದೆ."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಬದಲಾಯಿಸಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಮೂಲ"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "ಅಮಾನ್ಯ SRT ಬ್ಲಾಕ್. ಅನುಕ್ರಮ, ಟೈಮ್‌ಸ್ಟ್ಯಾಂಪ್ ಮತ್ತು ವಿಷಯದ ಅಗತ್ಯವಿದೆ."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "ಪ್ರತಿ ಉಪಶೀರ್ಷಿಕೆಯು ಕನಿಷ್ಠ ಒಂದು ಸಾಲಿನ ಪಠ್ಯವನ್ನು ಹೊಂದಿರಬೇಕು"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ವಿಷಯ ಖಾಲಿ ಇರುವಂತಿಲ್ಲ"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "ಅಂತಿಮ ಸಮಯವು ಪ್ರಾರಂಭದ ಸಮಯಕ್ಕಿಂತ ಹೆಚ್ಚಾಗಿರಬೇಕು"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "ಅಮಾನ್ಯ SRT ಅನುಕ್ರಮ ಸಂಖ್ಯೆ ಸ್ವರೂಪ"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "SRT ಅನುಕ್ರಮ ಸಂಖ್ಯೆಗಳು 1 ರಿಂದ ಪ್ರಾರಂಭವಾಗಬೇಕು ಮತ್ತು 1 ರಿಂದ ಹೆಚ್ಚಿಸಬೇಕು"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "ಕೆಲವು ಉಪಶೀರ್ಷಿಕೆಗಳು ಸ್ಪೀಕರ್ ಟ್ಯಾಗ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿವೆ. ಎಲ್ಲಾ ಉಪಶೀರ್ಷಿಕೆಗಳು [speaker] ಪೂರ್ವಪ್ರತ್ಯಯವನ್ನು ಬಳಸಬೇಕು."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "ಅಮಾನ್ಯ ಸಮಯ ಸ್ವರೂಪ. ದಯವಿಟ್ಟು ಅದನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಸರಿಪಡಿಸಿ."
+   },
+   "subtitleModeBilingual": {
+      "message": "ದ್ವಿಭಾಷಾ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "subtitleModeOff": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಗಳು ಆಫ್"
+   },
+   "subtitleModeTranslated": {
+      "message": "ಅನುವಾದ ಮಾತ್ರ"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "ಪ್ಲಗಿನ್ AI ಗುರುತಿಸಿದ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "ಹೆಚ್ಚಿನ ನಿಖರತೆಗಾಗಿ ಪ್ಲಗಿನ್‌ನ AI ಧ್ವನಿ ಗುರುತಿಸುವಿಕೆಯಿಂದ ರಚಿಸಲಾದ ಉಪಶೀರ್ಷಿಕೆಗಳಿಗೆ ಆದ್ಯತೆ ನೀಡಿ."
+   },
+   "subtitlePriorityDescription": {
+      "message": "ಅನುವಾದಕ್ಕಾಗಿ ಯಾವ ಉಪಶೀರ್ಷಿಕೆ ಮೂಲಕ್ಕೆ ಆದ್ಯತೆ ನೀಡಬೇಕು ಎಂಬುದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಅಂತರ್ನಿರ್ಮಿತ ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "ವೀಡಿಯೊ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಒದಗಿಸಿದ ಮೂಲ ಉಪಶೀರ್ಷಿಕೆಗಳಿಗೆ ಆದ್ಯತೆ ನೀಡಿ."
+   },
+   "subtitlePriorityTitle": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಅನುವಾದ ಆದ್ಯತೆ"
+   },
+   "subtitleSize": {
+      "message": "ಗಾತ್ರ"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "ಹಿನ್ನೆಲೆ ಬಣ್ಣ"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "ಹಿನ್ನೆಲೆ ಅಪಾರದರ್ಶಕತೆ"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "ಕಪ್ಪು"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "ನೀಲಿ"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "ಸೈಯಾನ್"
+   },
+   "subtitleStyleColorGray": {
+      "message": "ಬೂದು"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "ಹಸಿರು"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "ತಿಳಿ ಬೂದು"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "ಮೆಜೆಂಟಾ"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "ಕಿತ್ತಳೆ"
+   },
+   "subtitleStyleColorRed": {
+      "message": "ಕೆಂಪು"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "ಬಿಳಿ"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "ಹಳದಿ"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "ಕಸ್ಟಮ್ ಫಾಂಟ್"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "ಉದಾಹರಣೆಗೆ: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "ಕಸ್ಟಮೈಸ್ ಮಾಡಿ"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "ಯಾವುದೂ ಇಲ್ಲ"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "ಔಟ್‌ಲೈನ್"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "ನೆರಳು"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "ಅಂಚಿನ ಶೈಲಿ"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "ದ್ವಿಭಾಷಾ"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "ಶೈಲಿ ಸಂಪಾದಕ ನೋಟ"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "ಅನುವಾದ ಮಾತ್ರ"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "ಅನುವಾದ ಶೈಲಿಯನ್ನು ಅನುಸರಿಸಿ"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "ಕಸ್ಟಮ್"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "ಡೀಫಾಲ್ಟ್"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "ಫಾಂಟ್"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "ಯಾವುದೂ ಇಲ್ಲ"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "ಫಾಂಟ್ ಗಾತ್ರ"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "ಫಾಂಟ್ ತೂಕ"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "ದ್ವಿಭಾಷಾ ವಿನ್ಯಾಸ"
+   },
+   "subtitleStyleLineGap": {
+      "message": "ಸಾಲು ಅಂತರ"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಉಳಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ತಕ್ಷಣವೇ ಕಾರ್ಯಗತಗೊಳ್ಳುತ್ತದೆ."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಶೈಲಿಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "subtitleStyleOrder": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಕ್ರಮ"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "ಮೂಲ ಮೇಲೆ"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "ಅನುವಾದ ಮೇಲೆ"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "ಮೂಲ ಶೈಲಿ"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "ಗಾತ್ರ ಅನುಪಾತ"
+   },
+   "subtitleStylePosition": {
+      "message": "ಸ್ಥಾನ"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "ಕೆಳಗೆ"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "ಮಧ್ಯ"
+   },
+   "subtitleStylePositionTop": {
+      "message": "ಮೇಲೆ"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "ನೈಜ ಸಮಯ"
+   },
+   "subtitleStylePreviewText": {
+      "message": "ಈ ಯುವಕನಿಗೆ ಉತ್ತಮ ಸಾಮರ್ಥ್ಯವಿದೆ ಎಂದು ಅವನು ಭಾವಿಸಿದನು."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "ಪೂರ್ವವೀಕ್ಷಣೆ"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "ಡೀಫಾಲ್ಟ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆ ಶೈಲಿ"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "ಹಂಚಿತ ಹಿನ್ನೆಲೆ"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "ಸಮತಲ ಹೊಂದಾಣಿಕೆ"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "ಮಧ್ಯ"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "ಎಡ"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "ಬಲ"
+   },
+   "subtitleStyleTextColor": {
+      "message": "ಫಾಂಟ್ ಬಣ್ಣ"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "ಅನುವಾದ ಶೈಲಿ"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "ಪ್ರಸ್ತುತ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬಳಸುತ್ತದೆ"
+   },
+   "subtitles": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "ಈ ವೀಡಿಯೊದ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಪ್ರಸ್ತುತ YouTube ನಿಂದ ದರ-ಸೀಮಿತಗೊಳಿಸಲಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "ಮೂಲ ಮತ್ತು ಡಬ್ ಆಡಿಯೊ ನಡುವೆ ಧ್ವನಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಟಾಗಲ್ ಮಾಡಿ"
+   },
+   "switchModelWarning": {
+      "message": "ವೀಡಿಯೊ ಪ್ಲೇಬ್ಯಾಕ್ ಸಮಯದಲ್ಲಿ ಧ್ವನಿ ಅಥವಾ ಭಾಷಾಂತರ ಮಾದರಿಯನ್ನು ಬದಲಾಯಿಸುವುದರಿಂದ ವ್ಯರ್ಥ ಸಂಪನ್ಮೂಲಗಳ ಕಾರಣದಿಂದಾಗಿ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳು ವಿಧಿಸಲಾಗುತ್ತದೆ. ಮುಂದಿನ ವೀಡಿಯೊದಲ್ಲಿ ಬದಲಾಯಿಸಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ. ಹೇಗಾದರೂ ಮುಂದುವರಿಸಲು, ಮುಂದುವರಿಸಿ ಮತ್ತು ಉಳಿಸಿ ಕ್ಲಿಕ್ ಮಾಡಿ."
+   },
+   "targetLanguage": {
+      "message": "ಗುರಿ ಭಾಷೆ"
+   },
+   "target_languages": {
+      "message": "ಗುರಿ ಭಾಷೆ:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "ಈ ವೀಡಿಯೊ ಈಗಾಗಲೇ AI ಉಪಶೀರ್ಷಿಕೆ ಗುರುತಿಸುವಿಕೆಗಾಗಿ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿದೆ. ದಯವಿಟ್ಟು ಇಮೇಲ್ ಅಧಿಸೂಚನೆಗಾಗಿ ಕಾಯಿರಿ."
+   },
+   "textToSpeech": {
+      "message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ:"
+   },
+   "textToSpeechToggle": {
+      "message": "ತೇಲುವ ಗುಂಡಿ"
+   },
+   "toggleSubtitles": {
+      "message": "ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಟಾಗಲ್ ಮಾಡಿ"
+   },
+   "tooExpensive": {
+      "message": "ತುಂಬಾ ದುಬಾರಿ"
+   },
+   "translateEngineTipText": {
+      "message": "ಭಾಷಾಂತರ ಸೇವೆಯನ್ನು Google ಗೆ ಬದಲಾಯಿಸಿ"
+   },
+   "translateService": {
+      "message": "ಭಾಷಾಂತರ:"
+   },
+   "translatedAudio": {
+      "message": "ಡಬ್"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "ಅನುವಾದಿತ ಪಠ್ಯದ ಬದಲಾವಣೆ ಸೇರಿಸಿ"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "ಅನುವಾದಿತ ಪಠ್ಯದ ಬದಲಾವಣೆ ಸೇರಿಸಿ"
+   },
+   "translatedReplacementDescription": {
+      "message": "ಅನುವಾದ ಪೂರ್ಣಗೊಂಡ ನಂತರ ವೈಯಕ್ತಿಕ ನಿಯಮಗಳಿಂದ ಪದಗಳು ಅಥವಾ ನುಡಿಗಟ್ಟುಗಳನ್ನು ಬದಲಾಯಿಸಿ."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "ಅನುವಾದಿತ ಪಠ್ಯದ ಬದಲಾವಣೆ ಸಂಪಾದಿಸಿ"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "ಪೂರ್ಣಗೊಂಡ ಅನುವಾದ ಮಾತ್ರ ಬದಲಾಗುತ್ತದೆ; ಮೂಲ ಪಠ್ಯ ಮತ್ತು ಅನುವಾದ ಸಂಗ್ರಹ ಬದಲಾಗುವುದಿಲ್ಲ."
+   },
+   "translatedReplacementEmpty": {
+      "message": "ಇನ್ನೂ ಯಾವುದೇ ಅನುವಾದಿತ ಪಠ್ಯ ಬದಲಾವಣೆ ನಿಯಮಗಳಿಲ್ಲ."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ ನಿಯಮ ಉಳಿಯುತ್ತದೆ, ಆದರೆ ಅನುವಾದಿತ ಪಠ್ಯಕ್ಕೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "ಅನುವಾದಿತ ಪಠ್ಯದಲ್ಲಿರುವ ಪದ ಅಥವಾ ನುಡಿಗಟ್ಟು"
+   },
+   "translatedReplacementFindText": {
+      "message": "ಅನುವಾದಿತ ಪಠ್ಯ"
+   },
+   "translatedReplacementLanguage": {
+      "message": "ಗುರಿ ಭಾಷೆ"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "ಬದಲಾಗಿ ತೋರಿಸಬೇಕಾದ ಪದ ಅಥವಾ ನುಡಿಗಟ್ಟು"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "ಇದರಿಂದ ಬದಲಾಯಿಸಿ"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "ಹೊಂದಿಕೆಯಾಗುವ ಅನುವಾದಿತ ಪಠ್ಯ ಬದಲಾವಣೆಗಳಿಲ್ಲ."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "ಅನುವಾದಿತ ಪಠ್ಯದಲ್ಲಿ ಹುಡುಕಿ"
+   },
+   "translatedReplacementTitle": {
+      "message": "ಅನುವಾದಿತ ಪಠ್ಯದ ಬದಲಾವಣೆಗಳು"
+   },
+   "translationDomainAuto": {
+      "message": "ಆಟೋಮೋಟಿವ್"
+   },
+   "translationDomainChess": {
+      "message": "ಚದುರಂಗ"
+   },
+   "translationDomainEcommerce": {
+      "message": "ಇ-ಕಾಮರ್ಸ್"
+   },
+   "translationDomainEducation": {
+      "message": "ಶಿಕ್ಷಣ"
+   },
+   "translationDomainFashion": {
+      "message": "ಫ್ಯಾಷನ್"
+   },
+   "translationDomainFinance": {
+      "message": "ಹಣಕಾಸು"
+   },
+   "translationDomainFood": {
+      "message": "ಆಹಾರ ಮತ್ತು ಅಡುಗೆ"
+   },
+   "translationDomainGaming": {
+      "message": "ಗೇಮಿಂಗ್"
+   },
+   "translationDomainGardening": {
+      "message": "ತೋಟಗಾರಿಕೆ"
+   },
+   "translationDomainGeneral": {
+      "message": "ಸಾಮಾನ್ಯ"
+   },
+   "translationDomainGolf": {
+      "message": "ಗಾಲ್ಫ್"
+   },
+   "translationDomainLaw": {
+      "message": "ಕಾನೂನು"
+   },
+   "translationDomainMedical": {
+      "message": "ವೈದ್ಯಕೀಯ ಮತ್ತು ಆರೋಗ್ಯ"
+   },
+   "translationDomainMovies": {
+      "message": "ಚಲನಚಿತ್ರಗಳು ಮತ್ತು ಟಿವಿ"
+   },
+   "translationDomainMusic": {
+      "message": "ಸಂಗೀತ"
+   },
+   "translationDomainNews": {
+      "message": "ಸುದ್ದಿ ಮತ್ತು ಮಾಧ್ಯಮ"
+   },
+   "translationDomainPets": {
+      "message": "ಸಾಕುಪ್ರಾಣಿಗಳು"
+   },
+   "translationDomainPhotography": {
+      "message": "ಛಾಯಾಗ್ರಹಣ"
+   },
+   "translationDomainProgramming": {
+      "message": "ಪ್ರೋಗ್ರಾಮಿಂಗ್"
+   },
+   "translationDomainSports": {
+      "message": "ಕ್ರೀಡೆ"
+   },
+   "translationDomainTech": {
+      "message": "ತಂತ್ರಜ್ಞಾನ"
+   },
+   "translationDomainTravel": {
+      "message": "ಪ್ರಯಾಣ"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 ಮತ್ತು ಕ್ರಿಪ್ಟೋ"
+   },
+   "translationEngine": {
+      "message": "ಭಾಷಾಂತರ ಎಂಜಿನ್"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI ಅನುವಾದ"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, AI ಅನುವಾದವು ಕೆಳಗಿನ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಬಳಸುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದರೂ ನಿಮ್ಮ ಈಗಿನ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಉಳಿಯುತ್ತವೆ."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "AI ಅನುವಾದದಲ್ಲಿ ಪದಕೋಶ ಮತ್ತು ಪಠ್ಯ ಬದಲಾವಣೆಗಳನ್ನು ಅನ್ವಯಿಸಿ"
+   },
+   "translationService": {
+      "message": "ಭಾಷಾಂತರ ಸೇವೆ"
+   },
+   "translationServiceTitle": {
+      "message": "ಭಾಷಾಂತರ ಸೇವೆ"
+   },
+   "trialMemberDurationLimit": {
+      "message": "ಈ ವೀಡಿಯೊದಲ್ಲಿ ಉಪಶೀರ್ಷಿಕೆಗಳಿಲ್ಲ. ಪ್ರಯೋಗ ಸದಸ್ಯರಾಗಿ, ಪ್ರಸ್ತುತ 15 ನಿಮಿಷಗಳ ಅಡಿಯಲ್ಲಿರುವ ವೀಡಿಯೊಗಳಿಗೆ ಮಾತ್ರ ಉಪಶೀರ್ಷಿಕೆ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಬೆಂಬಲಿಸಲಾಗುತ್ತದೆ. ಪ್ರೀಮಿಯಂ ಸದಸ್ಯರು 3 ಗಂಟೆಗಳ ಅಡಿಯಲ್ಲಿರುವ ವೀಡಿಯೊಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತಾರೆ."
+   },
+   "trialMemberModelLimit": {
+      "message": "ಪ್ರಯೋಗ ಸದಸ್ಯರು ಕೇವಲ Gemini ಮತ್ತು Google Translate ಅನ್ನು ಮಾತ್ರ ಬಳಸಬಹುದು. ಇತರ ಮಾದರಿಗಳನ್ನು ಬಳಸಲು, ದಯವಿಟ್ಟು ನಮ್ಮ ಸದಸ್ಯತ್ವಕ್ಕೆ ಚಂದಾದಾರರಾಗಿ."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "ಯುನಿವರ್ಸಲ್ ಡಬ್ಬಿಂಗ್‌ಗೆ ಕ್ಲೌಡ್ GPU ಕಂಪ್ಯೂಟಿಂಗ್ ಶಕ್ತಿ ಅಗತ್ಯವಿದೆ (ಹೆಚ್ಚಿನ ವೆಚ್ಚ), VIP ಗೆ ಮಾತ್ರ."
+   },
+   "universalDubbingNotSupported": {
+      "message": "ಪ್ರಸ್ತುತ ಆವೃತ್ತಿಯಲ್ಲಿ ಈ ವೀಡಿಯೊಗೆ ಸಾರ್ವತ್ರಿಕ ಡಬ್ಬಿಂಗ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ. ಮುಂದಿನ ಆವೃತ್ತಿಯಲ್ಲಿ ಬೆಂಬಲವನ್ನು ಯೋಜಿಸಲಾಗಿದೆ. ವಿವರಗಳಿಗಾಗಿ ಗ್ರಾಹಕ ಸೇವೆಯನ್ನು ಸಂಪರ್ಕಿಸಿ."
+   },
+   "unknownError": {
+      "message": "ಅಪರಿಚಿತ ದೋಷ ಸಂಭವಿಸಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "ಸದಸ್ಯತ್ವಕ್ಕೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ ಮತ್ತು ಪ್ಲಗ್‌ಇನ್ ಹಿನ್ನೆಲೆಯಲ್ಲಿ AI ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಗುರುತಿಸುತ್ತದೆ. ನೀವು ಇಮೇಲ್ ಅಧಿಸೂಚನೆಯನ್ನು ಸ್ವೀಕರಿಸಿದ ನಂತರ, ವೀಕ್ಷಿಸಲು ಹಿಂತಿರುಗಿ; ಡಬ್ಬಿಂಗ್ ಬಟನ್ ಹಸಿರು ಬಣ್ಣಕ್ಕೆ ತಿರುಗುತ್ತದೆ ಮತ್ತು ಭಾಷಾಂತರಗಳು ಹೆಚ್ಚು ನಿಖರವಾಗಿರುತ್ತವೆ."
+   },
+   "uploadComplete": {
+      "message": "ಅಪ್‌ಲೋಡ್ ಪೂರ್ಣ"
+   },
+   "uploadFailed": {
+      "message": "ಅಪ್‌ಲೋಡ್ ವಿಫಲವಾಯಿತು"
+   },
+   "uploadMediaForRecognition": {
+      "message": "ಯಾವುದೇ ಸಬ್‌ಟೈಟಲ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ. AI ಸಬ್‌ಟೈಟಲ್ ಗುರುತಿಸುವಿಕೆಗಾಗಿ ವೀಡಿಯೊವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಬಯಸುವಿರಾ?"
+   },
+   "uploading": {
+      "message": "ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ"
+   },
+   "uploadingMedia": {
+      "message": "ಮಾಧ್ಯಮ ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
+   },
+   "userAccountAriaLabel": {
+      "message": "ಬಳಕೆದಾರ ಖಾತೆ"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ ಸಂಪಾದಿಸಿದ ಅಥವಾ ಸ್ಥಳೀಯವಾಗಿ ಅಪ್‌ಲೋಡ್ ಮಾಡಿದ ಉಪಶೀರ್ಷಿಕೆಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ವಿಭಜಿಸುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ ಮೂಲ ವಿಭಾಗವನ್ನು ಉಳಿಸುತ್ತದೆ."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "ಬಳಕೆದಾರ ಉಪಶೀರ್ಷಿಕೆಗಳ ಸ್ಮಾರ್ಟ್ ವಿಭಾಗ"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "ಪ್ರಸ್ತುತ ವೀಡಿಯೊದಲ್ಲಿ ಗುರುತಿಸಲಾದ ಕ್ಷೇತ್ರ: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "ಈ ವೀಡಿಯೊ DRM ಮೂಲಕ ರಕ್ಷಿಸಲಾಗಿದೆ ಮತ್ತು ಡಬ್ಬಿಂಗ್‌ಗೆ ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "ಈ ವೀಡಿಯೊ 3 ಗಂಟೆಗಿಂತ ಹೆಚ್ಚು ಉದ್ದವಾಗಿದೆ. 3 ಗಂಟೆಗಿಂತ ಹೆಚ್ಚು ಉದ್ದದ ವೀಡಿಯೊಗಳಿಗೆ ಪ್ರಸ್ತುತ ಯುನಿವರ್ಸಲ್ ಡಬ್ಬಿಂಗ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಲು ನೀವು ಸದಸ್ಯರಾಗಿರಬೇಕು ಮತ್ತು ಸಾಕಷ್ಟು ಬ್ಯಾಲೆನ್ಸ್ ಹೊಂದಿರಬೇಕು"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "ಸದಸ್ಯತ್ವ ಮತ್ತು ಬ್ಯಾಲೆನ್ಸ್ ಅಗತ್ಯವಿದೆ"
+   },
+   "vipFreeOptionTipText": {
+      "message": "ಸದಸ್ಯರಾಗಿ, ನೀವು ಈ ಕೆಳಗಿನ ಭಾಷಾಂತರ ಸೇವೆಗಳನ್ನು ಉಚಿತವಾಗಿ ಬಳಸಬಹುದು"
+   },
+   "vipRequiredText": {
+      "message": "ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಲು ನೀವು ಸದಸ್ಯರಾಗಿರಬೇಕು"
+   },
+   "vipRequiredTitle": {
+      "message": "ಸದಸ್ಯತ್ವ ಅಗತ್ಯವಿದೆ"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "ಭಾಷಾಂತರ ಸೇವೆಯನ್ನು gemini, deepseek, gpt-3.5-turbo, ಅಥವಾ claude-3-haiku ನಂತಹ ಸದಸ್ಯ-ಉಚಿತ ಸೇವೆಗಳಿಗೆ ಬದಲಾಯಿಸಿ"
+   },
+   "voice": {
+      "message": "ಧ್ವನಿ"
+   },
+   "voiceSettingsMismatch": {
+      "message": "ಧ್ವನಿ ಪ್ರಕಾರ ಮತ್ತು ಧ್ವನಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಪುಟಕ್ಕೆ ಹೋಗಿ ಧ್ವನಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮರು-ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಉಳಿಸಿ."
+   },
+   "voiceTypeTipText": {
+      "message": "ಧ್ವನಿ ಪ್ರಕಾರವನ್ನು ಉಚಿತ ಆವೃತ್ತಿಗೆ ಬದಲಾಯಿಸಿ"
+   },
+   "voices": {
+      "message": "ಧ್ವನಿ:"
+   },
+   "voicesAndSubtitles": {
+      "message": "ಧ್ವನಿ ಮತ್ತು ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "ಧ್ವನಿ ಮತ್ತು ಉಪಶೀರ್ಷಿಕೆಗಳು"
+   },
+   "voicesType": {
+      "message": "ಧ್ವನಿ ಪ್ರಕಾರ:"
+   },
+   "waitingForRecognition": {
+      "message": "ವೀಡಿಯೊ ಯಶಸ್ವಿಯಾಗಿ ಅಪ್‌ಲೋಡ್ ಆಗಿದೆ. AI ಸಬ್‌ಟೈಟಲ್ ಗುರುತಿಸುವಿಕೆ ಪ್ರಗತಿಯಲ್ಲಿದೆ. ಸಿದ್ಧವಾದಾಗ ನಿಮಗೆ ಇಮೇಲ್ ಅಧಿಸೂಚನೆ ಬರುತ್ತದೆ."
+   },
+   "woman": {
+      "message": "ಸ್ತ್ರೀ"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್ Zoom ರೆಕಾರ್ಡಿಂಗ್ ಅಪ್‌ಲೋಡ್ ಗುರುತಿಸುವಿಕೆಯನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ. ದಯವಿಟ್ಟು Chrome/Edge ಬಳಸಿ."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Zoom ರೆಕಾರ್ಡಿಂಗ್ ಡೌನ್‌ಲೋಡ್ ನಿಷೇಧಿಸಲಾಗಿದೆ (403). ಪರಿಶೀಲನೆಯನ್ನು ಪಾಸ್ ಮಾಡಲು ಪುಟವನ್ನು ಪ್ಲೇ/ರಿಫ್ರೆಶ್ ಮಾಡಿ, ನಂತರ ಮತ್ತೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ."
+   }
+}

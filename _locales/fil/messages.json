@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Balanse:"
+   },
+   "advancedSettings": {
+      "message": "Advanced na Settings"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "Ang AI subtitles ay hindi pa available. Nagsimula nang kilalanin ang plugin sa background. Pagkatapos marinig ang unang dubbed sentence, maaari ninyong isara ang page at maghintay ng email notification; kapag handa na, ang dubbing button ay magiging berde at ang kalidad ng pagsasalin ay magiging mas maganda."
+   },
+   "azureRequireMembership": {
+      "message": "Ang Azure TTS ay para lamang sa mga miyembro. Mag-upgrade para ma-unlock ang mga mataas na kalidad na Azure voices."
+   },
+   "back": {
+      "message": "Bumalik"
+   },
+   "backToSettings": {
+      "message": "Bumalik sa settings"
+   },
+   "backToVideoLibrary": {
+      "message": "Bumalik sa video library"
+   },
+   "backgroundAudio": {
+      "message": "BGM"
+   },
+   "balanceRequiredText": {
+      "message": "Kulang ang balanse ng inyong account. Mangyaring mag-recharge upang magamit ang feature na ito"
+   },
+   "balanceRequiredTitle": {
+      "message": "Kailangan ang Balance"
+   },
+   "balanceRunningLow": {
+      "message": "Nauubos na ang inyong balanse. Upang maiwasan ang hindi magandang karanasan sa panonood, inirerekomenda na mag-recharge nang maaga."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Mangyaring i-configure ang mga shortcut sa browser extension settings"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Hindi kasama"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "I-disable lahat"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} built-in na termino"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Naka-disable ang larangan"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Walang tumutugmang larangan."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Maghanap ng mga larangan"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} larangan"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Mga built-in na hanay ayon sa larangan"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Walang built-in na glosaryo para sa kasalukuyang target na wika. Maaari ka pa ring magdagdag ng mga personal na termino."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "I-enable lahat"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} / {total} ang naka-enable"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Pamahalaan ang mga larangan"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "I-enable o i-disable ang mga larangan ng built-in na glosaryo para sa target na wika."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Pamahalaan ang mga built-in na hanay ayon sa larangan"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Kasamang panuntunan"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} kasamang panuntunan"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "I-on o i-off ang mga kasamang larangan ng pagwawasto sa pinagmulang teksto."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Pamahalaan ang mga kasamang larangan ng pagwawasto sa pinagmulang teksto"
+   },
+   "cancel": {
+      "message": "Kanselahin"
+   },
+   "cancelButton": {
+      "message": "Kanselahin"
+   },
+   "completing": {
+      "message": "Tinatapusin"
+   },
+   "confirmButton": {
+      "message": "Magpatuloy at I-save"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Sigurado ka bang nais mong tanggalin ang magsasalita na ito?"
+   },
+   "contentMenusTitle": {
+      "message": "Simulan ang Voiceover Playback"
+   },
+   "corsNotSupported": {
+      "message": "Hindi pinapayagan ng website na ito ang pag-download ng media files. Hindi sinusuportahan ang universal dubbing."
+   },
+   "debugInfo": {
+      "message": "Impormasyon ng Debug"
+   },
+   "delete": {
+      "message": "Tanggalin"
+   },
+   "deleteSpeaker": {
+      "message": "Tanggalin"
+   },
+   "description": {
+      "message": "Pagsasalin at dubbing ng video—maintindihan ang mga wikang dayuhan, ma-access ang global na kaalaman"
+   },
+   "disableGlobally": {
+      "message": "I-disable nang pandaigdig"
+   },
+   "disabledSitesActions": {
+      "message": "Mga aksyon"
+   },
+   "disabledSitesAdd": {
+      "message": "Idagdag"
+   },
+   "disabledSitesDelete": {
+      "message": "Tanggalin"
+   },
+   "disabledSitesDescription": {
+      "message": "Hindi lalabas ang floating ball sa mga sumusunod na site. Maaari kang magdagdag o mag-alis ng mga naka-disable na site dito."
+   },
+   "disabledSitesDomain": {
+      "message": "Domain"
+   },
+   "disabledSitesEmpty": {
+      "message": "Walang naka-disable na site"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Ilagay ang domain, hal. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Mga naka-disable na site"
+   },
+   "disabledSitesTitle": {
+      "message": "Pamamahala ng mga naka-disable na site"
+   },
+   "doNotClosePage": {
+      "message": "Mangyaring huwag isara o i-refresh ang pahinang ito habang nag-a-upload, kung hindi ang upload ay maaantala."
+   },
+   "doNotShowAgainLink": {
+      "message": "Huwag nang ipakita muli"
+   },
+   "downloading": {
+      "message": "Nagda-download"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Ang video na ito ay hindi pa na-transcribe. Mangyaring i-click ang CC button sa ibaba ng Dropbox video upang i-transcribe ang mga subtitle. Pagkatapos makumpleto ang transcription, i-click ang dubbing button ng plugin upang magsalin at mag-dub."
+   },
+   "dropdownNoOptions": {
+      "message": "Walang opsyon"
+   },
+   "dropdownPlaceholder": {
+      "message": "Pumili"
+   },
+   "dropdownSearch": {
+      "message": "Maghanap..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Walang magagamit na video o audio sa page na ito sa ngayon. Hintaying matapos mag-load ang video at subukang muli, o i-refresh ang page."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Walang nahanap na video para sa dubbing"
+   },
+   "dubbingSettings": {
+      "message": "Mga Setting ng Dubbing"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Binubuksan ang Edge extension shortcut settings page"
+   },
+   "edit": {
+      "message": "I-edit"
+   },
+   "editSpeaker": {
+      "message": "I-edit"
+   },
+   "emailNotificationDescription": {
+      "message": "Ipaalam sa akin sa email kapag tapos na ang pagkilala ng subtitle."
+   },
+   "emailNotificationLabel": {
+      "message": "Mga abiso sa email"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "Nabigong i-save. Pakisubukang muli mamaya."
+   },
+   "enterSpeakerName": {
+      "message": "Ilagay ang pangalan ng magsasalita"
+   },
+   "enterVoice": {
+      "message": "Ilagay ang pangalan ng boses"
+   },
+   "error": {
+      "message": "Pagkakamali"
+   },
+   "female": {
+      "message": "Babae"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Binubuksan ang Firefox add-ons page, mangyaring itakda ang mga shortcut sa Extensions at Themes"
+   },
+   "free": {
+      "message": "libre"
+   },
+   "freeForVip": {
+      "message": "Libre para sa VIP"
+   },
+   "freeOptionTipText": {
+      "message": "Kung ayaw ninyong mag-recharge, maaari kayong pumili ng libreng opsyon, "
+   },
+   "freeUserDailyLimit": {
+      "message": "Ang mga libreng user ay maaaring manonood ng hanggang 5 video bawat araw sa pamamagitan ng plugin. Mag-upgrade sa membership upang ma-unlock ang unlimited viewing benefits."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Walang built-in subtitle ang video na ito. Mangyaring mag-subscribe sa plugin membership para sa pagkilala ng subtitle at mag-enjoy ng mga feature ng pagsasalin at dubbing."
+   },
+   "gender": {
+      "message": "Kasarian"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Wala pang personal na termino para sa wikang ito."
+   },
+   "glossaryCreateButton": {
+      "message": "Magdagdag ng personal na termino"
+   },
+   "glossaryDescription": {
+      "message": "Magtakda ng tiyak na salin para sa mga terminong pinagmulan (hal., Stratagem). Masusunod ang iyong mga termino kaysa sa built-in na glosaryo."
+   },
+   "glossaryEditTitle": {
+      "message": "I-edit ang personal na termino"
+   },
+   "glossaryEditorDescription": {
+      "message": "Mga personal na termino lang ang maaaring idagdag, i-edit, i-enable, o tanggalin."
+   },
+   "glossarySearchEmpty": {
+      "message": "Walang tumutugmang termino."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Maghanap sa mga terminong pinagmulan"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Terminong pinagmulan"
+   },
+   "glossarySourceTerm": {
+      "message": "Terminong pinagmulan"
+   },
+   "glossaryTableTitle": {
+      "message": "Mga termino para sa kasalukuyang wika"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Kinakailangang salin"
+   },
+   "glossaryTargetTerm": {
+      "message": "Salin"
+   },
+   "glossaryTitle": {
+      "message": "Glosaryo"
+   },
+   "hideUntilNextVisit": {
+      "message": "Itago hanggang sa susunod na pagbisita"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Nabigong i-decrypt ang nilalaman ng video. Maaaring mali ang encryption key o hindi compatible ang format ng video."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Nabigong kunin ang decryption key para sa video na ito. Maaaring protektado ang video o hindi available ang key server."
+   },
+   "insufficientBalance": {
+      "message": "Dahil sa kulang na balanse, ang serbisyo ay na-downgrade sa Google Translate. Upang magamit ang AI translation, mangyaring mag-recharge ng inyong credit."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Kulang ang inyong balanse. Mangyaring mag-recharge ng inyong balanse bago gamitin ang AI translation at Azure TTS. Kung ayaw ninyong mag-recharge, maaari kayong bumalik sa Google Translate at mga libreng uri ng boses."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Mangyaring mag-recharge ng inyong membership at balanse bago magamit ang AI translation at Azure TTS. Kung ayaw ninyong mag-recharge, maaari rin kayong pumili ng Google Translate at mga libreng uri ng boses."
+   },
+   "insufficientMembership": {
+      "message": "Nag-expire na ang inyong membership. Mangyaring mag-recharge ng inyong membership bago magamit ang AI translation at Azure TTS. Kung ayaw ninyong mag-recharge, maaari rin kayong pumili ng Google Translate at mga libreng uri ng boses."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "May ibang browser extension na humaharang sa subtitle request interception. I-disable ang mga conflicting extensions, i-refresh ang page, at subukan muli."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "May na-detect na conflict sa extension"
+   },
+   "iosOpenOriginVolume": {
+      "message": "I-on ang orihinal na audio"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "Hindi sinusuportahan ang universal dubbing sa mga iOS device. Mangyaring gumamit ng desktop browser."
+   },
+   "liveStreamNotSupported": {
+      "message": "Ang mga live stream ay hindi sinusuportahan para sa universal dubbing."
+   },
+   "liveVideoNotSupported": {
+      "message": "Ang mga live na video ay kasalukuyang hindi sumusuportado para sa dubbing"
+   },
+   "loading": {
+      "message": "nag-lo-load"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Magdagdag ng subtitle"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Nabigong magdagdag ng subtitle."
+   },
+   "localPlayerAddVideo": {
+      "message": "Magdagdag ng video"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Nabigong magdagdag ng video."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Lahat ng subtitle na link ay inalis."
+   },
+   "localPlayerAllVideos": {
+      "message": "Lahat ng video"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Hanapin at pamahalaan ang bawat na-import na video."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Paakyat; i-click upang lumipat sa pababang"
+   },
+   "localPlayerAssociate": {
+      "message": "Link subtitle"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "I-link ang subtitle at gamitin ito para sa voice dubbing"
+   },
+   "localPlayerAssociated": {
+      "message": "Naka-link"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Naka-link sa labas ng folder na ito"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "Inalis ang link ng subtitle."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "Na-save ang link ng subtitle."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Naka-link ang subtitle at nakatakda para sa voice dubbing."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Bumalik sa mga folder"
+   },
+   "localPlayerClose": {
+      "message": "Isara"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Kasalukuyang direktoryo"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Dubbing ng video"
+   },
+   "localPlayerDelete": {
+      "message": "Tanggalin"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Nabigong tanggalin ang video."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Tanggalin ang {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "Tinatanggal nito ang mga link ng video at subtitle mula sa lokal na aklatan. Ang mga orihinal na file sa disk ay hindi matatanggal."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Tanggalin ang video na ito?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "Pababa; i-click upang lumipat sa pataas"
+   },
+   "localPlayerDropHint": {
+      "message": "Mag-drop ng mga video o .srt/.vtt/.ass subtitle file dito"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Bitawan ang mouse upang mag-import ng mga file"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "Nagsimula ang voice dubbing"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Nabigong simulan ang lokal na voice dubbing."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "Nagsimula ang lokal na voice dubbing."
+   },
+   "localPlayerEntryButton": {
+      "message": "Lokal na video"
+   },
+   "localPlayerFilterAll": {
+      "message": "Lahat"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Nang walang naka-link na mga subtitle"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "May mga naka-link na subtitle"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Mga mabilisang pagkilos ng lokal na video"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Magagamit ang folder access"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "Ang pagbubukas ng folder ay nagse-save ng mga hawakan ng file upang maibalik ang access pagkatapos ng pag-refresh."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Hindi mabuksan ng browser na ito ang mga folder. Gamitin ang Magdagdag ng video/Magdagdag ng subtitle para sa pansamantalang pag-import."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} na nauugnay na mga subtitle"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Huling naglaro {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Huling na-scan {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Mga pagkilos sa folder"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "Inalis {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Maghanap ng mga folder, path, o file"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} video"
+   },
+   "localPlayerFolders": {
+      "message": "Mga folder"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Mag-browse ng na-import na media ayon sa folder."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Ang lokal na video na ito ay walang naka-link na subtitle. Hindi pa magagamit ng mga libreng user ang background subtitle recognition para sa mga lokal na video. I-upgrade ang membership para gumamit ng AI subtitle recognition, o mag-upload ng subtitle file nang manu-mano bago simulan ang voice dubbing."
+   },
+   "localPlayerImportComplete": {
+      "message": "Mga na-import na {videoCount} na video at {subtitleCount} subtitle."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Magbukas ng folder, magdagdag ng mga video, o mag-drop ng mga file upang magsimula."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Lokal na library ng video"
+   },
+   "localPlayerLibraryView": {
+      "message": "View ng library"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Katugmang {visibleCount} / kabuuang {totalCount} folder"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Nagtugmang {visibleCount} / kabuuang {totalCount} na video"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Mga orihinal na subtitle"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Lokal na library ng video / Text to Speech"
+   },
+   "localPlayerNever": {
+      "message": "Hindi kailanman"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Ayusin ang paghahanap sa folder at subukang muli."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Walang katugmang mga folder"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Walang mga subtitle na dapat pamahalaan"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Ayusin ang paghahanap, filter, o pag-uuri at subukang muli."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Walang katugmang mga video"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Walang nakitang mga bagong file."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Walang naka-link na subtitle"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "I-upload ang video na ito para sa AI subtitle recognition? Ang pag-upload ay ginagamit lamang upang makilala ang mga subtitle, ang video ay tatanggalin kaagad pagkatapos ng pagkilala, at aabisuhan ka sa pamamagitan ng email."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Walang subtitle ang video na ito"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Magbukas ng folder o magdagdag ng mga video para pamahalaan ang mga link ng subtitle at lokal na voice dubbing dito."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Wala pang lokal na video"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Hindi naka-link"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Naglalaro ngayon ng {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Buksan ang folder"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Nabigong buksan ang folder."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Buksan ang folder"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Buksan ang sidebar"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Nabigong buksan ang sidebar."
+   },
+   "localPlayerPageTitle": {
+      "message": "Lokal na video · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "I-play ang video"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Nakatakda ang subtitle para sa voice dubbing."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Ang subtitle na ito ay nauugnay na sa \"{fromVideo}\". Aalisin ng pagpapatuloy ang kaugnayang iyon at iuugnay ito sa \"{toVideo}.\""
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "I-rebind ang subtitle na ito?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Pagkilala sa mga subtitle"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "I-unlink ang lahat ng subtitle"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Tanging mga subtitle na link para sa video na ito ang aalisin. Ang mga talaan ng subtitle na file ay hindi tatanggalin."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "I-unlink ang lahat ng subtitle?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "I-unlink ang subtitle"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Nabigong alisin ang folder mula sa library."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "Tinatanggal lang nito ang mga tala ng library para sa folder na ito. Ang mga orihinal na file sa disk ay hindi matatanggal."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Alisin ang folder na ito mula sa library?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Alisin sa library"
+   },
+   "localPlayerRescanAll": {
+      "message": "I-scan muli ang lahat"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Nabigong i-scan muli ang lokal na library."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Hindi ma-rescan ang folder na ito dahil hindi available ang access sa naka-save na folder."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "I-scan muli ang folder na ito"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "Ang video na tinukoy sa URL ay wala sa kasalukuyang lokal na library ng video."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Mga subtitle sa parehong folder {sameCount} · Naka-link {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Tapos na ang pag-scan: nagdagdag ng {addedVideoCount} video, {addedSubtitleCount} subtitle, na-update na {updatedCount} file."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Maghanap ng mga video o file path"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Pumili ng video na ili-link sa subtitle na ito"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Gamitin ang subtitle na ito para sa voice dubbing"
+   },
+   "localPlayerSortDuration": {
+      "message": "Ang tagal ng video"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Mga video na na-play kamakailan"
+   },
+   "localPlayerSortName": {
+      "message": "Pangalan ng file"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Simulan ang voice dubbing"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} naka-link na mga subtitle"
+   },
+   "localPlayerSubtitles": {
+      "message": "Mga Subtitle"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Hindi sinusuportahan ng browser na ito ang File System Access API. Maaari kang pansamantalang magdagdag ng mga video at subtitle."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Pansamantalang mode ng pag-import"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Kanselahin"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Text to Speech - Target na Wika"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "I-export MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "Hindi maaaring walang laman ang nilalaman ng subtitle"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Nabigo ang Pag-save"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Kasarian"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Text to Speech MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Text to Speech MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Nag-se-save..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Manu-manong Input"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Manu-manong Input - Text to Speech"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Target na Wika"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Text to Speech: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Text to Speech"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Walang available na boses para sa piniling ito."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Text to Speech"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "Masyadong mahaba ang teksto. Paikliin ito at subukang muli."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Boses"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Uri ng Boses"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "Nakabuo ng mga thumbnail para sa {count} na video."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Nabigo ang pagbuo ng thumbnail: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Kabuuang {count} folder"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Kabuuang {count} na video"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Kinansela ang pag-upload."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Ginagamit para sa voice dubbing"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "Tinanggal {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Hindi maibalik ang access sa video file na ito. Pakidagdag muli ang video."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "Hindi mabasa ang lokal na video file. Pakidagdag muli ang video."
+   },
+   "localPlayerVideoList": {
+      "message": "Listahan ng video"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "Hindi pa handa ang video player."
+   },
+   "login": {
+      "message": "Login"
+   },
+   "loginAndUsePlugin": {
+      "message": "Mangyaring i-click muna ang plugin icon upang mag-login, pagkatapos gamitin ang plugin para sa voiceover playback."
+   },
+   "logout": {
+      "message": "Mag-logout"
+   },
+   "lowBalanceText": {
+      "message": "Ang balanse ng inyong account ay mas mababa sa $1. Inirerekomenda naming mag-recharge kaagad upang masiguro ang walang-tigil na serbisyo"
+   },
+   "lowBalanceTitle": {
+      "message": "Alerto sa Mababang Balanse"
+   },
+   "male": {
+      "message": "Lalaki"
+   },
+   "man": {
+      "message": "Lalaki"
+   },
+   "mediaSourceNotDetected": {
+      "message": "Hindi matukoy ang pinagmulan ng video. Maaaring hindi suportado ang website na ito."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Kasalukuyang ginagamit ang mga subtitle na kinilala ng background AI ng extension. Kung mukhang may mali sa pagsasalin, palitan ang subtitle priority sa platform subtitles sa Basic Settings."
+   },
+   "memberFree": {
+      "message": "Libre para sa mga Miyembro"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Ang ganitong uri ng boses ay para lamang sa mga miyembro. Mag-upgrade para magamit ito nang libre."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Kasalukuyan kang nagda-dub gamit ang libreng uri ng boses. Mas natural pakinggan ang mga boses ng Azure; maaari na ngayong gamitin ng mga miyembro ang Azure nang walang limitasyon at walang dagdag na credit top-up."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "Mag-e-expire:"
+   },
+   "membershipIcon": {
+      "message": "Icon ng Membership"
+   },
+   "membershipRequired": {
+      "message": "Mangyaring mag-upgrade sa membership bago gamitin ang OpenAI translation."
+   },
+   "membershipRequiredForAI": {
+      "message": "Mangyaring mag-recharge ng inyong membership bago magamit ang AI translation. Kung ayaw ninyong mag-recharge, maaari rin kayong pumili ng Google Translate."
+   },
+   "membershipRequiredTitle": {
+      "message": "Kailangan ng membership"
+   },
+   "metadataNotFound": {
+      "message": "Hindi natagpuan ang metadata ng video, mangyaring i-refresh at subukan muli"
+   },
+   "multiVideoNotSupported": {
+      "message": "Ang pahinang ito ay may maraming video. Ang universal dubbing ay sumusuporta lamang sa mga pahinang may isang video kapag gumagamit ng HLS streams."
+   },
+   "musicVideoNotSupported": {
+      "message": "Ito ay isang music video. Hindi sinusuportahan ang pagsasalin at dubbing."
+   },
+   "name": {
+      "message": "TranslateDub – Translate & Dub"
+   },
+   "noAudioTrackFound": {
+      "message": "Walang nahanap na audio track. Ang video na ito ay mukhang video-only na walang audio at hindi magagamit para sa dubbing recognition."
+   },
+   "noSpeakers": {
+      "message": "Walang mga magsasalita"
+   },
+   "noSubtitlesFound": {
+      "message": "Walang subtitle ang video na ito at hindi sumusuporta sa pagsasalin at dubbing"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Walang available na subtitle. Mangyaring maghintay para kilalanin ng plugin ang mga subtitle para sa video na ito. Makakatanggap kayo ng email notification sa inyong nakarehistrong email address kapag nakumpleto na ang pagkilala."
+   },
+   "notSupported": {
+      "message": "Hindi sinusuportahan"
+   },
+   "openBasicSettingsLink": {
+      "message": "Buksan ang Basic Settings"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Batayan"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Pagbigkas"
+   },
+   "optionsNavSitesShort": {
+      "message": "Site"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Subtitle"
+   },
+   "originalAudio": {
+      "message": "Orihinal"
+   },
+   "panelSummaryCollapse": {
+      "message": "I-collapse"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "I-collapse lahat"
+   },
+   "panelSummaryCopy": {
+      "message": "Kopyahin"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Nakopya na"
+   },
+   "panelSummaryDesc": {
+      "message": "Gumamit ng advanced na AI models para mabilis na maunawaan ang nilalaman ng video"
+   },
+   "panelSummaryError": {
+      "message": "Nabigo ang pagbuo ng buod, pakisubukan muli"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "Hindi matukoy ang kasalukuyang video, mangyaring i-refresh ang pahina at subukang muli"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "Ang buod ng video ay para lamang sa mga miyembro, mangyaring mag-subscribe upang magamit"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Walang available na subtitle para sa video na ito, hindi makabuo ng buod"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "Pansamantalang hindi available ang serbisyo ng buod, mangyaring subukan muli mamaya"
+   },
+   "panelSummaryExpand": {
+      "message": "Palawakin"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Palawakin lahat"
+   },
+   "panelSummaryGenerate": {
+      "message": "Bumuo ng buod"
+   },
+   "panelSummaryGenerating": {
+      "message": "Binubuo..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Walang available na subtitle para sa video na ito"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Muling buuin"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Muling binubuo..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Mga highlight"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Buod"
+   },
+   "panelSummaryShare": {
+      "message": "Ibahagi"
+   },
+   "panelSummaryTitle": {
+      "message": "Buod at balangkas ng video"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Subtitle"
+   },
+   "panelTabVideoSummary": {
+      "message": "Buod"
+   },
+   "pauseVideo": {
+      "message": "I-pause ang Video"
+   },
+   "pay": {
+      "message": "magbayad"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "I-click ang video para buksan ito at pagkatapos ay gamitin ang dubbing feature."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Matagumpay ang pag-login. I-click ang plugin ICON upang pumili ng wika ng pagsasalin at listahan ng boses."
+   },
+   "preferenceActionFailed": {
+      "message": "Hindi nagtagumpay ang aksyon. Subukan muli mamaya."
+   },
+   "preferenceActions": {
+      "message": "Mga aksyon"
+   },
+   "preferenceAdd": {
+      "message": "Idagdag"
+   },
+   "preferenceAllDomains": {
+      "message": "Lahat ng larangan"
+   },
+   "preferenceAllStatuses": {
+      "message": "Lahat"
+   },
+   "preferenceCancel": {
+      "message": "Kanselahin"
+   },
+   "preferenceClearSearch": {
+      "message": "I-clear"
+   },
+   "preferenceDelete": {
+      "message": "Tanggalin"
+   },
+   "preferenceDisabled": {
+      "message": "Hindi pinagana"
+   },
+   "preferenceDomain": {
+      "message": "Larangan"
+   },
+   "preferenceEdit": {
+      "message": "I-edit"
+   },
+   "preferenceEnabled": {
+      "message": "Naka-enable"
+   },
+   "preferenceLanguage": {
+      "message": "Wika"
+   },
+   "preferenceLoadFailed": {
+      "message": "Hindi na-load. Mag-sign in at subukan muli."
+   },
+   "preferenceNextPage": {
+      "message": "Susunod"
+   },
+   "preferencePageLabel": {
+      "message": "Pahina {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Nakaraan"
+   },
+   "preferenceSave": {
+      "message": "Iimbak"
+   },
+   "preferenceSearch": {
+      "message": "Maghanap"
+   },
+   "preferenceSource": {
+      "message": "Pinagmulan"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Kasama na"
+   },
+   "preferenceSourceUser": {
+      "message": "Sarili"
+   },
+   "preferenceStatus": {
+      "message": "Katayuan"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Naka-off"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Naka-enable"
+   },
+   "preferencesDescription": {
+      "message": "Pamahalaan dito ang iyong pangunahing mga kagustuhan."
+   },
+   "preferencesSectionTitle": {
+      "message": "Pangunahing mga setting"
+   },
+   "preferencesTitle": {
+      "message": "Pangunahing mga setting"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Walang subtitle ang video na ito at ang tagal ng video ay lumampas sa 3 oras, ang pagsasalin at dubbing ay hindi sumusuportado. Mangyaring pumili ng mas maikling video o video na may subtitle."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Walang subtitle ang video na ito at pribado ito. Hindi kayang kilalanin ng plugin ang mga subtitle nito sa background. Gawing pampubliko ang video o magdagdag ng subtitle nang manu-mano bago subukang muli."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Tanggalin ang panuntunan sa pagbigkas na ito?"
+   },
+   "pronunciationEditRule": {
+      "message": "I-edit ang panuntunan sa pagbigkas"
+   },
+   "pronunciationEditorHint": {
+      "message": "Piliin ang tuluy-tuloy na bahagi upang itama, pagkatapos ay ilagay ang pagbigkas nito."
+   },
+   "pronunciationEmpty": {
+      "message": "Walang personal na panuntunan sa pagbigkas ang tumutugma sa kasalukuyang mga filter."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Ipasok muna ang katugmang teksto"
+   },
+   "pronunciationFineSelection": {
+      "message": "Tumpak na pagpili"
+   },
+   "pronunciationLoading": {
+      "message": "Naglo-load…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Halimbawa: kumusta"
+   },
+   "pronunciationMatchText": {
+      "message": "Katugmang teksto"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Pagsamahin ang mga katabing pagbigkas"
+   },
+   "pronunciationModifier": {
+      "message": "tono"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Neutral na tono"
+   },
+   "pronunciationNewRule": {
+      "message": "Bagong panuntunan"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Tono {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "pangyayari {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Maglagay ng bigkas at tono para sa bawat bahagi. Hatiin o pagsamahin ang mga bahagi kung kinakailangan."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Maglagay ng Pinyin syllable"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "Pantig na pinyin"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Matalinong pagpili"
+   },
+   "pronunciationReading": {
+      "message": "Tinukoy na pagbigkas"
+   },
+   "pronunciationReselect": {
+      "message": "Pumili muli"
+   },
+   "pronunciationSaving": {
+      "message": "Iniimbak..."
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Maghanap ng katugmang teksto"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Pumili"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Pumili ng text na itatama"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Granularity ng pagpili"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Pumili ng tuluy-tuloy na teksto."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "Hindi maibabalik ang nakaimbak na lokasyon. Piliin muli ang teksto bago mag-imbak."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Napili: {text}; pangyayari {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "Ang itinamang bahagi ay maaaring maglaman ng hindi hihigit sa 128 character."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Magtakda ng mga personal na pagbigkas para sa isinalin na teksto. Nalalapat lang ang mga panuntunan sa lokal na dubbing."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Pagbigkas"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Mga setting ng pagbigkas"
+   },
+   "pronunciationSplitAt": {
+      "message": "Hatiin sa"
+   },
+   "pronunciationStatus": {
+      "message": "Katayuan"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Target na wika"
+   },
+   "pronunciationTargetText": {
+      "message": "Nawastong bahagi"
+   },
+   "pronunciationUnitReading": {
+      "message": "Pagbigkas bawat bahagi"
+   },
+   "pronunciationUnknownError": {
+      "message": "Nabigo ang pagkilos. Pakisubukang muli mamaya."
+   },
+   "pronunciationWholeReading": {
+      "message": "Buong pagbigkas"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Ipasok ang kumpletong tonong pagbigkas. Hatiin ito upang pumili ng tono para sa bawat bahagi."
+   },
+   "rechargeLimit": {
+      "message": "Credit+Member"
+   },
+   "replacementCreateButton": {
+      "message": "Magdagdag ng personal na pagpapalit"
+   },
+   "replacementDescription": {
+      "message": "Itama ang mga paulit-ulit na error sa pagkilala ng subtitle (halimbawa, cloud code -> Claude Code) bago ang pagsasalin gamit ang AI."
+   },
+   "replacementEditTitle": {
+      "message": "I-edit ang personal na pagpapalit"
+   },
+   "replacementEditorDescription": {
+      "message": "Mga personal na pagpapalit ng teksto lang ang ilalapat bago ang pagsasalin gamit ang AI."
+   },
+   "replacementEmpty": {
+      "message": "Wala pang panuntunan sa pagwawasto."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Maling teksto, hal. cloud code"
+   },
+   "replacementFindText": {
+      "message": "Maling teksto"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Palitan ng, hal. claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Palitan ng"
+   },
+   "replacementSearchEmpty": {
+      "message": "Walang tumutugmang pagpapalit."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Maghanap ng mga pagpapalit"
+   },
+   "replacementTitle": {
+      "message": "Pagwawasto ng mali sa pinagmulang teksto"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Mangyaring itakda ang mga shortcut sa Safari > Preferences > Extensions"
+   },
+   "sampleAesNotSupported": {
+      "message": "Ang video na ito ay gumagamit ng SAMPLE-AES encryption na kasalukuyang hindi sinusuportahan para sa pag-download."
+   },
+   "save": {
+      "message": "I-save"
+   },
+   "saveFailedText": {
+      "message": "Nabigo ang pag-save ng mga setting, mangyaring subukan muli"
+   },
+   "saveFailedTitle": {
+      "message": "Nabigo ang Pag-save"
+   },
+   "saveSuccessText": {
+      "message": "Matagumpay na na-save ang mga setting"
+   },
+   "saveSuccessTitle": {
+      "message": "Matagumpay na Na-save"
+   },
+   "save_settings": {
+      "message": "I-save"
+   },
+   "saving": {
+      "message": "Nag-se-save..."
+   },
+   "searchSourceLanguage": {
+      "message": "Maghanap ng pinagmulang wika..."
+   },
+   "searchTargetLanguage": {
+      "message": "Maghanap ng target na wika..."
+   },
+   "selectSourceLanguage": {
+      "message": "Pumili ng pinagmulang wika"
+   },
+   "selectSpeaker": {
+      "message": "Pumili"
+   },
+   "selectTargetLanguage": {
+      "message": "Pumili ng target na wika"
+   },
+   "sex": {
+      "message": "Kasarian:"
+   },
+   "shortcutSettings": {
+      "message": "Mga Shortcut"
+   },
+   "showSubtitle": {
+      "message": "mga subtitle:"
+   },
+   "sidebarDisableForSite": {
+      "message": "I-disable para sa site na ito"
+   },
+   "sidebarDisableGlobally": {
+      "message": "I-disable sa lahat"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Itago hanggang sa susunod na pagbisita"
+   },
+   "sidebarReenableHint": {
+      "message": "Maaaring i-enable muli sa "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Mga Setting"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Kapag naka-enable at pareho ang wika ng subtitle at target na wika, direktang magsisimula ang dubbing nang walang pagsasalin."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Laktawan ang pagsasalin kung pareho ang wika"
+   },
+   "sourceLanguage": {
+      "message": "Pinagmulang Wika"
+   },
+   "source_languages": {
+      "message": "Pinagmulang Wika:"
+   },
+   "speaker": {
+      "message": "Magsasalita"
+   },
+   "speakerList": {
+      "message": "Listahan ng Magsasalita"
+   },
+   "speakerName": {
+      "message": "Pangalan ng Magsasalita"
+   },
+   "speakersTitle": {
+      "message": "Magsasalita"
+   },
+   "startUpload": {
+      "message": "Simulan ang upload"
+   },
+   "subscribe": {
+      "message": "Mag-member"
+   },
+   "subscriptionRecharge": {
+      "message": "Mag-subscribe & Top-up"
+   },
+   "subtitleDisplayMode": {
+      "message": "Mode ng subtitle"
+   },
+   "subtitleEditorExport": {
+      "message": "I-export"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Manu-manong Input"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Aking Mga Subtitle"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Walang magagamit na mga mapagkukunan ng subtitle (magagamit ang manu-manong input)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "Nabigo ang pag-save. Pakisubukang muli mamaya."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Hindi matukoy ang kasalukuyang video. Nabigo ang pag-save."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Mag-click dito upang lumipat ng mga subtitle"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Pinagmulan ng Subtitle"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Di-wastong SRT block. Kinakailangan ang sequence, timestamp, at content."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Ang bawat subtitle ay dapat maglaman ng hindi bababa sa isang linya ng teksto"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "Hindi maaaring walang laman ang nilalaman ng subtitle"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "Ang oras ng pagtatapos ay dapat na mas malaki kaysa sa oras ng pagsisimula"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Di-wastong format ng numero ng sequence ng SRT"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "Ang mga sequence number ng SRT ay dapat magsimula sa 1 at dagdagan ng 1"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Kasama sa ilang subtitle ang mga tag ng speaker. Dapat gamitin ng lahat ng subtitle ang prefix ng [speaker]."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Di-wastong format ng oras. Mangyaring suriin at itama ito."
+   },
+   "subtitleModeBilingual": {
+      "message": "Dalawikang subtitle"
+   },
+   "subtitleModeOff": {
+      "message": "I-off ang subtitle"
+   },
+   "subtitleModeTranslated": {
+      "message": "Salin lamang"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Plugin AI na Nakilalang Subtitle"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Unahin ang mga subtitle na nabuo ng AI speech recognition ng plugin para sa mas mataas na katumpakan."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Piliin kung aling pinagmulan ng subtitle ang uunahin para sa pagsasalin."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Built-in na Subtitle ng Platform"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Unahin ang mga orihinal na subtitle na ibinibigay ng video platform."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Priyoridad ng Pagsasalin ng Subtitle"
+   },
+   "subtitleSize": {
+      "message": "Laki"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Kulay ng background"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Opacity ng background"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "Itim"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Asul"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Cyan"
+   },
+   "subtitleStyleColorGray": {
+      "message": "Abo"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "Berde"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Mapusyaw na abo"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Magenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "Kahel"
+   },
+   "subtitleStyleColorRed": {
+      "message": "Pula"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Puti"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "Dilaw"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Custom na font"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Halimbawa: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Pasadya"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Wala"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Balangkas"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Anino"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Estilo ng gilid"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Dalawang wika"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "View ng editor ng estilo"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Pagsasalin lang"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Sundin ang estilo ng pagsasalin"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Pasadya"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Default"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Font"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Wala"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Laki ng font"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Kapal ng font"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Layout na dalawang wika"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Agwat ng linya"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "Ang mga pagsasaayos ay ise-save at magkakabisa kaagad."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Mga setting ng istilo ng subtitle"
+   },
+   "subtitleStyleOrder": {
+      "message": "Ayos ng subtitle"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Orihinal sa itaas"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Pagsasalin sa itaas"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Estilo ng orihinal"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Proporsyon ng laki ng font"
+   },
+   "subtitleStylePosition": {
+      "message": "Posisyon"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Ibaba"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Gitna"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Itaas"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "Live"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Naisip niyang malaki ang potensyal ng binatang ito."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Preview"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Ibalik ang default"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Estilo ng subtitle"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Pinagsasaluhang background"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Pahalang na pagkakahanay"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Gitna"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Kaliwa"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Kanan"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Kulay ng font"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Estilo ng pagsasalin"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Ginagamit ang kasalukuyang mga setting ng pagsasalin"
+   },
+   "subtitles": {
+      "message": "Mga Subtitle"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Ang mga subtitle para sa video na ito ay kasalukuyang nililimitahan ng YouTube. Mangyaring subukan muli mamaya."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "I-toggle ang mga setting ng volume sa pagitan ng orihinal at dubbed audio"
+   },
+   "switchModelWarning": {
+      "message": "Ang pag-switch ng boses o translation model habang nagpe-play ang video ay mag-uudyok ng karagdagang bayad dahil sa nasayang na resources. Inirerekomenda naming mag-switch sa susunod na video. Upang magpatuloy pa rin, i-click ang Continue and Save."
+   },
+   "targetLanguage": {
+      "message": "Target na Wika"
+   },
+   "target_languages": {
+      "message": "Target na Wika:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Ang video na ito ay kasalukuyang pinoproseso para sa AI subtitle recognition. Mangyaring maghintay ng email notification."
+   },
+   "textToSpeech": {
+      "message": "Text to Speech:"
+   },
+   "textToSpeechToggle": {
+      "message": "Lumulutang na Bola"
+   },
+   "toggleSubtitles": {
+      "message": "I-toggle ang mga subtitle"
+   },
+   "tooExpensive": {
+      "message": "Masyadong mahal"
+   },
+   "translateEngineTipText": {
+      "message": "baguhin ang serbisyo ng pagsasalin sa Google"
+   },
+   "translateService": {
+      "message": "Pagsasalin:"
+   },
+   "translatedAudio": {
+      "message": "Isinalin"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Magdagdag ng pagpapalit sa salin"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Magdagdag ng pagpapalit sa salin"
+   },
+   "translatedReplacementDescription": {
+      "message": "Palitan ang mga salita o parirala sa natapos na salin gamit ang mga personal na panuntunan."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "I-edit ang pagpapalit sa salin"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Ang natapos na salin lamang ang binabago; hindi nagbabago ang pinagmulang teksto at pansamantalang imbakan ng salin."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Wala pang panuntunan sa pagpapalit ng isinaling teksto."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "Kapag naka-off, mananatiling naka-save ang panuntunan ngunit hindi ito ilalapat sa isinaling teksto."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Salita o parirala sa isinaling teksto"
+   },
+   "translatedReplacementFindText": {
+      "message": "Isinaling teksto"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Wikang patutunguhan"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Salita o pariralang ipapakita bilang kapalit"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Ipapalit"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Walang nahanap na katugmang pagpapalit sa isinaling teksto."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Maghanap sa isinaling teksto"
+   },
+   "translatedReplacementTitle": {
+      "message": "Mga pagpapalit sa isinaling teksto"
+   },
+   "translationDomainAuto": {
+      "message": "Automotive"
+   },
+   "translationDomainChess": {
+      "message": "Ahedres"
+   },
+   "translationDomainEcommerce": {
+      "message": "E-commerce"
+   },
+   "translationDomainEducation": {
+      "message": "Edukasyon"
+   },
+   "translationDomainFashion": {
+      "message": "Moda"
+   },
+   "translationDomainFinance": {
+      "message": "Pananalapi"
+   },
+   "translationDomainFood": {
+      "message": "Pagkain at pagluluto"
+   },
+   "translationDomainGaming": {
+      "message": "Gaming"
+   },
+   "translationDomainGardening": {
+      "message": "Paghahardin"
+   },
+   "translationDomainGeneral": {
+      "message": "Pangkalahatan"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Batas"
+   },
+   "translationDomainMedical": {
+      "message": "Medikal at kalusugan"
+   },
+   "translationDomainMovies": {
+      "message": "Pelikula at TV"
+   },
+   "translationDomainMusic": {
+      "message": "Musika"
+   },
+   "translationDomainNews": {
+      "message": "Balita at media"
+   },
+   "translationDomainPets": {
+      "message": "Alagang hayop"
+   },
+   "translationDomainPhotography": {
+      "message": "Potograpiya"
+   },
+   "translationDomainProgramming": {
+      "message": "Programming"
+   },
+   "translationDomainSports": {
+      "message": "Palakasan"
+   },
+   "translationDomainTech": {
+      "message": "Teknolohiya"
+   },
+   "translationDomainTravel": {
+      "message": "Paglalakbay"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 at crypto"
+   },
+   "translationEngine": {
+      "message": "Engine ng Pagsasalin"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "Pagsasalin gamit ang AI"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Kapag naka-on, ginagamit ng pagsasalin gamit ang AI ang mga setting sa ibaba. Kapag naka-off, mananatili ang mga kasalukuyang setting."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Gamitin ang glosaryo at mga pagpapalit ng teksto sa pagsasalin gamit ang AI"
+   },
+   "translationService": {
+      "message": "Serbisyo ng Salin"
+   },
+   "translationServiceTitle": {
+      "message": "Serbisyo ng Salin"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Walang subtitle ang video na ito. Bilang trial member, mga video lang na mas mababa sa 15 minuto ang kasalukuyang sumusuportado para sa pagkilala ng subtitle. Ang premium members ay sumusuporta sa mga video na hanggang 3 oras."
+   },
+   "trialMemberModelLimit": {
+      "message": "Ang mga trial member ay maaari lamang gumamit ng Gemini at Google Translate. Upang magamit ang iba pang mga modelo, mangyaring mag-subscribe sa aming membership."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Ang universal dubbing ay nangangailangan ng cloud GPU computing power (mataas na gastos), para sa VIP lamang."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Ang universal dubbing ay hindi sumusuportado para sa video na ito sa kasalukuyang bersyon. Ang suporta ay nakaplanong maging available sa susunod na bersyon. Mangyaring makipag-ugnayan sa customer service para sa mga detalye."
+   },
+   "unknownError": {
+      "message": "May naganap na hindi kilalang error. Mangyaring subukan muli."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Mag-upgrade sa membership at kikilalaanin ng plugin ang AI subtitles sa background. Pagkatapos makatanggap ng email notification, bumalik upang manood; ang dubbing button ay magiging berde at ang mga pagsasalin ay magiging mas tumpak."
+   },
+   "uploadComplete": {
+      "message": "Tapos na ang upload"
+   },
+   "uploadFailed": {
+      "message": "Nabigo ang upload"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Walang nakitang subtitle. Gusto mo bang i-upload ang video para sa AI subtitle recognition?"
+   },
+   "uploading": {
+      "message": "Nag-a-upload"
+   },
+   "uploadingMedia": {
+      "message": "Nag-a-upload ng media..."
+   },
+   "userAccountAriaLabel": {
+      "message": "User account"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Kapag naka-on, awtomatikong hinahati ang mga subtitle na in-edit o lokal na in-upload. Kapag naka-off, pinapanatili ang orihinal na paghahati."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Matalinong paghahati ng subtitle ng user"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Natukoy na larangan ng kasalukuyang video: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Ang video na ito ay protektado ng DRM at hindi magagamit para sa dubbing."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Ang video na ito ay mahigit 3 oras ang haba. Ang universal dubbing ay kasalukuyang hindi sinusuportahan para sa mga video na mas mahaba sa 3 oras."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Kailangan mong maging member at magkaroon ng sapat na balanse upang gamitin ang feature na ito"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Kailangan ang Membership at Balance"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Bilang member, maaari ninyong gamitin nang libre ang mga sumusunod na serbisyo ng pagsasalin"
+   },
+   "vipRequiredText": {
+      "message": "Kailangan mong maging member upang gamitin ang feature na ito"
+   },
+   "vipRequiredTitle": {
+      "message": "Kailangan ang Membership"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Baguhin ang serbisyo ng pagsasalin sa mga member-free na serbisyo tulad ng gemini, deepseek, gpt-3.5-turbo, o claude-3-haiku"
+   },
+   "voice": {
+      "message": "Boses"
+   },
+   "voiceSettingsMismatch": {
+      "message": "Hindi tumutugma ang uri ng boses at mga setting ng boses. Pumunta sa page ng mga setting upang muling pumili at i-save ang mga setting ng boses."
+   },
+   "voiceTypeTipText": {
+      "message": "baguhin ang uri ng boses sa libreng bersyon"
+   },
+   "voices": {
+      "message": "Boses:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Boses & Subtitle"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Boses & Subtitle"
+   },
+   "voicesType": {
+      "message": "Uri ng Boses:"
+   },
+   "waitingForRecognition": {
+      "message": "Matagumpay na na-upload ang video. Nagpapatuloy ang AI subtitle recognition. Makakatanggap ka ng email notification kapag handa na."
+   },
+   "woman": {
+      "message": "Babae"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Hindi sinusuportahan ng iyong browser ang Zoom recording upload recognition. Mangyaring gumamit ng Chrome/Edge."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Ang pag-download ng Zoom recording ay ipinagbawal (403). Mangyaring i-play/i-refresh ang pahina para pumasa sa verification, pagkatapos ay subukang muli."
+   }
+}

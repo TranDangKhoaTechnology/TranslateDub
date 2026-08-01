@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Hesap bakiyesi:"
+   },
+   "advancedSettings": {
+      "message": "Gelişmiş Ayarlar"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "Bu video için henüz AI altyazı yok. Eklenti arka planda tanımayı başlattı. İlk dublajlı cümleyi duyduktan sonra sayfayı kapatabilir ve e-posta bildirimini bekleyebilirsiniz; hazır olduğunda dublaj düğmesi yeşile döner ve çeviri kalitesi daha iyi olur."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS yalnızca üyelere özeldir. Yüksek kaliteli Azure seslerini açmak için yükseltin."
+   },
+   "back": {
+      "message": "Geri"
+   },
+   "backToSettings": {
+      "message": "Ayarlara dön"
+   },
+   "backToVideoLibrary": {
+      "message": "Video kitaplığına dön"
+   },
+   "backgroundAudio": {
+      "message": "Arka ses"
+   },
+   "balanceRequiredText": {
+      "message": "Bakiyeniz yetersiz, kota ekleyin ve kullanın"
+   },
+   "balanceRequiredTitle": {
+      "message": "Kota gerekli"
+   },
+   "balanceRunningLow": {
+      "message": "Bakiyeniz bitmek üzere, kesintisiz deneyim için önceden bakiye yükleyin."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Tarayıcı eklenti ayarlarında kısayolları düzenleyin"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Hariç tutuldu"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Tümünü devre dışı bırak"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} yerleşik terim"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Alan devre dışı"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Eşleşen alan yok."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Alanlarda ara"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} alan"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Yerleşik alan kümeleri"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Geçerli hedef dil için yerleşik sözlük yok. Yine de kişisel terimler ekleyebilirsiniz."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Tümünü etkinleştir"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} / {total} etkin"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Alanları yönet"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "Hedef dil için yerleşik sözlük alanlarını etkinleştirin veya devre dışı bırakın."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Yerleşik alan kümelerini yönet"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Yerleşik kural"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} yerleşik kural"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Yerleşik kaynak metin düzeltme alanlarını etkinleştirin veya devre dışı bırakın."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "Yerleşik kaynak metin düzeltme alanlarını yönet"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "cancelButton": {
+      "message": "İptal"
+   },
+   "completing": {
+      "message": "Tamamlanıyor"
+   },
+   "confirmButton": {
+      "message": "Devam et ve kaydet"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Bu konuşmacıyı silmek istediğinizden emin misiniz?"
+   },
+   "contentMenusTitle": {
+      "message": "Dublaj Oynatmayı Başlat"
+   },
+   "corsNotSupported": {
+      "message": "Bu web sitesi medya dosyalarının indirilmesine izin vermiyor. Evrensel dublaj desteklenmiyor."
+   },
+   "debugInfo": {
+      "message": "Hata Ayıklama Bilgisi"
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "deleteSpeaker": {
+      "message": "Sil"
+   },
+   "description": {
+      "message": "Videoları tek tıkla çevrimiçi çevir ve dublaj yap, yabancı dilleri anında anla, dünya bilgisini kolayca kavra"
+   },
+   "disableGlobally": {
+      "message": "Global olarak devre dışı bırak"
+   },
+   "disabledSitesActions": {
+      "message": "İşlemler"
+   },
+   "disabledSitesAdd": {
+      "message": "Ekle"
+   },
+   "disabledSitesDelete": {
+      "message": "Sil"
+   },
+   "disabledSitesDescription": {
+      "message": "Aşağıdaki sitelerde yüzen top görünmeyecektir. Burada devre dışı siteleri ekleyebilir veya kaldırabilirsiniz."
+   },
+   "disabledSitesDomain": {
+      "message": "Alan adı"
+   },
+   "disabledSitesEmpty": {
+      "message": "Devre dışı site yok"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Alan adı girin, ör. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Devre dışı siteler"
+   },
+   "disabledSitesTitle": {
+      "message": "Devre dışı site yönetimi"
+   },
+   "doNotClosePage": {
+      "message": "Lütfen yükleme sırasında bu sayfayı kapatmayın veya yenilemeyin, aksi takdirde yükleme kesintiye uğrayacaktır."
+   },
+   "doNotShowAgainLink": {
+      "message": "Bir daha gösterme"
+   },
+   "downloading": {
+      "message": "İndiriliyor"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Bu video henüz transkribe edilmedi. Altyazıları oluşturmak için Dropbox videosunun altındaki CC düğmesine tıklayın. Transkripsiyon tamamlandığında, çeviri ve dublaj için uzantının dublaj düğmesine tıklayın."
+   },
+   "dropdownNoOptions": {
+      "message": "Seçenek yok"
+   },
+   "dropdownPlaceholder": {
+      "message": "Seçiniz"
+   },
+   "dropdownSearch": {
+      "message": "Ara..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Bu sayfada şu anda kullanılabilir video veya ses yok. Video yüklenene kadar bekleyip tekrar deneyin ya da sayfayı yenileyin."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Dublaj yapılabilecek video bulunamadı"
+   },
+   "dubbingSettings": {
+      "message": "Dublaj Ayarları"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Edge eklenti kısayol ayarları açılıyor"
+   },
+   "edit": {
+      "message": "Düzenle"
+   },
+   "editSpeaker": {
+      "message": "Konuşmacıyı Düzenle"
+   },
+   "emailNotificationDescription": {
+      "message": "Altyazı tanıma tamamlandığında bana e-posta ile bildir."
+   },
+   "emailNotificationLabel": {
+      "message": "E-posta bildirimleri"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "Kaydetme başarısız oldu. Lütfen daha sonra tekrar deneyin."
+   },
+   "enterSpeakerName": {
+      "message": "Konuşmacı adını girin"
+   },
+   "enterVoice": {
+      "message": "Ses adını girin"
+   },
+   "error": {
+      "message": "Hata"
+   },
+   "female": {
+      "message": "Kadın"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Firefox eklenti sayfasını açıyor, kısayolları ayarlayın"
+   },
+   "free": {
+      "message": "Ücretsiz"
+   },
+   "freeForVip": {
+      "message": "Üyelere ücretsiz"
+   },
+   "freeOptionTipText": {
+      "message": "Kota eklemek istemezseniz, ücretsiz seçeneği seçin,"
+   },
+   "freeUserDailyLimit": {
+      "message": "Ücretsiz kullanıcılar eklenti aracılığıyla günde en fazla 5 video izleyebilir. Sınırsız izleme avantajlarının kilidini açmak için üyeliğe yükseltin."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Bu videoda yerleşik altyazı yok. Altyazı tanıma için lütfen eklenti üyeliğine abone olun ve çeviri ve dublaj özelliklerinin keyfini çıkarın."
+   },
+   "gender": {
+      "message": "Cinsiyet"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Bu dil için henüz kişisel terim yok."
+   },
+   "glossaryCreateButton": {
+      "message": "Kişisel terim ekle"
+   },
+   "glossaryDescription": {
+      "message": "Kaynak terimler için sabit çeviriler belirleyin (örneğin Stratagem). Terimleriniz yerleşik sözlüğe göre önceliklidir."
+   },
+   "glossaryEditTitle": {
+      "message": "Kişisel terimi düzenle"
+   },
+   "glossaryEditorDescription": {
+      "message": "Yalnızca kişisel sözlük terimleri eklenebilir, düzenlenebilir, etkinleştirilebilir veya silinebilir."
+   },
+   "glossarySearchEmpty": {
+      "message": "Eşleşen terim yok."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Kaynak terimlerde ara"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Kaynak terim"
+   },
+   "glossarySourceTerm": {
+      "message": "Kaynak terim"
+   },
+   "glossaryTableTitle": {
+      "message": "Geçerli dilin terimleri"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Zorunlu çeviri"
+   },
+   "glossaryTargetTerm": {
+      "message": "Çeviri"
+   },
+   "glossaryTitle": {
+      "message": "Terim sözlüğü"
+   },
+   "hideUntilNextVisit": {
+      "message": "Bir sonraki ziyarete kadar gizle"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Video içeriği şifresi çözülemedi. Şifreleme anahtarı yanlış olabilir veya video formatı uyumlu değil."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Bu video için şifre çözme anahtarı alınamadı. Video korumalı olabilir veya anahtar sunucusu kullanılamıyor."
+   },
+   "insufficientBalance": {
+      "message": "Bakiyeniz yetersiz, Google çeviriye düşürüldü, AI için kota ekleyin."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Bakiyeniz yetersiz. Lütfen AI çeviri ve Azure TTS kullanmadan önce bakiye yükleyin. Yüklemek istemiyorsanız, Google Translate ve ücretsiz ses türlerine geçebilirsiniz."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "AI çeviri ve Azure TTS kullanmadan önce üyelik ve bakiye yükleyin. Yüklemek istemiyorsanız Google Translate ve ücretsiz ses türlerini seçebilirsiniz."
+   },
+   "insufficientMembership": {
+      "message": "Üyeliğinizin süresi doldu. AI çeviri ve Azure TTS kullanmadan önce üyelik yükleyin. Yüklemek istemiyorsanız Google Translate ve ücretsiz ses türlerini seçebilirsiniz."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Başka bir tarayıcı eklentisi altyazı isteği yakalamayı engelliyor. Çakışan eklentileri devre dışı bırakın, sayfayı yenileyin ve tekrar deneyin."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "Eklenti çakışması algılandı"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Orijinal sesi aç:"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "iOS cihazlarında evrensel seslendirme desteklenmiyor. Lütfen masaüstü tarayıcı kullanın."
+   },
+   "liveStreamNotSupported": {
+      "message": "Canlı yayınlar evrensel dublaj için desteklenmiyor."
+   },
+   "liveVideoNotSupported": {
+      "message": "Canlı video dublajı desteklenmez"
+   },
+   "loading": {
+      "message": "Yükleniyor"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Altyazı ekle"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Altyazı eklenemedi."
+   },
+   "localPlayerAddVideo": {
+      "message": "Video ekle"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Video eklenemedi."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Tüm altyazı bağlantıları kaldırıldı."
+   },
+   "localPlayerAllVideos": {
+      "message": "Tüm videolar"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "İçe aktarılan her videoyu arayın ve yönetin."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Artan; azalan moda geçmek için tıklayın"
+   },
+   "localPlayerAssociate": {
+      "message": "Bağlantı altyazısı"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Altyazıyı bağlayın ve ses dublajı için kullanın"
+   },
+   "localPlayerAssociated": {
+      "message": "Bağlantılı"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "Bu klasörün dışına bağlantı verildi"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "Altyazı bağlantısı kaldırıldı."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "Altyazı bağlantısı kaydedildi."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Altyazı bağlandı ve sesli dublaj için ayarlandı."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Klasörlere geri dön"
+   },
+   "localPlayerClose": {
+      "message": "Kapat"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Geçerli dizin"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Video dublajı"
+   },
+   "localPlayerDelete": {
+      "message": "Silmek"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Video silinemedi."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "{fileName} sil"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "Bu, video ve altyazı bağlantılarını yerel kitaplıktan kaldırır. Diskteki orijinal dosyalar silinmeyecektir."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Bu video silinsin mi?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "Azalan; Artan moda geçmek için tıklayın"
+   },
+   "localPlayerDropHint": {
+      "message": "Videoları veya .srt/.vtt/.ass altyazı dosyalarını buraya bırakın"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Dosyaları içe aktarmak için fareyi bırakın"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "Ses dublajı başlatıldı"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Yerel sesli dublaj başlatılamadı."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "Yerel ses dublaj başladı."
+   },
+   "localPlayerEntryButton": {
+      "message": "Yerel video"
+   },
+   "localPlayerFilterAll": {
+      "message": "Tüm"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Bağlantılı altyazılar olmadan"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Bağlantılı altyazılarla"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Yerel video hızlı işlemleri"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Klasör erişimi mevcut"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "Bir klasörün açılması dosya tanıtıcılarını kaydeder, böylece yenileme sonrasında erişim geri yüklenebilir."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Bu tarayıcı klasörleri açamıyor. Geçici bir içe aktarma için Video ekle/Altyazı ekle seçeneğini kullanın."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} ilişkili altyazılar"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Son oynatılma tarihi: {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Son taranan tarih {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Klasör eylemleri"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "{folderName} kaldırıldı"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Klasörleri, yolları veya dosyaları arayın"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} videolar"
+   },
+   "localPlayerFolders": {
+      "message": "Klasörler"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "İçe aktarılan medyaya klasöre göre göz atın."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Bu yerel videonun bağlantılı bir altyazısı yok. Ücretsiz kullanıcılar henüz yerel videolar için arka plan altyazı tanıma özelliğini kullanamıyor. AI altyazı tanımayı kullanmak için üyeliğinizi yükseltin veya ses dublajına başlamadan önce manuel olarak bir altyazı dosyası yükleyin."
+   },
+   "localPlayerImportComplete": {
+      "message": "{videoCount} videoları ve {subtitleCount} altyazıları içe aktarıldı."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Başlamak için bir klasör açın, videolar ekleyin veya dosyaları bırakın."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Yerel video kütüphanesi"
+   },
+   "localPlayerLibraryView": {
+      "message": "Kitaplık görünümü"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Eşleşen {visibleCount} / toplam {totalCount} klasör"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Eşleşen {visibleCount} / toplam {totalCount} videoları"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Orijinal altyazılar"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Yerel video kütüphanesi / Metin dublajı"
+   },
+   "localPlayerNever": {
+      "message": "Asla"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Klasör aramayı ayarlayın ve tekrar deneyin."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Eşleşen klasör yok"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Yönetilecek altyazı yok"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Aramayı, filtreyi veya sıralamayı ayarlayıp tekrar deneyin."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Eşleşen video yok"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Yeni dosya bulunamadı."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Bağlantılı altyazı yok"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Bu video AI altyazı tanıma için yüklensin mi? Yükleme yalnızca altyazıları tanımak için kullanılır, video tanındıktan hemen sonra silinir ve size e-posta ile bilgi verilir."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Bu videonun altyazısı yok"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Altyazı bağlantılarını ve yerel ses dublajını buradan yönetmek için bir klasör açın veya videolar ekleyin."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Henüz yerel video yok"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Bağlantılı değil"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Şu anda {fileName} oynuyorum"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Klasörü aç"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Klasör açılamadı."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Klasörü aç"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Kenar çubuğunu aç"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Kenar çubuğu açılamadı."
+   },
+   "localPlayerPageTitle": {
+      "message": "Yerel video · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Videoyu oynat"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Sesli dublaj için altyazı seti."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Bu alt başlık zaten \"{fromVideo}\" ile ilişkilendirilmiş. Devam ettiğinizde bu ilişkilendirme kaldırılır ve \"{toVideo}\" ile ilişkilendirilir."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Bu altyazı yeniden bağlansın mı?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Altyazıları tanıma"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Tüm altyazıların bağlantısını kaldır"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Bu videonun yalnızca altyazı bağlantıları kaldırılacaktır. Altyazı dosyası kayıtları silinmeyecektir."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Tüm altyazıların bağlantısı kaldırılsın mı?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Altyazının bağlantısını kaldır"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Klasör kitaplıktan kaldırılamadı."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "Bu, yalnızca bu klasöre ilişkin kitaplık kayıtlarını kaldırır. Diskteki orijinal dosyalar silinmeyecektir."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Bu klasör kitaplıktan kaldırılsın mı?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Kitaplıktan kaldır"
+   },
+   "localPlayerRescanAll": {
+      "message": "Tümünü yeniden tara"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Yerel kitaplık yeniden taranamadı."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Kaydedilen klasör erişimi kullanılamadığından bu klasör yeniden taranamıyor."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Bu klasörü yeniden tarayın"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "URL'de belirtilen video mevcut yerel video kitaplığında değil."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Aynı klasör altyazıları {sameCount} · Bağlantılı {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "Tarama tamamlandı: {addedVideoCount} videolar, {addedSubtitleCount} altyazılar eklendi, {updatedCount} dosyaları güncellendi."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Videoları veya dosya yollarını arayın"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Bu altyazıya bağlantı verilecek bir video seçin"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Ses dublajı için bu altyazıyı kullanın"
+   },
+   "localPlayerSortDuration": {
+      "message": "Video süresi"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Son oynatılan videolar"
+   },
+   "localPlayerSortName": {
+      "message": "Dosya adı"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Ses dublajını başlat"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} bağlantılı altyazılar"
+   },
+   "localPlayerSubtitles": {
+      "message": "Altyazılar"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Bu tarayıcı File System Access API'yi desteklemiyor. Geçici olarak video ve altyazı ekleyebilirsiniz."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Geçici içe aktarma modu"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "İptal"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Metin dublajı - Hedef dil"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Dışa aktar MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "Altyazı içeriği boş olamaz"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Kaydetme başarısız"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Cinsiyet"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Metin dublajı MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Metin dublajı MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Kaydediliyor..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Manuel Giriş"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Manuel Giriş - Metin dublajı"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Hedef dil"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Metin dublajı: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Metin dublajı"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Bu seçim için kullanılabilir ses yok."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Metin dublajı"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "Metin çok uzun. Kısaltıp tekrar deneyin."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Ses"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Ses türü"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "{count} videoları için küçük resimler oluşturuldu."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Küçük resim oluşturulamadı: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Toplam {count} klasör"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Toplam {count} video"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Yükleme iptal edildi."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Ses dublajı için kullanılır"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "{fileName} silindi"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Bu video dosyasına erişim geri yüklenemiyor. Lütfen videoyu tekrar ekleyin."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "Yerel video dosyası okunamıyor. Lütfen videoyu tekrar ekleyin."
+   },
+   "localPlayerVideoList": {
+      "message": "Video listesi"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "Video oynatıcı henüz hazır değil."
+   },
+   "login": {
+      "message": "Login"
+   },
+   "loginAndUsePlugin": {
+      "message": "Önce eklenti simgesine tıklayıp giriş yapın, sonra dublaj kullanın."
+   },
+   "logout": {
+      "message": "Çıkış yap"
+   },
+   "lowBalanceText": {
+      "message": "Bakiyeniz 1$ altında, kesintisiz kullanım için kota ekleyin"
+   },
+   "lowBalanceTitle": {
+      "message": "Düşük bakiye uyarısı"
+   },
+   "male": {
+      "message": "Erkek"
+   },
+   "man": {
+      "message": "Erkek"
+   },
+   "mediaSourceNotDetected": {
+      "message": "Video kaynağı tespit edilemedi. Bu web sitesi desteklenmiyor olabilir."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Şu anda eklentinin arka plandaki AI’ı tarafından tanınan altyazılar kullanılıyor. Çeviri doğru görünmüyorsa, Temel Ayarlar’da altyazı önceliğini platform altyazılarına değiştirin."
+   },
+   "memberFree": {
+      "message": "Üyeler için Ücretsiz"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Bu ses türü yalnızca üyelere özeldir. Ücretsiz kullanmak için yükseltin."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Şu anda ücretsiz ses türüyle dublaj yapıyorsunuz. Azure sesleri daha doğal duyulur; üyeler artık Azure’u sınırsız ve ek kredi yüklemeden kullanabilir."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "Geçerlilik"
+   },
+   "membershipIcon": {
+      "message": "Üyelik simgesi"
+   },
+   "membershipRequired": {
+      "message": "OpenAI çevirisi için önce üye olmanız gerekir."
+   },
+   "membershipRequiredForAI": {
+      "message": "AI çeviri kullanmadan önce üyelik yükleyin. Yüklemek istemiyorsanız Google Translate seçebilirsiniz."
+   },
+   "membershipRequiredTitle": {
+      "message": "Üyelik gerekli"
+   },
+   "metadataNotFound": {
+      "message": "Video meta verileri bulunamadı, lütfen sayfayı yenileyin ve tekrar deneyin"
+   },
+   "multiVideoNotSupported": {
+      "message": "Bu sayfada birden fazla video var. Evrensel dublaj, HLS akışları kullanılırken yalnızca tek videolu sayfaları destekler."
+   },
+   "musicVideoNotSupported": {
+      "message": "Bu bir müzik videosu. Çeviri ve seslendirme desteklenmemektedir."
+   },
+   "name": {
+      "message": "TranslateDub – Yapay Zekâ ile Altyazı Çeviri ve Dublaj | Translate & Dub"
+   },
+   "noAudioTrackFound": {
+      "message": "Ses parçası algılanmadı. Bu video, ses içermeyen yalnızca video gibi görünüyor ve seslendirme tanıma için kullanılamaz."
+   },
+   "noSpeakers": {
+      "message": "Konuşmacı yok"
+   },
+   "noSubtitlesFound": {
+      "message": "Mevcut videoda altyazı yok, çeviri ve dublaj desteklenmiyor"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Kullanılabilir altyazı yok. Lütfen eklentinin bu video için altyazıları tanımasını bekleyin. Tanıma tamamlandığında kayıtlı e-posta adresinize bildirim e-postası gönderilecektir."
+   },
+   "notSupported": {
+      "message": "Desteklenmiyor"
+   },
+   "openBasicSettingsLink": {
+      "message": "Temel Ayarları aç"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Temel"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Telaffuz"
+   },
+   "optionsNavSitesShort": {
+      "message": "Siteler"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Altyazı"
+   },
+   "originalAudio": {
+      "message": "Orijinal ses"
+   },
+   "panelSummaryCollapse": {
+      "message": "Daralt"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Tümünü daralt"
+   },
+   "panelSummaryCopy": {
+      "message": "Kopyala"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Kopyalandı"
+   },
+   "panelSummaryDesc": {
+      "message": "Gelişmiş yapay zeka modelleriyle video içeriğini hızla anlayın"
+   },
+   "panelSummaryError": {
+      "message": "Özet oluşturma başarısız oldu, lütfen tekrar deneyin"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "Mevcut video tanımlanamıyor, lütfen sayfayı yenileyip tekrar deneyin"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "Video özeti yalnızca üyelere özel bir özelliktir, kullanmak için lütfen abone olun"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Bu video için kullanılabilir altyazı yok, özet oluşturulamıyor"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "Özet hizmeti geçici olarak kullanılamıyor, lütfen daha sonra tekrar deneyin"
+   },
+   "panelSummaryExpand": {
+      "message": "Genişlet"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Tümünü genişlet"
+   },
+   "panelSummaryGenerate": {
+      "message": "Özet oluştur"
+   },
+   "panelSummaryGenerating": {
+      "message": "Oluşturuluyor..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Bu video için altyazı bulunmuyor"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Yeniden oluştur"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Yeniden oluşturuluyor..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Öne çıkanlar"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Özet"
+   },
+   "panelSummaryShare": {
+      "message": "Paylaş"
+   },
+   "panelSummaryTitle": {
+      "message": "Video özeti ve taslak"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Altyazı"
+   },
+   "panelTabVideoSummary": {
+      "message": "Özet"
+   },
+   "pauseVideo": {
+      "message": "Videoyu Duraklat"
+   },
+   "pay": {
+      "message": "Öde"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Lütfen videoyu açmak için tıklayın, ardından seslendirme özelliğini kullanın."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Giriş başarılı, eklenti simgesine tıklayın, çeviri dili ve ses seçin."
+   },
+   "preferenceActionFailed": {
+      "message": "İşlem başarısız oldu. Lütfen daha sonra tekrar deneyin."
+   },
+   "preferenceActions": {
+      "message": "İşlemler"
+   },
+   "preferenceAdd": {
+      "message": "Ekle"
+   },
+   "preferenceAllDomains": {
+      "message": "Tüm alanlar"
+   },
+   "preferenceAllStatuses": {
+      "message": "Hepsi"
+   },
+   "preferenceCancel": {
+      "message": "İptal"
+   },
+   "preferenceClearSearch": {
+      "message": "Temizle"
+   },
+   "preferenceDelete": {
+      "message": "Sil"
+   },
+   "preferenceDisabled": {
+      "message": "Devre dışı"
+   },
+   "preferenceDomain": {
+      "message": "Alan"
+   },
+   "preferenceEdit": {
+      "message": "Düzenle"
+   },
+   "preferenceEnabled": {
+      "message": "Etkin"
+   },
+   "preferenceLanguage": {
+      "message": "Dil"
+   },
+   "preferenceLoadFailed": {
+      "message": "Yüklenemedi. Lütfen oturum açıp tekrar deneyin."
+   },
+   "preferenceNextPage": {
+      "message": "Sonraki"
+   },
+   "preferencePageLabel": {
+      "message": "Sayfa {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "Önceki"
+   },
+   "preferenceSave": {
+      "message": "Kaydet"
+   },
+   "preferenceSearch": {
+      "message": "Ara"
+   },
+   "preferenceSource": {
+      "message": "Kaynak"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Yerleşik"
+   },
+   "preferenceSourceUser": {
+      "message": "Kişisel"
+   },
+   "preferenceStatus": {
+      "message": "Durum"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Kapalı"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Etkin"
+   },
+   "preferencesDescription": {
+      "message": "Temel tercihlerinizi burada yönetin."
+   },
+   "preferencesSectionTitle": {
+      "message": "Temel ayarlar"
+   },
+   "preferencesTitle": {
+      "message": "Temel ayarlar"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Bu videoda altyazı yok ve video süresi 3 saati aşıyor, çeviri ve dublaj desteklenmiyor. Lütfen daha kısa bir video veya altyazılı bir video seçin."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Bu videoda altyazı yok ve video özeldir. Eklenti bu video için arka planda altyazı tanıyamaz. Lütfen videoyu herkese açık yapın veya altyazıları manuel olarak ekleyip tekrar deneyin."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Bu telaffuz kuralı silinsin mi?"
+   },
+   "pronunciationEditRule": {
+      "message": "Telaffuz kuralını düzenle"
+   },
+   "pronunciationEditorHint": {
+      "message": "Düzeltilecek sürekli kısmı seçin, ardından telaffuzunu girin."
+   },
+   "pronunciationEmpty": {
+      "message": "Mevcut filtrelerle eşleşen kişisel telaffuz kuralı yok."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Önce eşleşen metni girin"
+   },
+   "pronunciationFineSelection": {
+      "message": "Hassas seçim"
+   },
+   "pronunciationLoading": {
+      "message": "Yükleniyor…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Örneğin: merhaba"
+   },
+   "pronunciationMatchText": {
+      "message": "Eşleşen metin"
+   },
+   "pronunciationMergeUnits": {
+      "message": "Bitişik telaffuzları birleştir"
+   },
+   "pronunciationModifier": {
+      "message": "Ton"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Nötr ton"
+   },
+   "pronunciationNewRule": {
+      "message": "Yeni kural"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Ton {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "olay {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Her bölüm için bir telaffuz ve ton girin. Parçaları gerektiği gibi bölün veya birleştirin."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Bir Pinyin hecesi girin"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "Pinyin hecesi"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Akıllı seçim"
+   },
+   "pronunciationReading": {
+      "message": "Belirtilen telaffuz"
+   },
+   "pronunciationReselect": {
+      "message": "Tekrar seç"
+   },
+   "pronunciationSaving": {
+      "message": "Kaydediliyor…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Eşleşen metni arayın"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Seç"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Düzeltilecek metni seçin"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Seçim ayrıntı düzeyi"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Sürekli metni seçin."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "Kaydedilen konum geri yüklenemez. Kaydetmeden önce metni tekrar seçin."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Seçilen: {text}; olay {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "Düzeltilen kısım en fazla 128 karakter içerebilir."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Çevrilen metin için kişisel telaffuzları ayarlayın. Kurallar yalnızca yerel dublaj için geçerlidir."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Telaffuz"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Telaffuz ayarları"
+   },
+   "pronunciationSplitAt": {
+      "message": "Şurada böl"
+   },
+   "pronunciationStatus": {
+      "message": "Durum"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Hedef dil"
+   },
+   "pronunciationTargetText": {
+      "message": "Düzeltilmiş kısım"
+   },
+   "pronunciationUnitReading": {
+      "message": "Parça başına telaffuz"
+   },
+   "pronunciationUnknownError": {
+      "message": "İşlem başarısız oldu. Lütfen daha sonra tekrar deneyin."
+   },
+   "pronunciationWholeReading": {
+      "message": "Tam telaffuz"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Tam tonlu telaffuzu girin. Her parça için bir ton seçmek üzere bölün."
+   },
+   "rechargeLimit": {
+      "message": "Bakiye + Üyelik"
+   },
+   "replacementCreateButton": {
+      "message": "Kişisel değiştirme ekle"
+   },
+   "replacementDescription": {
+      "message": "AI çevirisinden önce tekrarlanan altyazı tanıma hatalarını düzeltin (örneğin cloud code -> Claude Code)."
+   },
+   "replacementEditTitle": {
+      "message": "Kişisel değiştirmeyi düzenle"
+   },
+   "replacementEditorDescription": {
+      "message": "AI çevirisinden önce yalnızca kişisel metin değiştirmeleri uygulanır."
+   },
+   "replacementEmpty": {
+      "message": "Henüz düzeltme kuralı yok."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Hatalı metin, örneğin cloud code"
+   },
+   "replacementFindText": {
+      "message": "Hatalı metin"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Şununla değiştir, örneğin claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Şununla değiştir"
+   },
+   "replacementSearchEmpty": {
+      "message": "Eşleşen değiştirme yok."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Değiştirmelerde ara"
+   },
+   "replacementTitle": {
+      "message": "Kaynak metindeki hata düzeltmeleri"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Safari > Tercihler > Eklentiler'den kısayol ayarlayın"
+   },
+   "sampleAesNotSupported": {
+      "message": "Bu video, şu anda indirme için desteklenmeyen SAMPLE-AES şifrelemesi kullanıyor."
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "saveFailedText": {
+      "message": "Ayarlar kaydedilemedi, tekrar deneyin"
+   },
+   "saveFailedTitle": {
+      "message": "Kaydetme başarısız"
+   },
+   "saveSuccessText": {
+      "message": "Ayarlar kaydedildi"
+   },
+   "saveSuccessTitle": {
+      "message": "Başarıyla Kaydedildi"
+   },
+   "save_settings": {
+      "message": "Kaydet"
+   },
+   "saving": {
+      "message": "Kaydediliyor..."
+   },
+   "searchSourceLanguage": {
+      "message": "Kaynak dil ara..."
+   },
+   "searchTargetLanguage": {
+      "message": "Hedef dil ara..."
+   },
+   "selectSourceLanguage": {
+      "message": "Kaynak dil seç"
+   },
+   "selectSpeaker": {
+      "message": "Seç"
+   },
+   "selectTargetLanguage": {
+      "message": "Hedef dil seç"
+   },
+   "sex": {
+      "message": "Cinsiyet:"
+   },
+   "shortcutSettings": {
+      "message": "Kısayol ayarları"
+   },
+   "showSubtitle": {
+      "message": "Altyazıyı göster:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Bu site için devre dışı bırak"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Genel olarak devre dışı bırak"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Sonraki ziyarete kadar gizle"
+   },
+   "sidebarReenableHint": {
+      "message": " "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": "'dan yeniden etkinleştirilebilir"
+   },
+   "sidebarSettings": {
+      "message": "Ayarlar"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Etkinleştirildiğinde, altyazı dili hedef dille aynıysa dublaj çeviri yapılmadan doğrudan başlar."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Aynı dilde çeviriyi atla"
+   },
+   "sourceLanguage": {
+      "message": "Kaynak Dil"
+   },
+   "source_languages": {
+      "message": "Kaynak dil:"
+   },
+   "speaker": {
+      "message": "Konuşmacı"
+   },
+   "speakerList": {
+      "message": "Konuşmacı Listesi"
+   },
+   "speakerName": {
+      "message": "Konuşmacı Adı"
+   },
+   "speakersTitle": {
+      "message": "Karakterler"
+   },
+   "startUpload": {
+      "message": "Yüklemeyi Başlat"
+   },
+   "subscribe": {
+      "message": "Üye ol"
+   },
+   "subscriptionRecharge": {
+      "message": "Abonelik"
+   },
+   "subtitleDisplayMode": {
+      "message": "Altyazı modu"
+   },
+   "subtitleEditorExport": {
+      "message": "Dışa aktar"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Manuel Giriş"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Altyazılarım"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Altyazı kaynağı yok (manuel giriş mevcut)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "Kaydetme başarısız oldu. Lütfen daha sonra tekrar deneyin."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Geçerli video tanımlanamıyor. Kaydetme başarısız oldu."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Altyazıları değiştirmek için burayı tıklayın"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Altyazı Kaynağı"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Geçersiz SRT bloğu. Sıra, zaman damgası ve içerik gereklidir."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Her alt başlık en az bir satır metin içermelidir"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "Altyazı içeriği boş olamaz"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "Bitiş zamanı başlangıç ​​zamanından büyük olmalıdır"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Geçersiz SRT sıra numarası biçimi"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "SRT sıra numaraları 1'den başlamalı ve 1'er artmalıdır"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Bazı altyazılarda hoparlör etiketleri bulunur. Tüm altyazılar [speaker] önekini kullanmalıdır."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Geçersiz zaman biçimi. Lütfen inceleyip düzeltin."
+   },
+   "subtitleModeBilingual": {
+      "message": "Çift dilli altyazı"
+   },
+   "subtitleModeOff": {
+      "message": "Altyazı kapalı"
+   },
+   "subtitleModeTranslated": {
+      "message": "Yalnızca çeviri"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Eklenti AI Tanımlı Altyazılar"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "Daha yüksek doğruluk için eklentinin AI konuşma tanıma tarafından oluşturulan altyazılara öncelik verin."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Çeviri için hangi altyazı kaynağına öncelik verileceğini seçin."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Platform Yerleşik Altyazıları"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "Video platformu tarafından sağlanan orijinal altyazılara öncelik verin."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Altyazı Çeviri Önceliği"
+   },
+   "subtitleSize": {
+      "message": "Boyut"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Arka plan rengi"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Arka plan opaklığı"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "siyah"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Mavi"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Camgöbeği"
+   },
+   "subtitleStyleColorGray": {
+      "message": "gri"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "yeşil"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Açık gri"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "macenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "turuncu renk"
+   },
+   "subtitleStyleColorRed": {
+      "message": "kırmızı"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Beyaz"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "sarı"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Özel yazı tipi"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Örneğin: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Özel"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Yok"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Anahat"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Gölge"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Kenar Stili"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "İki dilli"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Stil düzenleme görünümü"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Yalnızca çeviri"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Çeviri stiliyle eşleştir"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Özel"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Varsayılan"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Yazı Tipi"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Yok"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Yazı tipi boyutu"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Yazı tipi ağırlığı"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "İki dilli düzen"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Satır aralığı"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "Ayarlamalar kaydedilecek ve hemen geçerli olacaktır."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Altyazı stili ayarları"
+   },
+   "subtitleStyleOrder": {
+      "message": "Altyazı sırası"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Orijinal üstte"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Çeviri üstte"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Orijinal stil"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Yazı boyutu oranı"
+   },
+   "subtitleStylePosition": {
+      "message": "Konum"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Alt"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Orta"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Üst"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "gerçek zamanlı"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Bu genç adamın büyük bir potansiyeli olduğunu düşünüyordu."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Önizleme"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Varsayılanlara dön"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Altyazı stili"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Ortak arka plan"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Yatay hizalama"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Orta"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Sol"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Sağ"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Yazı tipi rengi"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Çeviri stili"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "Mevcut ayarları kullanır"
+   },
+   "subtitles": {
+      "message": "Altyazı"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Bu videonun altyazıları şu anda YouTube tarafından sınırlandırılıyor. Lütfen daha sonra tekrar deneyin."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Orijinal ve dublaj ses arasında ses ayarlarını değiştir"
+   },
+   "switchModelWarning": {
+      "message": "Video oynarken ses/çeviri değişimi ek ücret alır, kaynaklar boşa gider, bir sonraki videoda değiştirin veya devam edin."
+   },
+   "targetLanguage": {
+      "message": "Hedef Dil"
+   },
+   "target_languages": {
+      "message": "Hedef dil:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Bu video zaten AI altyazı tanıma için işleniyor. Lütfen e-posta bildirimini bekleyin."
+   },
+   "textToSpeech": {
+      "message": "Metin dublajı:"
+   },
+   "textToSpeechToggle": {
+      "message": "Yüzen balon"
+   },
+   "toggleSubtitles": {
+      "message": "Altyazıyı aç/kapa"
+   },
+   "tooExpensive": {
+      "message": "Pahalı"
+   },
+   "translateEngineTipText": {
+      "message": "Çeviri servisini Google'a çevirin"
+   },
+   "translateService": {
+      "message": "Çeviri servisi:"
+   },
+   "translatedAudio": {
+      "message": "Çeviri sesi"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Çeviri metni değiştirmesi ekle"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Çeviri metni değiştirmesi ekle"
+   },
+   "translatedReplacementDescription": {
+      "message": "Tamamlanmış çevirideki sözcükleri veya ifadeleri kişisel kurallarla değiştirin."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Çeviri metni değiştirmesini düzenle"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Yalnızca tamamlanmış çeviri değişir; kaynak metin ve çeviri önbelleği değişmeden kalır."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Henüz çeviri metni değiştirme kuralı yok."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "Devre dışı bırakıldığında kural korunur ancak çevrilmiş metne uygulanmaz."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Çevrilmiş metindeki sözcük veya ifade"
+   },
+   "translatedReplacementFindText": {
+      "message": "Çevrilmiş metin"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Hedef dil"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "Yerine gösterilecek sözcük veya ifade"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Şununla değiştir"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Eşleşen çeviri metni değiştirmesi bulunamadı."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Çevrilmiş metinde ara"
+   },
+   "translatedReplacementTitle": {
+      "message": "Çevrilmiş metindeki değiştirmeler"
+   },
+   "translationDomainAuto": {
+      "message": "Otomotiv"
+   },
+   "translationDomainChess": {
+      "message": "Satranç"
+   },
+   "translationDomainEcommerce": {
+      "message": "E-ticaret"
+   },
+   "translationDomainEducation": {
+      "message": "Eğitim"
+   },
+   "translationDomainFashion": {
+      "message": "Moda"
+   },
+   "translationDomainFinance": {
+      "message": "Finans"
+   },
+   "translationDomainFood": {
+      "message": "Yemek ve mutfak"
+   },
+   "translationDomainGaming": {
+      "message": "Oyun"
+   },
+   "translationDomainGardening": {
+      "message": "Bahçecilik"
+   },
+   "translationDomainGeneral": {
+      "message": "Genel"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Hukuk"
+   },
+   "translationDomainMedical": {
+      "message": "Tıp ve sağlık"
+   },
+   "translationDomainMovies": {
+      "message": "Filmler ve TV"
+   },
+   "translationDomainMusic": {
+      "message": "Müzik"
+   },
+   "translationDomainNews": {
+      "message": "Haberler ve medya"
+   },
+   "translationDomainPets": {
+      "message": "Evcil hayvanlar"
+   },
+   "translationDomainPhotography": {
+      "message": "Fotoğrafçılık"
+   },
+   "translationDomainProgramming": {
+      "message": "Programlama"
+   },
+   "translationDomainSports": {
+      "message": "Spor"
+   },
+   "translationDomainTech": {
+      "message": "Teknoloji"
+   },
+   "translationDomainTravel": {
+      "message": "Seyahat"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 ve kripto"
+   },
+   "translationEngine": {
+      "message": "Çeviri Motoru"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI çevirisi"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Etkinleştirildiğinde AI çevirisi aşağıdaki ayarları kullanır. Devre dışı bırakıldığında mevcut ayarlarınız korunur."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "AI çevirisinde sözlük ve metin değiştirmelerini uygula"
+   },
+   "translationService": {
+      "message": "Çeviri Hizmeti"
+   },
+   "translationServiceTitle": {
+      "message": "Çeviri servisi"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Bu videoda altyazı yok. Deneme üyesi olduğunuz için şu anda altyazı tanıma için sadece 15 dakikadan kısa videolar destekleniyor. Premium üyeler 3 saatten kısa videoları destekler."
+   },
+   "trialMemberModelLimit": {
+      "message": "Deneme üyeleri yalnızca Gemini ve Google Çeviri’yi kullanabilir. Diğer modelleri kullanmak için lütfen üyeliğimize abone olun."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Evrensel dublaj bulut GPU hesaplama gücü gerektirir (yüksek maliyet), yalnızca VIP için."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Mevcut sürümde bu video için evrensel dublaj desteklenmiyor. Destek bir sonraki sürümde planlanıyor. Ayrıntılar için lütfen müşteri hizmetleri ile iletişime geçin."
+   },
+   "unknownError": {
+      "message": "Bilinmeyen bir hata oluştu. Lütfen tekrar deneyin."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Üyeliğe yükseltin; eklenti AI altyazıları arka planda tanıyacaktır. E-posta bildirimi geldikten sonra geri dönüp izleyin; o zaman dublaj düğmesi yeşile döner ve çeviri daha isabetli olur."
+   },
+   "uploadComplete": {
+      "message": "Yükleme tamamlandı"
+   },
+   "uploadFailed": {
+      "message": "Yükleme başarısız"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Altyazı bulunamadı. AI altyazı tanıma için videoyu yüklemek ister misiniz?"
+   },
+   "uploading": {
+      "message": "Yükleniyor"
+   },
+   "uploadingMedia": {
+      "message": "Medya yükleniyor..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Kullanıcı hesabı"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Açıldığında düzenlenen veya yerel olarak yüklenen altyazıları otomatik olarak bölümler. Kapatıldığında özgün bölümlemeyi korur."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Kullanıcı altyazıları için akıllı bölümleme"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Mevcut videoda algılanan alan: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Bu video DRM ile korunuyor ve seslendirme için kullanılamaz."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Bu video 3 saatten uzun. 3 saatten uzun videolar için evrensel dublaj şu anda desteklenmiyor."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Bu özellik için üye olup kota eklemeniz gerekir"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Üyelik ve kota gerekli"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Üye olarak aşağıdaki çeviri servislerini ücretsiz kullanabilirsiniz"
+   },
+   "vipRequiredText": {
+      "message": "Bu özellik için üye olmanız gerekir"
+   },
+   "vipRequiredTitle": {
+      "message": "Üyelik gerekli"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Çeviriyi gemini, deepseek, gpt-3.5 veya claude-3-haiku gibi ücretsiz üye servislerine değiştirin"
+   },
+   "voice": {
+      "message": "Ses"
+   },
+   "voiceSettingsMismatch": {
+      "message": "Ses türü ve ses ayarları eşleşmiyor. Ses ayarlarını yeniden seçmek ve kaydetmek için lütfen ayarlar sayfasına gidin."
+   },
+   "voiceTypeTipText": {
+      "message": "Ses türünü ücretsiz sürüme çevirin"
+   },
+   "voices": {
+      "message": "Ses:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Ses ve Altyazı"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Ses ve altyazı"
+   },
+   "voicesType": {
+      "message": "Ses türü:"
+   },
+   "waitingForRecognition": {
+      "message": "Video başarıyla yüklendi. Yapay zeka altyazı tanıma işlemi devam ediyor. Hazır olduğunda e-posta bildirimi alacaksınız."
+   },
+   "woman": {
+      "message": "Kadın"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Tarayıcınız Zoom kayıt yükleme tanımasını desteklemiyor. Lütfen Chrome/Edge kullanın."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Zoom kaydı indirmesi yasaklandı (403). Lütfen doğrulamayı geçmek için sayfayı oynatın/yenileyin, ardından tekrar deneyin."
+   }
+}

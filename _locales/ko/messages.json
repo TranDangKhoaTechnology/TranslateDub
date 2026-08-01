@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "계정 잔액:"
+   },
+   "advancedSettings": {
+      "message": "고급 설정"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "현재 이 영상에는 AI 자막이 없습니다. 확장 프로그램이 백그라운드에서 인식을 시작했습니다. 첫 번째 더빙 문장이 들리면 페이지를 닫고 이메일 알림을 기다리세요. 준비가 완료되면 더빙 버튼이 초록색으로 바뀌고 번역 품질이 더 좋아집니다."
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS는 회원 전용입니다. 고품질 Azure 음성을 이용하려면 업그레이드하세요."
+   },
+   "back": {
+      "message": "뒤로"
+   },
+   "backToSettings": {
+      "message": "설정으로 돌아가기"
+   },
+   "backToVideoLibrary": {
+      "message": "비디오 라이브러리로 돌아가기"
+   },
+   "backgroundAudio": {
+      "message": "배경음"
+   },
+   "balanceRequiredText": {
+      "message": "계정 잔액이 부족합니다. 이 기능을 사용하려면 충전하세요"
+   },
+   "balanceRequiredTitle": {
+      "message": "잔액 필요"
+   },
+   "balanceRunningLow": {
+      "message": "잔액이 부족해지고 있습니다. 시청 경험이 나빠지지 않도록 미리 충전하실 것을 권장합니다."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "브라우저 확장 프로그램 설정에서 단축키를 구성하세요"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "제외됨"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "모두 비활성화"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "기본 제공 용어 {count}개"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "분야 비활성화됨"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "일치하는 분야가 없습니다."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "분야 검색"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "분야 {count}개"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "기본 제공 분야 세트"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "현재 번역 대상 언어에는 기본 제공 용어집이 없습니다. 개인 용어는 계속 추가할 수 있습니다."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "모두 활성화"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{total}개 중 {enabled}개 활성화"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "분야 관리"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "번역 대상 언어의 기본 제공 용어집 분야를 활성화하거나 비활성화합니다."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "기본 제공 분야 세트 관리"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "내장 규칙"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "내장 규칙 {count}개"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "내장 원문 오류 수정 분야를 사용하거나 사용 중지합니다."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "내장 원문 오류 수정 분야 관리"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "cancelButton": {
+      "message": "취소"
+   },
+   "completing": {
+      "message": "완료 중"
+   },
+   "confirmButton": {
+      "message": "계속 저장"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "이 화자를 삭제하시겠습니까?"
+   },
+   "contentMenusTitle": {
+      "message": "더빙 재생 시작"
+   },
+   "corsNotSupported": {
+      "message": "이 웹사이트는 미디어 파일 다운로드를 허용하지 않습니다. 유니버설 더빙이 지원되지 않습니다."
+   },
+   "debugInfo": {
+      "message": "디버그 정보"
+   },
+   "delete": {
+      "message": "삭제"
+   },
+   "deleteSpeaker": {
+      "message": "삭제"
+   },
+   "description": {
+      "message": "원클릭으로 온라인 동영상을 번역·더빙, 외국어를 즉시 이해하고 전 세계 지식을 쉽게 습득"
+   },
+   "disableGlobally": {
+      "message": "전역 비활성화"
+   },
+   "disabledSitesActions": {
+      "message": "작업"
+   },
+   "disabledSitesAdd": {
+      "message": "추가"
+   },
+   "disabledSitesDelete": {
+      "message": "삭제"
+   },
+   "disabledSitesDescription": {
+      "message": "다음 사이트에서는 플로팅 볼이 표시되지 않습니다. 여기에서 비활성화된 사이트를 추가하거나 제거할 수 있습니다."
+   },
+   "disabledSitesDomain": {
+      "message": "도메인"
+   },
+   "disabledSitesEmpty": {
+      "message": "비활성화된 사이트 없음"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "도메인 입력, 예: youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "비활성화된 사이트"
+   },
+   "disabledSitesTitle": {
+      "message": "비활성화된 사이트 관리"
+   },
+   "doNotClosePage": {
+      "message": "업로드 중에 이 페이지를 닫거나 새로 고치지 마세요. 그렇지 않으면 업로드가 중단됩니다."
+   },
+   "doNotShowAgainLink": {
+      "message": "다시 표시하지 않기"
+   },
+   "downloading": {
+      "message": "다운로드 중"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "현재 영상은 아직 전사가 완료되지 않았습니다. Dropbox 영상 하단의 CC 버튼을 클릭하여 자막을 생성해 주세요. 전사가 완료되면 확장 프로그램의 더빙 버튼을 클릭하여 번역과 더빙을 진행하세요."
+   },
+   "dropdownNoOptions": {
+      "message": "사용 가능한 옵션이 없습니다"
+   },
+   "dropdownPlaceholder": {
+      "message": "선택하세요"
+   },
+   "dropdownSearch": {
+      "message": "검색..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "현재 이 페이지에 사용할 수 있는 비디오 또는 오디오가 없습니다. 비디오 로드가 완료된 후 다시 시도하거나 페이지를 새로고침하세요."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "더빙할 수 있는 비디오를 찾을 수 없습니다"
+   },
+   "dubbingSettings": {
+      "message": "더빙 설정"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Edge 확장 프로그램 단축키 설정 페이지를 열고 있습니다"
+   },
+   "edit": {
+      "message": "편집"
+   },
+   "editSpeaker": {
+      "message": "화자 편집"
+   },
+   "emailNotificationDescription": {
+      "message": "자막 인식이 완료되면 이메일로 알려주세요."
+   },
+   "emailNotificationLabel": {
+      "message": "이메일 알림"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "저장에 실패했습니다. 잠시 후 다시 시도해 주세요."
+   },
+   "enterSpeakerName": {
+      "message": "화자 이름 입력"
+   },
+   "enterVoice": {
+      "message": "음성 이름 입력"
+   },
+   "error": {
+      "message": "오류"
+   },
+   "female": {
+      "message": "여성"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "Firefox 부가 기능 페이지를 열고 있습니다. 확장 프로그램 및 테마에서 단축키를 설정하세요"
+   },
+   "free": {
+      "message": "무료"
+   },
+   "freeForVip": {
+      "message": "VIP무료"
+   },
+   "freeOptionTipText": {
+      "message": "충전하고 싶지 않다면 무료 옵션을 선택할 수 있습니다. "
+   },
+   "freeUserDailyLimit": {
+      "message": "무료 사용자는 플러그인을 통해 하루 최대 5개의 동영상을 시청할 수 있습니다. 멤버십으로 업그레이드하여 무제한 시청 혜택을 누리세요."
+   },
+   "freeUserNoSubtitles": {
+      "message": "이 동영상에는 내장 자막이 없습니다. 자막 인식을 위해 플러그인 멤버십에 가입하여 번역 및 더빙 기능을 이용해 주세요."
+   },
+   "gender": {
+      "message": "성별"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "이 언어에 등록된 개인 용어가 아직 없습니다."
+   },
+   "glossaryCreateButton": {
+      "message": "개인 용어 추가"
+   },
+   "glossaryDescription": {
+      "message": "원문 용어의 번역을 고정합니다(예: Stratagem). 개인 용어가 기본 제공 용어집보다 우선합니다."
+   },
+   "glossaryEditTitle": {
+      "message": "개인 용어 편집"
+   },
+   "glossaryEditorDescription": {
+      "message": "개인 용어집의 용어만 추가, 편집, 활성화 또는 삭제할 수 있습니다."
+   },
+   "glossarySearchEmpty": {
+      "message": "일치하는 용어가 없습니다."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "원문 용어 검색"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "원문 용어"
+   },
+   "glossarySourceTerm": {
+      "message": "원문 용어"
+   },
+   "glossaryTableTitle": {
+      "message": "현재 언어의 용어"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "지정 번역"
+   },
+   "glossaryTargetTerm": {
+      "message": "번역"
+   },
+   "glossaryTitle": {
+      "message": "용어집"
+   },
+   "hideUntilNextVisit": {
+      "message": "다음 방문 시까지 숨기기"
+   },
+   "hlsDecryptionFailed": {
+      "message": "동영상 콘텐츠 복호화에 실패했습니다. 암호화 키가 올바르지 않거나 동영상 형식이 호환되지 않을 수 있습니다."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "이 동영상의 복호화 키를 가져오는 데 실패했습니다. 동영상이 보호되어 있거나 키 서버를 사용할 수 없습니다."
+   },
+   "insufficientBalance": {
+      "message": "잔액이 부족하여 Google 번역으로 다운그레이드되었습니다. AI 번역을 사용하려면 크레딧을 충전하십시오."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "잔액이 부족합니다. AI 번역과 Azure TTS를 사용하기 전에 잔액을 충전해 주세요. 충전하고 싶지 않으시다면 Google 번역과 무료 음성 유형으로 전환할 수 있습니다."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "AI 번역과 Azure TTS를 사용하기 전에 멤버십과 잔액을 충전하세요. 충전하고 싶지 않다면 Google 번역과 무료 음성 유형을 선택할 수도 있습니다."
+   },
+   "insufficientMembership": {
+      "message": "멤버십이 만료되었습니다. AI 번역과 Azure TTS를 사용하기 전에 멤버십을 충전하세요. 충전하고 싶지 않다면 Google 번역과 무료 음성 유형을 선택할 수도 있습니다."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "다른 브라우저 확장 프로그램이 자막 요청 가로채기를 차단하고 있습니다. 충돌하는 확장 프로그램을 비활성화한 뒤 페이지를 새로고침하고 다시 시도하세요."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "확장 프로그램 충돌이 감지되었습니다"
+   },
+   "iosOpenOriginVolume": {
+      "message": "원음 켜기"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "iOS 기기에서는 유니버설 더빙이 지원되지 않습니다. 데스크톱 브라우저를 이용해 주세요."
+   },
+   "liveStreamNotSupported": {
+      "message": "라이브 스트림은 유니버설 더빙을 지원하지 않습니다."
+   },
+   "liveVideoNotSupported": {
+      "message": "라이브 비디오는 현재 더빙을 지원하지 않습니다"
+   },
+   "loading": {
+      "message": "로딩 중"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "자막 추가"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "자막을 추가하지 못했습니다."
+   },
+   "localPlayerAddVideo": {
+      "message": "비디오 추가"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "동영상을 추가하지 못했습니다."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "모든 자막 링크가 제거되었습니다."
+   },
+   "localPlayerAllVideos": {
+      "message": "모든 동영상"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "가져온 모든 비디오를 검색하고 관리합니다."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "오름차순; 내림차순으로 전환하려면 클릭하세요."
+   },
+   "localPlayerAssociate": {
+      "message": "자막 연결"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "자막을 링크해 음성 더빙에 활용하세요"
+   },
+   "localPlayerAssociated": {
+      "message": "연결됨"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "이 폴더 외부에 링크됨"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "자막 링크가 삭제되었습니다."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "자막 링크가 저장되었습니다."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "자막이 연결되고 음성 더빙용으로 설정되었습니다."
+   },
+   "localPlayerBackToFolders": {
+      "message": "폴더로 돌아가기"
+   },
+   "localPlayerClose": {
+      "message": "닫기"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "현재 디렉터리"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "동영상 더빙"
+   },
+   "localPlayerDelete": {
+      "message": "삭제"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "동영상을 삭제하지 못했습니다."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "{fileName} 삭제"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "이렇게 하면 로컬 라이브러리에서 비디오 및 자막 링크가 제거됩니다. 디스크에 있는 원본 파일은 삭제되지 않습니다."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "이 동영상을 삭제하시겠습니까?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "내림차순; 오름차순으로 전환하려면 클릭하세요."
+   },
+   "localPlayerDropHint": {
+      "message": "여기에 비디오 또는 .srt/.vtt/.ass 자막 파일을 드롭하세요."
+   },
+   "localPlayerDropOverlay": {
+      "message": "파일을 가져오려면 마우스를 놓습니다."
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "음성 더빙이 시작되었습니다"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "로컬 음성 더빙을 시작하지 못했습니다."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "로컬 음성 더빙이 시작되었습니다."
+   },
+   "localPlayerEntryButton": {
+      "message": "로컬 비디오"
+   },
+   "localPlayerFilterAll": {
+      "message": "모두"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "연결된 자막 없음"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "연결된 자막 포함"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "로컬 비디오 빠른 작업"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "폴더 접근 가능"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "폴더를 열면 파일 핸들이 저장되므로 새로 고친 후 액세스를 복원할 수 있습니다."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "이 브라우저는 폴더를 열 수 없습니다. 임시 가져오기를 위해서는 비디오 추가/자막 추가를 사용하세요."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} 관련 자막"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "마지막으로 재생된 날짜: {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "마지막 스캔 {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "폴더 작업"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "{folderName}이(가) 제거되었습니다."
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "폴더, 경로 또는 파일 검색"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} 동영상"
+   },
+   "localPlayerFolders": {
+      "message": "폴더"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "가져온 미디어를 폴더별로 찾아보세요."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "이 로컬 동영상에는 연결된 자막이 없습니다. 무료 사용자는 아직 로컬 비디오에 대한 배경 자막 인식을 사용할 수 없습니다. AI 자막 인식을 사용하려면 멤버십을 업그레이드하거나, 음성 더빙을 시작하기 전에 수동으로 자막 파일을 업로드하세요."
+   },
+   "localPlayerImportComplete": {
+      "message": "{videoCount} 동영상과 {subtitleCount} 자막을 가져왔습니다."
+   },
+   "localPlayerInitialStatus": {
+      "message": "폴더를 열고, 비디오를 추가하거나, 파일을 끌어서 시작하세요."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "로컬 비디오 라이브러리"
+   },
+   "localPlayerLibraryView": {
+      "message": "라이브러리 보기"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "일치하는 {visibleCount} / 총 {totalCount} 폴더"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "일치하는 {visibleCount} / 총 {totalCount} 동영상"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "원본 자막"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "로컬 비디오 라이브러리 / 텍스트 음성 변환"
+   },
+   "localPlayerNever": {
+      "message": "안함"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "폴더 검색을 조정하고 다시 시도하세요."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "일치하는 폴더가 없습니다."
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "관리할 자막이 없습니다."
+   },
+   "localPlayerNoMatchesText": {
+      "message": "검색, 필터 또는 정렬을 조정하고 다시 시도하세요."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "일치하는 동영상 없음"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "새 파일을 찾을 수 없습니다."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "연결된 자막 없음"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "AI 자막 인식을 위해 이 영상을 업로드하시겠습니까? 업로드된 영상은 자막 인식을 위해서만 사용되며, 영상은 인식 후 즉시 삭제되며, 이메일로 안내해 드립니다."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "이 영상에는 자막이 없습니다"
+   },
+   "localPlayerNoVideosText": {
+      "message": "여기에서 폴더를 열거나 비디오를 추가하여 자막 링크와 로컬 음성 더빙을 관리하세요."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "아직 로컬 동영상이 없습니다."
+   },
+   "localPlayerNotAssociated": {
+      "message": "연결되지 않음"
+   },
+   "localPlayerNowPlaying": {
+      "message": "지금 {fileName}을(를) 재생 중입니다"
+   },
+   "localPlayerOpenFolder": {
+      "message": "폴더 열기"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "폴더를 열지 못했습니다."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "폴더 열기"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "사이드바 열기"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "사이드바를 열지 못했습니다."
+   },
+   "localPlayerPageTitle": {
+      "message": "로컬 비디오 · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "비디오 재생"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "음성 더빙용 자막이 설정되었습니다."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "이 자막은 이미 \"{fromVideo}\"과(와) 연결되어 있습니다. 계속하면 해당 연결이 제거되고 \"{toVideo}\"과 연결됩니다."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "이 자막을 다시 바인딩하시겠습니까?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "자막 인식"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "모든 자막 연결 해제"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "이 동영상의 자막 링크만 삭제됩니다. 자막 파일 기록은 삭제되지 않습니다."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "모든 자막을 연결 해제하시겠습니까?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "자막 연결 해제"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "라이브러리에서 폴더를 제거하지 못했습니다."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "이 폴더에 대한 라이브러리 레코드만 제거합니다. 디스크에 있는 원본 파일은 삭제되지 않습니다."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "라이브러리에서 이 폴더를 제거하시겠습니까?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "라이브러리에서 제거"
+   },
+   "localPlayerRescanAll": {
+      "message": "모두 다시 검색"
+   },
+   "localPlayerRescanFailed": {
+      "message": "로컬 라이브러리를 다시 검색하지 못했습니다."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "저장된 폴더에 액세스할 수 없기 때문에 이 폴더를 다시 검색할 수 없습니다."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "이 폴더를 다시 검색하세요."
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "URL에 지정된 비디오가 현재 로컬 비디오 라이브러리에 없습니다."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "동일한 폴더 자막 {sameCount} · 링크됨 {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "스캔 완료: {addedVideoCount} 동영상, {addedSubtitleCount} 자막이 추가되고 {updatedCount} 파일이 업데이트되었습니다."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "비디오 또는 파일 경로 검색"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "이 자막에 연결할 동영상을 선택하세요."
+   },
+   "localPlayerSetForDubbing": {
+      "message": "음성 더빙에 이 자막을 사용하세요"
+   },
+   "localPlayerSortDuration": {
+      "message": "비디오 길이"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "최근 재생한 동영상"
+   },
+   "localPlayerSortName": {
+      "message": "파일 이름"
+   },
+   "localPlayerStartDubbing": {
+      "message": "음성 더빙 시작"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} 연결된 자막"
+   },
+   "localPlayerSubtitles": {
+      "message": "자막"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "이 브라우저는 File System Access API을 지원하지 않습니다. 일시적으로 영상과 자막을 추가할 수 있습니다."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "임시 가져오기 모드"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "취소"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "텍스트 음성 변환 - 대상 언어"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "내보내기 MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "자막 내용은 비워둘 수 없습니다."
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "저장 실패"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "성별"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "텍스트 음성 변환 MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "텍스트 음성 변환 MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "저장 중..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "수동 입력"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "수동 입력 - 텍스트 음성 변환"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "대상 언어"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "텍스트 음성 변환: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "텍스트 음성 변환"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "이 선택에 사용할 수 있는 음성이 없습니다."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "텍스트 음성 변환"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "텍스트가 너무 깁니다. 줄인 후 다시 시도하세요."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "목소리"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "음성 유형"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "{count} 동영상에 대한 미리보기 이미지가 생성되었습니다."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "썸네일 생성 실패: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "총 {count} 폴더"
+   },
+   "localPlayerTotalVideos": {
+      "message": "총 {count} 동영상"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "업로드가 취소되었습니다."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "음성더빙에 사용"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "{fileName} 삭제됨"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "이 비디오 파일에 대한 액세스를 복원할 수 없습니다. 영상을 다시 추가해주세요."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "로컬 비디오 파일을 읽을 수 없습니다. 영상을 다시 추가해주세요."
+   },
+   "localPlayerVideoList": {
+      "message": "비디오 목록"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "비디오 플레이어가 아직 준비되지 않았습니다."
+   },
+   "login": {
+      "message": "로그인"
+   },
+   "loginAndUsePlugin": {
+      "message": "먼저 플러그인 아이콘을 클릭하여 로그인하고, 그런 다음 플러그인을 사용하여 보이스오버 재생을 사용하십시오."
+   },
+   "logout": {
+      "message": "로그아웃"
+   },
+   "lowBalanceText": {
+      "message": "계정 잔액이 $1 미만입니다. 서비스 중단을 방지하기 위해 곧 충전하는 것이 좋습니다"
+   },
+   "lowBalanceTitle": {
+      "message": "낮은 잔액 알림"
+   },
+   "male": {
+      "message": "남성"
+   },
+   "man": {
+      "message": "남자"
+   },
+   "mediaSourceNotDetected": {
+      "message": "비디오 소스를 감지할 수 없습니다. 이 웹사이트는 지원되지 않을 수 있습니다."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "현재 확장 프로그램의 백그라운드 AI가 인식한 자막을 사용하고 있습니다. 번역이 정확하지 않다고 느껴지면 기본 설정에서 자막 우선순위를 플랫폼 자막으로 변경하세요."
+   },
+   "memberFree": {
+      "message": "회원 무료"
+   },
+   "memberFreeRequireMembership": {
+      "message": "이 음성 유형은 회원 전용입니다. 무료로 사용하려면 업그레이드하세요."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "현재 무료 음성 유형으로 더빙 중입니다. Azure 음성은 더 자연스럽게 들리며, 회원은 이제 추가 크레딧 충전 없이 Azure를 무제한으로 사용할 수 있습니다."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "멤버십 만료"
+   },
+   "membershipIcon": {
+      "message": "멤버십 아이콘"
+   },
+   "membershipRequired": {
+      "message": "OpenAI 번역을 사용하기 전에 회원으로 업그레이드하십시오."
+   },
+   "membershipRequiredForAI": {
+      "message": "AI 번역을 사용하기 전에 멤버십을 충전하세요. 충전하고 싶지 않다면 Google 번역을 선택할 수도 있습니다."
+   },
+   "membershipRequiredTitle": {
+      "message": "회원 가입 필요"
+   },
+   "metadataNotFound": {
+      "message": "비디오 메타데이터를 찾을 수 없습니다. 페이지를 새로고침하고 다시 시도해주세요"
+   },
+   "multiVideoNotSupported": {
+      "message": "이 페이지에는 여러 동영상이 있습니다. 유니버설 더빙은 HLS 스트림을 사용할 때 단일 동영상 페이지만 지원합니다."
+   },
+   "musicVideoNotSupported": {
+      "message": "이 동영상은 음악 동영상입니다. 번역 및 더빙이 지원되지 않습니다."
+   },
+   "name": {
+      "message": "TranslateDub – AI 자막 번역 및 더빙 | Translate & Dub"
+   },
+   "noAudioTrackFound": {
+      "message": "오디오 트랙이 감지되지 않았습니다. 이 동영상은 오디오가 없는 비디오 전용 파일로 보이며 더빙 인식에 사용할 수 없습니다."
+   },
+   "noSpeakers": {
+      "message": "화자가 없습니다"
+   },
+   "noSubtitlesFound": {
+      "message": "현재 동영상에는 자막이 없어 번역 및 더빙을 지원하지 않습니다"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "사용 가능한 자막이 없습니다. 플러그인이 이 동영상의 자막을 인식할 때까지 기다려 주세요. 인식이 완료되면 등록된 이메일 주소로 알림 메일을 보내드립니다."
+   },
+   "notSupported": {
+      "message": "지원되지 않음"
+   },
+   "openBasicSettingsLink": {
+      "message": "기본 설정 열기"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "기본"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "발음"
+   },
+   "optionsNavSitesShort": {
+      "message": "사이트"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "자막"
+   },
+   "originalAudio": {
+      "message": "원음성"
+   },
+   "panelSummaryCollapse": {
+      "message": "접기"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "모두 접기"
+   },
+   "panelSummaryCopy": {
+      "message": "복사"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "복사됨"
+   },
+   "panelSummaryDesc": {
+      "message": "최신 AI 모델을 활용하여 영상 내용을 빠르게 파악하세요"
+   },
+   "panelSummaryError": {
+      "message": "요약 생성에 실패했습니다. 다시 시도해 주세요"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "현재 동영상을 식별할 수 없습니다. 페이지를 새로고침한 후 다시 시도해 주세요"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "동영상 요약은 회원 전용 기능입니다. 구독 후 이용해 주세요"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "이 동영상에 사용 가능한 자막이 없어 요약을 생성할 수 없습니다"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "요약 서비스가 일시적으로 이용할 수 없습니다. 나중에 다시 시도해 주세요"
+   },
+   "panelSummaryExpand": {
+      "message": "펼치기"
+   },
+   "panelSummaryExpandAll": {
+      "message": "모두 펼치기"
+   },
+   "panelSummaryGenerate": {
+      "message": "요약 생성"
+   },
+   "panelSummaryGenerating": {
+      "message": "생성 중..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "이 영상에는 사용 가능한 자막이 없습니다"
+   },
+   "panelSummaryReGenerate": {
+      "message": "재생성"
+   },
+   "panelSummaryReGenerating": {
+      "message": "재생성 중..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "하이라이트"
+   },
+   "panelSummarySectionSummary": {
+      "message": "요약"
+   },
+   "panelSummaryShare": {
+      "message": "공유"
+   },
+   "panelSummaryTitle": {
+      "message": "영상 요약 & 개요"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "자막 편집"
+   },
+   "panelTabVideoSummary": {
+      "message": "영상 요약"
+   },
+   "pauseVideo": {
+      "message": "비디오 일시정지"
+   },
+   "pay": {
+      "message": "지불하다"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "비디오를 클릭하여 열고 더빙 기능을 사용하세요."
+   },
+   "postLoginTranslationSettings": {
+      "message": "로그인 성공, 플러그인 ICON을 클릭하면 번역 언어와 음성 목록을 선택할 수 있습니다."
+   },
+   "preferenceActionFailed": {
+      "message": "작업에 실패했습니다. 나중에 다시 시도해 주세요."
+   },
+   "preferenceActions": {
+      "message": "작업"
+   },
+   "preferenceAdd": {
+      "message": "추가"
+   },
+   "preferenceAllDomains": {
+      "message": "모든 분야"
+   },
+   "preferenceAllStatuses": {
+      "message": "모두"
+   },
+   "preferenceCancel": {
+      "message": "취소"
+   },
+   "preferenceClearSearch": {
+      "message": "지우기"
+   },
+   "preferenceDelete": {
+      "message": "삭제"
+   },
+   "preferenceDisabled": {
+      "message": "비활성화"
+   },
+   "preferenceDomain": {
+      "message": "분야"
+   },
+   "preferenceEdit": {
+      "message": "편집"
+   },
+   "preferenceEnabled": {
+      "message": "활성화"
+   },
+   "preferenceLanguage": {
+      "message": "언어"
+   },
+   "preferenceLoadFailed": {
+      "message": "불러오지 못했습니다. 로그인한 후 다시 시도해 주세요."
+   },
+   "preferenceNextPage": {
+      "message": "다음"
+   },
+   "preferencePageLabel": {
+      "message": "{page}페이지"
+   },
+   "preferencePreviousPage": {
+      "message": "이전"
+   },
+   "preferenceSave": {
+      "message": "저장"
+   },
+   "preferenceSearch": {
+      "message": "검색"
+   },
+   "preferenceSource": {
+      "message": "출처"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "기본 제공"
+   },
+   "preferenceSourceUser": {
+      "message": "개인"
+   },
+   "preferenceStatus": {
+      "message": "상태"
+   },
+   "preferenceStatusDisabled": {
+      "message": "꺼짐"
+   },
+   "preferenceStatusEnabled": {
+      "message": "활성화"
+   },
+   "preferencesDescription": {
+      "message": "여기에서 기본 설정을 관리하세요."
+   },
+   "preferencesSectionTitle": {
+      "message": "기본 설정"
+   },
+   "preferencesTitle": {
+      "message": "기본 설정"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "이 동영상에는 자막이 없고 동영상 길이가 3시간을 초과하여 번역 및 더빙을 지원하지 않습니다. 더 짧은 동영상이나 자막이 있는 동영상을 선택해 주세요."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "이 동영상에는 자막이 없고 비공개 동영상입니다. 플러그인은 이 동영상의 자막을 백그라운드에서 인식할 수 없습니다. 동영상을 공개로 변경하거나 자막을 수동으로 추가한 뒤 다시 시도해 주세요."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "이 발음 규칙을 삭제하시겠습니까?"
+   },
+   "pronunciationEditRule": {
+      "message": "발음 규칙 편집"
+   },
+   "pronunciationEditorHint": {
+      "message": "수정하려는 연속부분을 선택한 후 발음을 입력하세요."
+   },
+   "pronunciationEmpty": {
+      "message": "현재 필터와 일치하는 개인 발음 규칙이 없습니다."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "일치하는 텍스트를 먼저 입력하세요."
+   },
+   "pronunciationFineSelection": {
+      "message": "정확한 선택"
+   },
+   "pronunciationLoading": {
+      "message": "로드 중…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "예: 안녕하세요"
+   },
+   "pronunciationMatchText": {
+      "message": "일치하는 텍스트"
+   },
+   "pronunciationMergeUnits": {
+      "message": "인접한 발음 병합"
+   },
+   "pronunciationModifier": {
+      "message": "톤"
+   },
+   "pronunciationNeutralTone": {
+      "message": "뉴트럴톤"
+   },
+   "pronunciationNewRule": {
+      "message": "새로운 규칙"
+   },
+   "pronunciationNumberedTone": {
+      "message": "톤 {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "발생 {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "각 파트의 발음과 성조를 입력하세요. 필요에 따라 부품을 분할하거나 병합합니다."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "병음 음절을 입력하세요."
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "병음 음절"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "현명한 선택"
+   },
+   "pronunciationReading": {
+      "message": "지정된 발음"
+   },
+   "pronunciationReselect": {
+      "message": "다시 선택"
+   },
+   "pronunciationSaving": {
+      "message": "저장 중…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "일치하는 텍스트 검색"
+   },
+   "pronunciationSelectModifier": {
+      "message": "선택"
+   },
+   "pronunciationSelectTarget": {
+      "message": "수정할 텍스트를 선택하세요."
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "선택 세분성"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "연속 텍스트를 선택하세요."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "저장된 위치는 복원할 수 없습니다. 저장하기 전에 텍스트를 다시 선택하세요."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "선택됨: {text}; 발생 {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "수정된 부분은 최대 128자를 포함할 수 있습니다."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "번역된 텍스트에 대한 개인 발음을 설정합니다. 규칙은 로컬 더빙에만 적용됩니다."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "발음"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "발음 설정"
+   },
+   "pronunciationSplitAt": {
+      "message": "분할 위치"
+   },
+   "pronunciationStatus": {
+      "message": "상태"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "대상 언어"
+   },
+   "pronunciationTargetText": {
+      "message": "수정된 부분"
+   },
+   "pronunciationUnitReading": {
+      "message": "파트별 발음"
+   },
+   "pronunciationUnknownError": {
+      "message": "작업이 실패했습니다. 나중에 다시 시도해 주세요."
+   },
+   "pronunciationWholeReading": {
+      "message": "전체 발음"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "완전한 톤의 발음을 입력하세요. 분할하여 각 파트의 톤을 선택하세요."
+   },
+   "rechargeLimit": {
+      "message": "잔액+회원"
+   },
+   "replacementCreateButton": {
+      "message": "개인 치환 추가"
+   },
+   "replacementDescription": {
+      "message": "AI 번역 전에 반복되는 자막 인식 오류(예: cloud code -> Claude Code)를 수정합니다."
+   },
+   "replacementEditTitle": {
+      "message": "개인 치환 편집"
+   },
+   "replacementEditorDescription": {
+      "message": "AI 번역 전에는 개인 텍스트 치환만 적용됩니다."
+   },
+   "replacementEmpty": {
+      "message": "등록된 교정 규칙이 없습니다."
+   },
+   "replacementFindPlaceholder": {
+      "message": "잘못된 텍스트(예: cloud code)"
+   },
+   "replacementFindText": {
+      "message": "잘못된 텍스트"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "바꿀 텍스트(예: claude code)"
+   },
+   "replacementReplaceText": {
+      "message": "바꿀 텍스트"
+   },
+   "replacementSearchEmpty": {
+      "message": "일치하는 치환이 없습니다."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "치환 검색"
+   },
+   "replacementTitle": {
+      "message": "원문 오류 수정"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Safari > 환경설정 > 확장 프로그램에서 단축키를 설정하세요"
+   },
+   "sampleAesNotSupported": {
+      "message": "이 동영상은 SAMPLE-AES 암호화를 사용하여 현재 다운로드를 지원하지 않습니다."
+   },
+   "save": {
+      "message": "저장"
+   },
+   "saveFailedText": {
+      "message": "설정 저장에 실패했습니다. 다시 시도해 주세요"
+   },
+   "saveFailedTitle": {
+      "message": "저장 실패"
+   },
+   "saveSuccessText": {
+      "message": "설정이 저장되었습니다"
+   },
+   "saveSuccessTitle": {
+      "message": "저장 성공"
+   },
+   "save_settings": {
+      "message": "설정 저장"
+   },
+   "saving": {
+      "message": "저장 중..."
+   },
+   "searchSourceLanguage": {
+      "message": "원본 언어 검색..."
+   },
+   "searchTargetLanguage": {
+      "message": "대상 언어 검색..."
+   },
+   "selectSourceLanguage": {
+      "message": "원본 언어 선택"
+   },
+   "selectSpeaker": {
+      "message": "선택"
+   },
+   "selectTargetLanguage": {
+      "message": "대상 언어 선택"
+   },
+   "sex": {
+      "message": "성별:"
+   },
+   "shortcutSettings": {
+      "message": "단축키 설정"
+   },
+   "showSubtitle": {
+      "message": "자막 표시"
+   },
+   "sidebarDisableForSite": {
+      "message": "이 사이트에서 비활성화"
+   },
+   "sidebarDisableGlobally": {
+      "message": "전역 비활성화"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "다음 방문까지 숨기기"
+   },
+   "sidebarReenableHint": {
+      "message": " "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": "에서 다시 활성화할 수 있습니다"
+   },
+   "sidebarSettings": {
+      "message": "설정"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "활성화하면 자막 언어와 대상 언어가 같을 때 번역 없이 바로 더빙을 시작합니다."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "동일 언어일 때 번역 건너뛰기"
+   },
+   "sourceLanguage": {
+      "message": "원본 언어"
+   },
+   "source_languages": {
+      "message": "원본 언어:"
+   },
+   "speaker": {
+      "message": "화자"
+   },
+   "speakerList": {
+      "message": "화자 목록"
+   },
+   "speakerName": {
+      "message": "화자 이름"
+   },
+   "speakersTitle": {
+      "message": "화자"
+   },
+   "startUpload": {
+      "message": "업로드 시작"
+   },
+   "subscribe": {
+      "message": "구독하기"
+   },
+   "subscriptionRecharge": {
+      "message": "구독 & 충전"
+   },
+   "subtitleDisplayMode": {
+      "message": "자막 표시 모드"
+   },
+   "subtitleEditorExport": {
+      "message": "내보내기"
+   },
+   "subtitleEditorManualInput": {
+      "message": "수동 입력"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "내 자막"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "자막 소스 없음(수동 입력 가능)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "저장에 실패했습니다. 나중에 다시 시도해 주세요."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "현재 동영상을 확인할 수 없습니다. 저장에 실패했습니다."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "자막을 전환하려면 여기를 클릭하세요"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "자막 트랙"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "SRT 블록이 잘못되었습니다. 시퀀스, 타임스탬프, 콘텐츠가 필요합니다."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "각 자막에는 텍스트가 한 줄 이상 포함되어야 합니다."
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "자막 내용은 비워둘 수 없습니다."
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "종료 시간은 시작 시간보다 이후여야 합니다."
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "잘못된 SRT 시퀀스 번호 형식"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "SRT 시퀀스 번호는 1부터 시작하여 1씩 증가해야 합니다."
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "일부 자막에는 스피커 태그가 포함되어 있습니다. 모든 자막에는 [speaker] 접두어를 사용해야 합니다."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "시간 형식이 잘못되었습니다. 검토하시고 수정하시기 바랍니다."
+   },
+   "subtitleModeBilingual": {
+      "message": "이중 언어 자막"
+   },
+   "subtitleModeOff": {
+      "message": "자막 끄기"
+   },
+   "subtitleModeTranslated": {
+      "message": "번역만"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "플러그인 AI 인식 자막"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "플러그인 자체 AI 음성 인식으로 생성된 자막을 우선 사용하여 정확도가 더 높습니다."
+   },
+   "subtitlePriorityDescription": {
+      "message": "번역에 사용할 자막 소스의 우선순위를 선택합니다."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "플랫폼 내장 자막"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "비디오 플랫폼에서 제공하는 원본 자막을 우선 사용합니다."
+   },
+   "subtitlePriorityTitle": {
+      "message": "자막 번역 우선순위"
+   },
+   "subtitleSize": {
+      "message": "크기"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "배경색"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "배경 불투명도"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "검정색"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "파란색"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "청록색"
+   },
+   "subtitleStyleColorGray": {
+      "message": "회색"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "녹색"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "연한 회색"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "마젠타"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "오렌지색"
+   },
+   "subtitleStyleColorRed": {
+      "message": "빨간색"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "하얀색"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "노란색"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "맞춤 글꼴"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "예: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "사용자 정의"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "없음"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "윤곽선"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "그림자"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "가장자리 스타일"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "이중 언어 자막"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "스타일 편집 보기"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "번역만"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "번역 스타일 따르기"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "사용자 정의"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "기본"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "글꼴"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "없음"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "글꼴 크기"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "글꼴 두께"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "이중 언어 레이아웃"
+   },
+   "subtitleStyleLineGap": {
+      "message": "줄 간격"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "조정 내용이 저장되고 즉시 적용됩니다."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "자막 스타일 설정"
+   },
+   "subtitleStyleOrder": {
+      "message": "자막 순서"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "원문 먼저"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "번역문 먼저"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "원문 스타일"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "글자 크기 비율"
+   },
+   "subtitleStylePosition": {
+      "message": "자막 위치"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "하단"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "중앙"
+   },
+   "subtitleStylePositionTop": {
+      "message": "상단"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "실시간"
+   },
+   "subtitleStylePreviewText": {
+      "message": "그는 이 젊은이에게 큰 잠재력이 있다고 생각했다."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "미리보기"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "기본값 복원"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "자막 스타일"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "공통 배경"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "가로 정렬"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "가운데"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "왼쪽"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "오른쪽"
+   },
+   "subtitleStyleTextColor": {
+      "message": "글꼴 색상"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "번역 스타일"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "현재 설정 사용"
+   },
+   "subtitles": {
+      "message": "자막"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "이 동영상의 자막은 현재 YouTube에 의해 제한되고 있습니다. 잠시 후 다시 시도해 주세요."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "원본 오디오와 더빙 오디오 간 볼륨 설정 전환"
+   },
+   "switchModelWarning": {
+      "message": "동영상을 재생하는 동안 음성 또는 번역 모델을 전환하면 이미 로드된 리소스가 낭비되어 추가 요금이 부과됩니다. 다음 동영상에서 전환하는 것이 좋습니다. 그래도 계속하려면 계속 진행하여 저장을 클릭하세요."
+   },
+   "targetLanguage": {
+      "message": "대상 언어"
+   },
+   "target_languages": {
+      "message": "대상 언어:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "이 동영상은 이미 AI 자막 인식 처리 중입니다. 이메일 알림을 기다려 주세요."
+   },
+   "textToSpeech": {
+      "message": "텍스트 음성 변환:"
+   },
+   "textToSpeechToggle": {
+      "message": "플로팅 볼"
+   },
+   "toggleSubtitles": {
+      "message": "자막 전환"
+   },
+   "tooExpensive": {
+      "message": "비쌈"
+   },
+   "translateEngineTipText": {
+      "message": "번역 서비스를 Google로 변경"
+   },
+   "translateService": {
+      "message": "번역:"
+   },
+   "translatedAudio": {
+      "message": "번역 음성"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "번역문 치환 추가"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "번역문 치환 추가"
+   },
+   "translatedReplacementDescription": {
+      "message": "번역이 완료된 후 개인 규칙에 따라 번역문의 단어나 구문을 치환합니다."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "번역문 치환 편집"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "완료된 번역문만 변경되며 원문과 번역 캐시는 변경되지 않습니다."
+   },
+   "translatedReplacementEmpty": {
+      "message": "아직 번역문 치환 규칙이 없습니다."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "사용 중지해도 규칙은 보존되지만 번역문에는 적용되지 않습니다."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "번역문에 있는 단어나 구문"
+   },
+   "translatedReplacementFindText": {
+      "message": "번역문"
+   },
+   "translatedReplacementLanguage": {
+      "message": "대상 언어"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "대신 표시할 단어나 구문"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "바꿀 내용"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "일치하는 번역문 치환 규칙이 없습니다."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "번역문 검색"
+   },
+   "translatedReplacementTitle": {
+      "message": "번역문 치환"
+   },
+   "translationDomainAuto": {
+      "message": "자동차"
+   },
+   "translationDomainChess": {
+      "message": "체스"
+   },
+   "translationDomainEcommerce": {
+      "message": "전자상거래"
+   },
+   "translationDomainEducation": {
+      "message": "교육"
+   },
+   "translationDomainFashion": {
+      "message": "패션"
+   },
+   "translationDomainFinance": {
+      "message": "금융"
+   },
+   "translationDomainFood": {
+      "message": "음식 및 요리"
+   },
+   "translationDomainGaming": {
+      "message": "게임"
+   },
+   "translationDomainGardening": {
+      "message": "원예"
+   },
+   "translationDomainGeneral": {
+      "message": "일반"
+   },
+   "translationDomainGolf": {
+      "message": "골프"
+   },
+   "translationDomainLaw": {
+      "message": "법률"
+   },
+   "translationDomainMedical": {
+      "message": "의료 및 건강"
+   },
+   "translationDomainMovies": {
+      "message": "영화 및 TV"
+   },
+   "translationDomainMusic": {
+      "message": "음악"
+   },
+   "translationDomainNews": {
+      "message": "뉴스 및 미디어"
+   },
+   "translationDomainPets": {
+      "message": "반려동물"
+   },
+   "translationDomainPhotography": {
+      "message": "사진"
+   },
+   "translationDomainProgramming": {
+      "message": "프로그래밍"
+   },
+   "translationDomainSports": {
+      "message": "스포츠"
+   },
+   "translationDomainTech": {
+      "message": "기술"
+   },
+   "translationDomainTravel": {
+      "message": "여행"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 및 크립토"
+   },
+   "translationEngine": {
+      "message": "번역 엔진"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI 번역"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "켜면 AI 번역에서 아래 설정을 사용합니다. 꺼도 기존 설정은 그대로 유지됩니다."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "AI 번역에 용어집 및 텍스트 치환 적용"
+   },
+   "translationService": {
+      "message": "번역 서비스"
+   },
+   "translationServiceTitle": {
+      "message": "번역 서비스"
+   },
+   "trialMemberDurationLimit": {
+      "message": "현재 동영상에는 자막이 없습니다. 체험판 회원이므로 현재 15분 이내의 동영상만 자막 인식을 지원합니다. 정식 회원은 3시간 이내의 동영상을 지원합니다."
+   },
+   "trialMemberModelLimit": {
+      "message": "체험 회원은 Gemini와 Google 번역만 사용할 수 있습니다. 다른 모델을 사용하려면 멤버십을 구독해 주세요."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "유니버설 더빙은 클라우드 GPU 연산 능력을 소모합니다(비용이 높음), VIP 전용입니다."
+   },
+   "universalDubbingNotSupported": {
+      "message": "현재 버전에서는 이 동영상의 범용 더빙을 지원하지 않습니다. 다음 버전에서 지원할 예정입니다. 자세한 내용은 고객 서비스에 문의해 주세요."
+   },
+   "unknownError": {
+      "message": "알 수 없는 오류가 발생했습니다. 다시 시도해 주세요."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "멤버십으로 업그레이드하면 플러그인이 백그라운드에서 AI 자막을 인식합니다. 이메일 알림을 받은 후 다시 시청하세요; 그때 더빙 버튼이 초록색으로 바뀌고 번역이 더욱 정확해집니다."
+   },
+   "uploadComplete": {
+      "message": "업로드 완료"
+   },
+   "uploadFailed": {
+      "message": "업로드 실패"
+   },
+   "uploadMediaForRecognition": {
+      "message": "자막을 찾을 수 없습니다. AI 자막 인식을 위해 동영상을 업로드하시겠습니까?"
+   },
+   "uploading": {
+      "message": "업로드 중"
+   },
+   "uploadingMedia": {
+      "message": "미디어 업로드 중..."
+   },
+   "userAccountAriaLabel": {
+      "message": "사용자 계정"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "켜면 편집하거나 로컬에서 업로드한 자막을 자동으로 분할합니다. 끄면 원래 구간을 유지합니다."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "사용자 자막 스마트 분할"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "현재 동영상에서 인식된 분야: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "이 동영상은 DRM으로 보호되어 있어 더빙 기능을 사용할 수 없습니다."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "이 동영상은 3시간을 초과합니다. 3시간을 초과하는 동영상은 현재 유니버설 더빙을 지원하지 않습니다."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "이 기능을 사용하려면 멤버가 되고 충분한 잔액이 있어야 합니다"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "멤버십 및 잔액 필요"
+   },
+   "vipFreeOptionTipText": {
+      "message": "멤버로서 다음 번역 서비스를 무료로 사용할 수 있습니다"
+   },
+   "vipRequiredText": {
+      "message": "이 기능을 사용하려면 멤버가 되어야 합니다"
+   },
+   "vipRequiredTitle": {
+      "message": "멤버십 필요"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "번역 서비스를 gemini, deepseek, gpt-3.5-turbo 또는 claude-3-haiku와 같은 멤버 무료 서비스로 변경"
+   },
+   "voice": {
+      "message": "음성"
+   },
+   "voiceSettingsMismatch": {
+      "message": "음성 유형과 음성 설정이 일치하지 않습니다. 설정 페이지로 이동하여 음성 설정을 다시 선택하고 저장하십시오."
+   },
+   "voiceTypeTipText": {
+      "message": "음성 유형을 무료 버전으로 변경"
+   },
+   "voices": {
+      "message": "목소리:"
+   },
+   "voicesAndSubtitles": {
+      "message": "음성 및 자막"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "음성 및 자막"
+   },
+   "voicesType": {
+      "message": "음성 유형:"
+   },
+   "waitingForRecognition": {
+      "message": "동영상이 성공적으로 업로드되었습니다. AI 자막 인식이 진행 중입니다. 완료되면 이메일로 알려드립니다."
+   },
+   "woman": {
+      "message": "여자"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "브라우저가 Zoom 녹화 업로드 인식을 지원하지 않습니다. Chrome/Edge를 사용해 주세요."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Zoom 녹화 다운로드가 금지되었습니다 (403). 페이지를 재생/새로고침하여 인증을 통과한 후 다시 업로드하세요."
+   }
+}

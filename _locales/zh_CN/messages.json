@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "账户余额:"
+   },
+   "advancedSettings": {
+      "message": "高级设置"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "当前视频暂无 AI 字幕。插件已在后台为您识别。听到第一句配音后可关闭网页，待收到邮件通知再回来观看；届时配音按钮会变为绿色，翻译效果更佳。"
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS 仅会员可用，升级会员即可解锁高品质 Azure 声音。"
+   },
+   "back": {
+      "message": "返回"
+   },
+   "backToSettings": {
+      "message": "返回设置"
+   },
+   "backToVideoLibrary": {
+      "message": "返回视频库"
+   },
+   "backgroundAudio": {
+      "message": "背景音"
+   },
+   "balanceRequiredText": {
+      "message": "您的账户余额不足，请充值后再使用此功能"
+   },
+   "balanceRequiredTitle": {
+      "message": "需要额度"
+   },
+   "balanceRunningLow": {
+      "message": "您的额度即将用完, 为避免在观看过程中有不好的体验，建议提前进行充值。"
+   },
+   "browserShortcutSettingsTip": {
+      "message": "请在浏览器扩展设置中配置快捷键"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "已不使用"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "全部停用"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} 条内置术语"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "领域未启用"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "没有匹配的领域。"
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "搜索领域"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "共 {count} 个领域"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "内置术语领域"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "当前目标语言暂无内置术语，你仍然可以添加个人术语。"
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "全部启用"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "已启用 {enabled} / {total}"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "管理领域"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "按目标语言启用或停用内置术语领域。"
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "管理内置术语领域"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "内置规则"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} 条内置规则"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "启用或停用内置原文错词替换领域。"
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "管理内置原文错词替换领域"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancelButton": {
+      "message": "取消"
+   },
+   "completing": {
+      "message": "完成中"
+   },
+   "confirmButton": {
+      "message": "继续保存"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "确定要删除这个说话人吗？"
+   },
+   "contentMenusTitle": {
+      "message": "开始配音播放"
+   },
+   "corsNotSupported": {
+      "message": "该网站不允许下载媒体文件，无法使用通用配音功能。"
+   },
+   "debugInfo": {
+      "message": "调试信息"
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "deleteSpeaker": {
+      "message": "删除"
+   },
+   "description": {
+      "message": "一键在线翻译配音视频，外语秒懂，全球知识轻松掌握"
+   },
+   "disableGlobally": {
+      "message": "全局禁用"
+   },
+   "disabledSitesActions": {
+      "message": "操作"
+   },
+   "disabledSitesAdd": {
+      "message": "添加"
+   },
+   "disabledSitesDelete": {
+      "message": "删除"
+   },
+   "disabledSitesDescription": {
+      "message": "在以下站点上，悬浮球将不会显示。你可以在此添加或移除禁用的站点。"
+   },
+   "disabledSitesDomain": {
+      "message": "域名"
+   },
+   "disabledSitesEmpty": {
+      "message": "暂无禁用站点"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "输入域名，例如 youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "禁用站点"
+   },
+   "disabledSitesTitle": {
+      "message": "禁用站点管理"
+   },
+   "doNotClosePage": {
+      "message": "请不要关闭或刷新页面，否则上传将会中断。"
+   },
+   "doNotShowAgainLink": {
+      "message": "不再提示"
+   },
+   "downloading": {
+      "message": "下载中"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "当前视频还没有进行字幕转录，请先点击 Dropbox 视频底部的 CC 按钮进行字幕转录；转录完成后，再点击插件的配音按钮进行翻译与配音。"
+   },
+   "dropdownNoOptions": {
+      "message": "没有可用选项"
+   },
+   "dropdownPlaceholder": {
+      "message": "请选择"
+   },
+   "dropdownSearch": {
+      "message": "搜索..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "当前页面暂无可用的视频或音频。请等待视频加载完成后重试，或刷新页面再试。"
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "未找到可配音的视频"
+   },
+   "dubbingSettings": {
+      "message": "配音设置"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "正在为您打开Edge扩展快捷键设置页面"
+   },
+   "edit": {
+      "message": "编辑"
+   },
+   "editSpeaker": {
+      "message": "编辑说话人"
+   },
+   "emailNotificationDescription": {
+      "message": "字幕识别完成后，通过邮件通知我。"
+   },
+   "emailNotificationLabel": {
+      "message": "邮件通知"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "保存失败，请稍后重试。"
+   },
+   "enterSpeakerName": {
+      "message": "请输入说话人姓名"
+   },
+   "enterVoice": {
+      "message": "请输入声音名称"
+   },
+   "error": {
+      "message": "错误"
+   },
+   "female": {
+      "message": "女"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "正在为您打开Firefox附加组件页面，请在'扩展和主题'中设置快捷键"
+   },
+   "free": {
+      "message": "免费"
+   },
+   "freeForVip": {
+      "message": "会员免费"
+   },
+   "freeOptionTipText": {
+      "message": "如果不想充值，您可以选择免费选项，"
+   },
+   "freeUserDailyLimit": {
+      "message": "免费用户每天最多可通过插件观看5个视频，升级会员即可解锁无限观影权益。"
+   },
+   "freeUserNoSubtitles": {
+      "message": "当前视频无自带字幕，请订阅插件会员进行字幕识别，享受翻译配音功能。"
+   },
+   "gender": {
+      "message": "性别"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "当前语言下还没有个人术语，你可以先新增个人术语。"
+   },
+   "glossaryCreateButton": {
+      "message": "新增个人术语"
+   },
+   "glossaryDescription": {
+      "message": "指定原文词汇的固定译法（如 Stratagem → 战备）。你的术语优先于系统内置术语。"
+   },
+   "glossaryEditTitle": {
+      "message": "编辑个人术语"
+   },
+   "glossaryEditorDescription": {
+      "message": "仅个人术语支持新增、编辑、启用和删除。"
+   },
+   "glossarySearchEmpty": {
+      "message": "没有匹配的术语。"
+   },
+   "glossarySearchPlaceholder": {
+      "message": "搜索原文术语"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "原文术语"
+   },
+   "glossarySourceTerm": {
+      "message": "原文术语"
+   },
+   "glossaryTableTitle": {
+      "message": "当前语言术语"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "指定译法"
+   },
+   "glossaryTargetTerm": {
+      "message": "指定译法"
+   },
+   "glossaryTitle": {
+      "message": "术语库"
+   },
+   "hideUntilNextVisit": {
+      "message": "隐藏直到下一次访问"
+   },
+   "hlsDecryptionFailed": {
+      "message": "视频内容解密失败。加密密钥可能不正确或视频格式不兼容。"
+   },
+   "hlsKeyFetchFailed": {
+      "message": "无法获取视频解密密钥。该视频可能受保护或密钥服务器不可用。"
+   },
+   "insufficientBalance": {
+      "message": "您的余额不足,已降级为Google翻译,如需使用AI翻译,请先充值额度。"
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "您的额度不足，请先充值额度，在使用AI翻译和Azure TTS。如果不想充值，也可以切换回谷歌翻译和免费的声音类型。"
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "请先充值会员和额度后才能使用AI翻译和Azure TTS。如果您不想充值，也可以选择谷歌翻译和免费的声音类型。"
+   },
+   "insufficientMembership": {
+      "message": "您的会员到期了。请先充值会员才能使用AI翻译和Azure TTS。如果您不想充值，也可以选择谷歌翻译和免费的声音类型。"
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "其他浏览器扩展正在阻止字幕请求拦截。请禁用冲突扩展，刷新页面后再试一次。"
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "检测到扩展冲突"
+   },
+   "iosOpenOriginVolume": {
+      "message": "开启原声:"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "iOS 设备不支持通用配音功能，请使用桌面浏览器。"
+   },
+   "liveStreamNotSupported": {
+      "message": "直播流不支持通用配音。"
+   },
+   "liveVideoNotSupported": {
+      "message": "直播视频暂不支持配音"
+   },
+   "loading": {
+      "message": "加载中"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "添加字幕"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "添加字幕失败。"
+   },
+   "localPlayerAddVideo": {
+      "message": "添加视频"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "添加视频失败。"
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "已取消全部字幕关联。"
+   },
+   "localPlayerAllVideos": {
+      "message": "全部视频"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "搜索并管理所有已导入视频。"
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "当前正序，点击切换为倒序"
+   },
+   "localPlayerAssociate": {
+      "message": "关联"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "关联并用于配音"
+   },
+   "localPlayerAssociated": {
+      "message": "已关联"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "非同目录已关联"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "字幕关联已取消。"
+   },
+   "localPlayerAssociationSaved": {
+      "message": "字幕已关联。"
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "字幕已关联并设为配音字幕。"
+   },
+   "localPlayerBackToFolders": {
+      "message": "返回文件夹"
+   },
+   "localPlayerClose": {
+      "message": "关闭"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "当前目录"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "视频配音"
+   },
+   "localPlayerDelete": {
+      "message": "删除"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "删除视频失败。"
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "删除 {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "会从本地视频库移除该视频和关联字幕记录，不会删除磁盘上的原始文件。"
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "删除这个视频？"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "当前倒序，点击切换为正序"
+   },
+   "localPlayerDropHint": {
+      "message": "拖拽视频或 .srt/.vtt/.ass 字幕到这里"
+   },
+   "localPlayerDropOverlay": {
+      "message": "松开导入文件"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "配音已启动"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "启动本地配音失败。"
+   },
+   "localPlayerDubbingStarted": {
+      "message": "本地配音已启动。"
+   },
+   "localPlayerEntryButton": {
+      "message": "本地视频"
+   },
+   "localPlayerFilterAll": {
+      "message": "全部"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "未关联字幕"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "已关联字幕"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "本地视频快捷操作"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "文件夹访问可用"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "打开文件夹后会保存文件句柄，刷新页面可继续恢复访问。"
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "当前浏览器不支持打开文件夹，请使用添加视频/添加字幕临时导入。"
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "已关联 {count} 个字幕"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "最近播放 {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "最近扫描 {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "文件夹操作"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "已移除 {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "搜索文件夹、路径或文件"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} 个视频"
+   },
+   "localPlayerFolders": {
+      "message": "文件夹"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "按文件夹浏览已导入的媒体。"
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "当前本地视频还没有关联字幕。免费用户暂不支持后台识别字幕，请升级会员后使用 AI 字幕识别，或手动上传字幕文件后再启动配音。"
+   },
+   "localPlayerImportComplete": {
+      "message": "已导入 {videoCount} 个视频和 {subtitleCount} 个字幕。"
+   },
+   "localPlayerInitialStatus": {
+      "message": "打开文件夹、添加视频或拖拽文件开始。"
+   },
+   "localPlayerLibraryTitle": {
+      "message": "本地视频库"
+   },
+   "localPlayerLibraryView": {
+      "message": "媒体库视图"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "匹配 {visibleCount} / 共 {totalCount} 个文件夹"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "匹配 {visibleCount} / 共 {totalCount} 个视频"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "原生字幕"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "本地播放器分区"
+   },
+   "localPlayerNever": {
+      "message": "从未"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "调整文件夹搜索后再试。"
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "没有匹配的文件夹"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "暂无可管理字幕"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "调整搜索、筛选或排序后再试。"
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "没有匹配的视频"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "没有发现新增文件。"
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "未关联字幕"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "是否上传该视频进行 AI 字幕识别？上传仅用于识别字幕，识别完成后会立刻删除该视频，并通过邮件通知你。"
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "当前视频无字幕"
+   },
+   "localPlayerNoVideosText": {
+      "message": "打开文件夹或添加视频后，会在这里管理字幕关联和本地配音。"
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "还没有本地视频"
+   },
+   "localPlayerNotAssociated": {
+      "message": "未关联"
+   },
+   "localPlayerNowPlaying": {
+      "message": "正在播放 {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "打开文件夹"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "打开文件夹失败。"
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "打开文件夹"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "打开侧边栏"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "打开侧边栏失败。"
+   },
+   "localPlayerPageTitle": {
+      "message": "本地视频 · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "播放"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "已设为配音字幕。"
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "该字幕已关联到「{fromVideo}」。继续会解除原关联，并关联到「{toVideo}」。"
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "重新绑定这个字幕？"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "识别中"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "取消全部关联"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "只会移除这个视频的字幕关联，不会删除字幕文件记录。"
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "取消全部字幕关联？"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "取消关联"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "从媒体库移除文件夹失败。"
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "只会移除此文件夹的媒体库记录，不会删除磁盘上的原始文件。"
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "从媒体库移除此文件夹？"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "从库中移除"
+   },
+   "localPlayerRescanAll": {
+      "message": "重新扫描全部"
+   },
+   "localPlayerRescanFailed": {
+      "message": "重新扫描本地媒体库失败。"
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "保存的文件夹访问权限不可用，无法重新扫描此文件夹。"
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "重新扫描此文件夹"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "URL 指定的视频不在当前本地视频库中。"
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "同目录字幕 {sameCount} 个 · 已关联 {associatedCount} 个"
+   },
+   "localPlayerScanComplete": {
+      "message": "扫描完成：新增 {addedVideoCount} 个视频、{addedSubtitleCount} 个字幕，更新 {updatedCount} 个文件。"
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "搜索视频或路径"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "为字幕选择要关联的视频"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "设为配音字幕"
+   },
+   "localPlayerSortDuration": {
+      "message": "时长"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "最近播放"
+   },
+   "localPlayerSortName": {
+      "message": "文件名"
+   },
+   "localPlayerStartDubbing": {
+      "message": "启动配音"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "已关联 {count} 个字幕"
+   },
+   "localPlayerSubtitles": {
+      "message": "字幕"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "当前浏览器不支持 File System Access API，可临时添加视频和字幕。"
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "临时导入模式"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "清除结果"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} 个字符 · {bytes} 字节"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "将已经是目标语言的单段文本生成 MP3。"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "下载 MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "请输入文本后再生成。"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "生成 MP3 失败。"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "性别"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "生成 MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "MP3 已生成。生成耗时 {seconds} 秒。"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "生成中..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "文本"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "输入要朗读的文本"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "语言"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "建议不超过 {chars} 个字符，且不超过 {bytes} 个 UTF-8 字节。"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "文本配音"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "当前选择没有可用音色。"
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "文本配音"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "文本过长，请缩短后再试。"
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "音色"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "声音类型"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "已生成 {count} 个视频缩略图。"
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "缩略图生成失败：{displayName}（{message}）"
+   },
+   "localPlayerTotalFolders": {
+      "message": "共 {count} 个文件夹"
+   },
+   "localPlayerTotalVideos": {
+      "message": "共 {count} 个视频"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "上传已取消。"
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "用于配音"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "已删除 {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "无法恢复该视频文件访问权限，请重新添加视频。"
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "无法读取本地视频文件，请重新添加视频。"
+   },
+   "localPlayerVideoList": {
+      "message": "视频列表"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "视频播放器还没有准备好。"
+   },
+   "login": {
+      "message": "登录"
+   },
+   "loginAndUsePlugin": {
+      "message": "请先点击插件icon进行登录，然后再使用插件进行配音播放。"
+   },
+   "logout": {
+      "message": "退出登录"
+   },
+   "lowBalanceText": {
+      "message": "您的账户余额低于1美元，建议尽快充值以确保服务正常使用"
+   },
+   "lowBalanceTitle": {
+      "message": "余额不足提醒"
+   },
+   "male": {
+      "message": "男"
+   },
+   "man": {
+      "message": "男"
+   },
+   "mediaSourceNotDetected": {
+      "message": "无法检测到视频源，该网站可能不支持通用配音。"
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "当前使用的是插件后台 AI 识别字幕。如果觉得翻译不准确，可以在基础设置中把字幕优先级改为优先读取平台字幕。"
+   },
+   "memberFree": {
+      "message": "会员免费"
+   },
+   "memberFreeRequireMembership": {
+      "message": "该声音类型仅会员可用，升级会员即可免费使用。"
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "您当前正在使用免费声音进行配音。Azure 声音效果更自然；现在会员可无限制使用 Azure，无需额外充值额度。"
+   },
+   "memberUser": {
+      "message": "会员用户"
+   },
+   "membershipExpires": {
+      "message": "会员到期"
+   },
+   "membershipIcon": {
+      "message": "会员图标"
+   },
+   "membershipRequired": {
+      "message": "在使用OpenAI翻译之前,请先充值为会员。"
+   },
+   "membershipRequiredForAI": {
+      "message": "请先充值会员后才能使用AI翻译。如果您不想充值，也可以选择谷歌翻译。"
+   },
+   "membershipRequiredTitle": {
+      "message": "需要会员权限"
+   },
+   "metadataNotFound": {
+      "message": "未获取到视频元数据，请刷新重试"
+   },
+   "multiVideoNotSupported": {
+      "message": "检测到页面有多个视频，通用配音功能在HLS流模式下仅支持单视频页面。"
+   },
+   "musicVideoNotSupported": {
+      "message": "该视频属于音乐类视频，暂不支持翻译与配音。"
+   },
+   "name": {
+      "message": "TranslateDub – AI字幕翻译与配音 | Translate & Dub"
+   },
+   "noAudioTrackFound": {
+      "message": "未检测到音频轨道，该视频可能是纯视频无声音文件，无法用于配音识别。"
+   },
+   "noSpeakers": {
+      "message": "暂无说话人"
+   },
+   "noSubtitlesFound": {
+      "message": "当前视频没有字幕,不支持进行翻译配音"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "没有可用的字幕。请等待插件为此视频识别字幕。识别完成后会向您注册邮箱发送邮件通知。"
+   },
+   "notSupported": {
+      "message": "不支持"
+   },
+   "openBasicSettingsLink": {
+      "message": "打开基础设置"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "基础"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "发音"
+   },
+   "optionsNavSitesShort": {
+      "message": "站点"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "字幕"
+   },
+   "originalAudio": {
+      "message": "原声"
+   },
+   "panelSummaryCollapse": {
+      "message": "点击收起"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "收起全部"
+   },
+   "panelSummaryCopy": {
+      "message": "复制"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "已复制成功"
+   },
+   "panelSummaryDesc": {
+      "message": "支持最先进的模型，帮助你快速洞察理解视频内容"
+   },
+   "panelSummaryError": {
+      "message": "总结生成失败，请重试"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "无法识别当前视频，请刷新页面后重试"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "视频总结为会员专属功能，请开通会员后使用"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "当前视频无可用字幕，无法生成总结"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "总结服务暂时不可用，请稍后重试"
+   },
+   "panelSummaryExpand": {
+      "message": "点击展开"
+   },
+   "panelSummaryExpandAll": {
+      "message": "展开全部"
+   },
+   "panelSummaryGenerate": {
+      "message": "生成总结"
+   },
+   "panelSummaryGenerating": {
+      "message": "生成中..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "当前视频无字幕"
+   },
+   "panelSummaryReGenerate": {
+      "message": "重新总结"
+   },
+   "panelSummaryReGenerating": {
+      "message": "重新生成中..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "亮点"
+   },
+   "panelSummarySectionSummary": {
+      "message": "总结"
+   },
+   "panelSummaryShare": {
+      "message": "分享"
+   },
+   "panelSummaryTitle": {
+      "message": "视频摘要 & 大纲"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "字幕编辑"
+   },
+   "panelTabVideoSummary": {
+      "message": "视频总结"
+   },
+   "pauseVideo": {
+      "message": "暂停视频"
+   },
+   "pay": {
+      "message": "支付"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "请先点击视频打开后，再使用配音功能。"
+   },
+   "postLoginTranslationSettings": {
+      "message": "登录成功，点击插件ICON，可以选择翻译语言和声音列表。"
+   },
+   "preferenceActionFailed": {
+      "message": "操作失败，请稍后重试。"
+   },
+   "preferenceActions": {
+      "message": "操作"
+   },
+   "preferenceAdd": {
+      "message": "添加"
+   },
+   "preferenceAllDomains": {
+      "message": "全部领域"
+   },
+   "preferenceAllStatuses": {
+      "message": "全部"
+   },
+   "preferenceCancel": {
+      "message": "取消"
+   },
+   "preferenceClearSearch": {
+      "message": "清除"
+   },
+   "preferenceDelete": {
+      "message": "删除"
+   },
+   "preferenceDisabled": {
+      "message": "禁用"
+   },
+   "preferenceDomain": {
+      "message": "领域"
+   },
+   "preferenceEdit": {
+      "message": "编辑"
+   },
+   "preferenceEnabled": {
+      "message": "启用"
+   },
+   "preferenceLanguage": {
+      "message": "语言"
+   },
+   "preferenceLoadFailed": {
+      "message": "加载失败，请确认已登录后重试。"
+   },
+   "preferenceNextPage": {
+      "message": "下一页"
+   },
+   "preferencePageLabel": {
+      "message": "第 {page} 页"
+   },
+   "preferencePreviousPage": {
+      "message": "上一页"
+   },
+   "preferenceSave": {
+      "message": "保存"
+   },
+   "preferenceSearch": {
+      "message": "搜索"
+   },
+   "preferenceSource": {
+      "message": "来源"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "内置"
+   },
+   "preferenceSourceUser": {
+      "message": "个人"
+   },
+   "preferenceStatus": {
+      "message": "状态"
+   },
+   "preferenceStatusDisabled": {
+      "message": "已停用"
+   },
+   "preferenceStatusEnabled": {
+      "message": "已启用"
+   },
+   "preferencesDescription": {
+      "message": "在这里管理基础偏好设置。"
+   },
+   "preferencesSectionTitle": {
+      "message": "基本设置"
+   },
+   "preferencesTitle": {
+      "message": "基本设置"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "该视频无字幕，且视频时长超过3小时，暂不支持翻译与配音。请选择较短的视频或有字幕的视频。"
+   },
+   "privateVideoNoSubtitles": {
+      "message": "当前视频无字幕，且该视频为私享视频，插件无法在后台为您识别字幕。请将视频调整为非公开，或者人工为该视频添加字幕后重试。"
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "确定删除这条发音规则吗？"
+   },
+   "pronunciationEditRule": {
+      "message": "编辑发音规则"
+   },
+   "pronunciationEditorHint": {
+      "message": "选择匹配文字中需要纠正的连续部分，再填写指定读法。"
+   },
+   "pronunciationEmpty": {
+      "message": "当前筛选条件下暂无个人发音规则。"
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "请先输入匹配文字"
+   },
+   "pronunciationFineSelection": {
+      "message": "逐字精细"
+   },
+   "pronunciationLoading": {
+      "message": "加载中…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "例如：行行好"
+   },
+   "pronunciationMatchText": {
+      "message": "匹配文字"
+   },
+   "pronunciationMergeUnits": {
+      "message": "合并相邻读法"
+   },
+   "pronunciationModifier": {
+      "message": "声调"
+   },
+   "pronunciationNeutralTone": {
+      "message": "轻声"
+   },
+   "pronunciationNewRule": {
+      "message": "新建规则"
+   },
+   "pronunciationNumberedTone": {
+      "message": "第 {tone} 声"
+   },
+   "pronunciationOccurrence": {
+      "message": "第 {occurrence} 处"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "每一段填写自己的读法与声调；需要时可继续拆分或合并。"
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "输入拼音音节"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "拼音音节"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "智能选择"
+   },
+   "pronunciationReading": {
+      "message": "指定读法"
+   },
+   "pronunciationReselect": {
+      "message": "重新选择"
+   },
+   "pronunciationSaving": {
+      "message": "保存中…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "搜索匹配文字"
+   },
+   "pronunciationSelectModifier": {
+      "message": "请选择"
+   },
+   "pronunciationSelectTarget": {
+      "message": "选择需要纠正的文字"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "选择粒度"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "请选择连续文字。"
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "旧规则的纠正位置无法定位，请重新选择后再保存。"
+   },
+   "pronunciationSelectionSummary": {
+      "message": "已选择：{text}；第 {occurrence} 处"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "纠正部分最多 128 个字符。"
+   },
+   "pronunciationSettingsDescription": {
+      "message": "为翻译后的文字设置个人读法，仅应用于本地配音。"
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "发音设置"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "发音设置"
+   },
+   "pronunciationSplitAt": {
+      "message": "拆分于"
+   },
+   "pronunciationStatus": {
+      "message": "状态"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "目标语言"
+   },
+   "pronunciationTargetText": {
+      "message": "纠正部分"
+   },
+   "pronunciationUnitReading": {
+      "message": "分段读法"
+   },
+   "pronunciationUnknownError": {
+      "message": "操作失败，请稍后重试。"
+   },
+   "pronunciationWholeReading": {
+      "message": "整体读法"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "整体读法请直接填写包含完整声调的音标；拆分后可为每段单独选择声调。"
+   },
+   "rechargeLimit": {
+      "message": "额度+会员"
+   },
+   "replacementCreateButton": {
+      "message": "新增个人错词替换"
+   },
+   "replacementDescription": {
+      "message": "修正常见字幕识别错误（如 cloud code → Claude Code），在 AI 翻译前自动替换。"
+   },
+   "replacementEditTitle": {
+      "message": "编辑个人错词替换"
+   },
+   "replacementEditorDescription": {
+      "message": "仅个人错词替换会在 AI 翻译前生效。"
+   },
+   "replacementEmpty": {
+      "message": "暂无替换规则。"
+   },
+   "replacementFindPlaceholder": {
+      "message": "原文中的错词，如 cloud code"
+   },
+   "replacementFindText": {
+      "message": "错词"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "替换为，如 claude code"
+   },
+   "replacementReplaceText": {
+      "message": "替换为"
+   },
+   "replacementSearchEmpty": {
+      "message": "没有匹配的错词替换。"
+   },
+   "replacementSearchPlaceholder": {
+      "message": "搜索错词"
+   },
+   "replacementTitle": {
+      "message": "原文错词替换"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "请在Safari浏览器的'Safari菜单 > 偏好设置 > 扩展'中设置快捷键"
+   },
+   "sampleAesNotSupported": {
+      "message": "该视频使用 SAMPLE-AES 加密方式，暂不支持下载。"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "saveFailedText": {
+      "message": "设置保存失败，请重试"
+   },
+   "saveFailedTitle": {
+      "message": "保存失败"
+   },
+   "saveSuccessText": {
+      "message": "设置已保存"
+   },
+   "saveSuccessTitle": {
+      "message": "保存成功"
+   },
+   "save_settings": {
+      "message": "保存设置"
+   },
+   "saving": {
+      "message": "保存中..."
+   },
+   "searchSourceLanguage": {
+      "message": "搜索源语言..."
+   },
+   "searchTargetLanguage": {
+      "message": "搜索目标语言..."
+   },
+   "selectSourceLanguage": {
+      "message": "选择源语言"
+   },
+   "selectSpeaker": {
+      "message": "选择"
+   },
+   "selectTargetLanguage": {
+      "message": "选择目标语言"
+   },
+   "sex": {
+      "message": "性别:"
+   },
+   "shortcutSettings": {
+      "message": "快捷键设置"
+   },
+   "showSubtitle": {
+      "message": "显示字幕:"
+   },
+   "sidebarDisableForSite": {
+      "message": "此网站禁用"
+   },
+   "sidebarDisableGlobally": {
+      "message": "全局禁用"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "隐藏直到下次访问"
+   },
+   "sidebarReenableHint": {
+      "message": "可在"
+   },
+   "sidebarReenableHintSuffix": {
+      "message": "中重新启用"
+   },
+   "sidebarSettings": {
+      "message": "设置"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "开启后，当字幕语言与目标语言一致时，直接配音，不再翻译。"
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "同语言字幕是跳过翻译"
+   },
+   "sourceLanguage": {
+      "message": "源语言"
+   },
+   "source_languages": {
+      "message": "源语言:"
+   },
+   "speaker": {
+      "message": "说话人"
+   },
+   "speakerList": {
+      "message": "说话人列表"
+   },
+   "speakerName": {
+      "message": "说话人姓名"
+   },
+   "speakersTitle": {
+      "message": "说话人"
+   },
+   "startUpload": {
+      "message": "开始上传"
+   },
+   "subscribe": {
+      "message": "订阅会员"
+   },
+   "subscriptionRecharge": {
+      "message": "订阅 & 充值"
+   },
+   "subtitleDisplayMode": {
+      "message": "字幕显示模式"
+   },
+   "subtitleEditorExport": {
+      "message": "导出"
+   },
+   "subtitleEditorManualInput": {
+      "message": "手动输入"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "我的字幕"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "无可用字幕来源（可手动输入）"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "保存失败，请稍后重试"
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "无法识别当前视频，保存失败"
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "点击这里可以切换字幕"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "字幕轨道"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "SRT 块结构错误：至少需要序号、时间和内容"
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "每条字幕至少需要 1 行内容"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "字幕内容不能为空"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "结束时间必须大于开始时间"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "SRT 序号格式错误"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "SRT 序号必须从 1 开始并递增"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "检测到部分字幕带说话人标签，要求全部字幕都带 [speaker] 前缀"
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "时间字段格式错误，请校验并修改"
+   },
+   "subtitleModeBilingual": {
+      "message": "双语字幕"
+   },
+   "subtitleModeOff": {
+      "message": "关闭字幕"
+   },
+   "subtitleModeTranslated": {
+      "message": "仅译文"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "插件 AI 识别字幕"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "优先使用插件自身的 AI 语音识别生成的字幕，准确度更高。"
+   },
+   "subtitlePriorityDescription": {
+      "message": "选择优先使用哪种字幕来源进行翻译。"
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "平台自带字幕"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "优先使用视频平台提供的原始字幕。"
+   },
+   "subtitlePriorityTitle": {
+      "message": "字幕翻译优先级"
+   },
+   "subtitleSize": {
+      "message": "大小"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "背景颜色"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "背景不透明度"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "黑色"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "蓝色"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "青色"
+   },
+   "subtitleStyleColorGray": {
+      "message": "灰色"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "绿色"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "浅灰色"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "洋红色"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "橙色"
+   },
+   "subtitleStyleColorRed": {
+      "message": "红色"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "白色"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "黄色"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "自定义字体"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "例如：PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "自定义"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "无"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "描边"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "阴影"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "字符边缘样式"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "双语字幕"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "样式编辑视图"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "仅译文"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "跟随译文样式"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "自定义"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "默认"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "冬青黑体"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "字体"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "华文仿宋"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "汉仪黝黝体"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "汉仪中黑"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "华文黑体"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "华文楷体"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "兰亭黑"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "无"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "苹方"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "宋体"
+   },
+   "subtitleStyleFontSize": {
+      "message": "字体大小"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "华文宋体"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "娃娃体"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "魏碑"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "字体粗细"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "行楷"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "微软雅黑"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "圆体"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "双语布局"
+   },
+   "subtitleStyleLineGap": {
+      "message": "两行间距"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "调整后会立即保存并生效。"
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "字幕样式设置"
+   },
+   "subtitleStyleOrder": {
+      "message": "字幕顺序"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "原文在上"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "译文在上"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "原文样式"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "字号比例"
+   },
+   "subtitleStylePosition": {
+      "message": "字幕位置"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "底部"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "中部"
+   },
+   "subtitleStylePositionTop": {
+      "message": "顶部"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "实时"
+   },
+   "subtitleStylePreviewText": {
+      "message": "他觉得这个年轻人很有潜力。"
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "预览"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "恢复默认"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "字幕样式"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "共用背景"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "水平对齐"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "居中"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "左对齐"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "右对齐"
+   },
+   "subtitleStyleTextColor": {
+      "message": "字体颜色"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "译文样式"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "沿用当前设置"
+   },
+   "subtitles": {
+      "message": "字幕"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "当前视频字幕被 YouTube 官方限流了，请您稍后再试。"
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "在原音与配音之间切换音量设置"
+   },
+   "switchModelWarning": {
+      "message": "您正在播放视频,切换语音或翻译模型会导致额外扣费,因为已加载的资源将被浪费,建议下1个视频在切换。如仍要继续,请点击继续保存。"
+   },
+   "targetLanguage": {
+      "message": "目标语言"
+   },
+   "target_languages": {
+      "message": "目标语言:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "该视频的AI字幕识别任务已在处理中，请耐心等待邮件通知。"
+   },
+   "textToSpeech": {
+      "message": "文本配音:"
+   },
+   "textToSpeechToggle": {
+      "message": "悬浮球"
+   },
+   "toggleSubtitles": {
+      "message": "开关字幕"
+   },
+   "tooExpensive": {
+      "message": "贵"
+   },
+   "translateEngineTipText": {
+      "message": "将翻译服务改为 Google"
+   },
+   "translateService": {
+      "message": "翻译服务:"
+   },
+   "translatedAudio": {
+      "message": "翻译声"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "新增译文替换"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "新增译文替换"
+   },
+   "translatedReplacementDescription": {
+      "message": "翻译完成后，按个人规则替换译文中的词汇或短语。"
+   },
+   "translatedReplacementEditTitle": {
+      "message": "编辑译文替换"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "仅替换翻译完成后的译文，不修改原文或翻译缓存。"
+   },
+   "translatedReplacementEmpty": {
+      "message": "暂无译文替换规则。"
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "关闭后保留规则，但不会应用到译文。"
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "译文中的词汇或短语"
+   },
+   "translatedReplacementFindText": {
+      "message": "译文内容"
+   },
+   "translatedReplacementLanguage": {
+      "message": "目标语言"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "希望显示的词汇或短语"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "替换为"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "没有匹配的译文替换。"
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "搜索译文内容"
+   },
+   "translatedReplacementTitle": {
+      "message": "译文替换"
+   },
+   "translationDomainAuto": {
+      "message": "汽车"
+   },
+   "translationDomainChess": {
+      "message": "国际象棋"
+   },
+   "translationDomainEcommerce": {
+      "message": "电子商务"
+   },
+   "translationDomainEducation": {
+      "message": "教育"
+   },
+   "translationDomainFashion": {
+      "message": "时尚"
+   },
+   "translationDomainFinance": {
+      "message": "金融"
+   },
+   "translationDomainFood": {
+      "message": "美食与烹饪"
+   },
+   "translationDomainGaming": {
+      "message": "游戏"
+   },
+   "translationDomainGardening": {
+      "message": "园艺"
+   },
+   "translationDomainGeneral": {
+      "message": "通用"
+   },
+   "translationDomainGolf": {
+      "message": "高尔夫"
+   },
+   "translationDomainLaw": {
+      "message": "法律"
+   },
+   "translationDomainMedical": {
+      "message": "医疗与健康"
+   },
+   "translationDomainMovies": {
+      "message": "电影与电视"
+   },
+   "translationDomainMusic": {
+      "message": "音乐"
+   },
+   "translationDomainNews": {
+      "message": "新闻与媒体"
+   },
+   "translationDomainPets": {
+      "message": "宠物"
+   },
+   "translationDomainPhotography": {
+      "message": "摄影"
+   },
+   "translationDomainProgramming": {
+      "message": "编程"
+   },
+   "translationDomainSports": {
+      "message": "体育"
+   },
+   "translationDomainTech": {
+      "message": "科技"
+   },
+   "translationDomainTravel": {
+      "message": "旅行"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 与加密"
+   },
+   "translationEngine": {
+      "message": "翻译引擎"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI 翻译"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "开启后，AI 翻译会使用下方配置；关闭后，已有配置仍会保留。"
+   },
+   "translationRulesEnabledLabel": {
+      "message": "在 AI 翻译中应用术语库与替换规则"
+   },
+   "translationService": {
+      "message": "翻译服务"
+   },
+   "translationServiceTitle": {
+      "message": "翻译服务"
+   },
+   "trialMemberDurationLimit": {
+      "message": "当前视频无字幕,由于您是试用期会员，目前只支持15分钟以内的视频进行字幕识别，正式版会员支持3小时以内的视频"
+   },
+   "trialMemberModelLimit": {
+      "message": "试用期会员仅支持使用 Gemini 和 Google 翻译，如需其他模型，请订阅我们的会员。"
+   },
+   "universalDubbingMemberOnly": {
+      "message": "通用配音需消耗云端GPU算力（成本较高），仅限VIP使用。"
+   },
+   "universalDubbingNotSupported": {
+      "message": "当前版本通用配音暂不支持该视频，计划在下个版本中会支持，详情可以咨询客服"
+   },
+   "unknownError": {
+      "message": "发生未知错误，请重试。"
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "升级会员后，插件会在后台为您识别 AI 字幕。收到邮件通知后再回来观看；届时配音按钮会变为绿色，翻译更精准。"
+   },
+   "uploadComplete": {
+      "message": "上传完成"
+   },
+   "uploadFailed": {
+      "message": "上传失败"
+   },
+   "uploadMediaForRecognition": {
+      "message": "未找到字幕，是否上传视频进行AI字幕识别？"
+   },
+   "uploading": {
+      "message": "上传中"
+   },
+   "uploadingMedia": {
+      "message": "正在上传媒体..."
+   },
+   "userAccountAriaLabel": {
+      "message": "用户账户"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "开启后，对用户编辑或本地上传的字幕自动断句；关闭后保留原始分段。"
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "用户字幕智能断句"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "当前视频识别领域: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "该视频受 DRM 保护，无法使用配音功能。"
+   },
+   "videoDurationExceedsLimit": {
+      "message": "该视频时长超过3小时，通用配音功能暂不支持超过3小时的视频。"
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "您需要成为会员并充值额度才能使用此功能"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "需要会员和额度"
+   },
+   "vipFreeOptionTipText": {
+      "message": "作为会员，您可以免费使用以下翻译服务"
+   },
+   "vipRequiredText": {
+      "message": "您需要成为会员才能使用此功能"
+   },
+   "vipRequiredTitle": {
+      "message": "需要会员"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "更改翻译服务为gemini, deepseek, gpt-3.5-turbo或claude-3-haiku等会员免费服务"
+   },
+   "voice": {
+      "message": "声音"
+   },
+   "voiceSettingsMismatch": {
+      "message": "声音类型和声音角色设置不匹配,请前往设置页重新选择并保存声音设置后再试。"
+   },
+   "voiceTypeTipText": {
+      "message": "将语音类型改为免费版本"
+   },
+   "voices": {
+      "message": "声音:"
+   },
+   "voicesAndSubtitles": {
+      "message": "声音与字幕"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "声音与字幕"
+   },
+   "voicesType": {
+      "message": "声音类型:"
+   },
+   "waitingForRecognition": {
+      "message": "视频上传成功，AI字幕识别正在进行中，完成后会发送邮件通知您。"
+   },
+   "woman": {
+      "message": "女"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "当前浏览器不支持 Zoom 录播上传识别，请使用 Chrome/Edge。"
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "Zoom 录播下载被拒绝（403）。请先在页面正常播放/刷新以通过校验，然后重试上传。"
+   }
+}

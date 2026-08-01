@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@500;600;700&display=swap');
+
+/* ==========================================================================
+   TRANSLATEDUB ULTRA-CLEAN HIGH-CONTRAST DARK UI SYSTEM (PRECISION FIX)
+   ========================================================================== */
+
+/* Base Canvas & Resets */
+html, body, #app {
+  background-color: #130f26 !important;
+  color: #f8fafc !important;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 0;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #181230;
+}
+::-webkit-scrollbar-thumb {
+  background: #7c3aed;
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9333ea;
+}
+
+/* Global High-Contrast Typography */
+h1, h2, h3, h4, h5, h6, .font-bold, .font-semibold, .font-medium {
+  color: #ffffff !important;
+}
+
+.text-black, .text-gray-900, .text-gray-800, .text-gray-700, .text-stone-600 {
+  color: #f8fafc !important;
+}
+
+.text-gray-500, .text-gray-400, .text-black\/60, .text-black\/70, .text-black\/50 {
+  color: #cbd5e1 !important;
+}
+
+.text-black\/40, .text-black\/30 {
+  color: #94a3b8 !important;
+}
+
+.text-violet-600, .text-violet-700, .text-violet-900, .text-purple-500 {
+  color: #c084fc !important;
+}
+
+/* Container Width & Card Padding */
+.w-96 {
+  background-color: #130f26 !important;
+}
+
+/* Cards & Section Boxes */
+.bg-white, .bg-gray-50, .bg-gray-100, .bg-neutral-50, .bg-neutral-100, .bg-\[\#F7F7FA\] {
+  background-color: #1c1633 !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 12px !important;
+  color: #ffffff !important;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25) !important;
+}
+
+/* ==========================================================================
+   DROPDOWN TRIGGERS & SELECT BOXES (SINGLE LINE, ZERO OVERFLOW)
+   ========================================================================== */
+
+.custom-select-trigger, select, input[type="text"], input[type="search"] {
+  background-color: #261f42 !important;
+  border: 1px solid rgba(168, 85, 247, 0.35) !important;
+  border-radius: 8px !important;
+  color: #ffffff !important;
+  height: 32px !important;
+  line-height: 32px !important;
+  padding: 0 8px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  box-sizing: border-box !important;
+}
+
+.custom-select-trigger:hover, select:hover {
+  border-color: #a855f7 !important;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.3) !important;
+}
+
+/* Prevent text wrapping inside select trigger elements */
+.custom-select-trigger span, 
+.custom-select-trigger div, 
+.custom-select-trigger p {
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  display: inline-block !important;
+  max-width: 100% !important;
+  line-height: 1.2 !important;
+  color: #ffffff !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+}
+
+/* Dropdown Arrow Icons */
+.custom-select-trigger svg path, select svg path {
+  fill: #a855f7 !important;
+  fill-opacity: 1 !important;
+}
+
+/* ==========================================================================
+   DROPDOWN POPUP MENU & OPTION ITEMS
+   ========================================================================== */
+
+.custom-dropdown, [role="listbox"] {
+  background-color: #20193a !important;
+  border: 1px solid rgba(168, 85, 247, 0.5) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.6), 0 0 16px rgba(168, 85, 247, 0.25) !important;
+  overflow-y: auto !important;
+  z-index: 9999 !important;
+}
+
+/* Dropdown Option List Items */
+.custom-dropdown > div, 
+.custom-dropdown a, 
+.custom-dropdown button, 
+[role="option"], 
+[role="menuitem"],
+.custom-dropdown .bg-white {
+  background-color: #20193a !important;
+  color: #f1f5f9 !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+
+/* Hovered Option Item */
+.custom-dropdown > div:hover, 
+.custom-dropdown a:hover, 
+.custom-dropdown button:hover, 
+[role="option"]:hover,
+[role="menuitem"]:hover {
+  background-color: #34285c !important;
+  color: #ffffff !important;
+}
+
+/* Active / Selected Option Item */
+.custom-dropdown .bg-purple-50, 
+.custom-dropdown .bg-violet-50, 
+.custom-dropdown .text-violet-700, 
+[role="option"][aria-selected="true"] {
+  background: linear-gradient(135deg, #7c3aed 0%, #6366f1 100%) !important;
+  color: #ffffff !important;
+  font-weight: 600 !important;
+}
+
+.custom-dropdown .bg-purple-50 *, 
+.custom-dropdown .bg-violet-50 *, 
+.custom-dropdown .text-violet-700 * {
+  color: #ffffff !important;
+}
+
+/* ==========================================================================
+   SPEAKER ITEM (NHÂN VẬT / MULTI-SPEAKER ROW FIX)
+   ========================================================================== */
+
+.speaker-item, [data-v-06318c76].speaker-item {
+  background-color: #1c1633 !important;
+  border: 1px solid rgba(168, 85, 247, 0.25) !important;
+  border-radius: 10px !important;
+  height: 42px !important;
+  padding: 4px 8px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 6px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2) !important;
+}
+
+.speaker-item .relative {
+  min-width: 0 !important;
+  flex: 1 !important;
+}
+
+.speaker-item .custom-select-trigger {
+  height: 30px !important;
+  line-height: 30px !important;
+  padding: 0 6px !important;
+}
+
+/* Speaker Item Delete Button */
+.speaker-item button {
+  background: transparent !important;
+  border: none !important;
+  padding: 2px !important;
+  margin: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  opacity: 0.8;
+  transition: all 0.2s ease;
+}
+
+.speaker-item button:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.speaker-item button svg path {
+  fill: #ef4444 !important;
+}
+
+/* ==========================================================================
+   SLIDERS & CONTROL BUTTONS
+   ========================================================================== */
+
+.slider-bg {
+  background-color: #342c54 !important;
+}
+
+.slider-progress {
+  background: linear-gradient(90deg, #a855f7 0%, #6366f1 100%) !important;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.5) !important;
+}
+
+.slider-handle {
+  background-color: #ffffff !important;
+  border: 2px solid #a855f7 !important;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.8), 0 2px 6px rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Buttons */
+.bg-violet-50, .bg-violet-100, .bg-purple-50 {
+  background-color: #2a204d !important;
+  border: 1px solid rgba(168, 85, 247, 0.4) !important;
+  color: #e9d5ff !important;
+}
+
+.bg-violet-50:hover, .bg-violet-100:hover {
+  background-color: #362963 !important;
+  color: #ffffff !important;
+}
+
+.bg-violet-500, .bg-violet-600, .bg-\[\#9554f3\] {
+  background: linear-gradient(135deg, #7c3aed 0%, #9333ea 50%, #6366f1 100%) !important;
+  border: none !important;
+  color: #ffffff !important;
+  font-weight: 700 !important;
+  box-shadow: 0 4px 16px rgba(168, 85, 247, 0.4) !important;
+}
+
+.bg-violet-500:hover, .bg-violet-600:hover, .bg-\[\#9554f3\]:hover {
+  box-shadow: 0 6px 22px rgba(168, 85, 247, 0.6) !important;
+  filter: brightness(1.1) !important;
+}
+
+/* Injected Floating Ball & Subtitles */
+.yd-floating-ball, .custom-play-btn-container {
+  background: linear-gradient(135deg, #a855f7 0%, #6366f1 100%) !important;
+  box-shadow: 0 4px 20px rgba(168, 85, 247, 0.5) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+:where([part=captions] [part=cue]), .ytp-caption-segment-text {
+  background-color: rgba(15, 10, 30, 0.9) !important;
+  color: #ffffff !important;
+  border-radius: 8px !important;
+  border: 1px solid rgba(255, 255, 255, 0.15) !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5) !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8) !important;
+}

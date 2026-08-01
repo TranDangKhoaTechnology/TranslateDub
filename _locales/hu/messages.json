@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "Egyenleg:"
+   },
+   "advancedSettings": {
+      "message": "Speciális beállítások"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "Az AI feliratok még nem elérhetők. A bővítmény elindította a háttérben való felismerést. Miután hallja az első szinkronizált mondatot, bezárhatja az oldalt és várhat az e-mail értesítésre; amikor készen áll, a szinkronizálási gomb zöldre vált és a fordítás minősége jobb lesz."
+   },
+   "azureRequireMembership": {
+      "message": "Az Azure TTS csak tagok számára érhető el. Frissítsen a kiváló minőségű Azure hangok feloldásához."
+   },
+   "back": {
+      "message": "Vissza"
+   },
+   "backToSettings": {
+      "message": "Vissza a beállításokhoz"
+   },
+   "backToVideoLibrary": {
+      "message": "Vissza a videótárhoz"
+   },
+   "backgroundAudio": {
+      "message": "Háttérhang"
+   },
+   "balanceRequiredText": {
+      "message": "A számlaegyenlege nem elegendő. Kérjük, töltse fel a használathoz"
+   },
+   "balanceRequiredTitle": {
+      "message": "Egyenleg szükséges"
+   },
+   "balanceRunningLow": {
+      "message": "Az egyenlege kifogy. A rossz nézési élmény elkerülése érdekében javasoljuk az előzetes feltöltést."
+   },
+   "browserShortcutSettingsTip": {
+      "message": "Kérjük, konfigurálja a gyorsbillentyűket a böngésző bővítmény beállításokban"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "Kizárva"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "Összes letiltása"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "{count} beépített kifejezés"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "Témakör letiltva"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "Nincs egyező témakör."
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "Témakörök keresése"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} témakör"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "Beépített témaköri készletek"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "Az aktuális célnyelvhez nincs beépített szójegyzék. Saját kifejezéseket továbbra is hozzáadhat."
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "Összes engedélyezése"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "{enabled} / {total} engedélyezve"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "Témakörök kezelése"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "A célnyelv beépített szójegyzéktémaköreinek engedélyezése vagy letiltása."
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "Beépített témaköri készletek kezelése"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "Beépített szabály"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "{count} beépített szabály"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "Engedélyezze vagy tiltsa le a forrásszöveg-javítás beépített területeit."
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "A forrásszöveg-javítás beépített területeinek kezelése"
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "cancelButton": {
+      "message": "Mégse"
+   },
+   "completing": {
+      "message": "Befejezés"
+   },
+   "confirmButton": {
+      "message": "Folytatás"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "Biztosan törli ezt a beszélőt?"
+   },
+   "contentMenusTitle": {
+      "message": "Szinkronizálás indítása"
+   },
+   "corsNotSupported": {
+      "message": "Ez a weboldal nem engedélyezi a médiafájlok letöltését. Az univerzális szinkronizálás nem támogatott."
+   },
+   "debugInfo": {
+      "message": "Hibakeresési információ"
+   },
+   "delete": {
+      "message": "Törlés"
+   },
+   "deleteSpeaker": {
+      "message": "Törlés"
+   },
+   "description": {
+      "message": "Videó fordítás és szinkronizálás—értsd a külföldi nyelveket, használd a globális tudást"
+   },
+   "disableGlobally": {
+      "message": "Globális letiltás"
+   },
+   "disabledSitesActions": {
+      "message": "Műveletek"
+   },
+   "disabledSitesAdd": {
+      "message": "Hozzáadás"
+   },
+   "disabledSitesDelete": {
+      "message": "Törlés"
+   },
+   "disabledSitesDescription": {
+      "message": "A lebegő gomb nem jelenik meg a következő webhelyeken. Itt adhat hozzá vagy távolíthat el letiltott webhelyeket."
+   },
+   "disabledSitesDomain": {
+      "message": "Domain"
+   },
+   "disabledSitesEmpty": {
+      "message": "Nincsenek letiltott webhelyek"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "Adja meg a domaint, pl. youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "Letiltott webhelyek"
+   },
+   "disabledSitesTitle": {
+      "message": "Letiltott webhelyek kezelése"
+   },
+   "doNotClosePage": {
+      "message": "Kérjük, ne zárja be és ne frissítse ezt az oldalt feltöltés közben, különben a feltöltés megszakad."
+   },
+   "doNotShowAgainLink": {
+      "message": "Ne jelenjen meg újra"
+   },
+   "downloading": {
+      "message": "Letöltés"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "Ez a videó még nem lett átírva. Kérjük, kattintson a Dropbox videó alján található CC gombra a feliratok átírásához. Az átírás befejeztével kattintson a bővítmény szinkronizálási gombjára a fordításhoz és szinkronizáláshoz."
+   },
+   "dropdownNoOptions": {
+      "message": "Nincsenek elérhető opciók"
+   },
+   "dropdownPlaceholder": {
+      "message": "Kérjük válasszon"
+   },
+   "dropdownSearch": {
+      "message": "Keresés..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "Ezen az oldalon jelenleg nincs használható videó vagy hang. Várja meg, amíg a videó betöltődik, majd próbálja újra, vagy frissítse az oldalt."
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "Nem található szinkronizálható videó"
+   },
+   "dubbingSettings": {
+      "message": "Szinkronizálási beállítások"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "Az Edge bővítmény gyorsbillentyű beállítások oldal megnyitása"
+   },
+   "edit": {
+      "message": "Szerkesztés"
+   },
+   "editSpeaker": {
+      "message": "Szerkesztés"
+   },
+   "emailNotificationDescription": {
+      "message": "Értesítsen e-mailben, amikor a feliratfelismerés befejeződött."
+   },
+   "emailNotificationLabel": {
+      "message": "E-mail értesítések"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "A mentés sikertelen. Próbáld újra később."
+   },
+   "enterSpeakerName": {
+      "message": "Beszélő nevének megadása"
+   },
+   "enterVoice": {
+      "message": "Hang nevének megadása"
+   },
+   "error": {
+      "message": "Hiba"
+   },
+   "female": {
+      "message": "Nő"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "A Firefox kiegészítők oldal megnyitása, kérjük állítsa be a gyorsbillentyűket a Bővítmények és témák menüpontban"
+   },
+   "free": {
+      "message": "Ingyenes"
+   },
+   "freeForVip": {
+      "message": "VIP ingyenes"
+   },
+   "freeOptionTipText": {
+      "message": "Ha nem szeretne feltölteni, választhatja az ingyenes opciót, "
+   },
+   "freeUserDailyLimit": {
+      "message": "Ingyenes felhasználók naponta legfeljebb 5 videót nézhetnek meg a bővítményen keresztül. Frissítsen tagságra a korlátlan nézési előnyök feloldásához."
+   },
+   "freeUserNoSubtitles": {
+      "message": "Ez a videó nem tartalmaz beépített feliratokat. Kérjük, iratkozzon fel a bővítmény tagságra a feliratfelismeréshez és élvezze a fordítási és szinkronizálási funkciókat."
+   },
+   "gender": {
+      "message": "Nem"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "Ehhez a nyelvhez még nincsenek saját kifejezések."
+   },
+   "glossaryCreateButton": {
+      "message": "Saját kifejezés hozzáadása"
+   },
+   "glossaryDescription": {
+      "message": "Rögzített fordításokat adhat meg a forráskifejezésekhez (pl. Stratagem). A saját kifejezések felülírják a beépített szójegyzéket."
+   },
+   "glossaryEditTitle": {
+      "message": "Saját kifejezés szerkesztése"
+   },
+   "glossaryEditorDescription": {
+      "message": "Csak a saját szójegyzék kifejezései adhatók hozzá, szerkeszthetők, engedélyezhetők vagy törölhetők."
+   },
+   "glossarySearchEmpty": {
+      "message": "Nincs egyező kifejezés."
+   },
+   "glossarySearchPlaceholder": {
+      "message": "Keresés a forráskifejezések között"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "Forráskifejezés"
+   },
+   "glossarySourceTerm": {
+      "message": "Forráskifejezés"
+   },
+   "glossaryTableTitle": {
+      "message": "Az aktuális nyelv kifejezései"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "Kötelező fordítás"
+   },
+   "glossaryTargetTerm": {
+      "message": "Fordítás"
+   },
+   "glossaryTitle": {
+      "message": "Szójegyzék"
+   },
+   "hideUntilNextVisit": {
+      "message": "Elrejtés a következő látogatásig"
+   },
+   "hlsDecryptionFailed": {
+      "message": "Nem sikerült visszafejteni a videó tartalmát. A titkosítási kulcs hibás lehet, vagy a videó formátuma nem kompatibilis."
+   },
+   "hlsKeyFetchFailed": {
+      "message": "Nem sikerült lekérni a videó visszafejtési kulcsát. A videó védett lehet, vagy a kulcsszerver nem elérhető."
+   },
+   "insufficientBalance": {
+      "message": "Az elégtelen egyenleg miatt a szolgáltatás visszaminősült a Google Fordítóra. Az AI fordítás használatához kérjük, töltse fel a kreditjét."
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "Az egyenlege nem elegendő. Kérjük, töltse fel az egyenleget az AI fordítás és Azure TTS használata előtt. Ha nem szeretne feltölteni, visszaválthat a Google Fordítóra és az ingyenes hangtípusokra."
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "Kérjük, töltse fel a tagságát és egyenlegét az AI fordítás és Azure TTS használata előtt. Ha nem szeretne feltölteni, választhatja a Google Fordítót és az ingyenes hangtípusokat is."
+   },
+   "insufficientMembership": {
+      "message": "A tagsága lejárt. Kérjük, töltse fel a tagságát az AI fordítás és Azure TTS használata előtt. Ha nem szeretne feltölteni, választhatja a Google Fordítót és az ingyenes hangtípusokat is."
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "Egy másik böngésző bővítmény blokkolja a felirat kérés elfogását. Tiltsa le az ütköző bővítményeket, frissítse az oldalt, majd próbálja újra."
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "Bővítmény konfliktus észlelve"
+   },
+   "iosOpenOriginVolume": {
+      "message": "Eredeti hang bekapcsolása"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "Az univerzális szinkronizálás nem támogatott iOS eszközökön. Kérjük, használjon asztali böngészőt."
+   },
+   "liveStreamNotSupported": {
+      "message": "Az élő közvetítések nem támogatottak az univerzális szinkronizáláshoz."
+   },
+   "liveVideoNotSupported": {
+      "message": "Az élő videók szinkronizálása jelenleg nem támogatott"
+   },
+   "loading": {
+      "message": "betöltés"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "Felirat hozzáadása"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "Nem sikerült hozzáadni a feliratot."
+   },
+   "localPlayerAddVideo": {
+      "message": "Videó hozzáadása"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "Nem sikerült hozzáadni a videót."
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "Minden felirathivatkozás eltávolítva."
+   },
+   "localPlayerAllVideos": {
+      "message": "Minden videó"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "Keressen és kezeljen minden importált videót."
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "Növekvő; kattintson a csökkenőre váltáshoz"
+   },
+   "localPlayerAssociate": {
+      "message": "Link alcím"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "Linkelje a feliratot, és használja hangszinkronizáláshoz"
+   },
+   "localPlayerAssociated": {
+      "message": "Összekapcsolva"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "A mappán kívül van linkelve"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "A felirat linkje eltávolítva."
+   },
+   "localPlayerAssociationSaved": {
+      "message": "A felirat linkje mentve."
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "Felirat csatolva és beállítva hangszinkronizáláshoz."
+   },
+   "localPlayerBackToFolders": {
+      "message": "Vissza a mappákhoz"
+   },
+   "localPlayerClose": {
+      "message": "Bezár"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "Aktuális könyvtár"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "Videószinkron"
+   },
+   "localPlayerDelete": {
+      "message": "Törlés"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "Nem sikerült törölni a videót."
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "Törlés {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "Ez eltávolítja a videó- ​​és felirathivatkozásokat a helyi könyvtárból. A lemezen lévő eredeti fájlok nem törlődnek."
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "Törli ezt a videót?"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "Csökkenő; kattintson a növekvőre váltáshoz"
+   },
+   "localPlayerDropHint": {
+      "message": "Dobjon ide videókat vagy .srt/.vtt/.ass feliratfájlt"
+   },
+   "localPlayerDropOverlay": {
+      "message": "Fájlok importálásához engedje fel az egeret"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "A hangszinkronizálás megkezdődött"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "Nem sikerült elindítani a helyi hangmásolást."
+   },
+   "localPlayerDubbingStarted": {
+      "message": "A helyi hangszinkronizálás elindult."
+   },
+   "localPlayerEntryButton": {
+      "message": "Helyi videó"
+   },
+   "localPlayerFilterAll": {
+      "message": "Mind"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "Kapcsolt feliratok nélkül"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "Kapcsolt feliratokkal"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "Helyi videó gyorsműveletek"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "Elérhető a mappa"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "Egy mappa megnyitása elmenti a fájlkezelőket, így a hozzáférés visszaállítható a frissítés után."
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "Ez a böngésző nem tud mappákat megnyitni. Ideiglenes importáláshoz használja a Videó hozzáadása/Felirat hozzáadása lehetőséget."
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} kapcsolódó felirat"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "Utoljára játszott {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "Utolsó beolvasás {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "Mappaműveletek"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "Eltávolítva {folderName}"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "Mappák, elérési utak vagy fájlok keresése"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} videó"
+   },
+   "localPlayerFolders": {
+      "message": "Mappák"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "Böngésszen az importált médiában mappák szerint."
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "Ennek a helyi videónak nincs linkelt felirata. Az ingyenes felhasználók még nem használhatják a háttérben a feliratfelismerést a helyi videókhoz. Frissítse a tagságot az AI feliratfelismerés használatához, vagy töltsön fel manuálisan egy feliratfájlt a hangszinkronizálás megkezdése előtt."
+   },
+   "localPlayerImportComplete": {
+      "message": "{videoCount} videó és {subtitleCount} felirat importált."
+   },
+   "localPlayerInitialStatus": {
+      "message": "Kezdésként nyisson meg egy mappát, adjon hozzá videókat, vagy dobjon el fájlokat."
+   },
+   "localPlayerLibraryTitle": {
+      "message": "Helyi videokönyvtár"
+   },
+   "localPlayerLibraryView": {
+      "message": "Könyvtár nézet"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "Egyező {visibleCount} / összesen {totalCount} mappa"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "Egyező {visibleCount} / összesen {totalCount} videó"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "Eredeti feliratok"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "Helyi videokönyvtár / Szövegfelolvasás"
+   },
+   "localPlayerNever": {
+      "message": "Soha"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "Állítsa be a mappakeresést, és próbálja újra."
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "Nincsenek megfelelő mappák"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "Nincs kezelhető felirat"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "Állítsa be a keresést, a szűrőt vagy a rendezést, és próbálja újra."
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "Nincsenek megfelelő videók"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "Nem található új fájl."
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "Nincs linkelt felirat"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "Feltöltöd ezt a videót AI-feliratfelismeréshez? A feltöltés csak a feliratok felismerésére szolgál, a videó a felismerés után azonnal törlődik, és erről e-mailben értesítjük."
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "Ennek a videónak nincs felirata"
+   },
+   "localPlayerNoVideosText": {
+      "message": "Nyisson meg egy mappát vagy adjon hozzá videókat a felirathivatkozások és a helyi hangszinkron kezeléséhez."
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "Még nincsenek helyi videók"
+   },
+   "localPlayerNotAssociated": {
+      "message": "Nincs összekapcsolva"
+   },
+   "localPlayerNowPlaying": {
+      "message": "Most játszik {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "Mappa megnyitása"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "Nem sikerült megnyitni a mappát."
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "Nyissa meg a mappát"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "Nyissa meg az oldalsávot"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "Nem sikerült megnyitni az oldalsávot."
+   },
+   "localPlayerPageTitle": {
+      "message": "Helyi videó · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "Videó lejátszása"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "Felirat beállítása hangszinkronhoz."
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "Ez a felirat már társítva van a következőhöz: \"{fromVideo}\". A folytatás eltávolítja a társítást, és társítja a következőhöz: \"{toVideo}\"."
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "Újraköti ezt a feliratot?"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "Feliratok felismerése"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "Az összes felirat leválasztása"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "Csak ehhez a videóhoz tartozó feliratlinkek kerülnek eltávolításra. A feliratfájl rekordjai nem törlődnek."
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "Leválasztja az összes feliratot?"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "Felirat leválasztása"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "Nem sikerült eltávolítani a mappát a könyvtárból."
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "Ez csak a könyvtár rekordjait távolítja el ebből a mappából. A lemezen lévő eredeti fájlok nem törlődnek."
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "Eltávolítja ezt a mappát a könyvtárból?"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "Eltávolítás a könyvtárból"
+   },
+   "localPlayerRescanAll": {
+      "message": "Minden újraolvasása"
+   },
+   "localPlayerRescanFailed": {
+      "message": "Nem sikerült újra beolvasni a helyi könyvtárat."
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "Ezt a mappát nem lehet újra beolvasni, mert a mentett mappa elérése nem érhető el."
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "Ellenőrizze újra ezt a mappát"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "Az URL-ben megadott videó nem található az aktuális helyi videokönyvtárban."
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "Ugyanabban a mappában lévő feliratok {sameCount} · Linkelve {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "A keresés befejeződött: {addedVideoCount} videó hozzáadva, {addedSubtitleCount} felirat, frissített {updatedCount} fájl."
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "Videók vagy fájl útvonalak keresése"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "Válasszon ki egy videót a felirathoz való hivatkozáshoz"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "Használja ezt a feliratot hangszinkronizáláshoz"
+   },
+   "localPlayerSortDuration": {
+      "message": "Videó időtartama"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "Nemrég lejátszott videók"
+   },
+   "localPlayerSortName": {
+      "message": "Fájlnév"
+   },
+   "localPlayerStartDubbing": {
+      "message": "Indítsa el a hangszinkronizálást"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} linkelt feliratok"
+   },
+   "localPlayerSubtitles": {
+      "message": "Feliratok"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "Ez a böngésző nem támogatja a File System Access API. Ideiglenesen hozzáadhat videókat és feliratokat."
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "Ideiglenes importálási mód"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "Mégse"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "Szövegfelolvasás - Cél nyelv"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "Export MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "A felirat tartalma nem lehet üres"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "Mentés sikertelen"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "Nem"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "Szövegfelolvasás MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "Szövegfelolvasás MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "Mentés..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "Kézi bevitel"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "Kézi bevitel - Szövegfelolvasás"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "Cél nyelv"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "Szövegfelolvasás: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "Szövegfelolvasás"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "Ehhez a kiválasztáshoz nincs elérhető hang."
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "Szövegfelolvasás"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "A szöveg túl hosszú. Rövidítse le, majd próbálja újra."
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "Hang"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "Hang típus"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "Indexképek generálva {count} videókhoz."
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "Az indexkép létrehozása sikertelen: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "Összesen {count} mappa"
+   },
+   "localPlayerTotalVideos": {
+      "message": "Összesen {count} videó"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "Feltöltés megszakítva."
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "Hangmásoláshoz használják"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "Törölve {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "Nem lehet visszaállítani a hozzáférést ehhez a videofájlhoz. Kérjük, adja hozzá újra a videót."
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "A helyi videofájl nem olvasható. Kérjük, adja hozzá újra a videót."
+   },
+   "localPlayerVideoList": {
+      "message": "Videólista"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "A videolejátszó még nincs készen."
+   },
+   "login": {
+      "message": "Belépés"
+   },
+   "loginAndUsePlugin": {
+      "message": "Kérjük, kattintson a bővítmény ikonra először a bejelentkezéshez, majd használja a bővítményt a narrációs lejátszáshoz."
+   },
+   "logout": {
+      "message": "Kijelentkezés"
+   },
+   "lowBalanceText": {
+      "message": "A számlaegyenlege 1 dollár alatt van. Javasoljuk, hogy hamarosan töltse fel a zavartalan szolgáltatás biztosítása érdekében"
+   },
+   "lowBalanceTitle": {
+      "message": "Alacsony egyenleg figyelmeztetés"
+   },
+   "male": {
+      "message": "Férfi"
+   },
+   "man": {
+      "message": "Férfi"
+   },
+   "mediaSourceNotDetected": {
+      "message": "Nem sikerült felismerni a videó forrását. Ez a weboldal nem biztos, hogy támogatott."
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "Jelenleg a bővítmény háttérben futó AI-ja által felismert feliratok vannak használatban. Ha a fordítás pontatlannak tűnik, az alapbeállításokban állítsd a feliratprioritást a platform felirataira."
+   },
+   "memberFree": {
+      "message": "Tagoknak ingyenes"
+   },
+   "memberFreeRequireMembership": {
+      "message": "Ez a hangtípus csak tagok számára érhető el. Frissítsen az ingyenes használathoz."
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "Most az ingyenes hangtípussal készül a szinkron. Az Azure-hangok természetesebben szólnak; a tagok mostantól korlátlanul használhatják az Azure-t, további kreditegyenleg-feltöltés nélkül."
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "Lejárat"
+   },
+   "membershipIcon": {
+      "message": "Tagsági ikon"
+   },
+   "membershipRequired": {
+      "message": "Kérjük, frissítsen tagságra az OpenAI fordítás használata előtt."
+   },
+   "membershipRequiredForAI": {
+      "message": "Kérjük, töltse fel a tagságát az AI fordítás használata előtt. Ha nem szeretne feltölteni, választhatja a Google Fordítót is."
+   },
+   "membershipRequiredTitle": {
+      "message": "Tagság szükséges"
+   },
+   "metadataNotFound": {
+      "message": "Videó metaadatok nem találhatók, kérjük frissítse és próbálja újra"
+   },
+   "multiVideoNotSupported": {
+      "message": "Ez az oldal több videót tartalmaz. Az univerzális szinkronizálás HLS stream-ek használatakor csak egyetlen videót tartalmazó oldalakat támogat."
+   },
+   "musicVideoNotSupported": {
+      "message": "Ez egy zenei videó. A fordítás és a szinkronizálás nem támogatott."
+   },
+   "name": {
+      "message": "TranslateDub – Fordítás és Szinkron"
+   },
+   "noAudioTrackFound": {
+      "message": "Nem található hangsáv. Ez a videó csak videónak tűnik hang nélkül, és nem használható szinkronfelismeréshez."
+   },
+   "noSpeakers": {
+      "message": "Nincsenek beszélők"
+   },
+   "noSubtitlesFound": {
+      "message": "Ez a videó nem tartalmaz feliratokat és nem támogatja a fordítást és szinkronizálást"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "Nincsenek elérhető feliratok. Kérjük, várja meg, amíg a bővítmény felismeri a videó feliratait. E-mail értesítést kap a regisztrált e-mail címére, amikor a felismerés befejeződött."
+   },
+   "notSupported": {
+      "message": "Nem támogatott"
+   },
+   "openBasicSettingsLink": {
+      "message": "Alapbeállítások megnyitása"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "Alap"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "Kiejtés"
+   },
+   "optionsNavSitesShort": {
+      "message": "Webhelyek"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "Felirat"
+   },
+   "originalAudio": {
+      "message": "Eredeti"
+   },
+   "panelSummaryCollapse": {
+      "message": "Összecsukás"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "Összes összecsukása"
+   },
+   "panelSummaryCopy": {
+      "message": "Másolás"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "Másolva"
+   },
+   "panelSummaryDesc": {
+      "message": "Használjon fejlett MI modelleket a videó tartalmának gyors megértéséhez"
+   },
+   "panelSummaryError": {
+      "message": "Az összefoglaló generálása sikertelen, kérjük próbálja újra"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "A jelenlegi videó nem azonosítható, kérjük frissítse az oldalt és próbálja újra"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "A videó összefoglaló kizárólag tagoknak elérhető funkció, kérjük iratkozzon fel a használathoz"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "Ehhez a videóhoz nem áll rendelkezésre felirat, az összefoglaló nem hozható létre"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "Az összefoglaló szolgáltatás átmenetileg nem elérhető, kérjük próbálja újra később"
+   },
+   "panelSummaryExpand": {
+      "message": "Kibontás"
+   },
+   "panelSummaryExpandAll": {
+      "message": "Összes kibontása"
+   },
+   "panelSummaryGenerate": {
+      "message": "Összefoglaló készítése"
+   },
+   "panelSummaryGenerating": {
+      "message": "Generálás..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "Ehhez a videóhoz nem érhetők el feliratok"
+   },
+   "panelSummaryReGenerate": {
+      "message": "Újragenerálás"
+   },
+   "panelSummaryReGenerating": {
+      "message": "Újragenerálás..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "Kiemelt pontok"
+   },
+   "panelSummarySectionSummary": {
+      "message": "Összefoglaló"
+   },
+   "panelSummaryShare": {
+      "message": "Megosztás"
+   },
+   "panelSummaryTitle": {
+      "message": "Videó összefoglaló és vázlat"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "Feliratok"
+   },
+   "panelTabVideoSummary": {
+      "message": "Összegzés"
+   },
+   "pauseVideo": {
+      "message": "Videó szüneteltetése"
+   },
+   "pay": {
+      "message": "fizetés"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "Kattintson a videóra a megnyitáshoz, majd használja a szinkronizálási funkciót."
+   },
+   "postLoginTranslationSettings": {
+      "message": "Sikeres bejelentkezés. Kattintson a bővítmény ikonjára a fordítási nyelv és a hanglista kiválasztásához."
+   },
+   "preferenceActionFailed": {
+      "message": "A művelet nem sikerült. Próbálja újra később."
+   },
+   "preferenceActions": {
+      "message": "Műveletek"
+   },
+   "preferenceAdd": {
+      "message": "Hozzáadás"
+   },
+   "preferenceAllDomains": {
+      "message": "Minden témakör"
+   },
+   "preferenceAllStatuses": {
+      "message": "Mind"
+   },
+   "preferenceCancel": {
+      "message": "Mégse"
+   },
+   "preferenceClearSearch": {
+      "message": "Törlés"
+   },
+   "preferenceDelete": {
+      "message": "Törlés"
+   },
+   "preferenceDisabled": {
+      "message": "Letiltva"
+   },
+   "preferenceDomain": {
+      "message": "Témakör"
+   },
+   "preferenceEdit": {
+      "message": "Szerkesztés"
+   },
+   "preferenceEnabled": {
+      "message": "Engedélyezve"
+   },
+   "preferenceLanguage": {
+      "message": "Nyelv"
+   },
+   "preferenceLoadFailed": {
+      "message": "A betöltés nem sikerült. Jelentkezzen be, majd próbálja újra."
+   },
+   "preferenceNextPage": {
+      "message": "Következő"
+   },
+   "preferencePageLabel": {
+      "message": "{page}. oldal"
+   },
+   "preferencePreviousPage": {
+      "message": "Előző"
+   },
+   "preferenceSave": {
+      "message": "Mentés"
+   },
+   "preferenceSearch": {
+      "message": "Keresés"
+   },
+   "preferenceSource": {
+      "message": "Forrás"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "Beépített"
+   },
+   "preferenceSourceUser": {
+      "message": "Saját"
+   },
+   "preferenceStatus": {
+      "message": "Állapot"
+   },
+   "preferenceStatusDisabled": {
+      "message": "Kikapcsolva"
+   },
+   "preferenceStatusEnabled": {
+      "message": "Engedélyezve"
+   },
+   "preferencesDescription": {
+      "message": "Itt kezelheted az alapbeállításaidat."
+   },
+   "preferencesSectionTitle": {
+      "message": "Alapbeállítások"
+   },
+   "preferencesTitle": {
+      "message": "Alapbeállítások"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "Ez a videó nem tartalmaz feliratokat és a videó időtartama meghaladja a 3 órát, a fordítás és szinkronizálás nem támogatott. Kérjük, válasszon rövidebb videót vagy felirattal ellátott videót."
+   },
+   "privateVideoNoSubtitles": {
+      "message": "Ehhez a videóhoz nincs felirat, és privát videó. A bővítmény nem tudja a háttérben felismerni a videó feliratait. Állítsa a videót nyilvánosra, vagy adjon hozzá feliratokat kézzel, majd próbálja újra."
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "Törli ezt a kiejtési szabályt?"
+   },
+   "pronunciationEditRule": {
+      "message": "Kiejtési szabály szerkesztése"
+   },
+   "pronunciationEditorHint": {
+      "message": "Válassza ki a javítandó folyamatos részt, majd adja meg a kiejtését."
+   },
+   "pronunciationEmpty": {
+      "message": "Egyetlen személyes kiejtési szabály sem felel meg a jelenlegi szűrőknek."
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "Először írja be a megfelelő szöveget"
+   },
+   "pronunciationFineSelection": {
+      "message": "Precíz kiválasztás"
+   },
+   "pronunciationLoading": {
+      "message": "Betöltés…"
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "Például: helló"
+   },
+   "pronunciationMatchText": {
+      "message": "Egyező szöveg"
+   },
+   "pronunciationMergeUnits": {
+      "message": "A szomszédos kiejtések egyesítése"
+   },
+   "pronunciationModifier": {
+      "message": "Hang"
+   },
+   "pronunciationNeutralTone": {
+      "message": "Semleges tónus"
+   },
+   "pronunciationNewRule": {
+      "message": "Új szabály"
+   },
+   "pronunciationNumberedTone": {
+      "message": "Hang {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "előfordulás {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "Minden részhez adjon meg egy kiejtést és hangszínt. Szükség szerint ossza fel vagy egyesítse az alkatrészeket."
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "Írjon be egy pinjin szótagot"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "Pinyin szótag"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "Intelligens választás"
+   },
+   "pronunciationReading": {
+      "message": "Meghatározott kiejtés"
+   },
+   "pronunciationReselect": {
+      "message": "Válassza ki újra"
+   },
+   "pronunciationSaving": {
+      "message": "Mentés…"
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "Keressen egyező szöveget"
+   },
+   "pronunciationSelectModifier": {
+      "message": "Válassza ki"
+   },
+   "pronunciationSelectTarget": {
+      "message": "Válassza ki a javítandó szöveget"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "Kiválasztás részletessége"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "Folyamatos szöveg kiválasztása."
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "A mentett hely nem állítható vissza. Mentés előtt válassza ki újra a szöveget."
+   },
+   "pronunciationSelectionSummary": {
+      "message": "Kiválasztva: {text}; előfordulás {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "A javított rész legfeljebb 128 karaktert tartalmazhat."
+   },
+   "pronunciationSettingsDescription": {
+      "message": "Állítson be személyes kiejtést a lefordított szöveghez. A szabályok csak a helyi szinkronra vonatkoznak."
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "Kiejtés"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "Kiejtési beállítások"
+   },
+   "pronunciationSplitAt": {
+      "message": "Felosztás:"
+   },
+   "pronunciationStatus": {
+      "message": "Állapot"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "Célnyelv"
+   },
+   "pronunciationTargetText": {
+      "message": "Javított rész"
+   },
+   "pronunciationUnitReading": {
+      "message": "Részenkénti kiejtés"
+   },
+   "pronunciationUnknownError": {
+      "message": "A művelet nem sikerült. Kérjük, próbálja újra később."
+   },
+   "pronunciationWholeReading": {
+      "message": "Teljes kiejtés"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "Adja meg a teljes tónusos kiejtést. Oszd fel, hogy minden részhez hangszínt válassz."
+   },
+   "rechargeLimit": {
+      "message": "Kredit+Tag"
+   },
+   "replacementCreateButton": {
+      "message": "Saját csere hozzáadása"
+   },
+   "replacementDescription": {
+      "message": "Az AI-fordítás előtt javítja a visszatérő feliratfelismerési hibákat (például cloud code -> Claude Code)."
+   },
+   "replacementEditTitle": {
+      "message": "Saját csere szerkesztése"
+   },
+   "replacementEditorDescription": {
+      "message": "Az AI-fordítás előtt csak a saját szövegcserék lépnek érvénybe."
+   },
+   "replacementEmpty": {
+      "message": "Még nincsenek javítási szabályok."
+   },
+   "replacementFindPlaceholder": {
+      "message": "Hibás szöveg, pl. cloud code"
+   },
+   "replacementFindText": {
+      "message": "Hibás szöveg"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "Csere erre, pl. claude code"
+   },
+   "replacementReplaceText": {
+      "message": "Csere erre"
+   },
+   "replacementSearchEmpty": {
+      "message": "Nincs egyező csere."
+   },
+   "replacementSearchPlaceholder": {
+      "message": "Keresés a cserék között"
+   },
+   "replacementTitle": {
+      "message": "A forrásszöveg hibáinak javítása"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "Kérjük, állítsa be a gyorsbillentyűket a Safari > Beállítások > Bővítmények menüpontban"
+   },
+   "sampleAesNotSupported": {
+      "message": "Ez a videó SAMPLE-AES titkosítást használ, amely jelenleg nem támogatott a letöltéshez."
+   },
+   "save": {
+      "message": "Mentés"
+   },
+   "saveFailedText": {
+      "message": "A beállítások mentése sikertelen, kérjük próbálja újra"
+   },
+   "saveFailedTitle": {
+      "message": "Mentés sikertelen"
+   },
+   "saveSuccessText": {
+      "message": "Beállítások sikeresen mentve"
+   },
+   "saveSuccessTitle": {
+      "message": "Sikeres mentés"
+   },
+   "save_settings": {
+      "message": "Mentés"
+   },
+   "saving": {
+      "message": "Mentés..."
+   },
+   "searchSourceLanguage": {
+      "message": "Forrás nyelv keresése..."
+   },
+   "searchTargetLanguage": {
+      "message": "Cél nyelv keresése..."
+   },
+   "selectSourceLanguage": {
+      "message": "Forrás nyelv kiválasztása"
+   },
+   "selectSpeaker": {
+      "message": "Válassz"
+   },
+   "selectTargetLanguage": {
+      "message": "Cél nyelv kiválasztása"
+   },
+   "sex": {
+      "message": "Nem:"
+   },
+   "shortcutSettings": {
+      "message": "Gyorsbillentyűk"
+   },
+   "showSubtitle": {
+      "message": "feliratok:"
+   },
+   "sidebarDisableForSite": {
+      "message": "Letiltás ezen az oldalon"
+   },
+   "sidebarDisableGlobally": {
+      "message": "Globális letiltás"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "Elrejtés a következő látogatásig"
+   },
+   "sidebarReenableHint": {
+      "message": "Újra engedélyezhető a "
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "Beállításokban"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "Bekapcsolva, ha a felirat nyelve megegyezik a célnyelvvel, a szinkron közvetlenül fordítás nélkül indul."
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "Fordítás kihagyása azonos nyelvnél"
+   },
+   "sourceLanguage": {
+      "message": "Forrás nyelv"
+   },
+   "source_languages": {
+      "message": "Forrás nyelv:"
+   },
+   "speaker": {
+      "message": "Beszélő"
+   },
+   "speakerList": {
+      "message": "Beszélők listája"
+   },
+   "speakerName": {
+      "message": "Beszélő neve"
+   },
+   "speakersTitle": {
+      "message": "Beszélők"
+   },
+   "startUpload": {
+      "message": "Feltöltés indítása"
+   },
+   "subscribe": {
+      "message": "Előfizetés"
+   },
+   "subscriptionRecharge": {
+      "message": "Előfizetés & feltöltés"
+   },
+   "subtitleDisplayMode": {
+      "message": "Feliratmód"
+   },
+   "subtitleEditorExport": {
+      "message": "Export"
+   },
+   "subtitleEditorManualInput": {
+      "message": "Kézi bevitel"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "Saját Feliratok"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "Nincs elérhető feliratforrás (kézi bevitel érhető el)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "A mentés nem sikerült. Kérjük, próbálja újra később."
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "Nem sikerült azonosítani az aktuális videót. A mentés nem sikerült."
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "Kattintson ide a feliratok váltásához"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "Felirat forrása"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "Érvénytelen SRT-blokk. A sorrend, az időbélyeg és a tartalom kötelező."
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "Minden feliratnak tartalmaznia kell legalább egy sort"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "A felirat tartalma nem lehet üres"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "A befejezési időpontnak nagyobbnak kell lennie, mint a kezdő időpont"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "Érvénytelen SRT sorozatszám formátum"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "Az SRT sorozatszámoknak 1-gyel kell kezdődniük, és 1-gyel kell növekedniük"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "Egyes feliratok hangszórócímkéket tartalmaznak. Minden feliratban a [speaker] előtagot kell használni."
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "Érvénytelen időformátum. Kérjük, tekintse át és javítsa ki."
+   },
+   "subtitleModeBilingual": {
+      "message": "Kétnyelvű felirat"
+   },
+   "subtitleModeOff": {
+      "message": "Felirat kikapcsolva"
+   },
+   "subtitleModeTranslated": {
+      "message": "Csak fordítás"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "Bővítmény AI által felismert feliratok"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "A bővítmény AI beszédfelismerése által generált feliratok előnyben részesítése a nagyobb pontosság érdekében."
+   },
+   "subtitlePriorityDescription": {
+      "message": "Válaszd ki, melyik feliratforrást részesítsd előnyben a fordításhoz."
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "Platform beépített feliratai"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "A videóplatform által biztosított eredeti feliratok előnyben részesítése."
+   },
+   "subtitlePriorityTitle": {
+      "message": "Felirat-fordítási prioritás"
+   },
+   "subtitleSize": {
+      "message": "Méret"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "Háttérszín"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "Háttér átlátszatlansága"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "Fekete"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "Kék"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "Cián"
+   },
+   "subtitleStyleColorGray": {
+      "message": "Szürke"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "Zöld"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "Világosszürke"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "Magenta"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "Narancssárga"
+   },
+   "subtitleStyleColorRed": {
+      "message": "Piros"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "Fehér"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "Sárga"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "Egyedi betűtípus"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "Például: PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "Egyéni"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "Nincs"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "Körvonal"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "Árnyék"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "Szélek stílusa"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "Kétnyelvű"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "Stílusszerkesztő nézet"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "Csak fordítás"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "Fordított felirat stílusának követése"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "Egyéni"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "Alapértelmezett"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "Betűtípus"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "Nincs"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "Betűméret"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "Betűvastagság"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "Kétnyelvű elrendezés"
+   },
+   "subtitleStyleLineGap": {
+      "message": "Sorköz"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "A módosításokat a rendszer azonnal menti és alkalmazza."
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "Feliratstílus beállításai"
+   },
+   "subtitleStyleOrder": {
+      "message": "Felirat sorrendje"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "Eredeti felül"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "Fordítás felül"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "Eredeti felirat stílusa"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "Betűméret aránya"
+   },
+   "subtitleStylePosition": {
+      "message": "Pozíció"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "Alul"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "Középen"
+   },
+   "subtitleStylePositionTop": {
+      "message": "Felül"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "Élő"
+   },
+   "subtitleStylePreviewText": {
+      "message": "Úgy vélte, hogy ebben a fiatalemberben nagy lehetőség rejlik."
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "Előnézet"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "Alapértelmezések visszaállítása"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "Felirat stílusa"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "Közös háttér"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "Vízszintes igazítás"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "Középre"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "Balra"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "Jobbra"
+   },
+   "subtitleStyleTextColor": {
+      "message": "Betűszín"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "Fordított felirat stílusa"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "A fordítás jelenlegi beállításait használja"
+   },
+   "subtitles": {
+      "message": "Felirat"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "Ennek a videónak a feliratait jelenleg a YouTube korlátozza. Kérjük, próbálja újra később."
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "Hangerő beállítások váltása az eredeti és szinkronizált hang között"
+   },
+   "switchModelWarning": {
+      "message": "A hang vagy fordítási modell váltása videólejátszás közben további költségeket von maga után az elpazarolt erőforrások miatt. Javasoljuk, hogy a következő videóban váltson. Ha mindenképpen folytatni szeretné, kattintson a Folytatás és mentés gombra."
+   },
+   "targetLanguage": {
+      "message": "Cél nyelv"
+   },
+   "target_languages": {
+      "message": "Cél nyelv:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "Ez a videó már feldolgozás alatt áll az AI feliratozáshoz. Kérjük, várja az e-mail értesítést."
+   },
+   "textToSpeech": {
+      "message": "Szövegfelolvasás:"
+   },
+   "textToSpeechToggle": {
+      "message": "Lebegő gomb"
+   },
+   "toggleSubtitles": {
+      "message": "Feliratok váltása"
+   },
+   "tooExpensive": {
+      "message": "Túl drága"
+   },
+   "translateEngineTipText": {
+      "message": "váltsa a fordítási szolgáltatást Google-ra"
+   },
+   "translateService": {
+      "message": "Fordítás:"
+   },
+   "translatedAudio": {
+      "message": "Fordított"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "Csere hozzáadása a fordításhoz"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "Csere hozzáadása a fordításhoz"
+   },
+   "translatedReplacementDescription": {
+      "message": "Személyes szabályokkal cseréljen szavakat vagy kifejezéseket az elkészült fordításban."
+   },
+   "translatedReplacementEditTitle": {
+      "message": "Fordítási csere szerkesztése"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "Csak az elkészült fordítás változik; a forrásszöveg és a fordítási gyorsítótár változatlan marad."
+   },
+   "translatedReplacementEmpty": {
+      "message": "Még nincsenek szabályok a lefordított szöveg cseréjéhez."
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "Kikapcsoláskor a szabály megmarad, de nem lesz alkalmazva a lefordított szövegre."
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "Szó vagy kifejezés a lefordított szövegben"
+   },
+   "translatedReplacementFindText": {
+      "message": "Lefordított szöveg"
+   },
+   "translatedReplacementLanguage": {
+      "message": "Célnyelv"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "A helyette megjelenítendő szó vagy kifejezés"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "Csere erre"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "Nincsenek egyező cserék a lefordított szövegben."
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "Keresés a lefordított szövegben"
+   },
+   "translatedReplacementTitle": {
+      "message": "Cserék a lefordított szövegben"
+   },
+   "translationDomainAuto": {
+      "message": "Autóipar"
+   },
+   "translationDomainChess": {
+      "message": "Sakk"
+   },
+   "translationDomainEcommerce": {
+      "message": "E-kereskedelem"
+   },
+   "translationDomainEducation": {
+      "message": "Oktatás"
+   },
+   "translationDomainFashion": {
+      "message": "Divat"
+   },
+   "translationDomainFinance": {
+      "message": "Pénzügy"
+   },
+   "translationDomainFood": {
+      "message": "Étel és főzés"
+   },
+   "translationDomainGaming": {
+      "message": "Játékok"
+   },
+   "translationDomainGardening": {
+      "message": "Kertészkedés"
+   },
+   "translationDomainGeneral": {
+      "message": "Általános"
+   },
+   "translationDomainGolf": {
+      "message": "Golf"
+   },
+   "translationDomainLaw": {
+      "message": "Jog"
+   },
+   "translationDomainMedical": {
+      "message": "Orvostudomány és egészség"
+   },
+   "translationDomainMovies": {
+      "message": "Filmek és TV"
+   },
+   "translationDomainMusic": {
+      "message": "Zene"
+   },
+   "translationDomainNews": {
+      "message": "Hírek és média"
+   },
+   "translationDomainPets": {
+      "message": "Háziállatok"
+   },
+   "translationDomainPhotography": {
+      "message": "Fotózás"
+   },
+   "translationDomainProgramming": {
+      "message": "Programozás"
+   },
+   "translationDomainSports": {
+      "message": "Sport"
+   },
+   "translationDomainTech": {
+      "message": "Technológia"
+   },
+   "translationDomainTravel": {
+      "message": "Utazás"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 és kripto"
+   },
+   "translationEngine": {
+      "message": "Fordítási motor"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "AI-fordítás"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "Bekapcsolva az AI-fordítás az alábbi beállításokat használja. Kikapcsolva a meglévő beállítások megmaradnak."
+   },
+   "translationRulesEnabledLabel": {
+      "message": "Szójegyzék és szövegcserék alkalmazása az AI-fordításban"
+   },
+   "translationService": {
+      "message": "Fordítási szolgáltatás"
+   },
+   "translationServiceTitle": {
+      "message": "Fordítási szolgáltatás"
+   },
+   "trialMemberDurationLimit": {
+      "message": "Ez a videó nem tartalmaz feliratokat. Próbaidőszakos tagként jelenleg csak 15 perc alatti videók feliratfelismerése támogatott. Prémium tagok 3 óra alatti videókat támogatnak."
+   },
+   "trialMemberModelLimit": {
+      "message": "Próbaidőszakos tagok csak a Gemini-t és a Google Fordítót használhatják. Más modellek használatához kérjük, fizessen elő a tagságunkra."
+   },
+   "universalDubbingMemberOnly": {
+      "message": "Az univerzális szinkronizálás felhő GPU számítási kapacitást igényel (magas költség), csak VIP-eknek."
+   },
+   "universalDubbingNotSupported": {
+      "message": "Az univerzális szinkronizálás nem támogatott ennél a videónál a jelenlegi verzióban. A támogatás a következő verzióban tervezett. Kérjük, lépjen kapcsolatba az ügyfélszolgálattal a részletekért."
+   },
+   "unknownError": {
+      "message": "Ismeretlen hiba történt. Kérjük, próbálja újra."
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "Frissítsen tagságra és a bővítmény felismeri az AI feliratokat a háttérben. Miután megkapta az e-mail értesítést, jöjjön vissza nézni; a szinkronizálási gomb zöldre vált és a fordítások pontosabbak lesznek."
+   },
+   "uploadComplete": {
+      "message": "Feltöltés kész"
+   },
+   "uploadFailed": {
+      "message": "Feltöltés sikertelen"
+   },
+   "uploadMediaForRecognition": {
+      "message": "Nem találhatók feliratok. Szeretné feltölteni a videót AI feliratfelismeréshez?"
+   },
+   "uploading": {
+      "message": "Feltöltés"
+   },
+   "uploadingMedia": {
+      "message": "Média feltöltése..."
+   },
+   "userAccountAriaLabel": {
+      "message": "Felhasználói fiók"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "Bekapcsolva automatikusan tagolja a szerkesztett vagy helyben feltöltött feliratokat. Kikapcsolva megőrzi az eredeti tagolást."
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "Felhasználói feliratok intelligens tagolása"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "Az aktuális videó felismert témaköre: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "Ez a videó DRM-védett, és nem használható szinkronizáláshoz."
+   },
+   "videoDurationExceedsLimit": {
+      "message": "Ez a videó meghaladja a 3 órát. Az univerzális szinkronizálás jelenleg nem támogatott a 3 óránál hosszabb videókhoz."
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "Tagságra és elegendő egyenlegre van szüksége ennek a funkciónak a használatához"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "Tagság és egyenleg szükséges"
+   },
+   "vipFreeOptionTipText": {
+      "message": "Tagként ingyenesen használhatja a következő fordítási szolgáltatásokat"
+   },
+   "vipRequiredText": {
+      "message": "Tagságra van szüksége ennek a funkciónak a használatához"
+   },
+   "vipRequiredTitle": {
+      "message": "Tagság szükséges"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "Váltsa a fordítási szolgáltatást tag-ingyenes szolgáltatásokra, mint például gemini, deepseek, gpt-3.5-turbo vagy claude-3-haiku"
+   },
+   "voice": {
+      "message": "Hang"
+   },
+   "voiceSettingsMismatch": {
+      "message": "A hangtípus és a hangbeállítások nem egyeznek. Kérjük, lépjen a beállítások oldalra a hangbeállítások újraválasztásához és mentéséhez."
+   },
+   "voiceTypeTipText": {
+      "message": "váltsa a hangtípust az ingyenes verzióra"
+   },
+   "voices": {
+      "message": "Hang:"
+   },
+   "voicesAndSubtitles": {
+      "message": "Hang és feliratok"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "Hang és feliratok"
+   },
+   "voicesType": {
+      "message": "Hang típus:"
+   },
+   "waitingForRecognition": {
+      "message": "A videó sikeresen feltöltve. Az AI feliratfelismerés folyamatban van. E-mail értesítést kap, amikor elkészül."
+   },
+   "woman": {
+      "message": "Nő"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "Böngészője nem támogatja a Zoom felvétel feltöltés felismerését. Kérjük, használja a Chrome/Edge böngészőt."
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "A Zoom felvétel letöltése tiltva lett (403). Kérjük, játssza le/frissítse az oldalt az ellenőrzéshez, majd próbálja újra."
+   }
+}

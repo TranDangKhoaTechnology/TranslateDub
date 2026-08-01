@@ -1,0 +1,1883 @@
+{
+   "accountBalance": {
+      "message": "ยอดเงินในบัญชี:"
+   },
+   "advancedSettings": {
+      "message": "การตั้งค่าขั้นสูง"
+   },
+   "aiSubtitlesRecognitionInBackground": {
+      "message": "ขณะนี้วิดีโอนี้ยังไม่มีคำบรรยายด้วย AI ปลั๊กอินได้เริ่มจดจำคำบรรยายอยู่เบื้องหลังแล้ว เมื่อได้ยินประโยคพากย์ประโยคแรก คุณสามารถปิดหน้าและรออีเมลแจ้งเตือนได้ เมื่อพร้อมแล้ว ปุ่มพากย์จะเปลี่ยนเป็นสีเขียว และคุณภาพการแปลจะดีขึ้น"
+   },
+   "azureRequireMembership": {
+      "message": "Azure TTS เฉพาะสมาชิกเท่านั้น อัปเกรดเพื่อปลดล็อกเสียง Azure คุณภาพสูง"
+   },
+   "back": {
+      "message": "กลับ"
+   },
+   "backToSettings": {
+      "message": "กลับไปตั้งค่า"
+   },
+   "backToVideoLibrary": {
+      "message": "กลับไปที่คลังวิดีโอ"
+   },
+   "backgroundAudio": {
+      "message": "เสียงพื้นหลัง"
+   },
+   "balanceRequiredText": {
+      "message": "ยอดเงินไม่พอ กรุณาเติมเงินเพื่อใช้ฟังก์ชันนี้"
+   },
+   "balanceRequiredTitle": {
+      "message": "ต้องมียอดเงิน"
+   },
+   "balanceRunningLow": {
+      "message": "ยอดเงินใกล้หมด แนะนำให้เติมเงินเพื่อประสบการณ์ที่ดี"
+   },
+   "browserShortcutSettingsTip": {
+      "message": "ตั้งค่าปุ่มลัดในส่วนขยายของเบราว์เซอร์"
+   },
+   "builtinGlossaryBlockedStatus": {
+      "message": "ยกเว้นแล้ว"
+   },
+   "builtinGlossaryDisableAllDomains": {
+      "message": "ปิดใช้ทั้งหมด"
+   },
+   "builtinGlossaryDomainCount": {
+      "message": "คำศัพท์ในตัว {count} คำ"
+   },
+   "builtinGlossaryDomainDisabledStatus": {
+      "message": "ปิดใช้โดเมนแล้ว"
+   },
+   "builtinGlossaryDomainSearchEmpty": {
+      "message": "ไม่พบโดเมนที่ตรงกัน"
+   },
+   "builtinGlossaryDomainSearchPlaceholder": {
+      "message": "ค้นหาโดเมน"
+   },
+   "builtinGlossaryDomainTotal": {
+      "message": "{count} โดเมน"
+   },
+   "builtinGlossaryDomainsTitle": {
+      "message": "ชุดโดเมนในตัว"
+   },
+   "builtinGlossaryEmptyHint": {
+      "message": "ไม่มีคลังคำศัพท์ในตัวสำหรับภาษาเป้าหมายปัจจุบัน แต่คุณยังเพิ่มคำศัพท์ส่วนตัวได้"
+   },
+   "builtinGlossaryEnableAllDomains": {
+      "message": "เปิดใช้ทั้งหมด"
+   },
+   "builtinGlossaryEnabledSummary": {
+      "message": "เปิดใช้ {enabled} / {total}"
+   },
+   "builtinGlossaryManageDomains": {
+      "message": "จัดการโดเมน"
+   },
+   "builtinGlossaryManageDomainsDescription": {
+      "message": "เปิดหรือปิดโดเมนคลังคำศัพท์ในตัวสำหรับภาษาเป้าหมาย"
+   },
+   "builtinGlossaryManageDomainsTitle": {
+      "message": "จัดการชุดโดเมนในตัว"
+   },
+   "builtinGlossaryReadOnlyHint": {
+      "message": "กฎในตัว"
+   },
+   "builtinTextReplacementDomainCount": {
+      "message": "กฎในตัว {count} รายการ"
+   },
+   "builtinTextReplacementManageDomainsDescription": {
+      "message": "เปิดหรือปิดหมวดหมู่ในตัวสำหรับแก้ไขข้อความต้นฉบับ"
+   },
+   "builtinTextReplacementManageDomainsTitle": {
+      "message": "จัดการหมวดหมู่ในตัวสำหรับแก้ไขข้อความต้นฉบับ"
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "cancelButton": {
+      "message": "ยกเลิก"
+   },
+   "completing": {
+      "message": "กำลังดำเนินการเสร็จสิ้น"
+   },
+   "confirmButton": {
+      "message": "ดำเนินการต่อ"
+   },
+   "confirmDeleteSpeaker": {
+      "message": "คุณแน่ใจหรือไม่ว่าต้องการลบผู้พูดคนนี้?"
+   },
+   "contentMenusTitle": {
+      "message": "เริ่มเล่นเสียงพากย์"
+   },
+   "corsNotSupported": {
+      "message": "เว็บไซต์นี้ไม่อนุญาตให้ดาวน์โหลดไฟล์มีเดีย ไม่รองรับการพากย์เสียงสากล"
+   },
+   "debugInfo": {
+      "message": "ข้อมูลการดีบัก"
+   },
+   "delete": {
+      "message": "ลบ"
+   },
+   "deleteSpeaker": {
+      "message": "ลบ"
+   },
+   "description": {
+      "message": "แปลและพากย์วิดีโอออนไลน์ได้ในคลิกเดียว เข้าใจภาษาต่างชาติทันที เข้าถึงความรู้ทั่วโลกได้ง่าย"
+   },
+   "disableGlobally": {
+      "message": "ปิดใช้งานทั่วโลก"
+   },
+   "disabledSitesActions": {
+      "message": "การดำเนินการ"
+   },
+   "disabledSitesAdd": {
+      "message": "เพิ่ม"
+   },
+   "disabledSitesDelete": {
+      "message": "ลบ"
+   },
+   "disabledSitesDescription": {
+      "message": "ลูกบอลลอยจะไม่แสดงบนเว็บไซต์ต่อไปนี้ คุณสามารถเพิ่มหรือลบเว็บไซต์ที่ปิดใช้งานได้ที่นี่"
+   },
+   "disabledSitesDomain": {
+      "message": "โดเมน"
+   },
+   "disabledSitesEmpty": {
+      "message": "ไม่มีเว็บไซต์ที่ปิดใช้งาน"
+   },
+   "disabledSitesPlaceholder": {
+      "message": "ป้อนโดเมน เช่น youtube.com"
+   },
+   "disabledSitesSectionTitle": {
+      "message": "เว็บไซต์ที่ปิดใช้งาน"
+   },
+   "disabledSitesTitle": {
+      "message": "จัดการเว็บไซต์ที่ปิดใช้งาน"
+   },
+   "doNotClosePage": {
+      "message": "กรุณาอย่าปิดหรือรีเฟรชหน้านี้ระหว่างการอัปโหลด มิฉะนั้นการอัปโหลดจะถูกขัดจังหวะ"
+   },
+   "doNotShowAgainLink": {
+      "message": "ไม่ต้องแสดงอีก"
+   },
+   "downloading": {
+      "message": "กำลังดาวน์โหลด"
+   },
+   "dropboxClickCcToTranscribe": {
+      "message": "วิดีโอนี้ยังไม่ได้ถอดเสียง กรุณาคลิกปุ่ม CC ที่ด้านล่างของวิดีโอ Dropbox เพื่อสร้างคำบรรยาย เมื่อถอดเสียงเสร็จแล้ว ให้คลิกปุ่มพากย์ของส่วนขยายเพื่อแปลและพากย์"
+   },
+   "dropdownNoOptions": {
+      "message": "ไม่มีตัวเลือก"
+   },
+   "dropdownPlaceholder": {
+      "message": "กรุณาเลือก"
+   },
+   "dropdownSearch": {
+      "message": "ค้นหา..."
+   },
+   "dubbingMediaNotFoundText": {
+      "message": "ขณะนี้หน้านี้ไม่มีวิดีโอหรือเสียงที่ใช้งานได้ โปรดรอให้วิดีโอโหลดเสร็จแล้วลองอีกครั้ง หรือรีเฟรชหน้าเว็บ"
+   },
+   "dubbingMediaNotFoundTitle": {
+      "message": "ไม่พบวิดีโอที่สามารถพากย์ได้"
+   },
+   "dubbingSettings": {
+      "message": "การตั้งค่าพากย์เสียง"
+   },
+   "edgeShortcutSettingsTip": {
+      "message": "กำลังเปิดหน้าการตั้งค่าปุ่มลัด Edge"
+   },
+   "edit": {
+      "message": "แก้ไข"
+   },
+   "editSpeaker": {
+      "message": "แก้ไขผู้พูด"
+   },
+   "emailNotificationDescription": {
+      "message": "แจ้งฉันทางอีเมลเมื่อการรู้จำคำบรรยายเสร็จสิ้น"
+   },
+   "emailNotificationLabel": {
+      "message": "การแจ้งเตือนทางอีเมล"
+   },
+   "emailNotificationSaveFailed": {
+      "message": "บันทึกไม่สำเร็จ โปรดลองอีกครั้งในภายหลัง"
+   },
+   "enterSpeakerName": {
+      "message": "ใส่ชื่อผู้พูด"
+   },
+   "enterVoice": {
+      "message": "ใส่ชื่อเสียง"
+   },
+   "error": {
+      "message": "ข้อผิดพลาด"
+   },
+   "female": {
+      "message": "หญิง"
+   },
+   "firefoxShortcutSettingsTip": {
+      "message": "กำลังเปิดหน้า Firefox คลิกส่วนขยายเพื่อตั้งค่าปุ่มลัด"
+   },
+   "free": {
+      "message": "ฟรี"
+   },
+   "freeForVip": {
+      "message": "ฟรีสำหรับสมาชิก"
+   },
+   "freeOptionTipText": {
+      "message": "หากไม่เติมเงิน เลือกตัวเลือกฟรีได้"
+   },
+   "freeUserDailyLimit": {
+      "message": "ผู้ใช้ฟรีสามารถดูวิดีโอได้สูงสุด 5 วิดีโอต่อวันผ่านปลั๊กอิน อัปเกรดเป็นสมาชิกเพื่อปลดล็อกสิทธิประโยชน์การดูแบบไม่จำกัด"
+   },
+   "freeUserNoSubtitles": {
+      "message": "วิดีโอนี้ไม่มีคำบรรยายในตัว กรุณาสมัครสมาชิกปลั๊กอินสำหรับการจดจำคำบรรยายและเพลิดเพลินกับฟีเจอร์การแปลและพากย์เสียง"
+   },
+   "gender": {
+      "message": "เพศ"
+   },
+   "glossaryCombinedEmpty": {
+      "message": "ยังไม่มีคำศัพท์ส่วนตัวสำหรับภาษานี้"
+   },
+   "glossaryCreateButton": {
+      "message": "เพิ่มคำศัพท์ส่วนตัว"
+   },
+   "glossaryDescription": {
+      "message": "กำหนดคำแปลตายตัวสำหรับคำต้นฉบับ (เช่น Stratagem) คำศัพท์ของคุณจะมีลำดับความสำคัญเหนือคลังคำศัพท์ในตัว"
+   },
+   "glossaryEditTitle": {
+      "message": "แก้ไขคำศัพท์ส่วนตัว"
+   },
+   "glossaryEditorDescription": {
+      "message": "เพิ่ม แก้ไข เปิดใช้ หรือลบได้เฉพาะคำศัพท์ส่วนตัวเท่านั้น"
+   },
+   "glossarySearchEmpty": {
+      "message": "ไม่พบคำศัพท์ที่ตรงกัน"
+   },
+   "glossarySearchPlaceholder": {
+      "message": "ค้นหาคำต้นฉบับ"
+   },
+   "glossarySourcePlaceholder": {
+      "message": "คำต้นฉบับ"
+   },
+   "glossarySourceTerm": {
+      "message": "คำต้นฉบับ"
+   },
+   "glossaryTableTitle": {
+      "message": "คำศัพท์สำหรับภาษาปัจจุบัน"
+   },
+   "glossaryTargetPlaceholder": {
+      "message": "คำแปลที่ต้องใช้"
+   },
+   "glossaryTargetTerm": {
+      "message": "คำแปล"
+   },
+   "glossaryTitle": {
+      "message": "คลังคำศัพท์"
+   },
+   "hideUntilNextVisit": {
+      "message": "ซ่อนจนกว่าจะเข้าชมครั้งถัดไป"
+   },
+   "hlsDecryptionFailed": {
+      "message": "ไม่สามารถถอดรหัสเนื้อหาวิดีโอ คีย์เข้ารหัสอาจไม่ถูกต้องหรือรูปแบบวิดีโอไม่รองรับ"
+   },
+   "hlsKeyFetchFailed": {
+      "message": "ไม่สามารถดึงคีย์ถอดรหัสสำหรับวิดีโอนี้ วิดีโออาจถูกป้องกันหรือเซิร์ฟเวอร์คีย์ไม่พร้อมใช้งาน"
+   },
+   "insufficientBalance": {
+      "message": "ยอดเงินไม่พอ เปลี่ยนเป็น Google แปล กรุณาเติมเงิน"
+   },
+   "insufficientBalanceAlertMsg": {
+      "message": "ยอดเงินไม่พอ กรุณาเติมเงินเพื่อใช้ AI และ Azure TTS หรือใช้ Google"
+   },
+   "insufficientBalanceAndMembership": {
+      "message": "กรุณาเติมเงินสมาชิกและยอดเงินก่อนใช้ AI แปลและ Azure TTS หากไม่ต้องการเติมเงิน สามารถเลือก Google Translate และเสียงฟรีได้"
+   },
+   "insufficientMembership": {
+      "message": "สมาชิกของคุณหมดอายุแล้ว กรุณาเติมเงินสมาชิกก่อนใช้ AI แปลและ Azure TTS หากไม่ต้องการเติมเงิน สามารถเลือก Google Translate และเสียงฟรีได้"
+   },
+   "iosInterceptorConflictMessage": {
+      "message": "ส่วนขยายเบราว์เซอร์อื่นกำลังปิดกั้นการดักจับคำขอคำบรรยาย กรุณาปิดการใช้งานส่วนขยายที่ขัดแย้ง รีเฟรชหน้า แล้วลองอีกครั้ง"
+   },
+   "iosInterceptorConflictTitle": {
+      "message": "ตรวจพบความขัดแย้งของส่วนขยาย"
+   },
+   "iosOpenOriginVolume": {
+      "message": "เปิดเสียงต้นฉบับ:"
+   },
+   "iosUniversalDubbingNotSupported": {
+      "message": "การพากย์เสียงสากลไม่รองรับบนอุปกรณ์ iOS กรุณาใช้เบราว์เซอร์เดสก์ท็อป"
+   },
+   "liveStreamNotSupported": {
+      "message": "ไม่รองรับการถ่ายทอดสดสำหรับการพากย์เสียงสากล"
+   },
+   "liveVideoNotSupported": {
+      "message": "วิดีโอสดยังไม่รองรับการพากย์"
+   },
+   "loading": {
+      "message": "กำลังโหลด"
+   },
+   "localPlayerAddSubtitle": {
+      "message": "เพิ่มคำบรรยาย"
+   },
+   "localPlayerAddSubtitleFailed": {
+      "message": "ไม่สามารถเพิ่มคำบรรยายได้"
+   },
+   "localPlayerAddVideo": {
+      "message": "เพิ่มวิดีโอ"
+   },
+   "localPlayerAddVideoFailed": {
+      "message": "ไม่สามารถเพิ่มวิดีโอ"
+   },
+   "localPlayerAllAssociationsRemoved": {
+      "message": "ลิงก์คำบรรยายทั้งหมดถูกลบออก"
+   },
+   "localPlayerAllVideos": {
+      "message": "วิดีโอทั้งหมด"
+   },
+   "localPlayerAllVideosDescription": {
+      "message": "ค้นหาและจัดการวิดีโอที่นำเข้าทุกรายการ"
+   },
+   "localPlayerAscendingSortTitle": {
+      "message": "จากน้อยไปมาก; คลิกเพื่อสลับไปจากมากไปน้อย"
+   },
+   "localPlayerAssociate": {
+      "message": "ลิงก์คำบรรยาย"
+   },
+   "localPlayerAssociateAndUseForDubbing": {
+      "message": "ลิงก์คำบรรยายและใช้สำหรับการพากย์เสียง"
+   },
+   "localPlayerAssociated": {
+      "message": "เชื่อมโยงแล้ว"
+   },
+   "localPlayerAssociatedOutsideFolder": {
+      "message": "ลิงก์อยู่นอกโฟลเดอร์นี้"
+   },
+   "localPlayerAssociationRemoved": {
+      "message": "ลบลิงก์คำบรรยายแล้ว"
+   },
+   "localPlayerAssociationSaved": {
+      "message": "บันทึกลิงก์คำบรรยายแล้ว"
+   },
+   "localPlayerAssociationSavedAndPreferred": {
+      "message": "ลิงก์คำบรรยายและตั้งค่าสำหรับการพากย์เสียง"
+   },
+   "localPlayerBackToFolders": {
+      "message": "กลับไปที่โฟลเดอร์"
+   },
+   "localPlayerClose": {
+      "message": "ปิด"
+   },
+   "localPlayerCurrentDirectory": {
+      "message": "ไดเรกทอรีปัจจุบัน"
+   },
+   "localPlayerCurrentPageNav": {
+      "message": "พากย์วิดีโอ"
+   },
+   "localPlayerDelete": {
+      "message": "ลบ"
+   },
+   "localPlayerDeleteVideoFailed": {
+      "message": "ไม่สามารถลบวิดีโอ"
+   },
+   "localPlayerDeleteVideoLabel": {
+      "message": "ลบ {fileName}"
+   },
+   "localPlayerDeleteVideoText": {
+      "message": "การดำเนินการนี้จะลบลิงก์วิดีโอและคำบรรยายออกจากห้องสมุดท้องถิ่น ไฟล์ต้นฉบับบนดิสก์จะไม่ถูกลบ"
+   },
+   "localPlayerDeleteVideoTitle": {
+      "message": "ลบวิดีโอนี้ใช่ไหม"
+   },
+   "localPlayerDescendingSortTitle": {
+      "message": "จากมากไปน้อย; คลิกเพื่อสลับไปจากน้อยไปมาก"
+   },
+   "localPlayerDropHint": {
+      "message": "วางวิดีโอหรือไฟล์คำบรรยาย .srt/.vtt/.ass ที่นี่"
+   },
+   "localPlayerDropOverlay": {
+      "message": "ปล่อยเมาส์เพื่อนำเข้าไฟล์"
+   },
+   "localPlayerDubbingAlreadyStarted": {
+      "message": "เสียงพากย์เริ่มต้นขึ้น"
+   },
+   "localPlayerDubbingStartFailed": {
+      "message": "ไม่สามารถเริ่มการพากย์เสียงในเครื่องได้"
+   },
+   "localPlayerDubbingStarted": {
+      "message": "เสียงพากย์ท้องถิ่นเริ่มต้นขึ้น"
+   },
+   "localPlayerEntryButton": {
+      "message": "วิดีโอในเครื่อง"
+   },
+   "localPlayerFilterAll": {
+      "message": "ทั้งหมด"
+   },
+   "localPlayerFilterNoSubtitle": {
+      "message": "ไม่มีคำบรรยายที่เชื่อมโยง"
+   },
+   "localPlayerFilterWithSubtitle": {
+      "message": "พร้อมคำบรรยายที่เชื่อมโยง"
+   },
+   "localPlayerFloatingActionsLabel": {
+      "message": "การดำเนินการด่วนของวิดีโอในเครื่อง"
+   },
+   "localPlayerFolderAccessAvailable": {
+      "message": "เข้าถึงโฟลเดอร์ได้"
+   },
+   "localPlayerFolderAccessDescription": {
+      "message": "การเปิดโฟลเดอร์จะบันทึกตัวจัดการไฟล์ เพื่อให้สามารถกู้คืนการเข้าถึงได้หลังจากรีเฟรช"
+   },
+   "localPlayerFolderAccessUnsupported": {
+      "message": "เบราว์เซอร์นี้ไม่สามารถเปิดโฟลเดอร์ได้ ใช้เพิ่มวิดีโอ/เพิ่มคำบรรยายสำหรับการนำเข้าชั่วคราว"
+   },
+   "localPlayerFolderAssociatedSubtitleCount": {
+      "message": "{count} คำบรรยายที่เกี่ยวข้อง"
+   },
+   "localPlayerFolderLastPlayed": {
+      "message": "เล่นล่าสุด {time}"
+   },
+   "localPlayerFolderLastScanned": {
+      "message": "สแกนครั้งล่าสุด {time}"
+   },
+   "localPlayerFolderMenuLabel": {
+      "message": "การกระทำของโฟลเดอร์"
+   },
+   "localPlayerFolderRemoved": {
+      "message": "ลบ {folderName} แล้ว"
+   },
+   "localPlayerFolderSearchPlaceholder": {
+      "message": "ค้นหาโฟลเดอร์ เส้นทาง หรือไฟล์"
+   },
+   "localPlayerFolderVideoCount": {
+      "message": "{count} วิดีโอ"
+   },
+   "localPlayerFolders": {
+      "message": "โฟลเดอร์"
+   },
+   "localPlayerFoldersDescription": {
+      "message": "เรียกดูสื่อที่นำเข้าตามโฟลเดอร์"
+   },
+   "localPlayerFreeUserNoSubtitleMessage": {
+      "message": "วิดีโอท้องถิ่นนี้ไม่มีคำบรรยายที่เชื่อมโยง ผู้ใช้แบบฟรียังไม่สามารถใช้การจดจำคำบรรยายพื้นหลังสำหรับวิดีโอท้องถิ่นได้ อัปเกรดการเป็นสมาชิกเพื่อใช้การจดจำคำบรรยาย AI หรืออัปโหลดไฟล์คำบรรยายด้วยตนเองก่อนเริ่มการพากย์เสียง"
+   },
+   "localPlayerImportComplete": {
+      "message": "นำเข้าวิดีโอ {videoCount} และคำบรรยาย {subtitleCount}"
+   },
+   "localPlayerInitialStatus": {
+      "message": "เปิดโฟลเดอร์ เพิ่มวิดีโอ หรือวางไฟล์เพื่อเริ่มต้น"
+   },
+   "localPlayerLibraryTitle": {
+      "message": "ไลบรารีวิดีโอในเครื่อง"
+   },
+   "localPlayerLibraryView": {
+      "message": "มุมมองห้องสมุด"
+   },
+   "localPlayerMatchedFolders": {
+      "message": "จับคู่ {visibleCount} / ทั้งหมด {totalCount} โฟลเดอร์"
+   },
+   "localPlayerMatchedVideos": {
+      "message": "จับคู่ {visibleCount} / วิดีโอทั้งหมด {totalCount}"
+   },
+   "localPlayerNativeSubtitle": {
+      "message": "คำบรรยายต้นฉบับ"
+   },
+   "localPlayerNavigationLabel": {
+      "message": "ไลบรารีวิดีโอในเครื่อง / พากย์ข้อความ"
+   },
+   "localPlayerNever": {
+      "message": "ไม่เคย"
+   },
+   "localPlayerNoFolderMatchesText": {
+      "message": "ปรับการค้นหาโฟลเดอร์แล้วลองอีกครั้ง"
+   },
+   "localPlayerNoFolderMatchesTitle": {
+      "message": "ไม่มีโฟลเดอร์ที่ตรงกัน"
+   },
+   "localPlayerNoManageableSubtitles": {
+      "message": "ไม่มีคำบรรยายให้จัดการ"
+   },
+   "localPlayerNoMatchesText": {
+      "message": "ปรับการค้นหา กรอง หรือการเรียงลำดับแล้วลองอีกครั้ง"
+   },
+   "localPlayerNoMatchesTitle": {
+      "message": "ไม่มีวิดีโอที่ตรงกัน"
+   },
+   "localPlayerNoNewFilesFound": {
+      "message": "ไม่พบไฟล์ใหม่"
+   },
+   "localPlayerNoSubtitleBadge": {
+      "message": "ไม่มีคำบรรยายที่เชื่อมโยง"
+   },
+   "localPlayerNoSubtitleUploadText": {
+      "message": "อัปโหลดวิดีโอนี้เพื่อการจดจำคำบรรยาย AI หรือไม่ การอัปโหลดจะใช้เพื่อจดจำคำบรรยายเท่านั้น วิดีโอจะถูกลบทันทีหลังจากการจดจำ และคุณจะได้รับแจ้งทางอีเมล"
+   },
+   "localPlayerNoSubtitleUploadTitle": {
+      "message": "วิดีโอนี้ไม่มีคำบรรยาย"
+   },
+   "localPlayerNoVideosText": {
+      "message": "เปิดโฟลเดอร์หรือเพิ่มวิดีโอเพื่อจัดการลิงก์คำบรรยายและการพากย์เสียงท้องถิ่นที่นี่"
+   },
+   "localPlayerNoVideosTitle": {
+      "message": "ยังไม่มีวิดีโอท้องถิ่น"
+   },
+   "localPlayerNotAssociated": {
+      "message": "ไม่ได้เชื่อมโยง"
+   },
+   "localPlayerNowPlaying": {
+      "message": "กำลังเล่น {fileName}"
+   },
+   "localPlayerOpenFolder": {
+      "message": "เปิดโฟลเดอร์"
+   },
+   "localPlayerOpenFolderFailed": {
+      "message": "ไม่สามารถเปิดโฟลเดอร์ได้"
+   },
+   "localPlayerOpenFolderMenu": {
+      "message": "เปิดโฟลเดอร์"
+   },
+   "localPlayerOpenSidebar": {
+      "message": "เปิดแถบด้านข้าง"
+   },
+   "localPlayerOpenSidebarFailed": {
+      "message": "ไม่สามารถเปิดแถบด้านข้างได้"
+   },
+   "localPlayerPageTitle": {
+      "message": "วิดีโอในเครื่อง · TranslateDub"
+   },
+   "localPlayerPlay": {
+      "message": "เล่นวิดีโอ"
+   },
+   "localPlayerPreferredSubtitleSaved": {
+      "message": "ตั้งค่าคำบรรยายสำหรับการพากย์เสียง"
+   },
+   "localPlayerRebindSubtitleText": {
+      "message": "คำบรรยายนี้เชื่อมโยงกับ \"{fromVideo}\" แล้ว การดำเนินการต่อจะลบการเชื่อมโยงนั้นและเชื่อมโยงกับ \"{toVideo}\""
+   },
+   "localPlayerRebindSubtitleTitle": {
+      "message": "เชื่อมโยงคำบรรยายนี้อีกครั้งใช่ไหม"
+   },
+   "localPlayerRecognitionSubmitted": {
+      "message": "การจดจำคำบรรยาย"
+   },
+   "localPlayerRemoveAllAssociations": {
+      "message": "ยกเลิกการเชื่อมโยงคำบรรยายทั้งหมด"
+   },
+   "localPlayerRemoveAllAssociationsText": {
+      "message": "เฉพาะลิงก์คำบรรยายสำหรับวิดีโอนี้เท่านั้นที่จะถูกนำออก บันทึกไฟล์คำบรรยายจะไม่ถูกลบ"
+   },
+   "localPlayerRemoveAllAssociationsTitle": {
+      "message": "ยกเลิกการเชื่อมโยงคำบรรยายทั้งหมดหรือไม่"
+   },
+   "localPlayerRemoveAssociation": {
+      "message": "ยกเลิกการลิงก์คำบรรยาย"
+   },
+   "localPlayerRemoveFolderFailed": {
+      "message": "ไม่สามารถลบโฟลเดอร์ออกจากไลบรารี"
+   },
+   "localPlayerRemoveFolderText": {
+      "message": "วิธีนี้จะลบเฉพาะบันทึกไลบรารีสำหรับโฟลเดอร์นี้ ไฟล์ต้นฉบับบนดิสก์จะไม่ถูกลบ"
+   },
+   "localPlayerRemoveFolderTitle": {
+      "message": "ลบโฟลเดอร์นี้ออกจากไลบรารีหรือไม่"
+   },
+   "localPlayerRemoveFromLibrary": {
+      "message": "ลบออกจากห้องสมุด"
+   },
+   "localPlayerRescanAll": {
+      "message": "สแกนใหม่ทั้งหมด"
+   },
+   "localPlayerRescanFailed": {
+      "message": "ไม่สามารถสแกนห้องสมุดท้องถิ่นอีกครั้ง"
+   },
+   "localPlayerRescanFolderUnavailable": {
+      "message": "ไม่สามารถสแกนโฟลเดอร์นี้ใหม่ได้เนื่องจากไม่สามารถเข้าถึงโฟลเดอร์ที่บันทึกไว้ได้"
+   },
+   "localPlayerRescanThisFolder": {
+      "message": "สแกนโฟลเดอร์นี้อีกครั้ง"
+   },
+   "localPlayerRouteVideoMissing": {
+      "message": "วิดีโอที่ระบุใน URL ไม่ได้อยู่ในไลบรารีวิดีโอในเครื่องปัจจุบัน"
+   },
+   "localPlayerSameDirectorySubtitleSummary": {
+      "message": "คำบรรยายในโฟลเดอร์เดียวกัน {sameCount} · เชื่อมโยง {associatedCount}"
+   },
+   "localPlayerScanComplete": {
+      "message": "สแกนเสร็จสิ้น: เพิ่มวิดีโอ {addedVideoCount}, คำบรรยาย {addedSubtitleCount}, ไฟล์ {updatedCount} ที่อัปเดต"
+   },
+   "localPlayerSearchPlaceholder": {
+      "message": "ค้นหาวิดีโอหรือเส้นทางไฟล์"
+   },
+   "localPlayerSelectVideoForSubtitleTitle": {
+      "message": "เลือกวิดีโอที่จะลิงก์ไปยังคำบรรยายนี้"
+   },
+   "localPlayerSetForDubbing": {
+      "message": "ใช้คำบรรยายนี้สำหรับการพากย์เสียง"
+   },
+   "localPlayerSortDuration": {
+      "message": "ระยะเวลาของวิดีโอ"
+   },
+   "localPlayerSortLastPlayed": {
+      "message": "วิดีโอที่เล่นล่าสุด"
+   },
+   "localPlayerSortName": {
+      "message": "ชื่อไฟล์"
+   },
+   "localPlayerStartDubbing": {
+      "message": "เริ่มการพากย์เสียง"
+   },
+   "localPlayerSubtitleAssociatedBadge": {
+      "message": "{count} คำบรรยายที่เชื่อมโยง"
+   },
+   "localPlayerSubtitles": {
+      "message": "คำบรรยาย"
+   },
+   "localPlayerTemporaryImportDescription": {
+      "message": "เบราว์เซอร์นี้ไม่รองรับ File System Access API คุณสามารถเพิ่มวิดีโอและคำบรรยายได้ชั่วคราว"
+   },
+   "localPlayerTemporaryImportMode": {
+      "message": "โหมดนำเข้าชั่วคราว"
+   },
+   "localPlayerTextDubbingClear": {
+      "message": "ยกเลิก"
+   },
+   "localPlayerTextDubbingCounter": {
+      "message": "{chars} · {bytes}"
+   },
+   "localPlayerTextDubbingDescription": {
+      "message": "พากย์ข้อความ - ภาษาเป้าหมาย"
+   },
+   "localPlayerTextDubbingDownload": {
+      "message": "ส่งออกคำบรรยาย MP3"
+   },
+   "localPlayerTextDubbingEmptyText": {
+      "message": "เนื้อหาคำบรรยายไม่สามารถเว้นว่างได้"
+   },
+   "localPlayerTextDubbingFailed": {
+      "message": "บันทึกล้มเหลว"
+   },
+   "localPlayerTextDubbingGender": {
+      "message": "เพศ"
+   },
+   "localPlayerTextDubbingGenerate": {
+      "message": "พากย์ข้อความ MP3"
+   },
+   "localPlayerTextDubbingGenerated": {
+      "message": "พากย์ข้อความ MP3 · {seconds}s"
+   },
+   "localPlayerTextDubbingGenerating": {
+      "message": "กำลังบันทึก..."
+   },
+   "localPlayerTextDubbingInputLabel": {
+      "message": "ป้อนข้อมูลด้วยตนเอง"
+   },
+   "localPlayerTextDubbingInputPlaceholder": {
+      "message": "ป้อนข้อมูลด้วยตนเอง - พากย์ข้อความ"
+   },
+   "localPlayerTextDubbingLanguage": {
+      "message": "ภาษาเป้าหมาย"
+   },
+   "localPlayerTextDubbingLimitHint": {
+      "message": "พากย์ข้อความ: {chars} / {bytes}"
+   },
+   "localPlayerTextDubbingNav": {
+      "message": "พากย์ข้อความ"
+   },
+   "localPlayerTextDubbingNoVoice": {
+      "message": "ไม่มีเสียงสำหรับตัวเลือกนี้"
+   },
+   "localPlayerTextDubbingTitle": {
+      "message": "พากย์ข้อความ"
+   },
+   "localPlayerTextDubbingTooLong": {
+      "message": "ข้อความยาวเกินไป โปรดย่อให้สั้นลงแล้วลองอีกครั้ง"
+   },
+   "localPlayerTextDubbingVoice": {
+      "message": "เสียง"
+   },
+   "localPlayerTextDubbingVoiceType": {
+      "message": "ประเภทเสียง"
+   },
+   "localPlayerThumbnailBackfillComplete": {
+      "message": "ภาพขนาดย่อที่สร้างขึ้นสำหรับวิดีโอ {count}"
+   },
+   "localPlayerThumbnailGenerationFailed": {
+      "message": "การสร้างภาพขนาดย่อล้มเหลว: {displayName} ({message})"
+   },
+   "localPlayerTotalFolders": {
+      "message": "รวม {count} โฟลเดอร์"
+   },
+   "localPlayerTotalVideos": {
+      "message": "ทั้งหมด {count} วิดีโอ"
+   },
+   "localPlayerUploadCancelled": {
+      "message": "การอัปโหลดถูกยกเลิก"
+   },
+   "localPlayerUsedForDubbing": {
+      "message": "ใช้สำหรับการพากย์เสียง"
+   },
+   "localPlayerVideoDeleted": {
+      "message": "ลบแล้ว {fileName}"
+   },
+   "localPlayerVideoFileAccessLost": {
+      "message": "ไม่สามารถกู้คืนการเข้าถึงไฟล์วิดีโอนี้ได้ กรุณาเพิ่มวิดีโออีกครั้ง"
+   },
+   "localPlayerVideoFileReadFailed": {
+      "message": "ไม่สามารถอ่านไฟล์วิดีโอในเครื่องได้ กรุณาเพิ่มวิดีโออีกครั้ง"
+   },
+   "localPlayerVideoList": {
+      "message": "รายการวิดีโอ"
+   },
+   "localPlayerVideoPlayerNotReady": {
+      "message": "เครื่องเล่นวิดีโอยังไม่พร้อม"
+   },
+   "login": {
+      "message": "Login"
+   },
+   "loginAndUsePlugin": {
+      "message": "กรุณาคลิกไอคอนเพื่อล็อกอินก่อนใช้ปลั๊กอิน"
+   },
+   "logout": {
+      "message": "ออกจากระบบ"
+   },
+   "lowBalanceText": {
+      "message": "ยอดเงินต่ำกว่า 1 ดอลลาร์ แนะนำให้เติมเงิน"
+   },
+   "lowBalanceTitle": {
+      "message": "แจ้งเตือนยอดเงินต่ำ"
+   },
+   "male": {
+      "message": "ชาย"
+   },
+   "man": {
+      "message": "ชาย"
+   },
+   "mediaSourceNotDetected": {
+      "message": "ไม่สามารถตรวจจับแหล่งที่มาของวิดีโอ เว็บไซต์นี้อาจไม่รองรับ"
+   },
+   "memberAiSubtitlePlatformPrioritySuggestion": {
+      "message": "ขณะนี้กำลังใช้คำบรรยายที่ AI เบื้องหลังของส่วนขยายรู้จำให้ หากรู้สึกว่าแปลไม่ถูกต้อง ให้เปลี่ยนลำดับความสำคัญของคำบรรยายเป็นคำบรรยายของแพลตฟอร์มในหน้าการตั้งค่าพื้นฐาน"
+   },
+   "memberFree": {
+      "message": "ฟรีสำหรับสมาชิก"
+   },
+   "memberFreeRequireMembership": {
+      "message": "ประเภทเสียงนี้เฉพาะสมาชิกเท่านั้น อัปเกรดเพื่อใช้งานฟรี"
+   },
+   "memberFreeVoiceAzureSuggestion": {
+      "message": "ตอนนี้คุณกำลังพากย์ด้วยประเภทเสียงฟรี เสียง Azure ฟังเป็นธรรมชาติกว่า และสมาชิกสามารถใช้ Azure ได้แบบไม่จำกัดโดยไม่ต้องเติมเครดิตเพิ่มแล้ว"
+   },
+   "memberUser": {
+      "message": "PRO"
+   },
+   "membershipExpires": {
+      "message": "ถึง"
+   },
+   "membershipIcon": {
+      "message": "ไอคอนสมาชิก"
+   },
+   "membershipRequired": {
+      "message": "ต้องเป็นสมาชิกก่อนใช้ OpenAI แปล"
+   },
+   "membershipRequiredForAI": {
+      "message": "กรุณาเติมเงินสมาชิกก่อนใช้ AI แปล หากไม่ต้องการเติมเงิน สามารถเลือก Google Translate ได้"
+   },
+   "membershipRequiredTitle": {
+      "message": "ต้องเป็นสมาชิก"
+   },
+   "metadataNotFound": {
+      "message": "ไม่พบข้อมูลเมตาดาต้าของวิดีโอ กรุณารีเฟรชหน้าและลองใหม่อีกครั้ง"
+   },
+   "multiVideoNotSupported": {
+      "message": "หน้านี้มีวิดีโอหลายรายการ การพากย์เสียงสากลรองรับเฉพาะหน้าที่มีวิดีโอเดียวเมื่อใช้สตรีม HLS"
+   },
+   "musicVideoNotSupported": {
+      "message": "นี่คือมิวสิควิดีโอ ไม่รองรับการแปลและการพากย์เสียง"
+   },
+   "name": {
+      "message": "TranslateDub – แปลและพากย์คำบรรยายด้วย AI | Translate & Dub"
+   },
+   "noAudioTrackFound": {
+      "message": "ไม่พบแทร็กเสียง วิดีโอนี้ดูเหมือนเป็นวิดีโอเท่านั้นโดยไม่มีเสียง และไม่สามารถใช้สำหรับการรู้จำการพากย์เสียงได้"
+   },
+   "noSpeakers": {
+      "message": "ไม่มีผู้พูด"
+   },
+   "noSubtitlesFound": {
+      "message": "วิดีโอปัจจุบันไม่มีคำบรรยาย ไม่รองรับการแปลและพากย์เสียง"
+   },
+   "noSubtitlesWaitOptimization": {
+      "message": "ไม่มีคำบรรยายที่ใช้ได้ กรุณารอให้ปลั๊กอินจดจำคำบรรยายสำหรับวิดีโอนี้ คุณจะได้รับการแจ้งเตือนทางอีเมลที่อีเมลที่ลงทะเบียนไว้เมื่อการจดจำเสร็จสิ้น"
+   },
+   "notSupported": {
+      "message": "ไม่รองรับ"
+   },
+   "openBasicSettingsLink": {
+      "message": "เปิดการตั้งค่าพื้นฐาน"
+   },
+   "optionsNavAiShort": {
+      "message": "AI"
+   },
+   "optionsNavPreferencesShort": {
+      "message": "พื้นฐาน"
+   },
+   "optionsNavPronunciationShort": {
+      "message": "การออกเสียง"
+   },
+   "optionsNavSitesShort": {
+      "message": "ไซต์"
+   },
+   "optionsNavSubtitleShort": {
+      "message": "คำบรรยาย"
+   },
+   "originalAudio": {
+      "message": "เสียงต้นฉบับ"
+   },
+   "panelSummaryCollapse": {
+      "message": "ย่อ"
+   },
+   "panelSummaryCollapseAll": {
+      "message": "ย่อทั้งหมด"
+   },
+   "panelSummaryCopy": {
+      "message": "คัดลอก"
+   },
+   "panelSummaryCopySuccess": {
+      "message": "คัดลอกแล้ว"
+   },
+   "panelSummaryDesc": {
+      "message": "ใช้โมเดล AI ขั้นสูงช่วยให้คุณเข้าใจเนื้อหาวิดีโอได้อย่างรวดเร็ว"
+   },
+   "panelSummaryError": {
+      "message": "สร้างสรุปไม่สำเร็จ กรุณาลองใหม่อีกครั้ง"
+   },
+   "panelSummaryErrorInvalidVideoId": {
+      "message": "ไม่สามารถระบุวิดีโอปัจจุบันได้ กรุณารีเฟรชหน้าแล้วลองใหม่"
+   },
+   "panelSummaryErrorMemberRequired": {
+      "message": "การสรุปวิดีโอเป็นฟีเจอร์สำหรับสมาชิกเท่านั้น กรุณาสมัครสมาชิกเพื่อใช้งาน"
+   },
+   "panelSummaryErrorNoSubtitles": {
+      "message": "วิดีโอนี้ไม่มีคำบรรยายที่ใช้ได้ ไม่สามารถสร้างสรุปได้"
+   },
+   "panelSummaryErrorServiceError": {
+      "message": "บริการสรุปไม่พร้อมใช้งานชั่วคราว กรุณาลองใหม่ภายหลัง"
+   },
+   "panelSummaryExpand": {
+      "message": "ขยาย"
+   },
+   "panelSummaryExpandAll": {
+      "message": "ขยายทั้งหมด"
+   },
+   "panelSummaryGenerate": {
+      "message": "สร้างสรุป"
+   },
+   "panelSummaryGenerating": {
+      "message": "กำลังสร้าง..."
+   },
+   "panelSummaryNoSubtitle": {
+      "message": "ไม่มีคำบรรยายสำหรับวิดีโอนี้"
+   },
+   "panelSummaryReGenerate": {
+      "message": "สร้างใหม่"
+   },
+   "panelSummaryReGenerating": {
+      "message": "กำลังสร้างใหม่..."
+   },
+   "panelSummarySectionHighlights": {
+      "message": "จุดเด่น"
+   },
+   "panelSummarySectionSummary": {
+      "message": "สรุป"
+   },
+   "panelSummaryShare": {
+      "message": "แชร์"
+   },
+   "panelSummaryTitle": {
+      "message": "สรุปและโครงร่างวิดีโอ"
+   },
+   "panelTabSubtitleEdit": {
+      "message": "แก้ไขคำบรรยาย"
+   },
+   "panelTabVideoSummary": {
+      "message": "สรุปวิดีโอ"
+   },
+   "pauseVideo": {
+      "message": "หยุดวิดีโอชั่วคราว"
+   },
+   "pay": {
+      "message": "ชำระเงิน"
+   },
+   "pleaseClickVideoToPlay": {
+      "message": "กรุณาคลิกวิดีโอเพื่อเปิด แล้วใช้ฟีเจอร์พากย์เสียง"
+   },
+   "postLoginTranslationSettings": {
+      "message": "เข้าสู่ระบบสำเร็จ คลิกไอคอนปลั๊กอินเพื่อเลือกภาษาและเสียง"
+   },
+   "preferenceActionFailed": {
+      "message": "ดำเนินการไม่สำเร็จ โปรดลองอีกครั้งในภายหลัง"
+   },
+   "preferenceActions": {
+      "message": "การดำเนินการ"
+   },
+   "preferenceAdd": {
+      "message": "เพิ่ม"
+   },
+   "preferenceAllDomains": {
+      "message": "ทุกโดเมน"
+   },
+   "preferenceAllStatuses": {
+      "message": "ทั้งหมด"
+   },
+   "preferenceCancel": {
+      "message": "ยกเลิก"
+   },
+   "preferenceClearSearch": {
+      "message": "ล้างการค้นหา"
+   },
+   "preferenceDelete": {
+      "message": "ลบ"
+   },
+   "preferenceDisabled": {
+      "message": "ปิดการใช้งาน"
+   },
+   "preferenceDomain": {
+      "message": "โดเมน"
+   },
+   "preferenceEdit": {
+      "message": "แก้ไข"
+   },
+   "preferenceEnabled": {
+      "message": "เปิดใช้งาน"
+   },
+   "preferenceLanguage": {
+      "message": "ภาษา"
+   },
+   "preferenceLoadFailed": {
+      "message": "โหลดไม่สำเร็จ โปรดลงชื่อเข้าใช้แล้วลองอีกครั้ง"
+   },
+   "preferenceNextPage": {
+      "message": "ถัดไป"
+   },
+   "preferencePageLabel": {
+      "message": "หน้า {page}"
+   },
+   "preferencePreviousPage": {
+      "message": "ก่อนหน้า"
+   },
+   "preferenceSave": {
+      "message": "บันทึก"
+   },
+   "preferenceSearch": {
+      "message": "ค้นหา"
+   },
+   "preferenceSource": {
+      "message": "แหล่งที่มา"
+   },
+   "preferenceSourceBuiltin": {
+      "message": "ในตัว"
+   },
+   "preferenceSourceUser": {
+      "message": "ส่วนตัว"
+   },
+   "preferenceStatus": {
+      "message": "สถานะ"
+   },
+   "preferenceStatusDisabled": {
+      "message": "ปิด"
+   },
+   "preferenceStatusEnabled": {
+      "message": "เปิดใช้งาน"
+   },
+   "preferencesDescription": {
+      "message": "จัดการการตั้งค่าพื้นฐานของคุณที่นี่"
+   },
+   "preferencesSectionTitle": {
+      "message": "การตั้งค่าพื้นฐาน"
+   },
+   "preferencesTitle": {
+      "message": "การตั้งค่าพื้นฐาน"
+   },
+   "premiumMemberDurationLimit": {
+      "message": "วิดีโอนี้ไม่มีคำบรรยายและระยะเวลาของวิดีโอเกิน 3 ชั่วโมง ไม่รองรับการแปลและพากย์เสียง กรุณาเลือกวิดีโอที่สั้นกว่าหรือวิดีโอที่มีคำบรรยาย"
+   },
+   "privateVideoNoSubtitles": {
+      "message": "วิดีโอนี้ไม่มีคำบรรยายและเป็นวิดีโอส่วนตัว ปลั๊กอินไม่สามารถจดจำคำบรรยายของวิดีโอนี้ในเบื้องหลังได้ โปรดปรับวิดีโอเป็นสาธารณะ หรือเพิ่มคำบรรยายด้วยตนเองแล้วลองอีกครั้ง"
+   },
+   "pronunciationDeleteConfirm": {
+      "message": "ลบกฎการออกเสียงนี้ใช่ไหม"
+   },
+   "pronunciationEditRule": {
+      "message": "แก้ไขกฎการออกเสียง"
+   },
+   "pronunciationEditorHint": {
+      "message": "เลือกส่วนที่ต่อเนื่องเพื่อแก้ไข จากนั้นป้อนการออกเสียง"
+   },
+   "pronunciationEmpty": {
+      "message": "ไม่มีกฎการออกเสียงส่วนบุคคลที่ตรงกับตัวกรองปัจจุบัน"
+   },
+   "pronunciationEnterMatchFirst": {
+      "message": "ป้อนข้อความที่ตรงกันก่อน"
+   },
+   "pronunciationFineSelection": {
+      "message": "การเลือกที่แม่นยำ"
+   },
+   "pronunciationLoading": {
+      "message": "กำลังโหลด..."
+   },
+   "pronunciationMatchPlaceholder": {
+      "message": "ตัวอย่างเช่น: สวัสดี"
+   },
+   "pronunciationMatchText": {
+      "message": "ข้อความที่ตรงกัน"
+   },
+   "pronunciationMergeUnits": {
+      "message": "รวมการออกเสียงที่อยู่ติดกัน"
+   },
+   "pronunciationModifier": {
+      "message": "โทน"
+   },
+   "pronunciationNeutralTone": {
+      "message": "โทนสีกลางๆ"
+   },
+   "pronunciationNewRule": {
+      "message": "กฎใหม่"
+   },
+   "pronunciationNumberedTone": {
+      "message": "โทน {tone}"
+   },
+   "pronunciationOccurrence": {
+      "message": "เหตุการณ์ {occurrence}"
+   },
+   "pronunciationPerUnitHint": {
+      "message": "ป้อนการออกเสียงและน้ำเสียงสำหรับแต่ละส่วน แยกหรือรวมส่วนต่างๆ ตามความจำเป็น"
+   },
+   "pronunciationPinyinPlaceholder": {
+      "message": "ป้อนพยางค์พินอิน"
+   },
+   "pronunciationPinyinSyllable": {
+      "message": "พยางค์พินอิน"
+   },
+   "pronunciationPrimarySelection": {
+      "message": "การเลือกอย่างชาญฉลาด"
+   },
+   "pronunciationReading": {
+      "message": "การออกเสียงที่ระบุ"
+   },
+   "pronunciationReselect": {
+      "message": "เลือกอีกครั้ง"
+   },
+   "pronunciationSaving": {
+      "message": "กำลังบันทึก..."
+   },
+   "pronunciationSearchPlaceholder": {
+      "message": "ค้นหาข้อความที่ตรงกัน"
+   },
+   "pronunciationSelectModifier": {
+      "message": "เลือก"
+   },
+   "pronunciationSelectTarget": {
+      "message": "เลือกข้อความที่จะแก้ไข"
+   },
+   "pronunciationSelectionGranularity": {
+      "message": "รายละเอียดการเลือก"
+   },
+   "pronunciationSelectionInvalid": {
+      "message": "เลือกข้อความต่อเนื่อง"
+   },
+   "pronunciationSelectionRestoreFailed": {
+      "message": "ตำแหน่งที่บันทึกไว้ไม่สามารถกู้คืนได้ เลือกข้อความอีกครั้งก่อนบันทึก"
+   },
+   "pronunciationSelectionSummary": {
+      "message": "เลือกแล้ว: {text}; เหตุการณ์ {occurrence}"
+   },
+   "pronunciationSelectionTooLong": {
+      "message": "ส่วนที่แก้ไขแล้วสามารถมีอักขระได้สูงสุด 128 ตัว"
+   },
+   "pronunciationSettingsDescription": {
+      "message": "ตั้งค่าการออกเสียงส่วนบุคคลสำหรับข้อความที่แปล กฎใช้เฉพาะกับการพากย์ท้องถิ่นเท่านั้น"
+   },
+   "pronunciationSettingsSectionTitle": {
+      "message": "การออกเสียง"
+   },
+   "pronunciationSettingsTitle": {
+      "message": "การตั้งค่าการออกเสียง"
+   },
+   "pronunciationSplitAt": {
+      "message": "แยกที่"
+   },
+   "pronunciationStatus": {
+      "message": "สถานะ"
+   },
+   "pronunciationTargetLanguage": {
+      "message": "ภาษาเป้าหมาย"
+   },
+   "pronunciationTargetText": {
+      "message": "ส่วนที่แก้ไขแล้ว"
+   },
+   "pronunciationUnitReading": {
+      "message": "การออกเสียงต่อส่วน"
+   },
+   "pronunciationUnknownError": {
+      "message": "การดำเนินการล้มเหลว โปรดลองอีกครั้งในภายหลัง"
+   },
+   "pronunciationWholeReading": {
+      "message": "การออกเสียงทั้งหมด"
+   },
+   "pronunciationWholeToneHint": {
+      "message": "ป้อนการออกเสียงที่สมบูรณ์ แบ่งเพื่อเลือกโทนเสียงสำหรับแต่ละส่วน"
+   },
+   "rechargeLimit": {
+      "message": "เติมเงิน+สมาชิก"
+   },
+   "replacementCreateButton": {
+      "message": "เพิ่มการแทนที่ส่วนตัว"
+   },
+   "replacementDescription": {
+      "message": "แก้ไขข้อผิดพลาดในการรู้จำคำบรรยายที่เกิดซ้ำ (เช่น cloud code -> Claude Code) ก่อนแปลด้วย AI"
+   },
+   "replacementEditTitle": {
+      "message": "แก้ไขการแทนที่ส่วนตัว"
+   },
+   "replacementEditorDescription": {
+      "message": "ระบบจะใช้เฉพาะการแทนที่ข้อความส่วนตัวก่อนแปลด้วย AI"
+   },
+   "replacementEmpty": {
+      "message": "ยังไม่มีกฎการแก้ไข"
+   },
+   "replacementFindPlaceholder": {
+      "message": "ข้อความที่ผิด เช่น cloud code"
+   },
+   "replacementFindText": {
+      "message": "ข้อความที่ผิด"
+   },
+   "replacementReplacePlaceholder": {
+      "message": "แทนที่ด้วย เช่น claude code"
+   },
+   "replacementReplaceText": {
+      "message": "แทนที่ด้วย"
+   },
+   "replacementSearchEmpty": {
+      "message": "ไม่พบการแทนที่ที่ตรงกัน"
+   },
+   "replacementSearchPlaceholder": {
+      "message": "ค้นหาการแทนที่"
+   },
+   "replacementTitle": {
+      "message": "การแก้ไขข้อผิดพลาดในข้อความต้นฉบับ"
+   },
+   "safariShortcutSettingsTip": {
+      "message": "ตั้งค่าปุ่มลัดใน Safari > การตั้งค่า > ส่วนขยาย"
+   },
+   "sampleAesNotSupported": {
+      "message": "วิดีโอนี้ใช้การเข้ารหัส SAMPLE-AES ซึ่งยังไม่รองรับการดาวน์โหลดในขณะนี้"
+   },
+   "save": {
+      "message": "บันทึก"
+   },
+   "saveFailedText": {
+      "message": "บันทึกการตั้งค่าล้มเหลว กรุณาลองใหม่"
+   },
+   "saveFailedTitle": {
+      "message": "บันทึกล้มเหลว"
+   },
+   "saveSuccessText": {
+      "message": "การตั้งค่าถูกบันทึกแล้ว"
+   },
+   "saveSuccessTitle": {
+      "message": "บันทึกสำเร็จ"
+   },
+   "save_settings": {
+      "message": "บันทึก"
+   },
+   "saving": {
+      "message": "กำลังบันทึก..."
+   },
+   "searchSourceLanguage": {
+      "message": "ค้นหาภาษาต้นฉบับ..."
+   },
+   "searchTargetLanguage": {
+      "message": "ค้นหาภาษาเป้าหมาย..."
+   },
+   "selectSourceLanguage": {
+      "message": "เลือกภาษาต้นฉบับ"
+   },
+   "selectSpeaker": {
+      "message": "เลือก"
+   },
+   "selectTargetLanguage": {
+      "message": "เลือกภาษาเป้าหมาย"
+   },
+   "sex": {
+      "message": "เพศ:"
+   },
+   "shortcutSettings": {
+      "message": "ตั้งค่าปุ่มลัด"
+   },
+   "showSubtitle": {
+      "message": "แสดงคำบรรยาย:"
+   },
+   "sidebarDisableForSite": {
+      "message": "ปิดใช้งานสำหรับเว็บไซต์นี้"
+   },
+   "sidebarDisableGlobally": {
+      "message": "ปิดใช้งานทั่วโลก"
+   },
+   "sidebarHideUntilNextVisit": {
+      "message": "ซ่อนจนกว่าจะเยี่ยมชมครั้งถัดไป"
+   },
+   "sidebarReenableHint": {
+      "message": "สามารถเปิดใช้งานอีกครั้งได้ใน"
+   },
+   "sidebarReenableHintSuffix": {
+      "message": " "
+   },
+   "sidebarSettings": {
+      "message": "การตั้งค่า"
+   },
+   "skipTranslationWhenSameLanguageDescription": {
+      "message": "เมื่อเปิดใช้งาน หากภาษาซับไตเติลตรงกับภาษาเป้าหมาย ระบบจะเริ่มพากย์เสียงทันทีโดยไม่แปล"
+   },
+   "skipTranslationWhenSameLanguageLabel": {
+      "message": "ข้ามการแปลเมื่อเป็นภาษาเดียวกัน"
+   },
+   "sourceLanguage": {
+      "message": "ภาษาต้นทาง"
+   },
+   "source_languages": {
+      "message": "ภาษาต้นฉบับ:"
+   },
+   "speaker": {
+      "message": "ผู้พูด"
+   },
+   "speakerList": {
+      "message": "รายชื่อผู้พูด"
+   },
+   "speakerName": {
+      "message": "ชื่อผู้พูด"
+   },
+   "speakersTitle": {
+      "message": "ตัวละคร"
+   },
+   "startUpload": {
+      "message": "เริ่มอัปโหลด"
+   },
+   "subscribe": {
+      "message": "สมัครสมาชิก"
+   },
+   "subscriptionRecharge": {
+      "message": "สมัครสมาชิก"
+   },
+   "subtitleDisplayMode": {
+      "message": "โหมดแสดงคำบรรยาย"
+   },
+   "subtitleEditorExport": {
+      "message": "ส่งออกคำบรรยาย"
+   },
+   "subtitleEditorManualInput": {
+      "message": "ป้อนข้อมูลด้วยตนเอง"
+   },
+   "subtitleEditorMySubtitles": {
+      "message": "คำบรรยายของฉัน"
+   },
+   "subtitleEditorNoSourceManual": {
+      "message": "ไม่มีแหล่งคำบรรยาย (มีอินพุตด้วยตนเอง)"
+   },
+   "subtitleEditorSaveFailed": {
+      "message": "บันทึกล้มเหลว โปรดลองอีกครั้งในภายหลัง"
+   },
+   "subtitleEditorSaveInvalidVideo": {
+      "message": "ไม่สามารถระบุวิดีโอปัจจุบันได้ บันทึกล้มเหลว"
+   },
+   "subtitleEditorSwitchTip": {
+      "message": "คลิกที่นี่เพื่อเปลี่ยนคำบรรยาย"
+   },
+   "subtitleEditorTrackFallback": {
+      "message": "แหล่งที่มาของคำบรรยาย"
+   },
+   "subtitleEditorValidationBlockStructure": {
+      "message": "บล็อก SRT ไม่ถูกต้อง จำเป็นต้องมีลำดับ การประทับเวลา และเนื้อหา"
+   },
+   "subtitleEditorValidationContentRequired": {
+      "message": "แต่ละคำบรรยายต้องมีข้อความอย่างน้อยหนึ่งบรรทัด"
+   },
+   "subtitleEditorValidationEmpty": {
+      "message": "เนื้อหาคำบรรยายไม่สามารถเว้นว่างได้"
+   },
+   "subtitleEditorValidationEndAfterStart": {
+      "message": "เวลาสิ้นสุดต้องมากกว่าเวลาเริ่มต้น"
+   },
+   "subtitleEditorValidationSequenceFormat": {
+      "message": "รูปแบบหมายเลขลำดับ SRT ไม่ถูกต้อง"
+   },
+   "subtitleEditorValidationSequenceIncrement": {
+      "message": "หมายเลขลำดับ SRT ต้องเริ่มต้นที่ 1 และเพิ่มขึ้นทีละ 1"
+   },
+   "subtitleEditorValidationSpeakerPrefix": {
+      "message": "คำบรรยายบางส่วนมีแท็กผู้พูด คำบรรยายทั้งหมดต้องใช้คำนำหน้า [speaker]"
+   },
+   "subtitleEditorValidationTimeFormat": {
+      "message": "รูปแบบเวลาไม่ถูกต้อง โปรดตรวจสอบและแก้ไขให้ถูกต้อง"
+   },
+   "subtitleModeBilingual": {
+      "message": "คำบรรยายสองภาษา"
+   },
+   "subtitleModeOff": {
+      "message": "ปิดคำบรรยาย"
+   },
+   "subtitleModeTranslated": {
+      "message": "คำแปลเท่านั้น"
+   },
+   "subtitlePriorityAiSubtitle": {
+      "message": "คำบรรยายที่ AI ของปลั๊กอินรู้จำ"
+   },
+   "subtitlePriorityAiSubtitleDesc": {
+      "message": "ให้ความสำคัญกับคำบรรยายที่สร้างโดยการรู้จำเสียง AI ของปลั๊กอินเพื่อความแม่นยำที่สูงขึ้น"
+   },
+   "subtitlePriorityDescription": {
+      "message": "เลือกแหล่งคำบรรยายที่จะให้ความสำคัญในการแปล"
+   },
+   "subtitlePriorityPlatformSubtitle": {
+      "message": "คำบรรยายในตัวของแพลตฟอร์ม"
+   },
+   "subtitlePriorityPlatformSubtitleDesc": {
+      "message": "ให้ความสำคัญกับคำบรรยายต้นฉบับที่จัดเตรียมโดยแพลตฟอร์มวิดีโอ"
+   },
+   "subtitlePriorityTitle": {
+      "message": "ลำดับความสำคัญการแปลคำบรรยาย"
+   },
+   "subtitleSize": {
+      "message": "ขนาด"
+   },
+   "subtitleStyleBackgroundColor": {
+      "message": "สีพื้นหลัง"
+   },
+   "subtitleStyleBackgroundOpacity": {
+      "message": "ความทึบของพื้นหลัง"
+   },
+   "subtitleStyleColorBlack": {
+      "message": "สีดำ"
+   },
+   "subtitleStyleColorBlue": {
+      "message": "น้ำเงิน"
+   },
+   "subtitleStyleColorCyan": {
+      "message": "ฟ้าอมเขียว"
+   },
+   "subtitleStyleColorGray": {
+      "message": "สีเทา"
+   },
+   "subtitleStyleColorGreen": {
+      "message": "สีเขียว"
+   },
+   "subtitleStyleColorLightGray": {
+      "message": "เทาอ่อน"
+   },
+   "subtitleStyleColorMagenta": {
+      "message": "สีม่วงแดง"
+   },
+   "subtitleStyleColorOrange": {
+      "message": "สีส้ม"
+   },
+   "subtitleStyleColorRed": {
+      "message": "สีแดง"
+   },
+   "subtitleStyleColorWhite": {
+      "message": "สีขาว"
+   },
+   "subtitleStyleColorYellow": {
+      "message": "สีเหลือง"
+   },
+   "subtitleStyleCustomFont": {
+      "message": "แบบอักษรที่กำหนดเอง"
+   },
+   "subtitleStyleCustomFontPlaceholder": {
+      "message": "ตัวอย่างเช่น PingFang SC, Arial"
+   },
+   "subtitleStyleCustomOption": {
+      "message": "กำหนดเอง"
+   },
+   "subtitleStyleEdgeNone": {
+      "message": "ไม่มี"
+   },
+   "subtitleStyleEdgeOutline": {
+      "message": "เส้นขอบ"
+   },
+   "subtitleStyleEdgeShadow": {
+      "message": "เงา"
+   },
+   "subtitleStyleEdgeStyle": {
+      "message": "สไตล์ขอบ"
+   },
+   "subtitleStyleEditorViewBilingual": {
+      "message": "สองภาษา"
+   },
+   "subtitleStyleEditorViewLabel": {
+      "message": "มุมมองแก้ไขสไตล์"
+   },
+   "subtitleStyleEditorViewTranslated": {
+      "message": "เฉพาะคำแปล"
+   },
+   "subtitleStyleFollowTranslated": {
+      "message": "ตามสไตล์คำแปล"
+   },
+   "subtitleStyleFontAppleSD": {
+      "message": "Apple SD Gothic Neo"
+   },
+   "subtitleStyleFontArial": {
+      "message": "Arial"
+   },
+   "subtitleStyleFontArialUnicode": {
+      "message": "Arial Unicode MS"
+   },
+   "subtitleStyleFontCourierNew": {
+      "message": "Courier New"
+   },
+   "subtitleStyleFontCustom": {
+      "message": "กำหนดเอง"
+   },
+   "subtitleStyleFontDefault": {
+      "message": "ค่าเริ่มต้น"
+   },
+   "subtitleStyleFontDongqingHeiti": {
+      "message": "Dongqing Heiti"
+   },
+   "subtitleStyleFontFamily": {
+      "message": "แบบอักษร"
+   },
+   "subtitleStyleFontFangsong": {
+      "message": "FangSong"
+   },
+   "subtitleStyleFontGeorgia": {
+      "message": "Georgia"
+   },
+   "subtitleStyleFontHanyiHeiliu": {
+      "message": "Hanyi Heiliu"
+   },
+   "subtitleStyleFontHanyiZhonghei": {
+      "message": "Hanyi Zhonghei"
+   },
+   "subtitleStyleFontHeiti": {
+      "message": "STHeiti"
+   },
+   "subtitleStyleFontHelveticaNeue": {
+      "message": "Helvetica Neue"
+   },
+   "subtitleStyleFontHiraginoKaku": {
+      "message": "Hiragino Kaku Gothic ProN"
+   },
+   "subtitleStyleFontHiraginoMincho": {
+      "message": "Hiragino Mincho ProN"
+   },
+   "subtitleStyleFontKaiti": {
+      "message": "Kaiti SC"
+   },
+   "subtitleStyleFontKohinoor": {
+      "message": "Kohinoor Devanagari"
+   },
+   "subtitleStyleFontLantingHei": {
+      "message": "Lanting Hei"
+   },
+   "subtitleStyleFontNanumGothic": {
+      "message": "Nanum Gothic"
+   },
+   "subtitleStyleFontNone": {
+      "message": "ไม่มี"
+   },
+   "subtitleStyleFontPingFang": {
+      "message": "PingFang SC"
+   },
+   "subtitleStyleFontSTSong": {
+      "message": "Songti"
+   },
+   "subtitleStyleFontSize": {
+      "message": "ขนาดตัวอักษร"
+   },
+   "subtitleStyleFontSongti": {
+      "message": "STSong"
+   },
+   "subtitleStyleFontTahoma": {
+      "message": "Tahoma"
+   },
+   "subtitleStyleFontTimesNewRoman": {
+      "message": "Times New Roman"
+   },
+   "subtitleStyleFontTrebuchetMS": {
+      "message": "Trebuchet MS"
+   },
+   "subtitleStyleFontVerdana": {
+      "message": "Verdana"
+   },
+   "subtitleStyleFontWawati": {
+      "message": "Wawati"
+   },
+   "subtitleStyleFontWeibei": {
+      "message": "Weibei"
+   },
+   "subtitleStyleFontWeight": {
+      "message": "น้ำหนักตัวอักษร"
+   },
+   "subtitleStyleFontXingkai": {
+      "message": "Xingkai"
+   },
+   "subtitleStyleFontYaHei": {
+      "message": "Microsoft YaHei"
+   },
+   "subtitleStyleFontYuanti": {
+      "message": "Yuanti"
+   },
+   "subtitleStyleLayoutSectionTitle": {
+      "message": "เลย์เอาต์สองภาษา"
+   },
+   "subtitleStyleLineGap": {
+      "message": "ระยะห่างบรรทัด"
+   },
+   "subtitleStyleOptionsDesc": {
+      "message": "การปรับเปลี่ยนจะถูกบันทึกและมีผลทันที"
+   },
+   "subtitleStyleOptionsTitle": {
+      "message": "การตั้งค่ารูปแบบคำบรรยาย"
+   },
+   "subtitleStyleOrder": {
+      "message": "ลำดับคำบรรยาย"
+   },
+   "subtitleStyleOrderOriginalFirst": {
+      "message": "ต้นฉบับอยู่บน"
+   },
+   "subtitleStyleOrderTranslatedFirst": {
+      "message": "คำแปลอยู่บน"
+   },
+   "subtitleStyleOriginalSectionTitle": {
+      "message": "สไตล์ต้นฉบับ"
+   },
+   "subtitleStyleOriginalSizePercent": {
+      "message": "สัดส่วนขนาดตัวอักษร"
+   },
+   "subtitleStylePosition": {
+      "message": "ตำแหน่ง"
+   },
+   "subtitleStylePositionBottom": {
+      "message": "ด้านล่าง"
+   },
+   "subtitleStylePositionMiddle": {
+      "message": "กลาง"
+   },
+   "subtitleStylePositionTop": {
+      "message": "ด้านบน"
+   },
+   "subtitleStylePreviewOriginalText": {
+      "message": "He thought this young man had great potential."
+   },
+   "subtitleStylePreviewTag": {
+      "message": "เวลาจริง"
+   },
+   "subtitleStylePreviewText": {
+      "message": "เขาคิดว่าชายหนุ่มคนนี้มีศักยภาพมาก"
+   },
+   "subtitleStylePreviewTitle": {
+      "message": "ดูตัวอย่าง"
+   },
+   "subtitleStyleRestoreDefaults": {
+      "message": "คืนค่าเริ่มต้น"
+   },
+   "subtitleStyleSectionTitle": {
+      "message": "สไตล์คำบรรยาย"
+   },
+   "subtitleStyleSharedBackgroundSectionTitle": {
+      "message": "พื้นหลังร่วม"
+   },
+   "subtitleStyleTextAlign": {
+      "message": "การจัดแนวนอน"
+   },
+   "subtitleStyleTextAlignCenter": {
+      "message": "กึ่งกลาง"
+   },
+   "subtitleStyleTextAlignLeft": {
+      "message": "ชิดซ้าย"
+   },
+   "subtitleStyleTextAlignRight": {
+      "message": "ชิดขวา"
+   },
+   "subtitleStyleTextColor": {
+      "message": "สีตัวอักษร"
+   },
+   "subtitleStyleTranslatedSectionTitle": {
+      "message": "สไตล์คำแปล"
+   },
+   "subtitleStyleUsesCurrentSettings": {
+      "message": "ใช้การตั้งค่าปัจจุบัน"
+   },
+   "subtitles": {
+      "message": "คำบรรยาย"
+   },
+   "subtitlesRateLimitedByYouTube": {
+      "message": "คำบรรยายของวิดีโอนี้กำลังถูก YouTube จำกัด โปรดลองอีกครั้งในภายหลัง"
+   },
+   "swapVolumeSettingsCommand": {
+      "message": "สลับการตั้งค่าระดับเสียงระหว่างเสียงต้นฉบับและเสียงพากย์"
+   },
+   "switchModelWarning": {
+      "message": "เปลี่ยนโมเดลขณะเล่นจะเสียค่าใช้จ่ายเพิ่ม แนะนำรอวิดีโอถัดไป"
+   },
+   "targetLanguage": {
+      "message": "ภาษาเป้าหมาย"
+   },
+   "target_languages": {
+      "message": "ภาษาเป้าหมาย:"
+   },
+   "taskAlreadySubmitted": {
+      "message": "วิดีโอนี้กำลังอยู่ในระหว่างการประมวลผลสำหรับการรู้จำคำบรรยาย AI โปรดรอการแจ้งเตือนทางอีเมล"
+   },
+   "textToSpeech": {
+      "message": "พากย์ข้อความ:"
+   },
+   "textToSpeechToggle": {
+      "message": "ลูกบอลลอย"
+   },
+   "toggleSubtitles": {
+      "message": "เปิด/ปิดคำบรรยาย"
+   },
+   "tooExpensive": {
+      "message": "แพง"
+   },
+   "translateEngineTipText": {
+      "message": "เปลี่ยนบริการแปลเป็น Google"
+   },
+   "translateService": {
+      "message": "บริการแปล:"
+   },
+   "translatedAudio": {
+      "message": "เสียงแปล"
+   },
+   "translatedReplacementCreateButton": {
+      "message": "เพิ่มการแทนที่ในข้อความแปล"
+   },
+   "translatedReplacementCreateTitle": {
+      "message": "เพิ่มการแทนที่ในข้อความแปล"
+   },
+   "translatedReplacementDescription": {
+      "message": "แทนที่คำหรือวลีในคำแปลที่เสร็จแล้วด้วยกฎส่วนตัว"
+   },
+   "translatedReplacementEditTitle": {
+      "message": "แก้ไขการแทนที่ในข้อความแปล"
+   },
+   "translatedReplacementEditorDescription": {
+      "message": "จะเปลี่ยนเฉพาะคำแปลที่เสร็จแล้วเท่านั้น ข้อความต้นฉบับและแคชคำแปลจะไม่เปลี่ยนแปลง"
+   },
+   "translatedReplacementEmpty": {
+      "message": "ยังไม่มีกฎการแทนที่ข้อความแปล"
+   },
+   "translatedReplacementEnabledDescription": {
+      "message": "เมื่อปิดใช้งาน กฎจะยังคงถูกเก็บไว้แต่จะไม่นำไปใช้กับข้อความแปล"
+   },
+   "translatedReplacementFindPlaceholder": {
+      "message": "คำหรือวลีในข้อความแปล"
+   },
+   "translatedReplacementFindText": {
+      "message": "ข้อความแปล"
+   },
+   "translatedReplacementLanguage": {
+      "message": "ภาษาเป้าหมาย"
+   },
+   "translatedReplacementReplacePlaceholder": {
+      "message": "คำหรือวลีที่ต้องการแสดงแทน"
+   },
+   "translatedReplacementReplaceText": {
+      "message": "แทนที่ด้วย"
+   },
+   "translatedReplacementSearchEmpty": {
+      "message": "ไม่พบการแทนที่ข้อความแปลที่ตรงกัน"
+   },
+   "translatedReplacementSearchPlaceholder": {
+      "message": "ค้นหาในข้อความแปล"
+   },
+   "translatedReplacementTitle": {
+      "message": "การแทนที่ในข้อความแปล"
+   },
+   "translationDomainAuto": {
+      "message": "ยานยนต์"
+   },
+   "translationDomainChess": {
+      "message": "หมากรุก"
+   },
+   "translationDomainEcommerce": {
+      "message": "อีคอมเมิร์ซ"
+   },
+   "translationDomainEducation": {
+      "message": "การศึกษา"
+   },
+   "translationDomainFashion": {
+      "message": "แฟชั่น"
+   },
+   "translationDomainFinance": {
+      "message": "การเงิน"
+   },
+   "translationDomainFood": {
+      "message": "อาหารและการทำอาหาร"
+   },
+   "translationDomainGaming": {
+      "message": "เกม"
+   },
+   "translationDomainGardening": {
+      "message": "การทำสวน"
+   },
+   "translationDomainGeneral": {
+      "message": "ทั่วไป"
+   },
+   "translationDomainGolf": {
+      "message": "กอล์ฟ"
+   },
+   "translationDomainLaw": {
+      "message": "กฎหมาย"
+   },
+   "translationDomainMedical": {
+      "message": "การแพทย์และสุขภาพ"
+   },
+   "translationDomainMovies": {
+      "message": "ภาพยนตร์และทีวี"
+   },
+   "translationDomainMusic": {
+      "message": "ดนตรี"
+   },
+   "translationDomainNews": {
+      "message": "ข่าวและสื่อ"
+   },
+   "translationDomainPets": {
+      "message": "สัตว์เลี้ยง"
+   },
+   "translationDomainPhotography": {
+      "message": "การถ่ายภาพ"
+   },
+   "translationDomainProgramming": {
+      "message": "การเขียนโปรแกรม"
+   },
+   "translationDomainSports": {
+      "message": "กีฬา"
+   },
+   "translationDomainTech": {
+      "message": "เทคโนโลยี"
+   },
+   "translationDomainTravel": {
+      "message": "การท่องเที่ยว"
+   },
+   "translationDomainWeb3": {
+      "message": "Web3 และคริปโต"
+   },
+   "translationEngine": {
+      "message": "เครื่องมือแปล"
+   },
+   "translationPreferencesSectionTitle": {
+      "message": "การแปลด้วย AI"
+   },
+   "translationRulesEnabledDescription": {
+      "message": "เมื่อเปิดใช้งาน การแปลด้วย AI จะใช้การตั้งค่าด้านล่าง เมื่อปิดใช้งาน การตั้งค่าที่มีอยู่จะยังคงถูกเก็บไว้"
+   },
+   "translationRulesEnabledLabel": {
+      "message": "ใช้คลังคำศัพท์และการแทนที่ข้อความในการแปลด้วย AI"
+   },
+   "translationService": {
+      "message": "บริการแปล"
+   },
+   "translationServiceTitle": {
+      "message": "บริการแปล"
+   },
+   "trialMemberDurationLimit": {
+      "message": "วิดีโอปัจจุบันไม่มีคำบรรยาย เนื่องจากคุณเป็นสมาชิกทดลอง ปัจจุบันรองรับเฉพาะวิดีโอที่สั้นกว่า 15 นาทีสำหรับการจดจำคำบรรยาย สมาชิกพรีเมียมรองรับวิดีโอที่สั้นกว่า 3 ชั่วโมง"
+   },
+   "trialMemberModelLimit": {
+      "message": "สมาชิกทดลองใช้งานสามารถใช้ได้เฉพาะ Gemini และ Google แปลภาษาเท่านั้น หากต้องการใช้โมเดลอื่น กรุณาสมัครสมาชิกของเรา"
+   },
+   "universalDubbingMemberOnly": {
+      "message": "การพากย์เสียงสากลต้องใช้พลังการประมวลผล GPU บนคลาวด์ (ต้นทุนสูง) สำหรับ VIP เท่านั้น"
+   },
+   "universalDubbingNotSupported": {
+      "message": "การพากย์เสียงแบบสากลไม่รองรับสำหรับวิดีโอนี้ในเวอร์ชันปัจจุบัน การรองรับมีแผนในเวอร์ชันถัดไป กรุณาติดต่อฝ่ายบริการลูกค้าสำหรับรายละเอียด"
+   },
+   "unknownError": {
+      "message": "เกิดข้อผิดพลาดที่ไม่รู้จัก กรุณาลองใหม่อีกครั้ง"
+   },
+   "upgradeMembershipForBackgroundRecognition": {
+      "message": "อัปเกรดเป็นสมาชิก ปลั๊กอินจะจดจำคำบรรยาย AI ในเบื้องหลัง เมื่อได้รับอีเมลแจ้งเตือนแล้วกลับมาดูต่อ ปุ่มพากย์จะเปลี่ยนเป็นสีเขียว และการแปลจะแม่นยำขึ้น"
+   },
+   "uploadComplete": {
+      "message": "อัปโหลดเสร็จสิ้น"
+   },
+   "uploadFailed": {
+      "message": "อัปโหลดล้มเหลว"
+   },
+   "uploadMediaForRecognition": {
+      "message": "ไม่พบคำบรรยาย ต้องการอัปโหลดวิดีโอเพื่อรู้จำคำบรรยายด้วย AI หรือไม่?"
+   },
+   "uploading": {
+      "message": "กำลังอัปโหลด"
+   },
+   "uploadingMedia": {
+      "message": "กำลังอัปโหลดสื่อ..."
+   },
+   "userAccountAriaLabel": {
+      "message": "บัญชีผู้ใช้"
+   },
+   "userSubtitleSegmentationEnabledDescription": {
+      "message": "เมื่อเปิดใช้งาน ระบบจะแบ่งช่วงคำบรรยายที่แก้ไขหรืออัปโหลดจากเครื่องโดยอัตโนมัติ เมื่อปิดใช้งาน ระบบจะคงช่วงเดิมไว้"
+   },
+   "userSubtitleSegmentationEnabledLabel": {
+      "message": "การแบ่งช่วงคำบรรยายของผู้ใช้อย่างชาญฉลาด"
+   },
+   "videoDetectedDomainTooltip": {
+      "message": "หมวดหมู่ที่ตรวจพบสำหรับวิดีโอปัจจุบัน: {domain}"
+   },
+   "videoDrmProtected": {
+      "message": "วิดีโอนี้ได้รับการคุ้มครองด้วย DRM และไม่สามารถใช้สำหรับการพากย์เสียงได้"
+   },
+   "videoDurationExceedsLimit": {
+      "message": "วิดีโอนี้ยาวกว่า 3 ชั่วโมง ขณะนี้ไม่รองรับการพากย์เสียงสากลสำหรับวิดีโอที่ยาวกว่า 3 ชั่วโมง"
+   },
+   "vipAndBalanceRequiredText": {
+      "message": "ต้องเป็นสมาชิกและเติมเงินเพื่อใช้ฟังก์ชันนี้"
+   },
+   "vipAndBalanceRequiredTitle": {
+      "message": "ต้องมีสมาชิกและยอดเงิน"
+   },
+   "vipFreeOptionTipText": {
+      "message": "สมาชิกใช้บริการแปลต่อไปนี้ฟรี"
+   },
+   "vipRequiredText": {
+      "message": "ต้องเป็นสมาชิกเพื่อใช้ฟังก์ชันนี้"
+   },
+   "vipRequiredTitle": {
+      "message": "ต้องเป็นสมาชิก"
+   },
+   "vipTranslateEngineTipText": {
+      "message": "เปลี่ยนเป็น gemini, deepseek, gpt-3.5 หรือ claude-3"
+   },
+   "voice": {
+      "message": "เสียง"
+   },
+   "voiceSettingsMismatch": {
+      "message": "ประเภทเสียงและการตั้งค่าเสียงไม่ตรงกัน โปรดไปที่หน้าการตั้งค่าเพื่อเลือกและบันทึกการตั้งค่าเสียงอีกครั้ง"
+   },
+   "voiceTypeTipText": {
+      "message": "เปลี่ยนประเภทเสียงเป็นฟรี"
+   },
+   "voices": {
+      "message": "เสียง:"
+   },
+   "voicesAndSubtitles": {
+      "message": "เสียงและคำบรรยาย"
+   },
+   "voicesAndSubtitlesTitle": {
+      "message": "เสียงและคำบรรยาย"
+   },
+   "voicesType": {
+      "message": "ประเภทเสียง:"
+   },
+   "waitingForRecognition": {
+      "message": "อัปโหลดวิดีโอสำเร็จแล้ว การรู้จำคำบรรยายด้วย AI กำลังดำเนินการ คุณจะได้รับการแจ้งเตือนทางอีเมลเมื่อพร้อม"
+   },
+   "woman": {
+      "message": "หญิง"
+   },
+   "zoomRecordingDnrNotSupported": {
+      "message": "เบราว์เซอร์ของคุณไม่รองรับการรู้จำการอัปโหลดการบันทึก Zoom กรุณาใช้ Chrome/Edge"
+   },
+   "zoomRecordingDownloadForbidden403": {
+      "message": "การดาวน์โหลดการบันทึก Zoom ถูกห้าม (403) กรุณาเล่น/รีเฟรชหน้าเพื่อผ่านการยืนยัน แล้วลองอัปโหลดอีกครั้ง"
+   }
+}

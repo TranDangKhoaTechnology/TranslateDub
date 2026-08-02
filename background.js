@@ -9844,7 +9844,22 @@ ${a.stack}` : t, fi)
     Q(pt, "timeoutAbortSignals", new WeakSet);
     let yu = pt;
     const [ny, Z1] = Le("EdgeAzureTtsApiService", () => new yu);
-    let __translateDubAzureEndpointLease = null, __translateDubAzureEndpointPromise = null;
+    let __translateDubAzureEndpointLease = null, __translateDubAzureEndpointPromise = null,
+        __translateDubAzureQueue = Promise.resolve(), __translateDubAzureLastRequestAt = 0;
+    const __translateDubAzureAudioCache = new Map,
+        __translateDubDelay = i => new Promise(a => setTimeout(a, i)),
+        __translateDubScheduleAzure = i => {
+            const a = __translateDubAzureQueue.then(async () => {
+                const t = Math.max(0, 180 - (Date.now() - __translateDubAzureLastRequestAt));
+                t > 0 && await __translateDubDelay(t);
+                try {
+                    return await i()
+                } finally {
+                    __translateDubAzureLastRequestAt = Date.now()
+                }
+            });
+            return __translateDubAzureQueue = a.catch(() => {}), a
+        };
     const __translateDubGetAzureEndpointLease = async (service, requestId) => {
         if (__translateDubAzureEndpointLease && Date.now() < __translateDubAzureEndpointLease.expiredAt - va.TOKEN_REFRESH_BEFORE_EXPIRY_MS)
             return __translateDubAzureEndpointLease;
@@ -9854,23 +9869,41 @@ ${a.stack}` : t, fi)
             });
         return __translateDubAzureEndpointPromise
     };
-    globalThis.__DUBBING_SYNTHESIZE_AZURE_TTS__ = async ({ text, lang, voice }) => {
-        const service = Z1(), requestId = typeof crypto.randomUUID == "function" ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`,
+    globalThis.__DUBBING_SYNTHESIZE_AZURE_TTS__ = ({ text, lang, voice }) => __translateDubScheduleAzure(async () => {
+        const service = Z1(),
             resolvedVoice = globalThis.__DUBBING_RESOLVE_VOICE_CODE__ ? globalThis.__DUBBING_RESOLVE_VOICE_CODE__(voice, lang) : voice,
             voiceLocaleMatch = /^([a-z]{2,3}-[A-Z]{2})-/i.exec(resolvedVoice || ""),
             targetLocale = voiceLocaleMatch ? `${voiceLocaleMatch[1].split("-")[0].toLowerCase()}-${voiceLocaleMatch[1].split("-")[1].toUpperCase()}` : lang,
-            endpointLease = await __translateDubGetAzureEndpointLease(service, requestId),
-            outcome = await service.synthesizeOne({
-                text,
-                voice: resolvedVoice,
-                targetLocale,
-                disableGoogleFallback: true
-            }, requestId, endpointLease.ep);
-        if (outcome != null && outcome.audioBase64) return outcome;
-        if ((outcome == null ? void 0 : outcome.status) === 401 || (outcome == null ? void 0 : outcome.status) === 403)
-            __translateDubAzureEndpointLease = null;
-        throw new Error((outcome == null ? void 0 : outcome.error) || "Azure TTS returned no audio")
-    };
+            cacheKey = `${resolvedVoice || ""}\u0000${targetLocale || ""}\u0000${text || ""}`;
+        if (__translateDubAzureAudioCache.has(cacheKey)) return __translateDubAzureAudioCache.get(cacheKey);
+        let lastOutcome, lastError;
+        for (let attempt = 0; attempt < 3; attempt++) {
+            const requestId = typeof crypto.randomUUID == "function" ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`;
+            try {
+                const endpointLease = await __translateDubGetAzureEndpointLease(service, requestId),
+                    outcome = await service.synthesizeOne({
+                        text,
+                        voice: resolvedVoice,
+                        targetLocale,
+                        disableGoogleFallback: true
+                    }, requestId, endpointLease.ep);
+                lastOutcome = outcome;
+                if (outcome != null && outcome.audioBase64) {
+                    __translateDubAzureAudioCache.set(cacheKey, outcome);
+                    __translateDubAzureAudioCache.size > 300 && __translateDubAzureAudioCache.delete(__translateDubAzureAudioCache.keys().next().value);
+                    return outcome
+                }
+                if ((outcome == null ? void 0 : outcome.status) === 401 || (outcome == null ? void 0 : outcome.status) === 403)
+                    __translateDubAzureEndpointLease = null
+            } catch (error) {
+                lastError = error;
+                const status = error == null ? void 0 : error.status;
+                (status === 401 || status === 403) && (__translateDubAzureEndpointLease = null)
+            }
+            attempt < 2 && await __translateDubDelay(700 * (attempt + 1))
+        }
+        throw new Error((lastOutcome == null ? void 0 : lastOutcome.error) || (lastError == null ? void 0 : lastError.message) || "Azure TTS returned no audio")
+    });
     class iy extends ge {
         abortRequest(a) {
             for (let t of a) {
@@ -32566,7 +32599,8 @@ ${a.stack}` : t, fi)
         try {
             await i.runtime.setUninstallURL(a)
         } catch (t) {
-            console.error("\u8BBE\u7F6E\u63D2\u4EF6\u5378\u8F7D\u8C03\u67E5\u5730\u5740\u5931\u8D25:", t)
+            const r = String((t == null ? void 0 : t.message) || t || "");
+            /No SW Context|Extension context invalidated/i.test(r) || console.error("\u8BBE\u7F6E\u63D2\u4EF6\u5378\u8F7D\u8C03\u67E5\u5730\u5740\u5931\u8D25:", t)
         }
     }
     const Kl = [0, 180, 400, 800],

@@ -16630,8 +16630,19 @@ function print() { __p += __j.call(arguments, '') }
                         const s = u[n];
                         s != null && (Bf(s.newValue, s.oldValue) || r(s.newValue ?? null, s.oldValue ?? null))
                     };
-                    return e().onChanged.addListener(a), t.add(a), () => {
-                        e().onChanged.removeListener(a), t.delete(a)
+                    let u;
+                    try {
+                        if (!((globalThis.chrome == null ? void 0 : globalThis.chrome.runtime) != null && globalThis.chrome.runtime.id) && !((globalThis.browser == null ? void 0 : globalThis.browser.runtime) != null && globalThis.browser.runtime.id)) return () => {};
+                        u = e(), u.onChanged.addListener(a)
+                    } catch (s) {
+                        if (globalThis.__DUBBING_IS_INVALIDATED_CONTEXT_ERROR__ == null || !globalThis.__DUBBING_IS_INVALIDATED_CONTEXT_ERROR__(s)) throw s;
+                        return () => {}
+                    }
+                    return t.add(a), () => {
+                        try {
+                            u.onChanged.removeListener(a)
+                        } catch {}
+                        t.delete(a)
                     }
                 }, unwatch() {
                     t.forEach(n => {
@@ -66773,7 +66784,8 @@ ${t.text}`
                         })]);
                         typeof D == "string" && D.trim() && (g = D)
                     } catch (N) {
-                        console.error("get tab title occur error", N)
+                        const D = N instanceof Error ? N.message : String(N);
+                        /Extension context invalidated|Receiving end does not exist|Could not establish connection/i.test(D) ? console.debug("[TranslateDub] Tab title unavailable while the extension context is restarting") : console.warn("get tab title occur error", N)
                     }
                     const y = () => {
                             const N = t;
@@ -66785,7 +66797,11 @@ ${t.text}`
                             }) : Promise.resolve()
                         },
                         b = () => {
-                            window.pageContentRpc.sendMessage("onUrlChange").catch(N => console.error("notify metadata url change occur error", N))
+                            const N = window.pageContentRpc == null ? void 0 : window.pageContentRpc.sendMessage("onUrlChange");
+                            N != null && Promise.race([N, new Promise(D => window.setTimeout(D, 800))]).catch(D => {
+                                const T = D instanceof Error ? D.message : String(D);
+                                T === "No response" ? console.debug("[TranslateDub] URL change notification delivered without an RPC response") : console.warn("notify metadata url change occur error", D)
+                            })
                         };
                     let E = mh(window.location.href);
                     window.pageContentRpc.onMessage("onload", () => {

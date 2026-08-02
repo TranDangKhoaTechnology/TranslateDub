@@ -17,13 +17,21 @@ importScripts("bilibili-download.js");
 importScripts("bilibili-download-bg.js");
 importScripts("background.js");
 
-// Refresh already-open YouTube tabs once after an unpacked-extension update,
-// so Chrome cannot keep an obsolete content-script instance alive.
+// Refresh supported tabs once after an unpacked-extension update so Chrome
+// cannot keep obsolete page scripts or a stale local-player bundle alive.
 const currentRuntimeVersion = chrome.runtime.getManifest().version;
 chrome.storage.local.get("__translateDubRuntimeVersion").then(async (result) => {
   const previousRuntimeVersion = result.__translateDubRuntimeVersion;
   await chrome.storage.local.set({ __translateDubRuntimeVersion: currentRuntimeVersion });
   if (!previousRuntimeVersion || previousRuntimeVersion === currentRuntimeVersion) return;
-  const tabs = await chrome.tabs.query({ url: ["*://*.youtube.com/*", "*://*.youtube-nocookie.com/*"] });
-  await Promise.all(tabs.filter((tab) => Number.isInteger(tab.id)).map((tab) => chrome.tabs.reload(tab.id)));
+  const tabs = await chrome.tabs.query({});
+  const extensionOrigin = chrome.runtime.getURL("");
+  await Promise.all(tabs.filter((tab) => {
+    const url = typeof tab.url === "string" ? tab.url : "";
+    return Number.isInteger(tab.id) && (
+      url.startsWith(extensionOrigin) ||
+      /^https?:\/\/([^/]+\.)?youtube(?:-nocookie)?\.com\//i.test(url) ||
+      /^https?:\/\/([^/]+\.)?bilibili\.com\//i.test(url)
+    );
+  }).map((tab) => chrome.tabs.reload(tab.id)));
 }).catch(() => {});

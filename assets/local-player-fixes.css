@@ -3,6 +3,19 @@
   pointer-events: none !important;
 }
 
+.local-player.subtitle-manager-open.dragging::after {
+  display: none !important;
+}
+
+.subtitle-manager-modal {
+  transition: border-color 0.16s ease, box-shadow 0.16s ease;
+}
+
+.subtitle-manager-modal.drop-target-active {
+  border-color: #a78bfa !important;
+  box-shadow: 0 0 0 4px rgba(167, 139, 250, 0.2), 0 18px 50px rgba(0, 0, 0, 0.45) !important;
+}
+
 body > .swal2-container .swal2-popup {
   width: min(32rem, calc(100vw - 32px)) !important;
   padding: 0 0 1.25rem !important;

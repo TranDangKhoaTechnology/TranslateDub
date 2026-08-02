@@ -56,6 +56,13 @@ assert(
 );
 const offlineCoreSource = fs.readFileSync(path.join(root, "offline-core.js"), "utf8");
 const backgroundSource = fs.readFileSync(path.join(root, "background.js"), "utf8");
+const runtimeI18nSource = fs.readFileSync(path.join(root, "runtime-i18n.js"), "utf8");
+assert(
+  runtimeI18nSource.includes("__DUBBING_CONTEXT_REJECTION_GUARD__") &&
+    runtimeI18nSource.includes("Extension context invalidated") &&
+    runtimeI18nSource.includes("event.preventDefault()"),
+  "Obsolete extension contexts can still leak unhandled promise rejections",
+);
 assert(
   offlineCoreSource.includes("let googleTtsBlockedUntil = 0") &&
     offlineCoreSource.includes("googleTtsBlockedUntil = Date.now() + 60 * 1000"),
@@ -66,6 +73,16 @@ assert(
     backgroundSource.includes("disableGoogleFallback: true") &&
     backgroundSource.includes("voiceLocaleMatch"),
   "Background Azure TTS does not preserve voice locale or still performs a hidden Google fallback",
+);
+assert(
+  backgroundSource.includes("__translateDubScheduleAzure") &&
+    backgroundSource.includes("__translateDubAzureAudioCache") &&
+    backgroundSource.includes("for (let attempt = 0; attempt < 3; attempt++)"),
+  "Long-video Azure TTS requests are not paced, cached and retried",
+);
+assert(
+  !offlineCoreSource.includes('console.warn("[TranslateDub] Azure voice unavailable; using Google TTS fallback"'),
+  "A failed Azure batch can still fan out to rate-limited Google TTS",
 );
 assert(
   backgroundSource.includes("__DUBBING_SYNTHESIZE_AZURE_TTS__") &&
@@ -124,6 +141,15 @@ for (const file of [
   assert(source.startsWith("/* DUBBING_I18N_READY */"), `${file} has no guarded bootstrap`);
   assert(source.includes("Promise.resolve(globalThis.__DUBBING_I18N_READY__).then"), `${file} cannot start without the i18n bootstrap`);
 }
+const metadataSource = fs.readFileSync(path.join(root, "content-scripts/metadata.js"), "utf8");
+assert(
+  metadataSource.includes('T === "No response" ? console.debug("[TranslateDub] URL change notification delivered without an RPC response")'),
+  "Expected fire-and-forget URL notifications must not be reported as errors",
+);
+assert(
+  metadataSource.includes('Promise.race([N, new Promise(D => window.setTimeout(D, 800))])'),
+  "URL-change notification must not leave an unresolved RPC promise behind",
+);
 for (const page of ["popup.html", "options.html", "local-player.html"]) {
   const html = fs.readFileSync(path.join(root, page), "utf8");
   assert(html.indexOf("/runtime-i18n-data.js") >= 0, `${page} does not load locale data`);
@@ -139,6 +165,17 @@ const localPlayerBundle = fs.readFileSync(path.join(root, "chunks/local-player-C
 const realtimeDubbingBundle = fs.readFileSync(path.join(root, "chunks/RealtimeDubbingEngine-OZ9Qr4p3.js"), "utf8");
 const websiteContentBundle = fs.readFileSync(path.join(root, "content-scripts/content.js"), "utf8");
 assert(
+  localPlayerBundle.includes("function cleanImportedSubtitleText") &&
+    localPlayerBundle.includes("u.text = cleanImportedSubtitleText(u.text)") &&
+    offlineCoreSource.includes("(?:-->|→)"),
+  "Imported SRT sequence numbers and timestamps can still be displayed or spoken",
+);
+assert(
+  localPlayerBundle.includes("return gn.convertVttEntriesToSubtitles(s)") &&
+    !localPlayerBundle.includes("convertVttEntriesToSubtitles(s).filter"),
+  "The SRT/VTT parser must return the converter result object instead of calling Array.filter on it",
+);
+assert(
   realtimeDubbingBundle.includes('t.startsWith("data:")') &&
     realtimeDubbingBundle.includes('return Yr(n.replace(/\\s/g, ""))') &&
     websiteContentBundle.includes('e.startsWith("data:")') &&
@@ -150,8 +187,30 @@ assert(
   "Audio provider errors can still dump an entire base64 recording to the console",
 );
 assert(
+  websiteContentBundle.includes('if (i.closest(".custom-play-btn-container")) return;') &&
+    websiteContentBundle.includes('(e.preventDefault(), e.stopImmediatePropagation());'),
+  "The floating dubbing button can trigger twice or leak its click into the host website",
+);
+assert(
+  !websiteContentBundle.includes('text: Ue.t("aiSubtitlesRecognitionInBackground")'),
+  "Website dubbing still displays the obsolete background-recognition/email toast",
+);
+assert(
+  websiteContentBundle.includes('Backend AI subtitles are unavailable; keeping the loaded platform subtitles') &&
+    websiteContentBundle.includes('Loaded the platform subtitle track after the AI subtitle lookup returned empty') &&
+    websiteContentBundle.includes('subtitlePriority: "platform"'),
+  "An empty backend AI result can still hide an available platform subtitle track",
+);
+assert(
   realtimeDubbingBundle.includes('b(this, "retryPolicy", sr(lr, {\n            maxAttempts: 1,'),
   "Realtime dubbing can still retry a failed TTS batch for too long",
+);
+assert(
+  realtimeDubbingBundle.includes("this.setVideoPlaybackRate(e, i);\n            let s = this.clampAudio(d / Math.max(h, .1)) * i;") &&
+    realtimeDubbingBundle.includes("return t < .9 ? .9 : Math.min(t, 2.5)") &&
+    websiteContentBundle.includes("this.setVideoPlaybackRate(t, n);\n          let h = this.clampAudio(l / Math.max(s, 0.1)) * n;") &&
+    websiteContentBundle.includes("return e < 0.9 ? 0.9 : Math.min(e, 2.5);") ,
+  "Dubbing can still slow the video instead of fitting Azure speech to the subtitle window",
 );
 assert(
   fs.readFileSync(path.join(root, "content-scripts/content.js"), "utf8").includes('"retryPolicy",\n          lE(oE, {\n            maxAttempts: 1,'),
@@ -190,20 +249,54 @@ assert(
     && localPlayerBundle.includes("H.ctx.createMediaStreamDestination()")
     && localPlayerBundle.includes("H.masterGain.connect(Nn)")
     && localPlayerBundle.includes("localPlayerRecordDubbedVideo")
-    && localPlayerBundle.includes("-dubbed.webm"),
+    && localPlayerBundle.includes('Ft.download = `${mr}-dubbed.${At}`'),
   "Local-player direct dubbed-video export is missing or still captures the screen",
+);
+assert(
+  localPlayerBundle.includes("function getExportSubtitleLines")
+    && localPlayerBundle.includes("data-yd-subtitle-overlay-wrapper")
+    && localPlayerBundle.includes('we.label !== "youtube-dubbing"')
+    && localPlayerBundle.includes("const St = getExportSubtitleLines(B)"),
+  "Export still burns the original native subtitle track instead of the visible translated subtitle overlay",
+);
+assert(
+  /format:\s*\["mp3"\],[\s\S]{0,220}html5:\s*!1/.test(realtimeDubbingBundle),
+  "Translated speech still bypasses Howler.masterGain and cannot be captured by local export",
+);
+assert(
+  localPlayerBundle.includes('"video/mp4;codecs=avc1.42E01E,mp4a.40.2"')
+    && localPlayerBundle.includes("B.requestData()")
+    && localPlayerBundle.includes("document.body.appendChild(Ft)"),
+  "Export does not finalize its recording or prefer a Windows-compatible MP4 container",
 );
 assert(
   localPlayerBundle.includes("H.contains(ne) || (he.value = !1)"),
   "Local-player dragleave must ignore transitions between descendants",
 );
 assert(
-  localPlayerBundle.includes("await $c(H, z.value || void 0)"),
-  "Dropping a subtitle while its manager is open must associate it with that video",
+  localPlayerBundle.includes('onDrop: Dp(ne => cp(ne, ze.value.videoId), ["prevent", "stop"])')
+    && localPlayerBundle.includes("await $c(we, H || z.value || void 0)"),
+  "The subtitle manager must capture a dropped file and associate it with the open video",
+);
+assert(
+  localPlayerBundle.includes('B.filter(Bu)')
+    && localPlayerBundle.includes('return Qc(B.name) !== void 0')
+    && localPlayerBundle.includes('Chỉ hỗ trợ video hoặc phụ đề .srt, .vtt, .ass.'),
+  "Dropped subtitle files are not validated by case-insensitive extension with a visible error",
 );
 assert(
   /\.local-player\.dragging::after\s*\{[^}]*pointer-events:\s*none/.test(localPlayerFixesCss),
   "Local-player drop overlay must not intercept drag events",
+);
+assert(
+  /\.local-player\.subtitle-manager-open\.dragging::after\s*\{[^}]*display:\s*none/.test(localPlayerFixesCss)
+    && /\.subtitle-manager-modal\.drop-target-active\s*\{/.test(localPlayerFixesCss),
+  "The full-page drop overlay must not obscure the subtitle manager drop target",
+);
+assert(
+  fs.readFileSync(path.join(root, "background.js"), "utf8")
+    .includes('/No SW Context|Extension context invalidated/i.test(r)'),
+  "Expected service-worker shutdown must not be reported as an uninstall-URL failure",
 );
 assert(
   manifest.content_scripts.some((entry) => entry.css?.includes("content-scripts/translate-dub-overrides.css")),
@@ -281,12 +374,13 @@ function runOfflineCoreSmoke() {
       get:async()=>({settings:{translateEngine:'gpt-5.4',voicesType:'azure',toLanguage:'vi'}}),
       set:async()=>{throw new Error('community mode must not downgrade selected models')}
     }}};
-    let ttsFetchCount=0;
+    let ttsFetchCount=0,ttsQueries=[];
     global.fetch=async u=>{
       if(String(u).startsWith('https://translate.googleapis.com/'))
         return new Response(JSON.stringify([[['Xin chào']]]),{status:200,headers:{'Content-Type':'application/json'}});
       if(String(u).startsWith('https://translate.google.com/translate_tts')) {
         ttsFetchCount++;
+        ttsQueries.push(new URL(String(u)).searchParams.get('q'));
         return new Response(new Uint8Array([73,68,51,4,0,0,0,0]),{status:200,headers:{'Content-Type':'audio/mpeg'}});
       }
       throw new Error('unexpected network '+u)
@@ -303,6 +397,8 @@ function runOfflineCoreSmoke() {
       if(fallbackItem?.index!==3||fallbackItem?.translateResult!=='Xin chào'||!fallbackItem?.ttsUrl?.startsWith('data:audio/mpeg;base64,'))throw new Error('self-contained fallback TTS mismatch');
       const direct=await fetch(base+'/api/v2/dubbing/generateDubbing',{method:'POST',body:JSON.stringify({config:{toLanguage:'vi'},subtitles:[{index:5,text:'Xin chào'}]})}).then(r=>r.json());
       if(!direct.subtitleDubbingResults?.[0]?.ttsUrl?.startsWith('data:audio/mpeg;base64,'))throw new Error('direct offline dubbing response mismatch');
+      await fetch(base+'/api/v2/dubbing/fallbackTts',{method:'POST',body:JSON.stringify({dubbingRequest:{config:{toLanguage:'vi'},subtitles:[{index:8,translation:'92 00:06:27,444 --> 00:06:28,699 NÃ´i dung tháº­t'}]}})}).then(r=>r.json());
+      if(ttsQueries.at(-1)!=='NÃ´i dung tháº­t')throw new Error('SRT sequence/timestamp leaked into TTS: '+ttsQueries.at(-1));
       const fetchesBeforeLongTts=ttsFetchCount;
       await fetch(base+'/api/v2/dubbing/fallbackTts',{method:'POST',body:JSON.stringify({dubbingRequest:{config:{toLanguage:'vi'},subtitles:[{index:9,translation:'甲'.repeat(400)}]}})}).then(r=>r.json());
       if(ttsFetchCount-fetchesBeforeLongTts<3)throw new Error('long TTS text was not split into safe chunks');

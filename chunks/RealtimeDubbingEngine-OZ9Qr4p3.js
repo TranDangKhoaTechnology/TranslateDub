@@ -175,6 +175,7 @@ class St {
         this.mediaDurationCalculator = t
     }
     isPlaybackSpeedChangedByUser(t) {
+        if (this.isRecentlyAppliedVideoPlaybackRate(t)) return !1;
         const e = t.playbackRate.toString();
         return t.playbackRate === 1 || e.length <= 4
     }
@@ -195,10 +196,10 @@ class St {
         return e === t && e.toString().length <= 4 ? e + .001 : e
     }
     checkVideoRate(t) {
-        return t >= 1.999 ? 1.999 : t <= .75 ? .751 : t + .001
+        return Number.isFinite(t) && t > 0 ? t : 1
     }
     clampAudio(t) {
-        return t < .9 ? .9 : Math.min(t, 1.5)
+        return t < .9 ? .9 : Math.min(t, 2.5)
     }
 }
 class wt extends St {
@@ -211,11 +212,8 @@ class wt extends St {
             c = o[1];
         let [h, d] = this.mediaDurationCalculator.getMediaPlaybackDuration(l, c, e, n);
         if (h < d) {
-            let _ = (d - h) / 2,
-                r = h / (h + _),
-                a = d / (d - _);
-            this.setVideoPlaybackRate(e, this.clampVideo(r) * i);
-            let s = this.clampAudio(a) * i;
+            this.setVideoPlaybackRate(e, i);
+            let s = this.clampAudio(d / Math.max(h, .1)) * i;
             c == null || c.rate(s)
         } else this.setVideoPlaybackRate(e, i), c == null || c.rate(i)
     }
@@ -250,42 +248,12 @@ class At extends St {
             this.setVideoPlaybackRate(e, i);
             return
         }
-        const h = new Map;
-        for (const [f, g] of t.entries()) {
-            const p = f.end - f.dur,
-                m = Math.max(p, o),
-                y = f.end;
-            h.set(f, {
-                start: m,
-                end: y
-            })
-        }
-        let d = 0,
-            _ = 0;
+        this.setVideoPlaybackRate(e, i);
         for (const f of l) {
             const {
                 videoDur: g,
                 audioDur: p
-            } = c.get(f.sub), m = 2 * g / (g + p);
-            let y = 0;
-            for (const [w, k] of t.entries()) {
-                if (w === f.sub) continue;
-                const x = h.get(f.sub),
-                    B = h.get(w),
-                    L = Math.max(0, Math.min(x.end, B.end) - Math.max(x.start, B.start));
-                y += L
-            }
-            const v = g + y;
-            d += m * v, _ += v
-        }
-        const r = d / _,
-            a = this.clampVideo(r) * i;
-        this.setVideoPlaybackRate(e, a);
-        for (const f of l) {
-            const {
-                videoDur: g,
-                audioDur: p
-            } = c.get(f.sub), m = p * r / g;
+            } = c.get(f.sub), m = p / Math.max(g, .1);
             (s = f.audio) == null || s.rate(this.clampAudio(m) * i)
         }
     }
@@ -3606,7 +3574,9 @@ class Xi {
         this.audio = new Et.Howl({
             src: [t],
             format: ["mp3"],
-            html5: !0
+            // Web Audio is required so local-player export can route the
+            // translated voice through Howler.masterGain into MediaRecorder.
+            html5: !1
         }), this.audio.once("loaderror", (i, n) => {
             e.onLoadError(n)
         }), this.audio.once("playerror", (i, n) => {

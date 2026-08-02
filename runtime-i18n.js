@@ -9,6 +9,24 @@
   ) return;
   global.__DUBBING_RUNTIME_I18N__ = true;
 
+  // Reloading an unpacked MV3 extension invalidates the old isolated worlds
+  // before Chrome finishes refreshing their tabs. Promises that were already
+  // queued must stop quietly; they are not application failures and cannot
+  // recover inside the obsolete context.
+  const isInvalidatedContextError = (reason) => {
+    const message = String(reason?.message || reason || "");
+    return /Extension context invalidated|Receiving end does not exist|Could not establish connection|This script should only be loaded in a browser extension/i.test(message);
+  };
+  global.__DUBBING_IS_INVALIDATED_CONTEXT_ERROR__ = isInvalidatedContextError;
+  if (global.window === global && !global.__DUBBING_CONTEXT_REJECTION_GUARD__) {
+    global.__DUBBING_CONTEXT_REJECTION_GUARD__ = true;
+    global.addEventListener("unhandledrejection", (event) => {
+      if (!isInvalidatedContextError(event.reason)) return;
+      event.preventDefault();
+      console.debug("[TranslateDub] Stopped work from an obsolete extension context");
+    });
+  }
+
   const dictionaries = global.__DUBBING_LOCALE_MESSAGES__ || { en: {}, vi: {} };
   const chromeApi = global.chrome || global.browser;
   const nativeGetMessage = chromeApi?.i18n?.getMessage?.bind(chromeApi.i18n);

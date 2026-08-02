@@ -982,8 +982,19 @@ Promise.resolve(globalThis.__DUBBING_I18N_READY__).then(() => {
                         const s = u[n];
                         s != null && (mf(s.newValue, s.oldValue) || r(s.newValue ?? null, s.oldValue ?? null))
                     };
-                    return e().onChanged.addListener(a), t.add(a), () => {
-                        e().onChanged.removeListener(a), t.delete(a)
+                    let u;
+                    try {
+                        if (!((globalThis.chrome == null ? void 0 : globalThis.chrome.runtime) != null && globalThis.chrome.runtime.id) && !((globalThis.browser == null ? void 0 : globalThis.browser.runtime) != null && globalThis.browser.runtime.id)) return () => {};
+                        u = e(), u.onChanged.addListener(a)
+                    } catch (s) {
+                        if (globalThis.__DUBBING_IS_INVALIDATED_CONTEXT_ERROR__ == null || !globalThis.__DUBBING_IS_INVALIDATED_CONTEXT_ERROR__(s)) throw s;
+                        return () => {}
+                    }
+                    return t.add(a), () => {
+                        try {
+                            u.onChanged.removeListener(a)
+                        } catch {}
+                        t.delete(a)
                     }
                 }, unwatch() {
                     t.forEach(n => {

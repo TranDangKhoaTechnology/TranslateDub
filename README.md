@@ -60,6 +60,7 @@ TranslateDub là một extension trình duyệt (Manifest V3) cho phép bạn **
 | **Sidebar / Subtitle Editor** | Bảng điều khiển bên phải để chỉnh phụ đề, xem trạng thái, chỉnh sửa. |
 | **Nhận dạng giọng nói (ASR)** | Với các website hỗ trợ AI subtitle (ví dụ Bilibili), lấy phụ đề ASR tự động. |
 | **Nhận dạng tiếng nói bằng mic** | Video không có phụ đề → nhận dạng tiếng nói trực tiếp bằng Web Speech API (mic thu âm thanh từ loa), tạo phụ đề rồi dịch + lồng tiếng. |
+| **Tải video Bilibili** | Khi ở trang video Bilibili, popup hiện nút "Lấy link tải" — gọi trực tiếp API Bilibili để lấy URL media CDN rồi tải video xuống (không dùng bên thứ ba, không cần đăng nhập). |
 | **Điều khiển âm thanh** | Giảm/tắt âm lượng gốc khi lồng tiếng, audio ducking, trộn nhạc nền. |
 | **Hỗ trợ đa nền tảng** | Hoạt động trên hàng chục website video phổ biến (xem mục 3). |
 | **Playback Rate** | Đồng bộ tốc độ đọc theo tốc độ phát video. |

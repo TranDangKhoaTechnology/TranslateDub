@@ -1,0 +1,111 @@
+/* Local-player-only fixes. Keep these rules out of normal websites. */
+.local-player.dragging::after {
+  pointer-events: none !important;
+}
+
+body > .swal2-container .swal2-popup {
+  width: min(32rem, calc(100vw - 32px)) !important;
+  padding: 0 0 1.25rem !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 14px !important;
+  background: #1b1c25 !important;
+  color: #f4f4f5 !important;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.55) !important;
+}
+
+body > .swal2-container .swal2-title,
+body > .swal2-container .swal2-html-container,
+body > .swal2-container .swal2-input-label {
+  color: #f4f4f5 !important;
+}
+
+body > .swal2-container .swal2-select,
+body > .swal2-container .swal2-input,
+body > .swal2-container .swal2-textarea {
+  box-sizing: border-box !important;
+  width: calc(100% - 3.2rem) !important;
+  min-width: 0 !important;
+  height: 42px !important;
+  margin: 1rem 1.6rem 3px !important;
+  border: 1px solid rgba(167, 139, 250, 0.45) !important;
+  border-radius: 8px !important;
+  background: #20212b !important;
+  color: #f4f4f5 !important;
+  padding: 0 12px !important;
+}
+
+body > .swal2-container .swal2-actions {
+  margin-top: 1rem !important;
+}
+
+body > .swal2-container .swal2-confirm {
+  border-radius: 8px !important;
+  background: linear-gradient(135deg, #6408f6, #9554f3) !important;
+  color: #fff !important;
+}
+
+.local-dubbing-settings {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(180px, 1fr));
+  gap: 12px 18px;
+  margin-top: 14px;
+  padding: 16px;
+  border: 1px solid rgba(167, 139, 250, 0.28);
+  border-radius: 14px;
+  background: rgba(20, 17, 34, 0.92);
+  color: #f4f4f5;
+}
+
+.local-dubbing-settings-title {
+  grid-column: 1 / -1;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.local-setting-toggle,
+.local-setting-range {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 34px;
+  font-size: 14px;
+}
+
+.local-setting-range {
+  align-items: stretch;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.local-setting-range input {
+  width: 100%;
+  accent-color: #9333ea;
+}
+
+.local-setting-toggle input {
+  width: 18px;
+  height: 18px;
+  accent-color: #9333ea;
+}
+
+.local-record-button {
+  grid-column: 1 / -1;
+  min-height: 42px;
+  border: 1px solid #7c3aed;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #7c3aed, #9333ea);
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.local-record-button.recording {
+  border-color: #ef4444;
+  background: #b91c1c;
+}
+
+@media (max-width: 760px) {
+  .local-dubbing-settings {
+    grid-template-columns: 1fr;
+  }
+}

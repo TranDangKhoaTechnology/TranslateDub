@@ -13,6 +13,8 @@ if (typeof globalThis.__DUBBING_I18N_GET_UI_LANGUAGE__ !== "function") {
 }
 
 importScripts("offline-core.js");
+importScripts("bilibili-download.js");
+importScripts("bilibili-download-bg.js");
 importScripts("background.js");
 
 // Refresh already-open YouTube tabs once after an unpacked-extension update,

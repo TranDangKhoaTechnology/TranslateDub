@@ -8663,10 +8663,7 @@ function print() { __p += __j.call(arguments, '') }
     const [Pf, B1] = Le("SubtitleApiService", () => new Df);
     class xf extends ge {
         async getMember() {
-            return {
-                exists: !1,
-                balance: 0
-            }
+            return globalThis.__DUBBING_GET_COMMUNITY_MEMBER__()
         }
         async getPopupInfo() {
             return this.getMember()
@@ -9793,6 +9790,7 @@ ${a.stack}` : t, fi)
                     }
                 }
             } catch (err) {
+                if (a.disableGoogleFallback) throw err;
                 console.warn("[TranslateDub] Background Azure TTS failed, falling back to Google TTS:", err);
             }
             if (globalThis.__DUBBING_GOOGLE_TTS_FALLBACK__) {
@@ -9846,6 +9844,33 @@ ${a.stack}` : t, fi)
     Q(pt, "timeoutAbortSignals", new WeakSet);
     let yu = pt;
     const [ny, Z1] = Le("EdgeAzureTtsApiService", () => new yu);
+    let __translateDubAzureEndpointLease = null, __translateDubAzureEndpointPromise = null;
+    const __translateDubGetAzureEndpointLease = async (service, requestId) => {
+        if (__translateDubAzureEndpointLease && Date.now() < __translateDubAzureEndpointLease.expiredAt - va.TOKEN_REFRESH_BEFORE_EXPIRY_MS)
+            return __translateDubAzureEndpointLease;
+        if (!__translateDubAzureEndpointPromise)
+            __translateDubAzureEndpointPromise = service.getEndpointToken(requestId).then(lease => (__translateDubAzureEndpointLease = lease)).finally(() => {
+                __translateDubAzureEndpointPromise = null
+            });
+        return __translateDubAzureEndpointPromise
+    };
+    globalThis.__DUBBING_SYNTHESIZE_AZURE_TTS__ = async ({ text, lang, voice }) => {
+        const service = Z1(), requestId = typeof crypto.randomUUID == "function" ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`,
+            resolvedVoice = globalThis.__DUBBING_RESOLVE_VOICE_CODE__ ? globalThis.__DUBBING_RESOLVE_VOICE_CODE__(voice, lang) : voice,
+            voiceLocaleMatch = /^([a-z]{2,3}-[A-Z]{2})-/i.exec(resolvedVoice || ""),
+            targetLocale = voiceLocaleMatch ? `${voiceLocaleMatch[1].split("-")[0].toLowerCase()}-${voiceLocaleMatch[1].split("-")[1].toUpperCase()}` : lang,
+            endpointLease = await __translateDubGetAzureEndpointLease(service, requestId),
+            outcome = await service.synthesizeOne({
+                text,
+                voice: resolvedVoice,
+                targetLocale,
+                disableGoogleFallback: true
+            }, requestId, endpointLease.ep);
+        if (outcome != null && outcome.audioBase64) return outcome;
+        if ((outcome == null ? void 0 : outcome.status) === 401 || (outcome == null ? void 0 : outcome.status) === 403)
+            __translateDubAzureEndpointLease = null;
+        throw new Error((outcome == null ? void 0 : outcome.error) || "Azure TTS returned no audio")
+    };
     class iy extends ge {
         abortRequest(a) {
             for (let t of a) {

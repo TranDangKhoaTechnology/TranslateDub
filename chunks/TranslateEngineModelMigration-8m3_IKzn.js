@@ -20,10 +20,7 @@ const Re = (Ae = (Ee = globalThis.browser) == null ? void 0 : Ee.runtime) != nul
     De = Re;
 class Be extends Pe {
     async getMember() {
-        return {
-            exists: !1,
-            balance: 0
-        }
+        return globalThis.__DUBBING_GET_COMMUNITY_MEMBER__()
     }
     async getPopupInfo() {
         return this.getMember()

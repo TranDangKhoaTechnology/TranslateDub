@@ -1,0 +1,35 @@
+/* Styles for TranslateDub-owned overlays only. Never target host-page controls. */
+.youtube-dubbing-swal-container .swal2-popup {
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 14px !important;
+  background: #1b1c25 !important;
+  color: #f4f4f5 !important;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.55) !important;
+}
+
+.youtube-dubbing-swal-container .swal2-title,
+.youtube-dubbing-swal-container .swal2-html-container,
+.youtube-dubbing-swal-container .swal2-input-label {
+  color: #f4f4f5 !important;
+}
+
+.youtube-dubbing-swal-container .swal2-select,
+.youtube-dubbing-swal-container .swal2-input,
+.youtube-dubbing-swal-container .swal2-textarea {
+  box-sizing: border-box !important;
+  width: calc(100% - 3.2rem) !important;
+  min-width: 0 !important;
+  height: 42px !important;
+  margin: 1rem 1.6rem 3px !important;
+  border: 1px solid rgba(167, 139, 250, 0.45) !important;
+  border-radius: 8px !important;
+  background: #20212b !important;
+  color: #f4f4f5 !important;
+  padding: 0 12px !important;
+}
+
+.youtube-dubbing-swal-container .swal2-confirm {
+  border-radius: 8px !important;
+  background: linear-gradient(135deg, #6408f6, #9554f3) !important;
+  color: #fff !important;
+}

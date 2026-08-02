@@ -21002,10 +21002,7 @@ function print() { __p += __j.call(arguments, '') }
         }
         class v8 extends Jn {
             async getMember() {
-                return {
-                    exists: !1,
-                    balance: 0
-                }
+                return globalThis.__DUBBING_GET_COMMUNITY_MEMBER__()
             }
             async getPopupInfo() {
                 return this.getMember()

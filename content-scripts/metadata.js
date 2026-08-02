@@ -29056,10 +29056,7 @@ function print() { __p += __j.call(arguments, '') }
         }), L(er, "abortControllerMap", new Map);
         class FM extends er {
             async getMember() {
-                return {
-                    exists: !1,
-                    balance: 0
-                }
+                return globalThis.__DUBBING_GET_COMMUNITY_MEMBER__()
             }
             async getPopupInfo() {
                 return this.getMember()

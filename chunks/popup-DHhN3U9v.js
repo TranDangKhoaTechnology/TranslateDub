@@ -2978,26 +2978,26 @@ const so = {
                     }],
                     V = [{
                         value: "gemini-3.1-flash-lite-preview",
-                        text: `gemini-3.1-flash-lite-preview (${n.value})`
+                        text: "gemini-3.1-flash-lite-preview"
                     }, {
                         value: "deepseek-v4-flash",
-                        text: `deepseek-v4-flash (${n.value})`
+                        text: "deepseek-v4-flash"
                     }, {
                         value: "gpt-5.4-mini",
-                        text: `gpt-5.4-mini (${n.value})`
+                        text: "gpt-5.4-mini"
                     }, {
                         value: "claude-haiku-4-5-20251001",
-                        text: `claude-haiku-4-5 (${n.value})`
+                        text: "claude-haiku-4-5"
                     }],
                     D = [{
                         value: "gpt-5.4",
-                        text: `gpt-5.4 (${E.value}) (${g.value})`
+                        text: "gpt-5.4"
                     }, {
                         value: "claude-opus-4-7",
-                        text: `claude-opus-4.7 (${E.value}) (${g.value})`
+                        text: "claude-opus-4.7"
                     }, {
                         value: "claude-sonnet-4-6",
-                        text: `claude-sonnet-4.6 (${E.value})`
+                        text: "claude-sonnet-4.6"
                     }];
                 if (me.isIos()) {
                     const x = [...w];
@@ -3241,8 +3241,7 @@ const Ro = {
                         console.error("获取用户信息失败", b)
                     }
                     return {
-                        exists: !1,
-                        balance: 0
+                        ...globalThis.__DUBBING_GET_COMMUNITY_MEMBER__()
                     }
                 }, ut = async () => {
                     const b = await st();

@@ -58087,13 +58087,14 @@ ${JSON.stringify(t,null,4)}`);
             t.style.display = "none", document.documentElement.appendChild(t);
             const e = t.contentWindow;
             if (!e || !e.fetch) throw document.documentElement.removeChild(t), new Error("Failed to get clean fetch from iframe");
-            return this.cleanFetch = e.fetch.bind(window), document.documentElement.removeChild(t), this.cleanFetch
+            return this.cleanFetchFrame = t, this.cleanFetch = e.fetch.bind(e), this.cleanFetch
         }
         static reset() {
-            this.cleanFetch = null
+            var t;
+            this.cleanFetch = null, (t = this.cleanFetchFrame) == null || t.remove(), this.cleanFetchFrame = null
         }
     }
-    O(Jt, "cleanFetch", null);
+    O(Jt, "cleanFetch", null), O(Jt, "cleanFetchFrame", null);
     class Wu {
         static getRuntimeApi() {
             var t, e;
@@ -59499,20 +59500,24 @@ ${o}`)
         }
         async transformMetadata(t, e) {
             if (t.subtitleMetadata === void 0) return _e(t);
-            if (e.subtitleFormat === "m3u8") {
-                const i = await this.m3u8ParserService.parserSubtitle(t.subtitleMetadata.url, t.subtitleMetadata.language, e);
-                i && (t.originSubtitles = i.originSubtitles, t.subtitles = i.subtitles, t.subtitleMetadata.hasPunctuation = i.hasPunctuation, nn(t, {
-                    hasPunctuation: i.hasPunctuation
-                }))
-            } else {
-                const r = await Jt.getCleanFetch()(t.subtitleMetadata.url);
-                if (r.ok) {
-                    const s = await r.text(),
-                        a = await this.parseSubtitle(s, e);
-                    t.originSubtitles = a.originSubtitles, t.subtitles = a.subtitles, t.subtitleMetadata.hasPunctuation = a.hasPunctuation, nn(t, {
-                        hasPunctuation: a.hasPunctuation
-                    })
+            try {
+                if (e.subtitleFormat === "m3u8") {
+                    const i = await this.m3u8ParserService.parserSubtitle(t.subtitleMetadata.url, t.subtitleMetadata.language, e);
+                    i && (t.originSubtitles = i.originSubtitles, t.subtitles = i.subtitles, t.subtitleMetadata.hasPunctuation = i.hasPunctuation, nn(t, {
+                        hasPunctuation: i.hasPunctuation
+                    }))
+                } else {
+                    const r = await Jt.getCleanFetch()(t.subtitleMetadata.url);
+                    if (r.ok) {
+                        const s = await r.text(),
+                            a = await this.parseSubtitle(s, e);
+                        t.originSubtitles = a.originSubtitles, t.subtitles = a.subtitles, t.subtitleMetadata.hasPunctuation = a.hasPunctuation, nn(t, {
+                            hasPunctuation: a.hasPunctuation
+                        })
+                    }
                 }
+            } catch (i) {
+                console.warn("[MediaMetadataService] subtitle preload failed; preserving metadata", t.subtitleMetadata.url, i), Jt.reset()
             }
             return _e(t)
         }

@@ -70,7 +70,7 @@
   function isExtensionSurface(element) {
     if (global.location?.protocol === "chrome-extension:" || global.location?.protocol === "moz-extension:") return true;
     return Boolean(element?.closest?.(
-      ".yd-sidebar-panel,.swal2-container,.toastify,.youtube-dubbing-container,[class*='youtube-dubbing']",
+      ".yd-sidebar-panel,.youtube-dubbing-swal-container,.youtube-dubbing-toast,.youtube-dubbing-container,[class*='youtube-dubbing']",
     ));
   }
 

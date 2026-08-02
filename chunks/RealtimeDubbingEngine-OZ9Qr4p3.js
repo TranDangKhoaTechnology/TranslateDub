@@ -1541,7 +1541,8 @@ class Br {
     async fetchAudioBuffers(t, e) {
         return (await Promise.allSettled(t.map(n => this.fetchMp3(n, e)))).map((n, o) => {
             if (n.status === "fulfilled") return n.value;
-            console.error(`[BackendDubbingProvider] Error fetching audio buffer for ${t[o]}:`, n.reason)
+            const l = t[o], c = typeof l == "string" && l.startsWith("data:") ? `${l.slice(0,48)}… (${l.length} chars)` : l;
+            console.error(`[BackendDubbingProvider] Error fetching audio buffer for ${c}:`, n.reason)
         })
     }
     async fetchMp3(t, e) {
@@ -1550,6 +1551,13 @@ class Br {
         let o = this.fetchAbortControllers.get(e);
         o || (o = new Map, this.fetchAbortControllers.set(e, o)), o.set(i, n);
         try {
+            if (typeof t == "string" && t.startsWith("data:")) {
+                const e = t.indexOf(",");
+                if (e < 0) throw new Error("Invalid audio data URL");
+                const i = t.slice(0, e), n = t.slice(e + 1);
+                if (i.includes(";base64")) return Yr(n.replace(/\s/g, ""));
+                return new TextEncoder().encode(decodeURIComponent(n)).buffer
+            }
             const l = await mt(t), c = await fetch(l, {
                 signal: n.signal
             });
@@ -2590,7 +2598,7 @@ class Pi {
         b(this, "pronunciationRules");
         b(this, "subtitleLanguageDecisionService", new gt);
         b(this, "retryPolicy", sr(lr, {
-            maxAttempts: 10,
+            maxAttempts: 1,
             backoff: new vr((t, e) => {
                 if (!this.contentProcessingPipeline.isRunning) throw new Error("stop");
                 if ("error" in t.result && t.result.error instanceof H || "error" in t.result && t.result.error === e) throw t.result.error;

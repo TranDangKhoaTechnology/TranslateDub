@@ -22,7 +22,7 @@
       "world": "MAIN"
    }, {
       "all_frames": true,
-      "css": [ "content-scripts/content.css" ],
+      "css": [ "content-scripts/content.css", "content-scripts/translate-dub-overrides.css" ],
       "exclude_globs": [ "*://*.translate.goog/*", "*://*.translate.google.*/*", "*://*.translate.googleusercontent.com/*", "*://translate.goog/*", "*://translate.google.*/*", "*://translate.googleusercontent.com/*" ],
       "exclude_matches": [ "*://*.chatgpt.com/*", "*://*.google.com/*", "*://*.linux.do/*", "*://*.translate.goog/*", "*://*/*.avif", "*://*/*.bmp", "*://*/*.gif", "*://*/*.ico", "*://*/*.jpeg", "*://*/*.jpg", "*://*/*.png", "*://*/*.svg", "*://*/*.tif", "*://*/*.tiff", "*://*/*.webp", "*://*/*.xml", "*://*/*.yaml", "*://*/*.yml", "*://chatgpt.com/*", "*://discord.com/*", "*://java2ai.com/docs/*", "*://linux.do/*", "*://repository.modelio.org/*", "*://translate.goog/*", "*://translate.google.com/*", "*://translate.googleusercontent.com/*" ],
       "js": [ "runtime-i18n-data.js", "runtime-i18n.js", "offline-core.js", "content-scripts/content.js" ],
@@ -62,7 +62,7 @@
       "open_in_tab": true,
       "page": "options.html"
    },
-   "permissions": [ "storage", "contextMenus", "activeTab", "webRequest", "webNavigation", "declarativeNetRequest" ],
+   "permissions": [ "storage", "contextMenus", "activeTab", "webRequest", "webNavigation", "declarativeNetRequest", "downloads" ],
    "version": "4.2.5",
    "web_accessible_resources": [ {
       "matches": [ "*://*/*" ],

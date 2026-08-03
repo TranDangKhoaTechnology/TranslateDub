@@ -249,25 +249,32 @@ assert(
     && localPlayerBundle.includes("H.ctx.createMediaStreamDestination()")
     && localPlayerBundle.includes("H.masterGain.connect(Nn)")
     && localPlayerBundle.includes("localPlayerRecordDubbedVideo")
-    && localPlayerBundle.includes('Ft.download = `${mr}-dubbed.${At}`'),
+    && localPlayerBundle.includes('Ft.download = `${mr}-dubbed.webm`'),
   "Local-player direct dubbed-video export is missing or still captures the screen",
 );
 assert(
-  localPlayerBundle.includes("function getExportSubtitleLines")
+  localPlayerBundle.includes("function getExportSubtitlePresentation")
     && localPlayerBundle.includes("data-yd-subtitle-overlay-wrapper")
     && localPlayerBundle.includes('we.label !== "youtube-dubbing"')
-    && localPlayerBundle.includes("const St = getExportSubtitleLines(B)"),
+    && localPlayerBundle.includes("const St = getExportSubtitlePresentation(B)")
+    && localPlayerBundle.includes("getComputedStyle(nr)")
+    && localPlayerBundle.includes("drawExportSubtitleBackground"),
   "Export still burns the original native subtitle track instead of the visible translated subtitle overlay",
 );
 assert(
-  /format:\s*\["mp3"\],[\s\S]{0,220}html5:\s*!1/.test(realtimeDubbingBundle),
-  "Translated speech still bypasses Howler.masterGain and cannot be captured by local export",
+  /format:\s*\["mp3"\],[\s\S]{0,300}html5:\s*!0/.test(realtimeDubbingBundle)
+    && realtimeDubbingBundle.includes("e.preservesPitch = !0")
+    && realtimeDubbingBundle.includes("i.ctx.createMediaElementSource(e)")
+    && realtimeDubbingBundle.includes("n.connect(i.masterGain)"),
+  "Translated speech must preserve pitch while still being routed through the export mixer",
 );
 assert(
-  localPlayerBundle.includes('"video/mp4;codecs=avc1.42E01E,mp4a.40.2"')
+  !localPlayerBundle.includes('"video/mp4;codecs=avc1.42E01E,mp4a.40.2"')
+    && localPlayerBundle.includes('"video/webm;codecs=vp8,opus"')
     && localPlayerBundle.includes("B.requestData()")
-    && localPlayerBundle.includes("document.body.appendChild(Ft)"),
-  "Export does not finalize its recording or prefer a Windows-compatible MP4 container",
+    && localPlayerBundle.includes("document.body.appendChild(Ft)")
+    && localPlayerBundle.includes("B.currentTime = 0"),
+  "Export does not reset to the beginning, finalize all chunks, or avoid fragmented MP4 output",
 );
 assert(
   localPlayerBundle.includes("H.contains(ne) || (he.value = !1)"),

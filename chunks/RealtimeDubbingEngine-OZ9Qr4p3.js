@@ -3574,21 +3574,40 @@ class Xi {
         this.audio = new Et.Howl({
             src: [t],
             format: ["mp3"],
-            // Web Audio is required so local-player export can route the
-            // translated voice through Howler.masterGain into MediaRecorder.
-            html5: !1
+            // HTML media playback preserves vocal pitch when the rate changes.
+            // The element is explicitly routed through masterGain below so
+            // local-player export can still capture the translated voice.
+            html5: !0
         }), this.audio.once("loaderror", (i, n) => {
             e.onLoadError(n)
         }), this.audio.once("playerror", (i, n) => {
             e.onPlayError(n)
         }), this.audio.once("play", () => {
-            e.onReady()
+            this.configurePitchPreservingNode(), e.onReady()
         }), this.audio.once("end", () => {
             e.onEnd()
         })
     }
+    configurePitchPreservingNode() {
+        var t;
+        if (this.audioId === void 0) return;
+        const e = (t = this.audio._soundById(this.audioId)) == null ? void 0 : t._node;
+        if (!(e instanceof HTMLMediaElement)) return;
+        e.preservesPitch = !0, "webkitPreservesPitch" in e && (e.webkitPreservesPitch = !0), "mozPreservesPitch" in e && (e.mozPreservesPitch = !0);
+        const i = Et.Howler;
+        if (!i || !i.ctx || !i.masterGain || e.__translatedubMediaSource) return;
+        try {
+            const n = i.ctx.createMediaElementSource(e);
+            n.connect(i.masterGain), Object.defineProperty(e, "__translatedubMediaSource", {
+                value: n,
+                configurable: !0
+            })
+        } catch (n) {
+            console.warn("[TranslateDub] Could not route pitch-preserving speech into the export mixer", n)
+        }
+    }
     play() {
-        this.audioId = this.audio.play()
+        this.audioId = this.audio.play(), this.configurePitchPreservingNode()
     }
     resume() {
         if (this.audioId !== void 0) {
@@ -3616,7 +3635,7 @@ class Xi {
         return this.audioId === void 0 ? 0 : this.audio.duration(this.audioId) ?? 0
     }
     rate(t) {
-        return this.audioId === void 0 ? t ?? 1 : (t !== void 0 && this.audio.rate(t, this.audioId), this.audio.rate(this.audioId))
+        return this.audioId === void 0 ? t ?? 1 : (this.configurePitchPreservingNode(), t !== void 0 && this.audio.rate(t, this.audioId), this.audio.rate(this.audioId))
     }
     volume(t) {
         this.audio.volume(t)
